@@ -5,7 +5,7 @@ Here's a short, non-legally-binding summary of what that means: You can do whate
 you must retain the license and copyright notice at the bottom of each template.
 
 Again, and in other words: The copyright notice (this one:
-[templates/copyright-notice.md][templates/copyright_notice.md]) must be shown at the bottom of each template.
+[templates/copyright-notice.md](templates/copyright_notice.md)) must be shown at the bottom of each template.
 
 The full wording of the license is below.
 
