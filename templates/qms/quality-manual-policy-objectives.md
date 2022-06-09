@@ -102,6 +102,14 @@ The Quality Management Officer (QMO) is responsible to:
 
 > See ISO 13485, para. 5.1, para. 5.5.2
 
+Person Responsible for Regulatory Compliance (PRRC)
+Responsibilities of the PRRC are in accordance with Art. 15 MDR as follows:
+* Ensure (review / release) the conformity of the devices is appropriately checked in accordance with the QMS before a device is released (also see Art. 10 Para. 9 MDR)
+* Ensure (review / release) that the technical documentation and the EU declaration of conformity are drawn up and kept up-to-date for all medical devices (also see Art. 10 Para. 4 and Art. 6 MDR)
+* Ensure (review / release) that obligations for post-market surveillance are complied with in accordance with Art. 10 Para. 10 MDR
+* Ensure (review / release) that the reporting obligations of Articles 87 to 91 MDR are fulfilled (FSCA / incidents, also see Art. 10 Para. 13 MDR)
+
+
 ## 4. Processes
 
 > List all your SOPs here. This list is currently incomplete as many SOPs are company-specific. You will have
