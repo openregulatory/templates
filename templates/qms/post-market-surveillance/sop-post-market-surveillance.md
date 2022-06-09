@@ -1,0 +1,116 @@
+# SOP Post-Market Surveillance
+
+## Summary
+
+This SOP describes how Post-Market Surveillance is performed for products. It ensures that new information
+about safety and performance is proactively collected and can be used as input for the risk management,
+clinical evaluation and software development of our products.
+
+## General Considerations
+
+This process is followed for each product separately, meaning that for each product, a Post-Market
+Surveillance Plan and Report are created and continuously updated.
+
+> Note: For class I devices, you could specify a longer update interval, e.g. once every two years.
+> Note: Feel free to assign the responsibility to any other role. It typically makes sense to choose a role
+> that is both close to product development as well as clinical issues.
+
+| Responsibility  | Document Update Interval |
+|-----------------|--------------------------|
+| Product Manager | Once per year            |
+
+> Please also note that according to the Transitional Provisions of Art. 120 MDR, you are required to comply
+> with MDR requirements regarding post-market surveillance (Art. 83 ff.) starting May 2021 even if your
+> product runs on a valid MDD certificate. This basically means to use the new format of a ‘Period Safety
+> Update Report’ (PSUR).
+
+## Process Steps
+
+### 1. Create Post-Market Surveillance Plan
+
+Based on the clinical evaluation and technical documentation, a new Post-Market Surveillance Plan is created
+for a product.
+
+| Participants    |
+|-----------------|
+| QMO             |
+| Product Manager |
+
+| Input                  | Output                        |
+|------------------------|-------------------------------|
+| Device Description     | Post-Market Surveillance Plan |
+| Clinical Evaluation    |                               |
+| Risk Management Report |                               |
+
+### 2. Conduct Post-Market Surveillance
+
+The Post-Market Surveillance is carried out as described in the Post-Market Surveillance Plan in the defined
+interval.
+
+Ideally, the responsible person continuously collects information on all the categories described below and
+enters them into our report template.
+
+At minimum, the following information categories have to be taken into consideration:
+
+ * **Clinical evaluations and PMCF activities:**: Input from our Post-Market Clinical Follow-Up activities.
+ * **New research and development in the market:** Information regarding similar medical devices and
+   technologies on the market.
+ * **Input from recalls and reportable events:** Recalls, incidents and unintended side effects reported by
+   competitors, similar products and procedures or reported for other devices of our company (e.g. check BfArM
+   / FDA databases as further specified in the post-market surveillance plan).
+ * **New or updated norms and standards, directives, regulation and other laws:** Verification if the list of
+   applicable regulations is up to date.
+ * **SOUP:** Verification if SOUP list is up to date.
+ * **Complaints directly reported by customers:** Information gathered through customer feedback and
+   complaints.
+ * **Other feedback** collected or reported by sales or marketing staff, distributors, or other stakeholders.
+
+For each part of information, it is assessed whether it is applicable to the company's product. Additionally,
+its severity is rated on the following scale:
+
+ * **Severe:** Serious injury or death
+ * **Moderate:** Non-serious injury
+ * **Marginal:** Everything else, less than moderate
+
+Depending on the applicability, severity and observed trends of the new information, appropriate actions are
+initiated. The QMO and the Person Responsible for Regulatory Compliance (PRRC) must be consulted in this step, other roles (e.g. medical
+staff) should be involved if needed.
+
+Actions may entail:
+
+ * **Updating the product risk management file**, for example, by adding new risks according to our risk
+   management process, updating occurrence / severity assumptions made for risks we already documented or
+   updating risk mitigation measures in place).
+ * **Initiating a CAPA**, for example, to update processes, training measures or resource allocation.
+ * **Initiating incident reporting** to authorities or a product recall.
+ * **Design changes** to the product following the company’s change management process.
+
+| Participants    |
+|-----------------|
+| QMO             |
+| Product Manager |
+
+| Input                                | Output                |
+|--------------------------------------|-----------------------|
+| Post-Market Surveillance Plan        | Evaluated Information |
+| Post-Market Surveillance Information |                       |
+
+### 3. Compile Periodic Safety Update Report
+
+The Product Manager finalizes the Periodic Safety Update Report (PSUR), which is at least reviewed by the
+Person Responsible for Regulatory Compliance (PRRC). The report should contain at least the following information:
+
+ * main findings of post-market surveillance activities throughout the surveillance interval
+ * conclusion regarding implications for the risk management and clinical evaluation of the product, in
+   particular, the overall residual risk and benefit-risk determination
+ * the sales volume of the device, e.g. amount of users and, where practicable, the usage frequency of the
+   device.
+
+| Participants    |
+|-----------------|
+| PRRC            |
+| Product Manager |
+
+| Input                               | Output                        |
+|-------------------------------------|-------------------------------|
+| Collected and evaluated information | Periodic Safety Update Report |

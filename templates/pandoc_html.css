@@ -1,0 +1,25 @@
+table {
+  border-spacing: 0;
+}
+
+table th {
+  background-color: gray;
+  color: white;
+  padding: 3px 10px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+table td {
+  padding: 3px 10px;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+}
+
+/* Borders between columns */
+
+table td + td { border-left: 1px solid black; }
+table th + th { border-left: 1px solid black; }
