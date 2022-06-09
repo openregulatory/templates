@@ -38,12 +38,11 @@ on the market or as specified by the List of Applicable Regulations.
 ### 2. Actions Based on Applicable Regulation
 
 If a new or revised applicable regulation is brought to their attention, the QMO updates the List of
-Applicable Regulations. Additionally, the technical documentation and other QMS documents (e.g. the quality
-manual) are checked and updated if necessary.
+Applicable Regulations. Where necessary, the QMO updates or directs updates to the technical documentation and/or QMS documents.
 
 The QMO communicates new or revised regulation to relevant members of the organization (e.g. process owners or
-product managers). Management is informed of new or revised regulation at least annually (for class II or
-higher: as part of the Management Review).
+product managers). Management is informed of new or revised regulation at least annually as part of the Management Review.
+As part of the relevant section of the Management Review Report, it is evaluated if updates to applicable regulations have been implemented effectively.
 
 |              |                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------|
