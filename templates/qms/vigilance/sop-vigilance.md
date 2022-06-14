@@ -16,24 +16,25 @@
 
 ## Summary
 
-This SOP describes how we handle (potential) incidents. Specifically, it outlines how we follow the
-requirements for the reporting of and necessary immediate action for adverse events.
+This SOP describes how we handle (potentially) serious incidents and field safety corrective action (FSCA). It outlines how we follow the
+requirements for reporting to competent authorities and necessary immediate action.
 
 ## General Considerations
 
-### Reportable Incident
+### Reportable Serious Incident
+An incident is defined as any malfunction or deterioration in the characteristics or performance of a device made available on the market, including use-error due to ergonomic features, as well as any inadequacy in the information supplied and any undesirable side-effect.
 
 Any incident that our organization becomes aware of is reportable, if one of our medical devices could be its
-cause and if it fulfills the definition of an incident as outlined in this process. Potential incidents are
+cause and if it fulfills the definition of a serious incident as outlined in this process. Potentially serious incidents are
 assessed based on our respective template form for incident assessment [reference document ID here].
 
-A medical device incident is defined as "any malfunction or deterioration in the characteristics and/or
-performance of a device, as well as any inadequacy in the labelling or the instructions for use which,
+A serious medical device incident is defined as "any malfunction or deterioration in the characteristics and/or
+performance of a device, as well as any inadequacy in the labeling or the instructions for use which,
 directly or indirectly, **might lead to or might have led** to the death of a patient, user or other person or
 to a serious deterioration in their state of health" (see MEDDEV 2.12./1). Examples are (non-exclusively):
 
 * malfunctioning (e.g. a software bug) of one of our medical devices
-* incorrect labelling, instruction for use or advertising material
+* incorrect labeling, instruction for use or advertising material
 * usability deficiency causing a misuse
 
 A serious deterioration in state of health includes at least one of the following:
@@ -58,7 +59,7 @@ include (non-exclusively):
 
 * the return of a medical device to the manufacturer (recall)
 * modification of a medical device, which can include: design changes (e.g. software update), permanent or
-  temporary changes to the labelling or the instructions for use, changes to make device temporarily not
+  temporary changes to the labeling or the instructions for use, changes to make device temporarily not
   available to users (software lock)
 * advice provided by the manufacturer regarding the use or operation of the device
 
@@ -83,28 +84,39 @@ Incidents are reported to the authority of the country in which the reportable i
 
 **Germany:**
 
-* [Federal Institute for Drugs and Medical Devices (BfArM)][bfarm]
-* Email: [medizinprodukte@bfarm.de][bfarm-email]; Phone: +49 228 207 5355
-* [Form for incident reporting][bfarm-form]
+* Federal Institute for Drugs and Medical Devices (BfArM)
+* Website: www.bfarm.de 
+* Email: medizinprodukte@bfarm.de; Phone: +49 228 207 5355
+* Incident reporting: look for “MIR Formular”
+
 
 **Spain:**
 
-* [Spanish Agency for Drugs and Medical Products (AEMPS)][aemps]
-* Email: [sgps@aemps.es][aemps-email]; Phone: +34918225274
+* Spanish Agency for Drugs and Medical Products (AEMPS)
+* Website: www.aemps.gob.es
+* Email: sgps@aemps.es
+* Phone: +34918225274
+
 
 **Netherlands:**
 
-* [CIBG-Farmatec][netherlands]
-* Email: [medische_hulpmiddelen@minvws.nl][netherlands-email]
+* CIBG-Farmatec
+* Website: www.igj.nl
+* Email: medische_hulpmiddelen@minvws.nl
+
 
 **Poland:**
 
-* [Office for the Registration of Medical Products (URPLWMiPB)][poland]
-* Email: [incydenty@urpl.gov.pl][poland-email]; Phone:+48 22 492 11 90
+* Office for the Registration of Medical Products (URPLWMiPB)
+* Website: www.urpl.gov.pl/en
+* Email: incydenty@urpl.gov.pl
+* Phone:+48 22 492 11 90
+
 
 **Other national authorities:**
 
-More contact data can be found under [this link on the website of the European Commission][other-authorities].
+More contact data can be found on the website of the European Commission:
+https://ec.europa.eu/health/medical-devices-sector/new-regulations/contacts_en 
 
 FSCA is reported to the authorities in the countries in which the FSCA is carried out, including incidents
 which occurred outside of the European Economic Area (EEA) but resulted in a recall within European countries.
@@ -114,60 +126,78 @@ in respect to the applied conformity assessment procedure.
 
 ## Process Steps
 
-### 1. Documentation, Investigation and Evaluation of Incidents
+### 1. Documentation and Immediate Action
 
-Any employee of the company that obtains knowledge of an event with a potentially negative impact on the state
-of health shall immediately notify the Person Responsible for Regulatory Compliance (PRRC) to initiate this process.
+Any employee of the company that obtains knowledge of an event with a potentially negative impact on the state of health shall immediately notify the Person Responsible for Regulatory Compliance (PRRC) to initiate this process.
 
-In a first step, the PRRC investigates the root causes of the event to determine if there is a causal
-relationship between the use of the medical device and the event. The investigation is documented as a
-CAPA. If there is no causal relationship, the event is not considered a reportable incident.
+However, input to this process may arrive through multiple input channels (see below). Input channels must be checked regularly, for example, throw continuous post-market surveillance cycles (see process for post-market surveillance).
 
-If there is a relationship, the PRRC secondly evaluates if the event qualifies as a reportable incident
-by filling out our template form for incident assessment [reference document ID here].
+* Own employees
+* Device users (e.g. feedback, see process for feedback management)
+* Authorities (e.g. who were informed of a serious incident)
+* Post-market surveillance (e.g. events with similar devices trigger own FSCA, see process for post-market surveillance)
 
-In the case of uncertainty, the event is reported as a reportable incident.
+In a first step, the PRRC opens a CAPA to document the respective event.
+Where necessary, immediate action is initiated without undue delay as part of the CAPA process.
 
 | Participants                                              |
 |-----------------------------------------------------------|
-| Person Responsible for Regulatory Compliance (MDSO / PRRC)|
+| Person Responsible for Regulatory Compliance (PRRC)|
 
-| Input                                                           | Output                                              |
-|-----------------------------------------------------------------|-----------------------------------------------------|
-| Event with a potentially negative impact on the state of health | Completed investigation and evaluation of the event |
+| Input                                                           | Output                                                             |
+|-----------------------------------------------------------------|--------------------------------------------------------------------|
+| Event with a potentially negative impact on the state of health | Documented incident and initiated immediate action where necessary |
 
-### 2. Reporting of Incidents
+### 2. Investigation of Causal Relationship and Evaluation as Incident
 
-Within the applicable reporting timescale (see general considerations above), the PRRC informs the
-responsible national authority about the event using respective reporting forms. S/he compiles and provides a
-report with all information required and available at the time.
+Secondly, the PRRC investigates the root causes of the event to determine if there is a causal relationship between the use of the medical device and the event. The investigation is documented as part of the CAPA process.
 
-If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment
-procedure of the device.
+If there is no causal relationship, the event is not considered a reportable serious incident. In such cases, the PRRC proceeds with step 4 to assess if FSCA is required nevertheless (for example, to prevent the occurrence of reportable events).
+
+If there is a relationship, the PRRC evaluates if the event qualifies as a reportable incident by filling out the incident assessment form. In the case of uncertainty, the event is always reported as a serious incident.
+
 
 | Participants                                               |
 |------------------------------------------------------------|
-| Person Responsible for Regulatory Compliance (MDSO / PRRC) |
+| Person Responsible for Regulatory Compliance (PRRC) |
 
-| Input                                                  | Output                                                 |
-|--------------------------------------------------------|--------------------------------------------------------|
-| Completed investigation and evaluation of the incident | Completed reporting to authorities (and Notified Body) |
+| Input                                                  | Output                                                                               |
+|--------------------------------------------------------|--------------------------------------------------------------------------------------|
+| Documented incident                                    | Documented evaluation of causal relationship and evaluation as a reportable incident |
 
-### 3. Decision on Immediate Action (FSCA)
 
-Based on a risk and root cause analysis of the event, the PRRC decides if field safety corrective actions (FSCA) are required to reduce existing risks. Possible FSCAs are described as part of the general considerations of this process.
+### 3. Reporting of Incidents
+
+Within the applicable reporting timescale (see general considerations above), the PRRC informs the
+competent national authority about the event using respective reporting forms. The PRRC compiles and provides a
+report with all information required and available at the time.
+
+If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment procedure of the device.
+
+| Participants                                               |
+|------------------------------------------------------------|
+| Person Responsible for Regulatory Compliance (PRRC) |
+
+| Input                                | Output                                                 |
+|--------------------------------------|--------------------------------------------------------|
+| Completed evaluation of the incident | Completed reporting to authorities (and Notified Body) |
+
+### 4. Initiate Field Safety Corrective Action (FSCA)
+
+Based on a risk and root cause analysis of the event, the PRRC decides if field safety corrective actions (FSCA) are required to reduce existing risks (note: FSCA may also be required to prevent the occurrence of reportable events). Possible FSCAs are described as part of the general considerations of this process.
 
 Before actions are taken, we inform users / customers about such as part of a field safety notice (FSN). The FSN is written in the language of the respective country and must at minimum include:
 
 * Subject: **Safety Alert**
 * Manufacturer information (e.g. contact details)
 * Information to identify the affected devices (e.g. device name and software version)
-* Description of the incident problem including resulting risks and the reasons for FSCA
+* Description of the incident including resulting risks and the reasons for FSCA
 * If applicable, actions recommended to the user / customer. For example, this could include actions to
   restore the safety or recommended clinical investigations.
 
-All FSCAs are documented as part of the CAPA. A copy of the FSN shall be archived. Customers confirm the receipt
-of FSNs as well as the implementation of recommended actions. All customer communication must be documented in writing (e.g. email follow-up after phone conversation). If a customer does not respond, at least three attempts for delivery should be made. It is also documented as part of the CAPA if all attempts to inform a customer were unsuccessful.
+A copy of the FSN shall be archived. Customers confirm the receipt of FSNs as well as the implementation of recommended actions. If a customer does not respond, at least three attempts for delivery should be made. It is also documented as part of the CAPA if all attempts to inform a customer were unsuccessful.
+
+All FSCA are documented as part of the CAPA and must be reported to competent national authorities.. 
 
 > You may want to consider a separate process regarding the handling of non-conforming products. This process
 > would entail labeling instructions for respective product code and instructions for employees handling those
@@ -176,11 +206,11 @@ of FSNs as well as the implementation of recommended actions. All customer commu
 
 | Participants                                               |
 |------------------------------------------------------------|
-| Person Responsible for Regulatory Compliance (MDSO / PRRC) |
+| Person Responsible for Regulatory Compliance (PRRC) |
 
-| Input                         | Output                          |
-|-------------------------------|---------------------------------|
-| Risks resulting from incident | Implemented FSCA, including FSN |
+| Input                         | Output                                             |
+|-------------------------------|----------------------------------------------------|
+| Risks resulting from incident | Implemented FSCA, Reporting of FSCA to authorities |
 
 ### 4. Verification and Evaluation of Effectiveness
 
@@ -192,22 +222,8 @@ All incident records shall be archived as part of the QMS.
 
 | Participants                                               |
 |------------------------------------------------------------|
-| Person Responsible for Regulatory Compliance (MDSO / PRRC) |
+| Person Responsible for Regulatory Compliance (PRRC) |
 
 | Input                  | Output                                |
 |------------------------|---------------------------------------|
 | Implementation of FSCA | Final incident report and closed CAPA |
-
-
-<!-- Links -->
-
-[bfarm]: https://www.bfarm.de
-[bfarm-email]: mailto:medizinprodukte@bfarm.de
-[bfarm-form]: https://www.bfarm.de/DE/Service/Formulare/functions/Medizinprodukte/_node.html
-[aemps]: https://www.aemps.gob.es
-[aemps-email]: mailto:sgps@aemps.es
-[netherlands]: https://www.igj.nl
-[netherlands-email]: mailto:medische_hulpmiddelen@minvws.nl
-[poland]: http://www.urpl.gov.pl/en
-[poland-email]: mailto:incydenty@urpl.gov.pl
-[other-authorities]: https://ec.europa.eu/health/md_sector/contact_en
