@@ -212,7 +212,7 @@ All FSCA are documented as part of the CAPA and must be reported to competent na
 |-------------------------------|----------------------------------------------------|
 | Risks resulting from incident | Implemented FSCA, Reporting of FSCA to authorities |
 
-### 4. Verification and Evaluation of Effectiveness
+### 5. Verification and Evaluation of Effectiveness
 
 The effectiveness of implemented FSCAs is evaluated as part of the CAPA. As soon as the CAPA is closed, a final
 report is sent to the responsible authorities to verify that all actions taken are deemed sufficient for
