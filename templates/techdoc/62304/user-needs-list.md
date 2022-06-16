@@ -29,7 +29,7 @@
 > * Requirements from risk management: include all hazard-related use scenarios that must be tested during
 >   usability tests (note the last column on the right for that).
 
-| User Need ID | Stakeholder Group      | Requirement Description                                                                                                | Safety-Critical? |
+| User Need ID | User Group      | Requirement Description                                                                                                | Safety-Critical? |
 |----------------------------|------------------------|------------------------------------------------------------------------------------------------------------------------|------------------|
 | 1                          | User                   | The software returns a score predicting Covid contraction based on (...).                                              | Yes              |
 | 2                          | User                   | Users can read the instructions for use or contact support in case of questions.                                       | Yes              |
