@@ -95,7 +95,7 @@ ensure consistent and complete documentation.
 
 ### 1. Design Input
 
-Based on business input and product ideas, the 'product certification and registration' process is initiated to create an initial device description (incl. medical device classification and software safety classification) and high-level vision for the planned product. Technical input is considered for whether the idea is feasible.
+Based on business input and product ideas, the process for product certification and registration is initiated to create an initial device description (incl. medical device classification and software safety classification) and high-level vision for the planned product. Technical input is considered to assess whether the idea is feasible.
 
 Business input could be:
 
@@ -156,19 +156,19 @@ activities:
  * Estimating probabilities for the identified items and analyzing the severity of each Harm, taking
    standards, scientific studies, public reports, expert opinions and usability data into account.
 
-In general, we try to reduce probabilities of risks as low as reasonably possible (ALARP).
+In general, we try to reduce probabilities of risks as far as possible (AFAP).
 
-If a risk is deemed unacceptable based on our Risk Policy, it may be mitigated through Risk Control Measures:
+If a risk is deemed unacceptable based on our Risk Policy, it may be mitigated through Risk Control Measures in the priority as listed below:
 
- * Inherently safe design
- * Protective measures in the device or development process
- * Information for safety and/or training of users
+1. Inherently safe design
+2. Protective measures in the device or development process
+3. Information for safety and/or training of users
 
 A usability evaluation plan is created which covers future formative and summative usability evaluation
 activities.
 
-Usage scenarios with a focus on those related to hazards are specified. These will serve as input to the
-summative usability evaluation.
+User needs with a focus on those related to hazards are specified. These will serve as input to the
+summative usability evaluation and are reviewed following the checklist for user needs review.
 
 | Participants                            |
 |-----------------------------------------|
@@ -180,13 +180,17 @@ summative usability evaluation.
 | Device description        | Preliminary Hazards Analysis                    |
 | Risk Management Plan      | Risk table incl. Risk Acceptance Matrix (draft) |
 | Usability Evaluation Plan | Software Safety Classification (draft)          |
-|                           | Usage Scenarios                                 |
+|                           | User Needs                                      |
+|                           | User Needs Review Checklist                     |
 
 ### 4. Software Planning
 
-Based on the device description, the usage scenarios and preliminary risk analysis, the next step is to plan
+Based on the device description, the user needs and the preliminary risk analysis, the next step is to plan
 software development by defining software requirements. These also include the user interface specification,
 e.g. wireframes, mockups or style guides.
+
+A software development and maintenance plan is created following our template. Software versioning is to be specified in the plan and should typically follow semver, in a format: MAJOR.MINOR.PATCH.
+Significant changes will lead to major version changes and a change of the UDI-DI, while non-significant changes lead to minor version changes and changes of the UDI-PI only. Third-digit version changes (“patches”) result from bug fixes (see SOP Change Management and SOP Certification and Registration).
 
 The software system test plan is created based on the requirements. As requirements may change, the software
 system test plan is continuously updated to reflect those changes.
@@ -210,9 +214,7 @@ Software requirements are verified through review by filling out the Checklist S
 
 ### 5. First Review: Software Planning Review
 
-Software requirements are reviewed. If the review is successful, move forward to the next step. If it's not,
-the software requirements have to be reworked with possible changes to the risk analysis and usage
-scenarios. In that case, move back to the relevant step above.
+Software requirements are reviewed by following the checklist for Software Requirements Review. If the review is successful, move forward to the next step. If it's not, the software requirements have to be reworked with possible changes to the risk analysis and user needs. In that case, move back to the relevant step above.
 
 | Participants                            |
 |-----------------------------------------|
@@ -222,18 +224,18 @@ scenarios. In that case, move back to the relevant step above.
 | Usability Engineer                      |
 | Subject matter experts, e.g. physicians |
 
-| Input                 | Output                                       |
-|-----------------------|----------------------------------------------|
-| Software Requirements | Checklist Software Requirements (filled out) |
-| Risk Table (draft)    |                                              |
-| Usage Scenarios       |                                              |
+| Input                 | Output                                              |
+|-----------------------|-----------------------------------------------------|
+| Software Requirements | Checklist Software Requirements Review (filled out) |
+| Risk Table (draft)    |                                                     |
+| Usage Scenarios       |                                                     |
 
 ### 6. Software Architecture, Detailed Design and Implementation
 
 Software architecture is created (and detailed design, if necessary). As the software development process
 follows agile methodology, the software architecture may change as new knowledge is gained during
 implementation. The end result should be that both the implementation and the documented software architecture
-are synchronised.
+are synchronized.
 
 At a minimum, an architecture diagram showing all software systems including databases and networks is
 created. For each software system, public interfaces, are documented, e.g. REST APIs, internal methods.
@@ -270,7 +272,7 @@ The second review covers multiple activities:
 
 Code review is conducted based on the following criteria:
 
- * Were the software requirements, software architecture and detailed design implemented correctly?
+ * Are all software requirements, software architecture and detailed design implemented correctly?
  * Does the code adhere to coding guidelines which include requirements for documentation as specified in the
    Software Development and Maintenance Plan?
 
@@ -314,7 +316,7 @@ requirements to be fixed.
 
 Validation is done as a summative usability evaluation.
 
-A Usability Test is conducted in the context of the actual usage scenarios in accordance with the Usability
+A Usability Test is conducted in the context of the actual user needs in accordance with the Usability
 Evaluation Plan.
 
 If new risks are discovered during the usability tests, they are added to the risk table.
