@@ -216,7 +216,7 @@ Safety-related product claims:
 | Device Classification  |                      |                      |
 | Principle of Operation | Stand-alone Software | Stand-alone Software |
 
-The level of similarity or equivalence of a comparable medical device to the evaluated medical device is
+According to standard methodology, the level of similarity or equivalence of a comparable medical device to the evaluated medical device is
 divided into the three categories "clinical", "technical" and "biological".
 
 Within each category there are four steps for the evaluation of the equivalence level:
@@ -237,6 +237,11 @@ summed up. The total equivalence is determined based on the sum of those values:
 | 6-7 | Nearly Equivalent       |
 | 3-5 | In some aspects similar |
 | 0-2 | Very different          |
+
+> For software devices, adjust the score correspondingly. For example, you could say:
+> "As the biological category typically does not apply for software devices, the total equivalence is
+> determined based on the sum of those values as follows" and use an adjusted score: 6 // 5 // 3-4 // 0-2.
+
 
 #### Clinical Equivalence
 
