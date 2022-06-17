@@ -17,6 +17,7 @@ changes to documents can be traced.
 > This whole template assumes that you're using Google Drive and Google Docs for your QMS. If you're using
 > something else, then.. good luck. Just kidding. You need to customize it, of course. There's specialized QMS
 > software out there which makes some of these tasks easier and lots of other tasks harder :)
+> Make sure to describe somewhere (ideally in this first paragraph), in which tool your QMS documents will be managed and stored.
 
 **Documents** are expected to change over time, whereas **records** are created once and not altered
 significantly afterwards.
