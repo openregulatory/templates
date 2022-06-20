@@ -113,9 +113,9 @@ multiple sections:
 > Also note that, in simplified terms, Information for Safety must actually be displayed in your application
 > to have any effect. Like, not in the user manual, because nobody reads the manual.
 
-| ID | Description                               | Type               | Probability Reduction | Severity Reduction |
-|----|-------------------------------------------|--------------------|-----------------------|--------------------|
-| 1  | Check prediction algorithm with test data | Protective Measure | 10^-2                 | 1                  |
+| ID  | Description | Type | Probability Reduction | Severity Reduction | New Risk Introduced by Mitigation Measure |
+| --- | ----------- | ---- | --------------------- | ------------------ | ----------------------------------------- |
+| 1   | Check prediction algorithm with test data | Protective Measure | 10^-2 | 1 | No |
 
 
 <!-- Links -->
