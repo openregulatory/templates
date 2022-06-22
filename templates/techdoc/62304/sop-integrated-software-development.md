@@ -121,8 +121,17 @@ Management).
 
 ### 2. Usability Engineering and Risk Management Planning
 
-The risk management and usability engineering activities are planned and documented. The Usability Evaluation
-Plan includes summative and formative usability evaluation activities.
+The risk management and usability engineering activities are planned and documented.
+
+The Risk Management Plan defines criteria for risk acceptability in the form of a risk policy and a risk acceptance matrix. It defines risk acceptability both for individual risks and the overall residual risk. The risk acceptance matrix is created by performing the following steps:
+* Estimate product usage over its lifetime
+* Define categories for the severity of harm (for example, categories may range from zero harm to death of a patient)
+* Define probability categories (for example, categories may range from ‘unthinkable’ over ‘rare’ to ‘certain’).
+* Start by defining the least probable category which has an absolute occurrence number of less than one. From there on, the more frequently occurring categories are added with probability increments of 10^2.
+* Create the risk acceptance matrix and define which combinations of the categories are deemed acceptable. Use color coding: red combinations represent unacceptable risks; yellow combinations represent risks that are acceptable.
+* Note: no fields are marked as green as all risks must be reduced as far as possible.
+
+The Usability Evaluation Plan includes summative and formative usability evaluation activities.
 
 | Participants                            |
 |-----------------------------------------|
@@ -137,34 +146,24 @@ Plan includes summative and formative usability evaluation activities.
 ### 3. First Risk and Usability Assessment
 
 In the first risk and usability assessment, a preliminary hazard analysis is conducted and an initial risk
-table is drafted. The risk table includes the risk policy with a risk acceptance matrix.
+table is drafted.
 
-The Risk Acceptance Matrix is defined by performing these steps:
-
- * Estimate product usage over its lifetime
- * Define Probability Categories. Start by defining the category “Unthinkable” which has an absolute
-   occurrence number of less than one. From there on, the more frequently occurring categories are added with
-   probability increments of 10^2.
- * Define Severity Categories
- * Create Risk Acceptance Matrix and define which combinations of the categories are deemed acceptable.
-
-Risk analysis is performed by conducting a Failure Mode and Effects Analysis (FMEA). It includes the following
+Risk analysis is performed by conducting a Failure Mode and Effects Analysis (FMEA). This analysis includes the following
 activities:
 
- * Identifying potential Failure Modes
- * Identifying potential Hazards, Hazardous Situations and Harms with experts (e.g. physicians)
- * Estimating probabilities for the identified items and analyzing the severity of each Harm, taking
-   standards, scientific studies, public reports, expert opinions and usability data into account.
+ * Identifying potential failure modes
+ * Identifying potential hazards, hazardous situations and harms in collaboration with subject matter experts (e.g. physicians)
+ * Estimating probabilities for the identified items and analyzing the severity of each harm, taking into account international standards, scientific studies, public reports, expert opinions and usability data.
+ * For software devices, the probability of occurrence of a hazard is assumed as 100%. The probability of each hazard leading to a hazardous situation and that leading to a harm must be estimated separately as part of the risk analysis. Multiplied, they present the overall probability per risk. In combination, overall probability of occurrence and the severity of harm are evaluated against the risk policy previously defined for the device.
 
+If a risk is deemed unacceptable based on our Risk Policy, it may be mitigated through Risk Control Measures in the priority as listed below.
 In general, we try to reduce probabilities of risks as far as possible (AFAP).
-
-If a risk is deemed unacceptable based on our Risk Policy, it may be mitigated through Risk Control Measures in the priority as listed below:
 
 1. Inherently safe design
 2. Protective measures in the device or development process
 3. Information for safety and/or training of users
 
-A usability evaluation plan is created which covers future formative and summative usability evaluation
+Further, a usability evaluation plan is created which covers future formative and summative usability evaluation
 activities.
 
 User needs with a focus on those related to hazards are specified. These will serve as input to the
