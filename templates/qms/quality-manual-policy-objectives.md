@@ -62,9 +62,8 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 ### Quality Objectives
 
 > Whatever policy you outlined above, now you need to make it measurable by defining objectives which can be
-> tracked. So, let's say if you're creating software for patients with a certain disease, maybe you'd want to
-> measure the number of complaints they have. Or, better, you have some metric for how much you improve their
-> lives.
+> tracked. Those objectives should not (only) refer to the quality of your devices but the quality of your QMS and the overall work of your organization. > Typical examples are: hiring excellence in staff, providing best-of-class device performance, high standards of customer satisfaction, etc.
+> In a next step (see short-term goals), those are narrowed down to concrete measures like for example the monthly number of user complaints.
 
 ### Short-Term Goals
 
