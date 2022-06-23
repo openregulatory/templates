@@ -227,7 +227,7 @@ Software requirements are reviewed by following the checklist for Software Requi
 |-----------------------|-----------------------------------------------------|
 | Software Requirements | Checklist Software Requirements Review (filled out) |
 | Risk Table (draft)    |                                                     |
-| Usage Scenarios       |                                                     |
+| User Needs            |                                                     |
 
 ### 6. Software Architecture, Detailed Design and Implementation
 
@@ -328,7 +328,7 @@ If new risks are discovered during the usability tests, they are added to the ri
 
 | Input                                            | Output                      |
 |--------------------------------------------------|-----------------------------|
-| Usage Scenarios                                  | Usability Test Protocol(s)  |
+| User Needs                                       | Usability Test Protocol(s)  |
 | Labeling and Instructions for Use, if applicable | Summative Evaluation Report |
 | Usability Evaluation Plan                        | Risk Table (updated)        |
 
@@ -373,7 +373,7 @@ with the Software Development and Maintenance Plan is assigned.
 | Device Description                        | Released Software                           |
 | Checklist Release                         | Checklist Release (filled out)              |
 | Risk Analysis                             | Release Notes incl. list of known anomalies |
-| Usage Scenarios                           |                                             |
+| User Needs                                |                                             |
 | Software Requirements                     |                                             |
 | Software Architecture and Detailed Design |                                             |
 | Software Items incl. Verification         |                                             |
