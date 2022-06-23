@@ -67,7 +67,9 @@ following CAPAs were initiated during this surveillance period:
 
 **Overall Feedback Assessment:**
 
-(enter content)
+* According to the device’s post-market surveillance plan, the overall feedback and complaint rate can be deemed acceptable if (...)
+* Feedback data showed (...)
+
 
 > Note: Summarize the number of customer complaints, predominant subjects of feedback and whether there was
 > anything of importance regarding safety. More specifically, take into account:
@@ -122,6 +124,8 @@ Search keywords: (Insert keywords)
 
 
 ### Summary of Post-Market Clinical Follow-Up Findings
+
+Post-Market Clinical Follow-Up activities were performed following the manufacturer's process for clinical evaluation.
 
 **Main Findings of Post-Market Clinical Follow-Up Activities:**
 
