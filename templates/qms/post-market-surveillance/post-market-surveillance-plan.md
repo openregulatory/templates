@@ -83,6 +83,9 @@ product name), the following categories of data will be collected  specifically:
    * Go through SOUP list
    * Research public incident reports of the last (enter time span) months
 
+> Make sure to not just update your clinical evaluation here and enter the same keywords as for the literature review.
+> Also add keywords for the equivalent / similar devices you compare (such as their brand names).
+
 ### Other information about similar devices
 
  * Google News Search
