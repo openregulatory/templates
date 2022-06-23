@@ -57,16 +57,16 @@ At minimum, the following information categories have to be taken into considera
    technologies on the market.
  * **Input from recalls and reportable events:** Recalls, incidents and unintended side effects reported by
    competitors, similar products and procedures or reported for other devices of our company (e.g. check BfArM
-   / FDA databases as further specified in the post-market surveillance plan).
+   / FDA databases as further specified in the post-market surveillance plan; also see vigilance process).
  * **New or updated norms and standards, directives, regulation and other laws:** Verification if the list of
    applicable regulations is up to date.
  * **SOUP:** Verification if SOUP list is up to date.
  * **Complaints directly reported by customers:** Information gathered through customer feedback and
-   complaints.
+   complaints (see process for feedback management).
  * **Other feedback** collected or reported by sales or marketing staff, distributors, or other stakeholders.
 
 For each part of information, it is assessed whether it is applicable to the company's product. Additionally,
-its severity is rated on the following scale:
+the severity of impact on device safety and performance is rated on the following scale:
 
  * **Severe:** Serious injury or death
  * **Moderate:** Non-serious injury
