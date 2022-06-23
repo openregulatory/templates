@@ -122,9 +122,11 @@ product name), the following categories of data will be collected  specifically:
    * Time span:
 
 The overall complaint rate is deemed acceptable if:
-* Less than 10% of complaints are associated with marginal severity of harm or higher
+* Less than 10% of complaints are associated with moderate severity of harm or higher
 * Overall number of complaints does not exceed 10% of total active users
+* (...)
 
+> Note: customize the acceptance criteria for the overall complaint rate to your setup
 
 ### Trends
 
