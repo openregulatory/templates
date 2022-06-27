@@ -70,7 +70,6 @@ following CAPAs were initiated during this surveillance period:
 * According to the device’s post-market surveillance plan, the overall feedback and complaint rate can be deemed acceptable if (...)
 * Feedback data showed (...)
 
-
 > Note: Summarize the number of customer complaints, predominant subjects of feedback and whether there was
 > anything of importance regarding safety. More specifically, take into account:
 >

@@ -1,9 +1,10 @@
 # User Needs List
 
-> This is a list of your user needs (also referred to as 'stakeholder requirements'). This is what you would most commonly start with for your
-> requirements mapping: it is the most high-level part of your design input. Describe the generic requirements
-> your device will need to meet. Only in a next step, these user needs will be translated into
-> (and linked to) software requirements which will present the technical specifications of your product.
+> This is a list of your user needs (also referred to as "stakeholder requirements"). This is what you would
+> most commonly start with for your requirements mapping: it is the most high-level part of your design
+> input. Describe the generic requirements your device will need to meet. Only in a next step, these user
+> needs will be translated into (and linked to) software requirements which will present the technical
+> specifications of your product.
 
 > Of course, you could also use your own tool like Jira or GitHub issues for this. Just ensure that the
 > content (i.e. the columns shown here) is roughly the same.
