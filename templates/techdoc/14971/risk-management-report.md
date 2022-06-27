@@ -46,10 +46,16 @@ including intermediate probabilities (p1 and p2).
 
 ## 3. Risk Control Measures
 
-Risks were reduced as low as reasonably possible (ALARP). If a risk was classified as "unacceptable" based on
-the Risk Table, Risk Control Measures were implemented. Potential categories of Risk Control Measures are
-"inherent safety by design", "protective measures" and "information for safety". In total, *\<no. of risk
-control measures\>* were implemented.
+Risks were reduced as far as possible (AFAP). If a risk was classified as "unacceptable" based on
+the Risk Table, Risk Control Measures were implemented.
+
+The following categories of Risk Control Measures were implemented in priority as listed below:
+
+1. Inherent safety by design
+2. Protective measures
+3. Information for safety 
+
+In total, *\<no. of risk control measures\>* were implemented.
 
 ## 4. Risk Matrix
 

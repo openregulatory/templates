@@ -47,26 +47,26 @@ for a product.
 The Post-Market Surveillance is carried out as described in the Post-Market Surveillance Plan in the defined
 interval.
 
-Ideally, the responsible person continuously collects information on all the categories described below and
-enters them into our report template.
+The responsible employees continuously collect information from all the categories described below and
+enter them into the report template.
 
 At minimum, the following information categories have to be taken into consideration:
 
- * **Clinical evaluations and PMCF activities:**: Input from our Post-Market Clinical Follow-Up activities.
+ * **Clinical evaluations and PMCF activities:**: Input from Post-Market Clinical Follow-Up activities.
  * **New research and development in the market:** Information regarding similar medical devices and
    technologies on the market.
  * **Input from recalls and reportable events:** Recalls, incidents and unintended side effects reported by
    competitors, similar products and procedures or reported for other devices of our company (e.g. check BfArM
-   / FDA databases as further specified in the post-market surveillance plan).
+   / FDA databases as further specified in the post-market surveillance plan; also see vigilance process).
  * **New or updated norms and standards, directives, regulation and other laws:** Verification if the list of
    applicable regulations is up to date.
  * **SOUP:** Verification if SOUP list is up to date.
  * **Complaints directly reported by customers:** Information gathered through customer feedback and
-   complaints.
+   complaints (see process for feedback management).
  * **Other feedback** collected or reported by sales or marketing staff, distributors, or other stakeholders.
 
 For each part of information, it is assessed whether it is applicable to the company's product. Additionally,
-its severity is rated on the following scale:
+the severity of impact on device safety and performance is rated on the following scale:
 
  * **Severe:** Serious injury or death
  * **Moderate:** Non-serious injury
@@ -82,7 +82,7 @@ Actions may entail:
    management process, updating occurrence / severity assumptions made for risks we already documented or
    updating risk mitigation measures in place).
  * **Initiating a CAPA**, for example, to update processes, training measures or resource allocation.
- * **Initiating incident reporting** to authorities or a product recall.
+ * **Initiating the vigilance process** reporting serious incidents and FSCA to competent authorities.
  * **Design changes** to the product following the company’s change management process.
 
 | Participants    |

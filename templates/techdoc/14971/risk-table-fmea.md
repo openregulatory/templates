@@ -81,7 +81,7 @@ multiple sections:
 > hospital. So the disease gets worse. Maybe only 10% (0.1, p2) of users will actually blindly trust my Covid
 > app - so not all of them will get disease progression. Again, estimate this based on your own data.
 >
-> Finally, you multiple p1 with p2, check your Risk Acceptance Matrix (other template) which Probability
+> Finally, you multiple p1 with p2, check your Risk Acceptance Matrix (see template for the risk management plan) which Probability
 > Category it is (in this case P4). Also check that matrix which severity that harm would be, I'm just
 > assuming it could be S2 here. Once you have your Probability (P) and Severity (S), check your matrix whether
 > that's acceptable. In this case, it's not.
@@ -113,9 +113,9 @@ multiple sections:
 > Also note that, in simplified terms, Information for Safety must actually be displayed in your application
 > to have any effect. Like, not in the user manual, because nobody reads the manual.
 
-| ID | Description                               | Type               | Probability Reduction | Severity Reduction |
-|----|-------------------------------------------|--------------------|-----------------------|--------------------|
-| 1  | Check prediction algorithm with test data | Protective Measure | 10^-2                 | 1                  |
+| ID  | Description | Type | Probability Reduction | Severity Reduction | New Risk Introduced by Mitigation Measure |
+| --- | ----------- | ---- | --------------------- | ------------------ | ----------------------------------------- |
+| 1   | Check prediction algorithm with test data | Protective Measure | 10^-2 | 1 | No |
 
 
 <!-- Links -->

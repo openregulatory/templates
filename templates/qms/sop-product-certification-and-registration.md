@@ -1,6 +1,5 @@
 | Regulatory Requirement                                                                                                                    | Document Section |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| MDD Annex I (Essential Requirements) and Annex II, V, VI or VII for  EU Declaration of Conformity<br>(depending on device classification) | All              |
 | MDR Annex I (General Safety and Performance Requirements) and Annex IV (EU Declaration of Conformity)                                     | All              |
 | MPDG §8, §96, §97                                                                                                                         | All              |
 | ISO 13485:2015, Sections 4.2.3                                                                                                            | All              |
@@ -23,7 +22,7 @@ market. Business input could be:
 * Internal ideas
 
 If applicable, a responsible Product Manager for a new device is appointed. Together with the QMO, they
-determine the classification of a new device as part of the MDD / MDR Classification document.
+determine the classification of a new device as part of the MDR Classification document.
 
 |              |                                         |
 |--------------|-----------------------------------------|
@@ -57,10 +56,8 @@ The Product Manager maintains a Medical Devices List according to MDR Annex II S
 * Similar devices
 
 Prior to submission to the Notified Body for conformity assessment (if applicable), the QMO checks the
-documentation for completeness according to the stipulations listed below. Compliance with EU legislation is documented in an MDR General Safety and Performance Requirements Checklist.
+documentation for completeness according to the stipulations listed below. Compliance with EU legislation is documented in the MDR General Safety and Performance Requirements Checklist.
 
-* MDD Essential Requirements (Annex I)
-* MDD EU Declaration of Conformity (Annex II, V, VI or VII depending on device class)
 * MDR General Safety and Performance Requirements (Annex I)
 * MDR EU Declaration of Conformity (Annex IV)
 
@@ -75,7 +72,7 @@ After successful approval by the Notified Body, the Management signs the declara
 
 ### 4. Registration of Medical Device (UDI)
 
-Country-specific requirements for registration are observed before offering a new medical device (version) in
+Country-specific requirements for registration are observed before making a new medical device (version) available in
 a market. For the European market, the Product Manager follows the requirements set out in Art. 29 and Annex
 VI MDR by registering the device’s Unique Device Identifier (UDI) in the European Database for Medical Devices
 (Eudamed).
@@ -98,6 +95,8 @@ The Product Manager assigns a new UDI-PI for modifications such as:
 * Bug fixes
 * Security patches
 * User interfaces (limited to usability and excluding security improvements)
+
+The UDI-PI is determined by the manufacturer. Typically, the device version number serves as the UDI-PI (see SOP Software Development).
 
 > NOTE:
 >

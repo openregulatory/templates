@@ -18,6 +18,14 @@ organization and its medical device(s) based on respective documentation provide
 Manager(s). Input may entail statutory laws, regulations and guidance documents. The QMO analyzes the
 applicability of relevant regulations and documents his assessment in a List of Applicable Regulations.
 
+Relevant input channels may include, but are not limited to:
+* Newsletter of ISO / IEC
+* (For Germany) Beuth newsletter
+* FDA newsletter
+* EU website on harmonized norms
+* Consultancy newsletters (Johner, Open Regulatory, …)
+
+
 Every relevant regulation is reviewed at least once per year, every time before a new medical device is placed
 on the market or as specified by the List of Applicable Regulations.
 
@@ -30,12 +38,11 @@ on the market or as specified by the List of Applicable Regulations.
 ### 2. Actions Based on Applicable Regulation
 
 If a new or revised applicable regulation is brought to their attention, the QMO updates the List of
-Applicable Regulations. Additionally, the technical documentation and other QMS documents (e.g. the quality
-manual) are checked and updated if necessary.
+Applicable Regulations. Where necessary, the QMO updates or directs updates to the technical documentation and/or QMS documents.
 
 The QMO communicates new or revised regulation to relevant members of the organization (e.g. process owners or
-product managers). Management is informed of new or revised regulation at least annually (for class II or
-higher: as part of the Management Review).
+product managers). Management is informed of new or revised regulation at least annually as part of the Management Review.
+As part of the relevant section of the Management Review Report, it is evaluated if updates to applicable regulations have been implemented effectively.
 
 |              |                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------|
