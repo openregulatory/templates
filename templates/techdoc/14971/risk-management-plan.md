@@ -98,7 +98,8 @@ Acceptability of the overall residual risk is established as part of the clinica
 
 ### 1.3 Verification of Risk Control Measures
 
-Risk Control Measures are verified as described in SOP Software Development Lifecycle.
+Risk Control Measures are verified as described in the software development lifecycle as described in SOP Integrated
+Software Development.
 
 ### 1.4 Assessment of the overall residual risk
 
