@@ -106,6 +106,7 @@ Responsibilities of the PRRC are in accordance with Art. 15 MDR as follows:
 * Ensure (review / release) that the technical documentation and the EU declaration of conformity are drawn up and kept up-to-date for all medical devices (also see Art. 10 Para. 4 and Art. 6 MDR)
 * Ensure (review / release) that obligations for post-market surveillance are complied with in accordance with Art. 10 Para. 10 MDR
 * Ensure (review / release) that the reporting obligations of Articles 87 to 91 MDR are fulfilled (FSCA / incidents, also see Art. 10 Para. 13 MDR)
+* Ensure that, in the case of investigational devices, the statement referred to in Section 4.1 of Chapter II of Annex XV MDR is issued.
 
 The PRRC shall not be subjected to Management instructions while carrying out his/her responsibilities specified above. His/her tasks may be delegated to other roles as long as it is ensured that final responsibility stays with the PRRC. She or he has the power and authority to represent the company in the scope of his/her responsibilities, e.g. in communicating with state authorities.
 
