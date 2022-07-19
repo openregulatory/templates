@@ -31,6 +31,9 @@ Surveillance Plan and Report are created and continuously updated.
 Based on the clinical evaluation and technical documentation, a new Post-Market Surveillance Plan is created
 for a product.
 
+For medical devices of class IIa, post-market surveillance cycles may extend to no longer than two years. For medical devices of classes IIb and III, annual surveillance cycles apply. For devices of class IIa and higher, each surveillance cycle is concluded with the compilation of a periodic safety update report (see below). For class I devices, longer surveillance cycles may be defined.
+
+
 | Participants    |
 |-----------------|
 | QMO             |
