@@ -75,15 +75,15 @@ assess this as "applicable" even if the matter still remains unclear.*
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Applicable?  | ( ) Yes ( ) No                                                                                                                  |
 | Explanation: | \<if no, describe why this is not applicable\>                                                                                  |
-| Outcome:     | ( ) death of a patient, user or other person<br>( ) serious deterioration in state of health of a patient, user or other person |
+| Outcome:     | ( ) death of a patient, user or other person<br>( ) serious deterioration in state of health of a patient, user or other person<br>( ) serious public health threat |
 
-*A serious deterioration in state of health includes at least one of the following:*
+*A serious deterioration in state of health results in at least one of the following:*
 
-* *Life-threatening illness*
-* *Permanent impairment of a body function or permanent damage to a body structure*
-* *A condition which requires medical or surgical intervention to prevent one of the above*
-* *Any indirect harm as a consequence of an incorrect diagnostic result when used within manufacturer's
-  instructions for use*
+* *life-threatening illness or injury*
+* *permanent impairment of a body structure or a body function*
+* *hospitalization or prolongation of patient hospitalization or a condition which requires medical or surgical intervention to prevent any of the above*
+* *chronic disease*
+* *any indirect harm as a consequence of an incorrect diagnostic result when used within manufacturer’s instructions for use*
 
 > Please note: Serious incidents may also include events where serious medical consequences have not occurred yet but could
 > occur in the future under similar circumstances. If you are unsure, check the intended use of the device to

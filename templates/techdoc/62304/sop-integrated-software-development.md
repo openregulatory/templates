@@ -157,7 +157,7 @@ activities:
  * For software devices, the probability of occurrence of a hazard is assumed as 100%. The probability of each hazard leading to a hazardous situation and that leading to a harm must be estimated separately as part of the risk analysis. Multiplied, they present the overall probability per risk. In combination, overall probability of occurrence and the severity of harm are evaluated against the risk policy previously defined for the device.
 
 If a risk is deemed unacceptable based on our Risk Policy, it may be mitigated through Risk Control Measures in the priority as listed below.
-In general, we try to reduce probabilities of risks as far as possible (AFAP).
+In general, we try to reduce the severity and probability of risks as far as possible (AFAP).
 
 1. Inherently safe design
 2. Protective measures in the device or development process
