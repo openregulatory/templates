@@ -28,22 +28,17 @@ Any incident that our organization becomes aware of is reportable, if one of our
 cause and if it fulfills the definition of a serious incident as outlined in this process. Potentially serious incidents are
 assessed based on our respective template form for incident assessment [reference document ID here].
 
-A serious medical device incident is defined as "any malfunction or deterioration in the characteristics and/or
-performance of a device, as well as any inadequacy in the labeling or the instructions for use which,
-directly or indirectly, **might lead to or might have led** to the death of a patient, user or other person or
-to a serious deterioration in their state of health" (see MEDDEV 2.12./1). Examples are (non-exclusively):
-
+A serious incident is defined as “*any malfunction or deterioration in the characteristics and/or performance of a device, as well as any inadequacy in the labeling or the instructions for use which, directly or indirectly, might lead to or might have led to the death of a patient, user or other person or to a serious deterioration in their state of health or a serious public health threat*” (see MDR Art. 2 and MEDDEV 2.12./1). Examples are therefore (non-exclusively):
 * malfunctioning (e.g. a software bug) of one of our medical devices
 * incorrect labeling, instruction for use or advertising material
 * usability deficiency causing a misuse
 
-A serious deterioration in state of health includes at least one of the following:
-
-* life-threatening illness
-* permanent impairment of a body function or permanent damage to a body structure
-* a condition which requires medical or surgical intervention to prevent one of the above
-* any indirect harm as a consequence of an incorrect diagnostic result when used within manufacturer's
-  instructions for use
+A serious deterioration in state of health results in at least one of the following:
+* life-threatening illness or injury
+* permanent impairment of a body structure or a body function
+* hospitalization or prolongation of patient hospitalization or a condition which requires medical or surgical intervention to prevent any of the above
+* chronic disease
+* any indirect harm as a consequence of an incorrect diagnostic result when used within manufacturer’s instructions for use
 
 > Note that: not all incidents lead to death or serious deterioration in health. The non-occurrence of such a
 > result might have been due to fortunate circumstances or to the intervention of healthcare personnel. It is
@@ -148,25 +143,36 @@ Where necessary, immediate action is initiated without undue delay as part of th
 |-----------------------------------------------------------------|--------------------------------------------------------------------|
 | Event with a potentially negative impact on the state of health | Documented incident and initiated immediate action where necessary |
 
-### 2. Investigation of Causal Relationship and Evaluation as Incident
+### 2. Investigation of Causal Relationship
 
 Secondly, the PRRC investigates the root causes of the event to determine if there is a causal relationship between the use of the medical device and the event. The investigation is documented as part of the CAPA process.
 
-If there is no causal relationship, the event is not considered a reportable serious incident. In such cases, the PRRC proceeds with step 4 to assess if FSCA is required nevertheless (for example, to prevent the occurrence of reportable events).
+If there is no causal relationship, the event is not considered a reportable serious incident. In such cases, the PRRC proceeds with para. 5 to assess if FSCA is required nevertheless (for example, to prevent the occurrence of reportable events).
 
-If there is a relationship, the PRRC evaluates if the event qualifies as a reportable incident by filling out the incident assessment form. In the case of uncertainty, the event is always reported as a serious incident.
-
-
-| Participants                                               |
-|------------------------------------------------------------|
+| Participants |
+| ------------ |
 | Person Responsible for Regulatory Compliance (PRRC) |
 
-| Input                                                  | Output                                                                               |
-|--------------------------------------------------------|--------------------------------------------------------------------------------------|
-| Documented incident                                    | Documented evaluation of causal relationship and evaluation as a reportable incident |
+| Input | Output |
+| ----- | ------ |
+| Documented incident | Documented evaluation of causal relationship |
+
+### 3\. Evaluation as Reportable Incident
+
+If there is a relationship, the PRRC evaluates if the event qualifies as a reportable serious incident by filling out the incident assessment form. Only serious incidents and FSCA must be reported (Art. 87 MDR). In the case of uncertainty, the event is always reported as a serious incident.
+
+Where it is determined that the incident is not a serious incident or is an expected undesirable side-effect, which will be covered by trend reporting in accordance with the process for post-market surveillance, an explanatory statement must be documented in the incident assessment form.
+
+| Participants |
+| ------------ |
+| Person Responsible for Regulatory Compliance (PRRC) |
+
+| Input | Output |
+| ----- | ------ |
+| Documented incident and causal relationship | Documented evaluation as a reportable incident |
 
 
-### 3. Reporting of Incidents
+### 4. Reporting of Incidents and Field Safety Corrective Action (FSCA)
 
 Within the applicable reporting timescale (see general considerations above), the PRRC informs the
 competent national authority about the event using respective reporting forms. The PRRC compiles and provides a
@@ -182,11 +188,11 @@ If applicable, a copy of the report is sent to the Notified Body involved in the
 |--------------------------------------|--------------------------------------------------------|
 | Completed evaluation of the incident | Completed reporting to authorities (and Notified Body) |
 
-### 4. Initiate Field Safety Corrective Action (FSCA)
+### 5. Initiate Field Safety Corrective Action (FSCA)
 
 Based on a risk and root cause analysis of the event, the PRRC decides if field safety corrective actions (FSCA) are required to reduce existing risks (note: FSCA may also be required to prevent the occurrence of reportable events). Possible FSCAs are described as part of the general considerations of this process.
 
-Before actions are taken, we inform users / customers about such as part of a field safety notice (FSN). The FSN is written in the language of the respective country and must at minimum include:
+Before actions are taken, we identify affected users / customers and inform them about such actions as part of a field safety notice (FSN). The FSN is written in the language of the respective country and must at minimum include:
 
 * Subject: **Safety Alert**
 * Manufacturer information (e.g. contact details)
@@ -197,7 +203,9 @@ Before actions are taken, we inform users / customers about such as part of a fi
 
 A copy of the FSN shall be archived. Customers confirm the receipt of FSNs as well as the implementation of recommended actions. If a customer does not respond, at least three attempts for delivery should be made. It is also documented as part of the CAPA if all attempts to inform a customer were unsuccessful.
 
-All FSCA are documented as part of the CAPA and must be reported to competent national authorities.. 
+For B2B customers of our devices, respective contact details for vigilance purposes must be documented as part of CERT-LIS-DEV. For B2C customers, contact details which allow unique identification of end users must be stored separately for every device.
+
+All FSCA are documented as part of the CAPA and must be reported to competent national authorities as described in the previous para. 4.
 
 > You may want to consider a separate process regarding the handling of non-conforming products. This process
 > would entail labeling instructions for respective product code and instructions for employees handling those

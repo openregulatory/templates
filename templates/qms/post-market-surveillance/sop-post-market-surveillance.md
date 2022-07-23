@@ -52,7 +52,7 @@ enter them into the report template.
 
 At minimum, the following information categories have to be taken into consideration:
 
- * **Clinical evaluations and PMCF activities:**: Input from Post-Market Clinical Follow-Up activities.
+ * **Clinical evaluations and PMCF activities:**: Input from Post-Market Clinical Follow-Up activities (see clinical evaluation process and template for the PMCF plan).
  * **New research and development in the market:** Information regarding similar medical devices and
    technologies on the market.
  * **Input from recalls and reportable events:** Recalls, incidents and unintended side effects reported by
@@ -83,7 +83,7 @@ Actions may entail:
    updating risk mitigation measures in place).
  * **Initiating a CAPA**, for example, to update processes, training measures or resource allocation.
  * **Initiating the vigilance process** reporting serious incidents and FSCA to competent authorities.
- * **Design changes** to the product following the company’s change management process.
+ * **Design changes** to the product following the company’s change management and software development process.
 
 | Participants    |
 |-----------------|

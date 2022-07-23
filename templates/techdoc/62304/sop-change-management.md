@@ -58,9 +58,10 @@ The processing of changes is based on the following regulatory provisions and gu
 
 Changes proposals can originate from various sources, e.g.:
 
- * Customer feedback
- * Market research
- * Internal ideas
+* Internal design ideas
+* Market research
+* Customer feedback (see process for feedback management)
+* Post-Market Surveillance (see process for post-market surveillance)
 
 They can originate from anywhere inside the company.
 
