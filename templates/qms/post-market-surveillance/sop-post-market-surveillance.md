@@ -33,7 +33,6 @@ for a product.
 
 For medical devices of class IIa, post-market surveillance cycles may extend to no longer than two years. For medical devices of classes IIb and III, annual surveillance cycles apply. For devices of class IIa and higher, each surveillance cycle is concluded with the compilation of a periodic safety update report (see below). For class I devices, longer surveillance cycles may be defined.
 
-
 | Participants    |
 |-----------------|
 | QMO             |
