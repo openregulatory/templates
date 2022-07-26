@@ -71,14 +71,14 @@ BDSG.
 
 ## Annex: Further information on data protection
 
-* **Processing*** within the EU General Data Protection Regulation (DSGVO) means any process or series of
+* **Processing** within the EU General Data Protection Regulation (DSGVO) means any process or series of
   operations performed with or without the aid of automated processes in connection with personal data such as
   collection, organization, ordering, storage, adaptation, alteration, reading, querying, use, disclosure
   through transmission, dissemination or other form of provision, matching or linking, restriction, erasure or
   destruction. Any processing of personal data must be carried out according to a valid legal basis out of
   those recognized by art. 6 GDPR and only for the purpose they have been collected for.
 
-* **Personal data*** within the meaning of the GDPR are all information relating to an identified or
+* **Personal data** within the meaning of the GDPR are all information relating to an identified or
   identifiable natural person; a natural person is considered as identifiable if it can be directly or
   indirectly identified, in particular by association with an identifier such as a name, an identification
   number, location data, an online identifier or one or more special features, the expression of the physical,
