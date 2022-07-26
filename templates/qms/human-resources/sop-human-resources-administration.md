@@ -127,7 +127,7 @@ responsible to perform administrative onboarding for the new employee, including
 
 Upon the first day, the direct supervisor or team leader is responsible to ensure that the new employee
 receives and completes initial training. QMO is responsible for determining required QMS training. Completed
-training is documented as part of **PTR-LIS-TDC**. Initial training must be completed within the first week.
+training is documented as part of the list of training documentation. Initial training must be completed within the first week.
 
 |              |                                                             |
 |--------------|-------------------------------------------------------------|
