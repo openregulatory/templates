@@ -26,8 +26,8 @@ clinical data. It is the output of the Clinical Evaluation Plan.
 
 ## Table of Contents
 
-> A list of the sections is presented below. You have to update this manually when you edit headings as this is a markdown
-> file (sorry - guilty dog face).
+> A list of the sections is presented below. You have to update this manually when you edit headings as this
+> is a markdown file (sorry - guilty dog face).
 
  1. List of Abbreviations
  2. Product
@@ -96,7 +96,9 @@ Other relevant regulatory documents:
 * Clinical Evaluation Plan
 * Instructions for Use (IFU)
 
-This clinical evaluation report serves as evidence of conformance with certain General Safety and Performance Requirements pursuant to EU Regulation 2017/745 (MDR), Annex I.
+This clinical evaluation report serves as evidence of conformance with certain General Safety and Performance
+Requirements pursuant to EU Regulation 2017/745 (MDR), Annex I.
+
 Specifically, the following requirements were evaluated as part of this report:
 
 * Chapter 1 (General Requirements), para. 1 and 8
@@ -340,13 +342,24 @@ evaluated. This was done according to the following scheme:
 
 ## 10. Equivalence
 
-> NOTE: first of all, under the European MDR, equivalence data is not as significant anymore as it used to be under the MDD. That's because the MDR now actually requires you to have access to the clinical data that you are referencing to support your own device's safety and performance. Access to the data of competitor devices is usually rather tricky though. That's why we're using equivalence in our template only as a another indicator on the side.
-> It's important though to understand why you're conducting this equivalent device comparison: you want to show that another device is very safe and has a reliable performance. You then refer to those datapoints and, after demonstrating that your device is equivalent to the other, argue that those datapoints also support your device profile. That means:
+> NOTE: first of all, under the European MDR, equivalence data is not as significant anymore as it used to be
+> under the MDD. That's because the MDR now actually requires you to have access to the clinical data that you
+> are referencing to support your own device's safety and performance. Access to the data of competitor
+> devices is usually rather tricky though. That's why we're using equivalence in our template only as a
+> another indicator on the side.
 >
-> * Make sure to include search terms for the equivalent device(s), such as the brand name, in your literature search (para. 8)
-> * Make sure to include search terms for the equivalent device(s), such as the brand name, in your literature search (para. 9)
+> It's important though to understand why you're conducting this equivalent device comparison: you want to
+> show that another device is very safe and has a reliable performance. You then refer to those datapoints
+> and, after demonstrating that your device is equivalent to the other, argue that those datapoints also
+> support your device profile. That means:
 >
-> You don't really analyze the resulting information in the above paragraphs, but draw your main conclusion from this below in para. 10.2.4.
+> * Make sure to include search terms for the equivalent device(s), such as the brand name, in your literature
+>   search (para. 8)
+> * Make sure to include search terms for the equivalent device(s), such as the brand name, in your literature
+>   search (para. 9)
+>
+> You don't really analyze the resulting information in the above paragraphs, but draw your main conclusion
+> from this below in para. 10.2.4.
 
 ### 10.1 Equivalent Device
 
@@ -372,8 +385,8 @@ evaluated. This was done according to the following scheme:
 | Device Classification  |                      |                      |
 | Principle of Operation | Stand-alone Software | Stand-alone Software |
 
-According to standard methodology, the level of similarity or equivalence of a comparable medical device to the evaluated medical device is
-divided into the three categories "clinical", "technical" and "biological".
+According to standard methodology, the level of similarity or equivalence of a comparable medical device to
+the evaluated medical device is divided into the three categories "clinical", "technical" and "biological".
 
 Within each category there are four steps for the evaluation of the equivalence level:
 
@@ -474,13 +487,13 @@ The device is considered to have equivalent effectiveness, if it:
 
 > The following table can be added if it is a hardware-related Medical Device:
 
-|                                        | Equivalent Device | This Device                       |
-|----------------------------------------|-------------------|-----------------------------------|
-| Design                                 |                   |                                   |
-| Dimension                              |                   |                                   |
-| Operating Condition                    |                   |                                   |
-| Physical Characteristics (e.g., weight) |                   |                                   |
-| Data transmission                      |                   |                                   |
+|                                         | Equivalent Device | This Device |
+|-----------------------------------------|-------------------|-------------|
+| Design                                  |                   |             |
+| Dimension                               |                   |             |
+| Operating Condition                     |                   |             |
+| Physical Characteristics (e.g., weight) |                   |             |
+| Data transmission                       |                   |             |
 
 **Technical Equivalence Score: \<enter number between 0 and 3\>**
 
@@ -555,10 +568,10 @@ Not applicable. The device doesn't come in contact with human tissue or body flu
 > and sign the sheet of paper, ugh).
 
 | Activity | Name | Signature |
-|-----------|------|-----------|
-| Creation  |      |           |
-| Review    |      |           |
-| Approval  |      |           |
+|----------|------|-----------|
+| Creation |      |           |
+| Review   |      |           |
+| Approval |      |           |
 
 ## 15. Qualification of the Responsible Evaluators
 
