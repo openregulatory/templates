@@ -33,26 +33,30 @@ evaluate clinical data with the aim of:
 
 The clinical evaluation report outlined the following risk-benefit-profile for the product:
 
-> Current content in the table really just uses random examples for the Apple watch as a (more or less) figurative medical device.
+> Current content in the table really just uses random examples for the Apple watch as a (more or less)
+> figurative medical device.
 
-| Risk ID | Residual Risk | Benefit ID | Product Benefit |
-| ------- | ------------- | ---------- | --------------- |
-| #R1 | Inaccurate blood oxygen measurement | #B1 | Increased quality of life through higher awareness for healthy lifestyle |
-| #R2 | (...) | #B2 | Higher likelihood of detecting chronic diseases linked to low blood oxygen |
-|  |  |  |  |
+| Risk ID | Residual Risk                       | Benefit ID | Product Benefit                                                            |
+|---------|-------------------------------------|------------|----------------------------------------------------------------------------|
+| #R1     | Inaccurate blood oxygen measurement | #B1        | Increased quality of life through higher awareness for healthy lifestyle   |
+| #R2     | (...)                               | #B2        | Higher likelihood of detecting chronic diseases linked to low blood oxygen |
+|         |                                     |            |                                                                            |
 
 ## PMCF Objectives
 
-> In this section, translate each risk and benefit ID from your report above into a specific objective that can be measured. Based on MEDDEV 2.12./2 guidance, you hereby want to express a 'formal hypothesis'.
-> 
-> Entries are again for Apple watch. Another example: if your product is a software to support diagnosis, one of your aims would be to measure a higher sensitivity / specificity of physicians that use your device. The clinical data you collect will support your claimed product benefits at the end of the PMCF interval.
+> In this section, translate each risk and benefit ID from your report above into a specific objective that
+> can be measured. Based on MEDDEV 2.12./2 guidance, you hereby want to express a "formal hypothesis".
+>
+> Entries are again for Apple watch. Another example: if your product is a software to support diagnosis, one
+> of your aims would be to measure a higher sensitivity / specificity of physicians that use your device. The
+> clinical data you collect will support your claimed product benefits at the end of the PMCF interval.
 
-| Risk / Benefit  | PMCF Objective |  | ID |
-| --------------- | -------------- | --- | --- |
-| Inaccurate blood oxygen measurement | False-high blood oxygen values |  | #R1 |
-| Inaccurate blood oxygen measurement | False-low blood oxygen values |  | #R2 |
-| Higher likelihood of detecting chronic diseases linked to low blood oxygen | Higher detection of sleep apnea |  | #B2 |
-|  |  |  |  |
+| Risk / Benefit                                                             | PMCF Objective                  |   | ID  |
+|----------------------------------------------------------------------------|---------------------------------|---|-----|
+| Inaccurate blood oxygen measurement                                        | False-high blood oxygen values  |   | #R1 |
+| Inaccurate blood oxygen measurement                                        | False-low blood oxygen values   |   | #R2 |
+| Higher likelihood of detecting chronic diseases linked to low blood oxygen | Higher detection of sleep apnea |   | #B2 |
+|                                                                            |                                 |   |     |
 
 ### PMCF Activities
 
@@ -68,7 +72,7 @@ The clinical evaluation report outlined the following risk-benefit-profile for t
 
 ### PMCF Schedule
 
-| PMCF Activity | ID | Responsible Role | Due Date |
-| ------------- | --- | ---------------- | -------- |
-| Clinical trial | #R1, B#2, (...) | CMO | (...) |
-|  |  |  |  |
+| PMCF Activity  | ID              | Responsible Role | Due Date |
+|----------------|-----------------|------------------|----------|
+| Clinical trial | #R1, B#2, (...) | CMO              | (...)    |
+|                |                 |                  |          |
