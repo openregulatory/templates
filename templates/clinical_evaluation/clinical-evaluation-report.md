@@ -26,8 +26,8 @@ clinical data. It is the output of the Clinical Evaluation Plan.
 
 ## Table of Contents
 
-> A list of the sections is presented below. You have to update this manually when you edit headings as this is a markdown
-> file (sorry - guilty dog face).
+> A list of the sections is presented below. You have to update this manually when you edit headings as this
+> is a markdown file (sorry - guilty dog face).
 
  1. List of Abbreviations
  2. Product
@@ -88,11 +88,21 @@ The classification is based on the following criteria:
  * Annex IX of the European Directive 93/42/EEC (MDD): *\<if applicable\>*
  * According to the EU Regulation 2017/745 (MDR) Annex VIII Rules: *\<if applicable\>*.
 
-## 3. Relevant Documents
+## 3. Relevant Regulatory References
 
- * SOP Clinical Evaluation
- * Clinical Evaluation Plan
- * Instructions for Use (IFU)
+Other relevant regulatory documents:
+
+* SOP Clinical Evaluation
+* Clinical Evaluation Plan
+* Instructions for Use (IFU)
+
+This clinical evaluation report serves as evidence of conformance with certain General Safety and Performance
+Requirements pursuant to EU Regulation 2017/745 (MDR), Annex I.
+
+Specifically, the following requirements were evaluated as part of this report:
+
+* Chapter 1 (General Requirements), para. 1 and 8
+* Chapter 2.8 (Software Devices), para. 17.2
 
 ## 4. Scope of the Clinical Evaluation
 
@@ -190,13 +200,172 @@ Safety-related product claims:
 
 > Note: This section is copy-pasted from the Clinical Evaluation Plan.
 
-## 8. Equivalence
+## 8. Literature Search
 
-### 8.1 Equivalent Device
+### 8.1 Literature Search Methods
+
+> Copy-paste from Clinical Evaluation Plan.
+
+### 8.2 Literature Appraisal Criteria
+
+> Copy-paste from Clinical Evaluation Plan.
+
+> You can describe it as a flow chart, e.g.:
+>
+> 1. Initial search with all publications from the relevant databases.
+> 2.1 Potentially relevant papers (from the first skimming of article titles / abstracts)
+> 2.2 Irrelevant papers
+> 3. Potentially relevant papers found in irrelevant papers
+> 4.1 Relevant paper used for context
+> 4.2 Relevant paper used for a single appraisal (pivotal data)
+
+### 8.3 Literature Search Protocol
+
+> A table which lists your actual literature search results. For each entry, you should decide whether it's
+> acceptable (based on your appraisal criteria) or not. I pre-wrote some tables to give you an idea of the
+> structure below. You could separate the tables based on the database where you did the search (PubMed,
+> Google Scholar).
+>
+> It could make sense to put this in a separate document (rather: a spreadsheet).
+>
+> Here are some bullet points from the guidance:
+> * Literature search protocol provided
+> * Literature search reports provided
+> * Full list of retrieved articles provided
+> * Full list of excluded articles provided, with reasons for exclusion Full text copies of relevant documents
+>   available
+
+### 8.4 Database Search Overview
+
+| Database | Search term | # Hits | # Evaluated Abstracts | # Potential Relevant Publications |
+|----------|-------------|--------|-----------------------|-----------------------------------|
+|          |             |        |                       |                                   |
+
+### 8.5 Database: PubMed
+
+| Title | Author | Year | Summary | Relevant? Why?                          |
+|-------|--------|------|---------|-----------------------------------------|
+|       |        |      |         | *e.g., similar design, similar features* |
+
+### 8.6 Database: Google Scholar
+
+| Title | Author | Year | Summary | Relevant? Why? |
+|-------|--------|------|---------|----------------|
+|       |        |      |         |                |
+
+### 8.7 Database: Cochrane
+
+| Title | Author | Year | Summary | Relevant? Why? |
+|-------|--------|------|---------|----------------|
+|       |        |      |         |                |
+
+### 9.8 Literature Search Report
+
+> Briefly summarize how many studies you reviewed, how many you deemed acceptable and why you didn't include
+> the unacceptable ones (probably because they didn't conform to the appraisal criteria).
+
+> Describe a gap analysis which information could not be found during your search e.g., specific
+> functionalities of your device, limited number of clinical data in publications.
+
+### 8.10 Evaluation of study Quality
+
+#### 8.10.1  Level of Evidence (LoE)
+
+> Take a sufficient classification to evaluate the quality of your study. You can use the LoE from MDCG 2020-6
+> or from the American Heart Association.
+
+#### 8.10.2 Tendency (T)
+
+> The MEDDEV 2.7/1 rev. 4 requires that literature is used that confirms as well as questions the suitability
+> of the evaluated medical device.
+>
+>  * Positive: + (Confirms clinical suitability)
+>  * Negative: - (Does not confirm clinical suitability)
+>  * Indifferent: i (No statement to the clinical suitability possible)
+
+### 8.10.3 Comparability (C)
+
+> For the consideration of the relevance of literature data for the clinical evaluation it is necessary to make
+> a statement about the comparability to the medical device to be evaluated. This statement about the
+> comparability is made according to the described criteria from chapter "Equivalence" above.
+
+### 8.10.4  Single Appraisal of Searched Clinical Studies
+
+> This chapter is highly important for medical device evaluation. Here you take all the publications from
+> the literature search and evaluate them to prove equivalence with your device and prove the respective
+> product claims. The latter can also be proven by other activities (e.g., PMS, equivalent device, usability
+> testing, result of adverse events etc.).
+
+### 8.10.5 Literature Data on the Performance of the Medical Device
+
+> Focus here on equivalent devices that support your performance claims.
+
+> Do the paper description in the same way e.g.:
+>
+>  * First, describe the study with its main characteristics regarding the quality and relevance are made.
+>    (Study design, patient number, mean age inclusion and exclusion criteria, used product, endpoint,
+>    results of performance, conclusion of the author).
+>  * Complications, side-effects, adverse events.
+>  * A consideration of the study according to the criteria. (LoE, T, C)
+
+In the following, the selected literature references, which were categorized as "relevant" (appraisal), are
+evaluated. This was done according to the following scheme:
+
+#### 8.10.6 Literature Data about the Safety of the Medical Device
+
+> Focus here on equivalent devices that support your Safety claims. So you do not need to describe the LoE
+> since potential risks can also arise from case studies (which might have a low LoE).
+
+## 9. Clinical Data
+
+### 9.1 Clinical Data From Literature
+
+> List all the clinical data you got from studies which matched your appraisal criteria.
+
+### 9.2 Clinical Data from Clinical Study Databases
+
+> List all the clinical data you got from studies (clinical trials.gov, ANCTR, DRKS, WHO etc.).
+
+### 9.3 Clinical Data From Adverse Event Databases
+
+> List all the clinical data you got from studies which matched your appraisal criteria (BfArM, MAUDE, FDA
+> Medical Device Recall, EUDAMED (when applicable)).
+
+### 9.4 Summary and Appraisal of Clinical Data
+
+> Summarize all the clinical data from above :)
+
+### 9.5 Analysis of the Clinical Data
+
+> Analyze the clinical data with a focus on whether your targets of clinical benefits and safety were
+> fulfilled.
+
+## 10. Equivalence
+
+> NOTE: first of all, under the European MDR, equivalence data is not as significant anymore as it used to be
+> under the MDD. That's because the MDR now actually requires you to have access to the clinical data that you
+> are referencing to support your own device's safety and performance. Access to the data of competitor
+> devices is usually rather tricky though. That's why we're using equivalence in our template only as a
+> another indicator on the side.
+>
+> It's important though to understand why you're conducting this equivalent device comparison: you want to
+> show that another device is very safe and has a reliable performance. You then refer to those datapoints
+> and, after demonstrating that your device is equivalent to the other, argue that those datapoints also
+> support your device profile. That means:
+>
+> * Make sure to include search terms for the equivalent device(s), such as the brand name, in your literature
+>   search (para. 8)
+> * Make sure to include search terms for the equivalent device(s), such as the brand name, in your literature
+>   search (para. 9)
+>
+> You don't really analyze the resulting information in the above paragraphs, but draw your main conclusion
+> from this below in para. 10.2.4.
+
+### 10.1 Equivalent Device
 
 > Describe the equivalent device you're comparing yourself to, mainly its Intended Use.
 
-### 8.2 Demonstration of Equivalence (Technical, Biological, Clinical)
+### 10.2 Demonstration of Equivalence (Technical, Biological, Clinical)
 
 > Here you have to demonstrate that your device is equivalent to the Equivalent Device. You accomplish that by
 > creating a table in which you list certain characteristics, and describe those characteristics both for the
@@ -216,8 +385,8 @@ Safety-related product claims:
 | Device Classification  |                      |                      |
 | Principle of Operation | Stand-alone Software | Stand-alone Software |
 
-According to standard methodology, the level of similarity or equivalence of a comparable medical device to the evaluated medical device is
-divided into the three categories "clinical", "technical" and "biological".
+According to standard methodology, the level of similarity or equivalence of a comparable medical device to
+the evaluated medical device is divided into the three categories "clinical", "technical" and "biological".
 
 Within each category there are four steps for the evaluation of the equivalence level:
 
@@ -287,7 +456,7 @@ The device is considered to have equivalent effectiveness, if it:
 
  * Has similar Sensitivity, Specificity, Accuracy, NNP, PPV, etc.
 
-#### 8.2.1 Clinical Equivalence
+#### 10.2.1 Clinical Equivalence
 
 > Note: The MDR doesn't explicitly state that the device needs to be used for the same medical indication,
 > gender and duration of use. But it should be used for the same clinical condition or purpose including
@@ -305,7 +474,7 @@ The device is considered to have equivalent effectiveness, if it:
 
 **Clinical Equivalence Score: \<enter number between 0 and 3\>**
 
-#### 8.2.2 Technical Equivalence
+#### 10.2.2 Technical Equivalence
 
 |                                | Equivalent Device | This Device |
 |--------------------------------|-------------------|-------------|
@@ -318,17 +487,17 @@ The device is considered to have equivalent effectiveness, if it:
 
 > The following table can be added if it is a hardware-related Medical Device:
 
-|                                        | Equivalent Device | This Device                       |
-|----------------------------------------|-------------------|-----------------------------------|
-| Design                                 |                   |                                   |
-| Dimension                              |                   |                                   |
-| Operating Condition                    |                   |                                   |
-| Physical Characteristics (e.g., weight) |                   |                                   |
-| Data transmission                      |                   |                                   |
+|                                         | Equivalent Device | This Device |
+|-----------------------------------------|-------------------|-------------|
+| Design                                  |                   |             |
+| Dimension                               |                   |             |
+| Operating Condition                     |                   |             |
+| Physical Characteristics (e.g., weight) |                   |             |
+| Data transmission                       |                   |             |
 
 **Technical Equivalence Score: \<enter number between 0 and 3\>**
 
-#### 8.2.3 Biological Equivalence
+#### 10.2.3 Biological Equivalence
 
 > For stand-alone software:
 
@@ -342,7 +511,7 @@ Not applicable. The device doesn't come in contact with human tissue or body flu
 
 **Biological Equivalence Score: \<enter number between 0 and 3\>**
 
-#### 8.2.4 Conclusion
+#### 10.2.4 Conclusion
 
 > Describe your conclusion based on the sum of the numbers values that you gave for each aspect of your
 > equivalence evaluation.
@@ -357,146 +526,6 @@ Not applicable. The device doesn't come in contact with human tissue or body flu
 > * Post-Market Surveillance/ Post-Market Clinical Follow-up
 
 **Total Equivalence Score: \<enter number between 0 and 9\>**
-
-## 9. Literature Search
-
-### 9.1 Literature Search Methods
-
-> Copy-paste from Clinical Evaluation Plan.
-
-### 9.2 Literature Appraisal Criteria
-
-> Copy-paste from Clinical Evaluation Plan.
-
-> You can describe it as a flow chart, e.g.:
->
-> 1. Initial search with all publications from the relevant databases.
-> 2.1 Potentially relevant papers (from the first skimming of article titles / abstracts)
-> 2.2 Irrelevant papers
-> 3. Potentially relevant papers found in irrelevant papers
-> 4.1 Relevant paper used for context
-> 4.2 Relevant paper used for a single appraisal (pivotal data)
-
-### 9.3 Literature Search Protocol
-
-> A table which lists your actual literature search results. For each entry, you should decide whether it's
-> acceptable (based on your appraisal criteria) or not. I pre-wrote some tables to give you an idea of the
-> structure below. You could separate the tables based on the database where you did the search (PubMed,
-> Google Scholar).
->
-> It could make sense to put this in a separate document (rather: a spreadsheet).
->
-> Here are some bullet points from the guidance:
-> * Literature search protocol provided
-> * Literature search reports provided
-> * Full list of retrieved articles provided
-> * Full list of excluded articles provided, with reasons for exclusion Full text copies of relevant documents
->   available
-
-### 9.4 Database Search Overview
-
-| Database | Search term | # Hits | # Evaluated Abstracts | # Potential Relevant Publications |
-|----------|-------------|--------|-----------------------|-----------------------------------|
-|          |             |        |                       |                                   |
-
-### 9.5 Database: PubMed
-
-| Title | Author | Year | Summary | Relevant? Why?                          |
-|-------|--------|------|---------|-----------------------------------------|
-|       |        |      |         | *e.g., similar design, similar features* |
-
-### 9.6 Database: Google Scholar
-
-| Title | Author | Year | Summary | Relevant? Why? |
-|-------|--------|------|---------|----------------|
-|       |        |      |         |                |
-
-### 9.7 Database: Cochrane
-
-| Title | Author | Year | Summary | Relevant? Why? |
-|-------|--------|------|---------|----------------|
-|       |        |      |         |                |
-
-### 9.8 Literature Search Report
-
-> Briefly summarize how many studies you reviewed, how many you deemed acceptable and why you didn't include
-> the unacceptable ones (probably because they didn't conform to the appraisal criteria).
-
-> Describe a gap analysis which information could not be found during your search e.g., specific
-> functionalities of your device, limited number of clinical data in publications.
-
-### 9.10 Evaluation of study Quality
-
-#### 9.10.1  Level of Evidence (LoE)
-
-> Take a sufficient classification to evaluate the quality of your study. You can use the LoE from MDCG 2020-6
-> or from the American Heart Association.
-
-#### 9.10.2 Tendency (T)
-
-> The MEDDEV 2.7/1 rev. 4 requires that literature is used that confirms as well as questions the suitability
-> of the evaluated medical device.
->
->  * Positive: + (Confirms clinical suitability)
->  * Negative: - (Does not confirm clinical suitability)
->  * Indifferent: i (No statement to the clinical suitability possible)
-
-### 9.10.3 Comparability (C)
-
-> For the consideration of the relevance of literature data for the clinical evaluation it is necessary to make
-> a statement about the comparability to the medical device to be evaluated. This statement about the
-> comparability is made according to the described criteria from chapter "Equivalence" above.
-
-### 9.10.4  Single Appraisal of Searched Clinical Studies
-
-> This chapter is highly important for medical device evaluation. Here you take all the publications from
-> the literature search and evaluate them to prove equivalence with your device and prove the respective
-> product claims. The latter can also be proven by other activities (e.g., PMS, equivalent device, usability
-> testing, result of adverse events etc.).
-
-### 9.10.5 Literature Data on the Performance of the Medical Device
-
-> Focus here on equivalent devices that support your performance claims.
-
-> Do the paper description in the same way e.g.:
->
->  * First, describe the study with its main characteristics regarding the quality and relevance are made.
->    (Study design, patient number, mean age inclusion and exclusion criteria, used product, endpoint,
->    results of performance, conclusion of the author).
->  * Complications, side-effects, adverse events.
->  * A consideration of the study according to the criteria. (LoE, T, C)
-
-In the following, the selected literature references, which were categorized as "relevant" (appraisal), are
-evaluated. This was done according to the following scheme:
-
-#### 9.10.6 Literature Data about the Safety of the Medical Device
-
-> Focus here on equivalent devices that support your Safety claims. So you do not need to describe the LoE
-> since potential risks can also arise from case studies (which might have a low LoE).
-
-## 10. Clinical Data
-
-### 10.1 Clinical Data From Literature
-
-> List all the clinical data you got from studies which matched your appraisal criteria.
-
-### 10.2 Clinical Data from Clinical Study Databases
-
-> List all the clinical data you got from studies (clinical trials.gov, ANCTR, DRKS, WHO etc.).
-
-### 10.3 Clinical Data From Adverse Event Databases
-
-> List all the clinical data you got from studies which matched your appraisal criteria (BfArM, MAUDE, FDA
-> Medical Device Recall, EUDAMED (when applicable)).
-
-### 10.4 Summary and Appraisal of Clinical Data
-
-> Summarize all the clinical data from above :)
-
-### 10.5 Analysis of the Clinical Data
-
-> Analyze the clinical data with a focus on whether your targets of clinical benefits and safety were
-> fulfilled.
 
 ## 11. Post-Market Activities
 
@@ -539,10 +568,10 @@ evaluated. This was done according to the following scheme:
 > and sign the sheet of paper, ugh).
 
 | Activity | Name | Signature |
-|-----------|------|-----------|
-| Creation  |      |           |
-| Review    |      |           |
-| Approval  |      |           |
+|----------|------|-----------|
+| Creation |      |           |
+| Review   |      |           |
+| Approval |      |           |
 
 ## 15. Qualification of the Responsible Evaluators
 
