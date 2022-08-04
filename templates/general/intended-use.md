@@ -42,6 +42,9 @@
 > your software. Importantly, also list exclusion criteria: Maybe patients with a certain diagnosis should not
 > be using your device.
 
+## Contraindications
+> List anything that you want to explicitly exclude from your intended use.
+
 ## Patient Population
 
 > Describe the patient population your software is intended to be used on. Note that this may overlap with the
