@@ -58,7 +58,8 @@ Summative Usability Evaluation is conducted by performing User Tests.
 User Tests must comply with the following requirements:
 
  * The user profile is the one specified in the Device Description.
- * All Hazard-Related Use Scenarios must be covered.
+ * All Hazard-Related Use Scenarios must be covered by test cases (see IEC 62366, para. 5.7.3 / 5.9).
+ * Sufficient stakeholder requirements / user needs must be covered by test cases to ensure that the product meets its intended use (see ISO 13485, para. 7.3.7)
  * At least five test participants.
  * The Usability Test Protocol must be filled out which descriptions of each use scenario and
    instructions. It is also used to document the observations and discovered hazards.
