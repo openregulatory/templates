@@ -6,6 +6,7 @@ the order of documents within a phase, but I recommend to finalize documents fro
 to the next.
 
 ### PHASE 1: Planning & Feasability
+
 | Document                                        | Author                        | Comment                                                                                                                                                                            |
 |-------------------------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Intended Use                                    | CEO                           | This is the most important document of your TechDoc. Business and Regulatory Strategy depend on it.                                                                                |
@@ -15,6 +16,7 @@ to the next.
 | Change Evaluation List                          | QA/RA Manger                  | Listing and assessing gaps between the last and the upcoming software version. Follows criteria from MDCG 2020-3. Not needed for the very first release.                           |
 | Risk Management Plan and Risk Acceptance Matrix | Risk Manager                  | Specifies the methods for assessing risks to be used for the product at hand. Defines probability and severity categories and acceptable ranges.                                   |
 | Clinical Evaluation Plan                        | Clinician / Scientific Person | Specifying the methodology that shall be used to assess the clinical benefits and risks of the product.                                                                            |
+
 ### PHASE 2: Specification
 
 | Document                             | Author                               | Comment                                                                                                    |
@@ -27,8 +29,6 @@ to the next.
 | Software Requirements Checklist      | QA/RA Manager                        | Checking if the Software Requirements List makes sense.                                                    |
 | Software Test Plan                   | Software Developer                   | Defining tests for every Software Requirement and mapping them to each other.                              |
 | Usability Test Plan                  | Product Manager / Usability Engineer | Specifying the methodologies to be used to conduct the Usability Test.                                     |
-
-
 
 ### PHASE 3: Development
 
@@ -54,8 +54,6 @@ sense to create them in parallel with the programming.
 | Usability Test Report      | Product Manager                      | Summary of the results of the Usability Test.                                                                                                                                     |
 | Clinical Evaluation Report | Clinician / Scientific Person        | Analysing scientific data to prove the products safety and efficacy.                                                                                                              |
 | Risk Management Report     | Risk Manager                         | Summary of the Risk Management Activities                                                                                                                                         |
-
-
 ### PHASE 5: Product Release
 
 | Document                   | Author                                | Comment                                                                                                                                                             |
