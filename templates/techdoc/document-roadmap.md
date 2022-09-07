@@ -54,6 +54,7 @@ sense to create them in parallel with the programming.
 | Usability Test Report      | Product Manager                      | Summary of the results of the Usability Test.                                                                                                                                     |
 | Clinical Evaluation Report | Clinician / Scientific Person        | Analysing scientific data to prove the products safety and efficacy.                                                                                                              |
 | Risk Management Report     | Risk Manager                         | Summary of the Risk Management Activities                                                                                                                                         |
+
 ### PHASE 5: Product Release
 
 | Document                   | Author                                | Comment                                                                                                                                                             |
