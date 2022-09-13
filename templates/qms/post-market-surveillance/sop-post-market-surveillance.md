@@ -9,20 +9,12 @@ clinical evaluation and software development of our products.
 ## General Considerations
 
 This process is followed for each product separately, meaning that for each product, a Post-Market
-Surveillance Plan and Report are created and continuously updated.
+Surveillance Plan and Periodic Safety Update Report are created and continuously updated.
 
-> Note: For class I devices, you could specify a longer update interval, e.g. once every two years.
+> Note: For class I devices, you could specify a longer update interval, e.g. once every two or three years.
 > Note: Feel free to assign the responsibility to any other role. It typically makes sense to choose a role
 > that is both close to product development as well as clinical issues.
 
-| Responsibility  | Document Update Interval |
-|-----------------|--------------------------|
-| Product Manager | Once per year            |
-
-> Please also note that according to the Transitional Provisions of Art. 120 MDR, you are required to comply
-> with MDR requirements regarding post-market surveillance (Art. 83 ff.) starting May 2021 even if your
-> product runs on a valid MDD certificate. This basically means to use the new format of a ‘Period Safety
-> Update Report’ (PSUR).
 
 ## Process Steps
 
