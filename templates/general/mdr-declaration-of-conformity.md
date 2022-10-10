@@ -23,7 +23,7 @@ class I active devices)\>.
 
 > For context, read Chapter 5, Section 1, Art. 51 MDR. You can find the classification rule applicable to your
 > medical device set out in Annexes VIII of the MDR.
-
+>
 > For example: software intended to provide information used to take decisions with diagnosis or therapeutic
 > purposes and software intended to monitor physiological processes is classified as class IIa according to
 > rule 11 of the Annex.
@@ -35,7 +35,7 @@ III\>* of the Regulation (EU) 2017/745.
 
 > For context, read Chapter 5, Section 2, Art. 52 MDR. You can find the conformity assessment procedures
 > applicable to your medical device class set out in Annexes IX to XI of the MDR:
-
+>
 > * For class III devices (other than custom-made or investigational devices) -> Annex IX. Alternatively:
 >   Annex X + XI
 > * For class IIb devices (other than custom-made or investigational devices) -> Chapters I and III of Annex
