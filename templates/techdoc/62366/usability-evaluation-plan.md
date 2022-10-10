@@ -39,8 +39,8 @@ Formative Usability Evaluation is performed with the following methods:
    improvements.
  * **User Tests:** Letting users of the intended target user group use the device based on a Usability
    Evaluation protocol, observing them and documenting potential Usability problems. This is essentially the
-   same methods as the Summative Usability Evaluation, with the only difference being that it's being done on a
-   development (non-final, non-release) version of the device with the goal of gathering knowledge for
+   same methods as the Summative Usability Evaluation, with the only difference being that it's being done on
+   a development (non-final, non-release) version of the device with the goal of gathering knowledge for
    improving the final device.
 
 ### 4.2 Planning (Overview)
@@ -58,7 +58,9 @@ Summative Usability Evaluation is conducted by performing User Tests.
 User Tests must comply with the following requirements:
 
  * The user profile is the one specified in the Device Description.
- * All Hazard-Related Use Scenarios must be covered.
+ * All Hazard-Related Use Scenarios must be covered by test cases (see IEC 62366, para. 5.7.3 / 5.9).
+ * Sufficient stakeholder requirements / user needs must be covered by test cases to ensure that the product
+   meets its intended use (see ISO 13485, para. 7.3.7)
  * At least five test participants.
  * The Usability Test Protocol must be filled out which descriptions of each use scenario and
    instructions. It is also used to document the observations and discovered hazards.
