@@ -43,6 +43,7 @@
 > be using your device.
 
 ## Contraindications
+
 > List anything that you want to explicitly exclude from your intended use.
 
 ## Patient Population

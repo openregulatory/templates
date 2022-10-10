@@ -12,6 +12,7 @@ This process is followed for each product separately, meaning that for each prod
 Surveillance Plan and Periodic Safety Update Report are created and continuously updated.
 
 > Note: For class I devices, you could specify a longer update interval, e.g. once every two or three years.
+>
 > Note: Feel free to assign the responsibility to any other role. It typically makes sense to choose a role
 > that is both close to product development as well as clinical issues.
 
