@@ -138,10 +138,10 @@ The Usability Evaluation Plan includes summative and formative usability evaluat
 | CPO                                     |
 | Subject matter experts, e.g. physicians |
 
-| Input              | Output                                        |
-|--------------------|-----------------------------------------------|
-| Device description | Risk Management Plan                          |
-|                    | Usability Evaluation Plan                     |
+| Input              | Output                                            |
+|--------------------|---------------------------------------------------|
+| Device description | Risk Management Plan incl. risk acceptance matrix |
+|                    | Usability Evaluation Plan                         |
 
 ### 3. First Risk and Usability Assessment
 
@@ -177,7 +177,7 @@ summative usability evaluation and are reviewed following the checklist for user
 | Input                     | Output                                          |
 |---------------------------|-------------------------------------------------|
 | Device description        | Preliminary Hazards Analysis                    |
-| Risk Management Plan      | Risk table incl. Risk Acceptance Matrix (draft) |
+| Risk Management Plan      | Risk table (draft) |
 | Usability Evaluation Plan | Software Safety Classification (draft)          |
 |                           | User Needs                                      |
 |                           | User Needs Review Checklist                     |
