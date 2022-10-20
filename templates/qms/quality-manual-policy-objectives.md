@@ -51,6 +51,7 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
  * 7.5.5 Particular requirements for sterile medical devices
  * 7.5.7 Particular requirements for validation of processes for sterilization and sterile barrier systems
  * 7.5.9.2 Particular requirements for implantable medical devices
+ * 7.5.11 Preservation of product
 
 ## 2. Quality Policy & Objectives
 
