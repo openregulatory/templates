@@ -174,13 +174,13 @@ summative usability evaluation and are reviewed following the checklist for user
 | CPO                                     |
 | Subject matter experts, e.g. physicians |
 
-| Input                     | Output                                          |
-|---------------------------|-------------------------------------------------|
-| Device description        | Preliminary Hazards Analysis                    |
-| Risk Management Plan      | Risk table (draft) |
-| Usability Evaluation Plan | Software Safety Classification (draft)          |
-|                           | User Needs                                      |
-|                           | User Needs Review Checklist                     |
+| Input                     | Output                                 |
+|---------------------------|----------------------------------------|
+| Device description        | Preliminary Hazards Analysis           |
+| Risk Management Plan      | Risk table (draft)                     |
+| Usability Evaluation Plan | Software Safety Classification (draft) |
+|                           | User Needs                             |
+|                           | User Needs Review Checklist            |
 
 ### 4. Software Planning
 
