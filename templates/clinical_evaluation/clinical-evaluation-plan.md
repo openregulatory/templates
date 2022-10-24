@@ -28,8 +28,8 @@ literature search.
 
 Relevant Documents\
 Product\
-Responsibilities\
-1. Scope of the Clinical Evaluation\
+Responsibilities
+1. Scope of the Clinical Evaluation
 2. Device\
 2.1. Device Description\
 Intended Use\
@@ -43,13 +43,13 @@ Novelty\
 Design Requirements\
 2.2. Clinical Benefits, Outcome Parameters\
 2.3. Clinical Safety, Methods for Analysis\
-2.4. Acceptability of Benefit-Risk-Ratio\
-3. Type of Evaluation\
+2.4. Acceptability of Benefit-Risk-Ratio
+3. Type of Evaluation
 4. Literature Search\
 4.1. Literature Search Methods\
 4.2. Literature Appraisal Criteria\
-4.3. Additional Databases\
-5. References\
+4.3. Additional Databases
+5. References
 
 ## Relevant Documents
 
