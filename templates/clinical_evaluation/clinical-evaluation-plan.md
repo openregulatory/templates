@@ -13,8 +13,8 @@ literature search.
 > * MDCG 2020-1, 2020-5, 2020-6
 > * MDCG 2020-13: Quite helpful as it gives you an idea of the structure.
 > * MEDDEV 2.7/1 Rev. 4. (mostly for MDD, but still a good starting point; especially the list of proposed
-> headings for a report at the end of the document).
-> 
+>   headings for a report at the end of the document).
+>
 > Optionally:
 > * IMDRF/SaMD WG/N41 FINAL:2017
 > * IMDRF MDCE WG/N55 FINAL:2019
@@ -22,34 +22,34 @@ literature search.
 > * IMDRF MDCE WG/N57 FINAL:2019
 
 ## Table of Contents
-> A list of the sections is presented below. You have to update this manually when you edit headings as this 
+
+> A list of the sections is presented below. You have to update this manually when you edit headings as this
 > is a markdown file (sorry - guilty dog face).
-<ol>
-Relevant Documents <br>
-Product <br>
-Responsibilities <br>
-1. Scope of the Clinical Evaluation <br>
-2. Device <br>
-2.1. Device Description <br>
-Intended Use <br>
-User Profile <br>
-Precautions/Safety Instructions <br>
-Contraindications <br>
-Use Environment <br>
-Operating Principle <br>
-Variants/Accessories <br>
-Novelty <br>
-Design Requirements <br>
-2.2. Clinical Benefits, Outcome Parameters <br>
-2.3. Clinical Safety, Methods for Analysis <br>
-2.4. Acceptability of Benefit-Risk-Ratio <br>
-3. Type of Evaluation <br>
-4. Literature Search <br>
-4.1. Literature Search Methods <br>
-4.2. Literature Appraisal Criteria <br>
-4.3. Additional Databases <br>
-5. References <br>
-</ol>
+
+Relevant Documents\
+Product\
+Responsibilities\
+1. Scope of the Clinical Evaluation\
+2. Device\
+2.1. Device Description\
+Intended Use\
+User Profile\
+Precautions/Safety Instructions\
+Contraindications\
+Use Environment\
+Operating Principle\
+Variants/Accessories\
+Novelty\
+Design Requirements\
+2.2. Clinical Benefits, Outcome Parameters\
+2.3. Clinical Safety, Methods for Analysis\
+2.4. Acceptability of Benefit-Risk-Ratio\
+3. Type of Evaluation\
+4. Literature Search\
+4.1. Literature Search Methods\
+4.2. Literature Appraisal Criteria\
+4.3. Additional Databases\
+5. References\
 
 ## Relevant Documents
 
@@ -70,16 +70,18 @@ Design Requirements <br>
 > * Evaluation of complaints, customer feedback
 > * Review
 
-| Role   |  Name  |
-|--------|--------|
-| Author   |       |
-| Review / Approval   |       |
+| Role              | Name |
+|-------------------|------|
+| Author            |      |
+| Review / Approval |      |
 
 ## 1. Scope of the Clinical Evaluation
 
 > Note: This section will be copy-pasted into the Clinical Evaluation Report
-> 
-Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logical procedural stages in order to evaluate the performance and safety data of the medical device:
+
+Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logical procedural stages in order
+to evaluate the performance and safety data of the medical device:
+
 * Step 0 (“Scope”)
 * Step 1 (“Identification”)
 * Step 2 (“Appraisal”)
@@ -87,6 +89,7 @@ Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logic
 * Step 4 (“Report”)
 
 ## Device
+
 ### 2.1 Device Description
 
 > Copy-paste your Device Description here, which includes the Intended Use but also, User Profile,
@@ -99,7 +102,7 @@ Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logic
 > Describe the clinical benefits you expect from your product. Define how you'll measure those (i.e., outcome
 > parameters). You'll probably be planning to do a literature search to prove them. As you know the
 > literature, it makes sense to select outcome parameters which were already established in prior studies.
-> For example, if your website claims that your device cures back pain in 50% of patients after 14 days, 
+> For example, if your website claims that your device cures back pain in 50% of patients after 14 days,
 > here’s the place to list that claim and show and explain how you’ll prove it.
 
 > Also, describe the product claims as stated by MEDDEV 2.7/1 Rev. 4:
@@ -117,15 +120,16 @@ Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logic
 > be a literature search for past studies, but you could additionally do a Post-Market Clinical Follow-Up to
 > double-check whether that's actually true for your device.
 
-> For MD class I: does it replace the medical care chain? Is the case that only a doctor can diagnose causes 
-> or concomitant diseases in the case of occurring complaints and prescribe necessary therapies if needed? 
-> Are there any side effects expected? If however any side effects occur during the use, can the patient 
-> interrupt the process any time? 
-> 
-> Also, make sure to mention that a risk management plan, risk assessment and risk management report were 
-> undertaken according to the EN ISO 14971:2019 to evaluate all the known and foreseeable risks related to the product.
+> For MD class I: does it replace the medical care chain? Is the case that only a doctor can diagnose causes
+> or concomitant diseases in the case of occurring complaints and prescribe necessary therapies if needed?
+> Are there any side effects expected? If however any side effects occur during the use, can the patient
+> interrupt the process any time?
+>
+> Also, make sure to mention that a risk management plan, risk assessment and risk management report were
+> undertaken according to the EN ISO 14971:2019 to evaluate all the known and foreseeable risks related to the
+> product.
 
->Safety-related product claims:
+> Safety-related product claims:
 > * Claim 1, e.g., temporary worsening
 > * Claim 2, e.g., placebo effect
 
@@ -138,7 +142,7 @@ Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logic
 
 ## 3. Type of Evaluation
 
-> Describe the type of Clinical Evaluation you'll be doing. Most probably, you'll be doing a literature 
+> Describe the type of Clinical Evaluation you'll be doing. Most probably, you'll be doing a literature
 > search to come up with adequate clinical data.
 
 ## 4. Literature Search
@@ -170,8 +174,8 @@ Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logic
 > * Literature search and review protocol (i.e., how did the manufacturer test this protocol to ensure
 >   comprehensive identification of relevant data / demonstrate that all relevant data has been retrieved?).
 > * Any deviations from the manufacturer’s literature search protocol.
-> * Overall conclusions regarding the adequacy of search methods, the likelihood of having retrieved all relevant
->   data, and methods used to avoid bias.
+> * Overall conclusions regarding the adequacy of search methods, the likelihood of having retrieved all
+>   relevant data, and methods used to avoid bias.
 
 > It makes sense to differentiate between "context" and "pivotal" data:
 > * Context data describes the state of the art (commonly the introduction / literature part of papers)
@@ -198,5 +202,5 @@ Based on MEDDEV 2.7/1 rev. 4, the Clinical Evaluation is performed in five logic
 > * Adverse events: EUDAMED (if it works), FDA MAUDE, FDA Medical Device Recalls
 
 ## 5. References (if applicable)
-> Papers and other references which you cite can go here.
 
+> Papers and other references which you cite can go here.

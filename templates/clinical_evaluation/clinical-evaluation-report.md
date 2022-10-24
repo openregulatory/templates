@@ -23,21 +23,21 @@ clinical data. It is the output of the Clinical Evaluation Plan.
 > A list of the sections is presented below. You have to update this manually when you edit headings as this
 > is a markdown file (sorry - guilty dog face).
 
- 1. List of Abbreviations
- 2. Product
- 3. Relevant Documents
- 4. Scope of the Clinical Evaluation
- 5. Device
- 6. Clinical Background, Current Knowledge, State of the Art
- 7. Type of Evaluation
- 8. Literature Search
- 9. Clinical Data
- 10. Post-Market Activities
- 11. Conclusions
- 12. Date of the Next Clinical Evaluation
- 13. Dates and Signatures
- 14. Qualification of the Responsible Evaluators
- 15. References
+1. List of Abbreviations
+2. Product
+3. Relevant Documents
+4. Scope of the Clinical Evaluation
+5. Device
+6. Clinical Background, Current Knowledge, State of the Art
+7. Type of Evaluation
+8. Literature Search
+9. Clinical Data
+10. Post-Market Activities
+11. Conclusions
+12. Date of the Next Clinical Evaluation
+13. Dates and Signatures
+14. Qualification of the Responsible Evaluators
+15. References
 
 ## 1. List of Abbreviations
 
@@ -57,7 +57,7 @@ clinical data. It is the output of the Clinical Evaluation Plan.
 | MAUDE        | Manufacturer and User Facility Device Experience       |
 | MEDDEV       | Guideline for Clinical Evaluation of Medical Devices   |
 | MDD          | Medical Device Directive, European Directive 93/42/EEC |
-| MDR          | Medical Device Regulation (EU) 2017/745                     |
+| MDR          | Medical Device Regulation (EU) 2017/745                |
 | PMS          | Post Market Surveillance                               |
 | PMCF         | Post Market Clinical Follow Up                         |
 | Rev          | Revision                                               |
@@ -79,7 +79,8 @@ The classification is based on the following criteria:
 > Select one of these two, based on whether you're going for MDD or MDR compliance.
 
  * Annex IX of the European Directive 93/42/EEC (MDD): *\<if applicable\>*.
- * Annex VIII, Section 6 (Active Devices) Rule *\<write the Rule number, e.g., 13\>* of the EU Regulation 2017/745 (MDR).
+ * Annex VIII, Section 6 (Active Devices) Rule *\<write the Rule number, e.g., 13\>* of the EU Regulation
+   2017/745 (MDR).
 
 ## 3. Relevant Regulatory References
 
@@ -124,8 +125,8 @@ following chapters:
 
 ### 5.1 Device Description
 
-> Copy-paste your Device Description here, which includes the Intended Use but also, User Profile, 
-> Precautions/Safety Instructions, Contraindications, Use Environment, Operating Principle, 
+> Copy-paste your Device Description here, which includes the Intended Use but also, User Profile,
+> Precautions/Safety Instructions, Contraindications, Use Environment, Operating Principle,
 > Variants/Accessories, Novelty, Design Requirements. If it's not done yet, remember to
 > do it later :)
 
@@ -156,10 +157,12 @@ Performance-related product claims:
 > be a literature search for past studies, but you could additionally do a Post-Market Clinical Follow-Up to
 > double-check whether that's actually true for your device.
 
-> Also, make sure to mention that a risk management plan, risk assessment and risk management report were 
-> undertaken according to the EN ISO 14971:2019 to evaluate all the known and foreseeable risks related to the product.
+> Also, make sure to mention that a risk management plan, risk assessment and risk management report were
+> undertaken according to the EN ISO 14971:2019 to evaluate all the known and foreseeable risks related to the
+> product.
 
 Safety-related product claims:
+
 > * Claim 1, e.g., temporary worsening
 > * Claim 2, e.g., placebo effect
 
@@ -170,10 +173,12 @@ Safety-related product claims:
 > management, early detection of relapses) while low safety concerns (e.g., disease progression unlikely, not
 > killing anyone). Thus, define criteria under which the benefit-risk profile is acceptable.
 
-### 5.5. Risk Analysis <br>
+### 5.5. Risk Analysis
+
 > Copy-paste your Risk Management Report here. This is to prove that your medical device is safe.
 
-### 5.6. Usability Testing <br>
+### 5.6. Usability Testing
+
 > Copy-paste your Usability Evaluation Report here. This is to prove that your medical device is effective.
 
 ## 6. Clinical Background, Current Knowledge, State of the Art
@@ -192,8 +197,8 @@ Safety-related product claims:
 > symptoms do they have, which diagnostic modalities are being used to establish a diagnosis, which treatment
 > options exist? What are the benefits and drawbacks of current treatment options?
 >
-> You can start with a definition of the disease and describe details about epidemiology, aetiology, pathophysiology, 
-> investigation and diagnosis.
+> You can start with a definition of the disease and describe details about epidemiology, aetiology,
+> pathophysiology, investigation and diagnosis.
 
 ### 6.2 State of the Art incl. Alternative Treatments
 
@@ -201,8 +206,8 @@ Safety-related product claims:
 > benefits and drawbacks? Are there recent scientific achievements (studies, new technologies, software) which
 > may be promising to improve this state-of-the-art treatment? Also, what are alternative treatments?
 >
-> You might want to consider adding a sub-section on digital therapeutics as well as organising this section into
-> tables.
+> You might want to consider adding a sub-section on digital therapeutics as well as organising this section
+> into tables.
 
 ## 7. Type of Evaluation
 
@@ -225,14 +230,15 @@ Safety-related product claims:
 
 > You can describe it as a flow chart, e.g.:
 >
-> 1. Initial search with all publications from the relevant databases. <br>
-> 1.1 Potentially relevant papers (from the first skimming of article titles / abstracts) <br>
-> 1.2 Irrelevant papers <br>
-> 2. Potentially relevant papers found in irrelevant papers <br>
-> 2.1 Relevant paper used for context <br>
-> 2.2 Relevant paper used for a single appraisal (pivotal data) <br>
+> 1. Initial search with all publications from the relevant databases.\
+> 1.1 Potentially relevant papers (from the first skimming of article titles / abstracts)\
+> 1.2 Irrelevant papers\
+> 2. Potentially relevant papers found in irrelevant papers\
+> 2.1 Relevant paper used for context\
+> 2.2 Relevant paper used for a single appraisal (pivotal data)\
 
 ### 8.4 Literature Search Overview
+
 > A table which lists your actual literature search results. For each entry, you should decide whether it's
 > acceptable (based on your appraisal criteria) or not. I pre-wrote some tables to give you an idea of the
 > structure below. You could separate the tables based on the database where you did the search (PubMed,
@@ -255,8 +261,8 @@ Safety-related product claims:
 
 #### Database: PubMed
 
-| Title | Author | Year | Summary | Relevant? Why?                          |
-|-------|--------|------|---------|-----------------------------------------|
+| Title | Author | Year | Summary | Relevant? Why?                           |
+|-------|--------|------|---------|------------------------------------------|
 |       |        |      |         | *e.g., similar design, similar features* |
 
 #### Database: Google Scholar
@@ -333,9 +339,9 @@ evaluated. This was done according to the following scheme:
 ### 9.1 Clinical Data From Literature
 
 > List all the clinical data you got from studies which matched your appraisal criteria,
-> e.g., study design such as number of subjectives, age and any other relevant parameter considered, objectives, 
+> e.g., study design such as number of subjectives, age and any other relevant parameter considered, objectives,
 > disease severity, what the measured outcomes/endpoints were.
-> 
+>
 > Feel free to organise this section into tables.
 
 
@@ -371,7 +377,7 @@ evaluated. This was done according to the following scheme:
 > content of "we'll be tracking some data to make sure that our claims of clinical benefits and safety are
 > actually true".
 
-> Here's what the guidance states about it: <br>
+> Here's what the guidance states about it:\
 > Describe how the manufacturer will verify the presumption that there would be no clinically significant
 > difference in the safety and clinical performance of the device under evaluation compared with the
 > equivalent device by post market surveillance or post market clinical follow-up.
