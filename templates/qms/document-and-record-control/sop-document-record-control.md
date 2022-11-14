@@ -69,8 +69,7 @@ ended.
 
 We review our QMS documents typically once per year to ensure they remain up to date.
 
-Our core and safety processes as defined in the quality management manual must be reviewed at minimum once per
-year.
+Our core and safety processes as defined in the quality management manual must be reviewed once per year.
 
 All other processes and associated documents can be reviewed every three years once they have been reviewed
 before without any findings.
