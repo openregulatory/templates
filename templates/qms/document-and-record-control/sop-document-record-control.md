@@ -7,10 +7,7 @@
 
 ## Summary
 
-This SOP describes how documents and records are handled. The goal is to understand how documents are
-typically structured and in what states they can be as they move from draft to release. It's similarly
-important to always have the most recent document available at the specified location while ensuring that
-changes to documents can be traced.
+This SOP describes how documents and records are handled. The goal is to understand how documents are typically structured and their current state as they move from draft to release. The most recent document must be available at a specified location while ensuring changes to documents are always traceable.
 
 ## General Considerations
 
@@ -31,21 +28,21 @@ Documents are named according to this schema:
 `ASSOCIATED PROCESS-TYPE-NAME`
 
 Where "associated process" can be abbreviated in capital letters and "type" refers to an abbreviation of the
-document type (see below).  "Name" refers to the actual file name. An example would be:
+document type (see below).  "Name" refers to the actual file name.
 
-`SWD-SOP-Integrated Software Development`
+Example: `SWD-SOP-Integrated Software Development`
 
-For released documents, we add a "-a" suffix (as in: approved) to the document name. An example would be:
+For released documents, we add a "-a" suffix (as in: approved) to the document name.
 
-`SWD-SOP-Integrated Software Development-a`
+Example: `SWD-SOP-Integrated Software Development-a`
 
-For archived documents, we add a "-archived_ARCHIVE DATE" suffix to the document name. An example would be:
+For archived documents, we add a "-archived_ARCHIVE DATE" suffix to the document name.
 
-`SWD-SOP-Integrated Software Development-archived_2021-03-01`
+Example: `SWD-SOP-Integrated Software Development-archived_2021-03-01`
 
-Product records are ideally labeled with a device number and device version; for instance:
+Product records are labeled with a device number, device version and associated process.
 
-`PR1-V1.2-ESW-SWDP-Software Development Plan`
+Example: `PR1-V1.2-SWD-SWDP-Software Development Plan`
 
 ### Document Type Abbreviations
 
