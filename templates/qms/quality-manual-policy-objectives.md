@@ -78,6 +78,8 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 
 > Describe the roles of the people in your company. Typically this is done by drawing an organigram (you could
 > use draw.io for that). Or, you just use a table like below.
+> Minimum requirement information: required qualification and description of tasks related to QMS process involvement
+> If applicable, add: report / authority, access rights, etc.
 
 | Role            | People                    |
 |-----------------|---------------------------|
