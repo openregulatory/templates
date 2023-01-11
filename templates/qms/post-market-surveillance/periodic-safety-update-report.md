@@ -16,15 +16,7 @@ Surveillance Plan.
 | PSUR Version Number:                          |   |
 | Notified Body name and organization number:   |   |
 
-## Table of Contents
-
-> Insert ToC
-
-## 1. Summary
-
-> Note: Highlight which issues around the safety and performance of your device you identified and whether the benefit-risk ratio changes. Give a status update on the issues identified in the last PSUR (if applicable).
-
-## 2. Device information
+## Device information
 
 |                                             |   |
 |---------------------------------------------|---|
@@ -37,6 +29,14 @@ Surveillance Plan.
 | Contraindications:                          |   |
 | Target populations:                         |   |
 | Device trade name(s):                       |   |
+
+## Table of Contents
+
+> Insert ToC
+
+## 1. Summary
+
+> Note: Highlight which issues around the safety and performance of your device you identified and whether the benefit-risk ratio changes. Give a status update on the issues identified in the last PSUR (if applicable).
 
 
 ## 2. Impact on Clinical Evaluation: Benefit and Performance
@@ -219,7 +219,7 @@ Search keywords: (Insert keywords)
 
 > List updates to Post-Market Surveillance Plan, if applicable
 
-## Summary and Conclusions
+## 6. Summary and Conclusions
 
 ### Validity of the collected data
 > Is the data collected sufficient and representative to draw conclusions? Is an impact assessment of the benefit-risk ratio possible?
