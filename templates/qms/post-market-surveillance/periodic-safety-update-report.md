@@ -5,18 +5,16 @@ Surveillance Plan.
 
 ## General information
 
-Manufacturer information:
-> Insert name and address here
-
-|                                     |   |
-|-------------------------------------|---|
-| Product Name:                       |   |
-| Unique Device Identification (UDI): |   |
-| Product Version:                    |   |
-| Surveillance Period:                |   |
-| PSUR reference number:              |   |
-| PSUR version number:                |   |
-| Notified Body name and organization number:       |   |
+|                                               |   |
+|-----------------------------------------------|---|
+| Manufacturer Name and Address:                |   |
+| Product Name:                                 |   |
+| Unique Device Identification (UDI):           |   |
+| Product Version:                              |   |
+| Surveillance Period:                          |   |
+| PSUR Reference Number:                        |   |
+| PSUR Version Number:                          |   |
+| Notified Body name and organization number:   |   |
 
 ## Table of Contents
 
