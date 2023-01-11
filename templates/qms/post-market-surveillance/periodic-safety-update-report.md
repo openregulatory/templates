@@ -1,21 +1,42 @@
-# Periodic Safety Update Report
+# Periodic Safety Update Report (PSUR)
 
 This report describes product-specific post-market surveillance activity output as outlined in the Post-Market
 Surveillance Plan.
 
-## Product
+## General information
+
+Manufacturer information:
+> Insert name and address here
 
 |                                     |   |
 |-------------------------------------|---|
 | Product Name:                       |   |
 | Unique Device Identification (UDI): |   |
-| Version:                            |   |
+| Product Version:                    |   |
 | Surveillance Period:                |   |
+| PSUR reference number:              |   |
+| PSUR version number:                |   |
+| Notified Body name and organization number:       |   |
 
+## Table of Contents
+
+> Insert ToC
 
 ## 1. Summary
 
-> Note: Highlight which issues around the safety and performance of your device you identified.
+> Note: Highlight which issues around the safety and performance of your device you identified and whether the benefit-risk ratio changes. Give a status update on the issues identified in the last PSUR (if applicable).
+
+## 2. Device information
+
+|                                             |   |
+|---------------------------------------------|---|
+| Classification:                             |   |
+| Date of the first DoC:                      |   |
+| Date first made available:                  |   |
+| Device status (on the market/recalled/...): |   |
+| PSUR reference number:                      |   |
+| PSUR version number:                        |   |
+| Notified Body name and organization number: |   |
 
 ## 2. Impact on Clinical Evaluation: Benefit and Performance
 
