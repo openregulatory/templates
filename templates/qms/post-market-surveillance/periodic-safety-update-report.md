@@ -34,9 +34,12 @@ Manufacturer information:
 | Date of the first DoC:                      |   |
 | Date first made available:                  |   |
 | Device status (on the market/recalled/...): |   |
-| PSUR reference number:                      |   |
-| PSUR version number:                        |   |
-| Notified Body name and organization number: |   |
+| Intended Purpose:                           |   |
+| Indications:                                |   |
+| Contraindications:                          |   |
+| Target populations:                         |   |
+| Device trade name(s):                       |   |
+
 
 ## 2. Impact on Clinical Evaluation: Benefit and Performance
 
@@ -64,12 +67,13 @@ If not, reasons for deviation:
 
 ### Market Data
 
-> Describe sales volume of the device, e.g. amount of users and, where practicable, the usage frequency of the device.
+> Describe sales volume of the device, e.g. amount of users, their demography, and, where practicable, the usage frequency of the device. Compare the actual patient population to the expected usage with regards to over- or under-representation of a patient group.
 
 ### Summary of Incidents and Problems
 
 > Describe incidents that happened with your device and actions taken (e.g. adverse event reports to
 > authorities, field safety notices to customers, field safety actions).
+> Group them by geography, population or any other parameter that makes sense if there are multiple.
 
 ### Observed undesirable side effects
 
@@ -216,3 +220,14 @@ Search keywords: (Insert keywords)
 ### Updated Post-Market Surveillance Plan
 
 > List updates to Post-Market Surveillance Plan, if applicable
+
+## Summary and Conclusions
+
+### Validity of the collected data
+> Is the data collected sufficient and representative to draw conclusions? Is an impact assessment of the benefit-risk ratio possible?
+
+### Overall conclusions
+> Have all benefits been met? Have new benefits/risks been identified? How does that change the benefit-risk profile?
+
+### Actions taken by the manufacturer
+> Describe all actions that have been initiated as a part of the PMS data collection or resulting from the findings in this report.
