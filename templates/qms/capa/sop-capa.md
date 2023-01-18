@@ -10,6 +10,11 @@
 
 This SOP describes how CAPAs are implemented and tracked.
 
+|  |  |
+|---------------------------------|------------------------------------------------------|
+| **Process Owner**                 | < *enter role of process owner* >                        |
+| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+
 ## Process Steps
 
 ### 1. Input for CAPA
