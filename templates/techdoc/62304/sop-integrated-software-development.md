@@ -78,6 +78,11 @@
 This SOP describes how software as a medical device is developed. It integrates risk management and usability
 engineering activities into the process.
 
+|  |  |
+|---------------------------------|------------------------------------------------------|
+| **Process Owner**                 | < *enter role of process owner* >                        |
+| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+
 ## General Notes
 
 ### Integrated Process, Evolutionary Strategy
