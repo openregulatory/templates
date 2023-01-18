@@ -20,6 +20,11 @@
 
 This SOP describes how we evaluate and make changes to our software after it’s released.
 
+|  |  |
+|---------------------------------|------------------------------------------------------|
+| **Process Owner**                 | < *enter role of process owner* >                        |
+| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+
 ## General Considerations
 
 ### Feedback Classification
