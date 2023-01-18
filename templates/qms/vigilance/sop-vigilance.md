@@ -19,6 +19,11 @@
 This SOP describes how we handle (potentially) serious incidents and field safety corrective action (FSCA). It outlines how we follow the
 requirements for reporting to competent authorities and necessary immediate action.
 
+|  |  |
+|---------------------------------|------------------------------------------------------|
+| **Process Owner**                 | < *enter role of process owner* >                        |
+| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+
 ## General Considerations
 
 ### Reportable Serious Incident
