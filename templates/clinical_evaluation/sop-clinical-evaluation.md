@@ -11,6 +11,11 @@ and X (MDD) and Annex XIV (MDR) regarding medical device clinical performance. I
 demonstrated safety and risk-benefit ratio that is required for our medical devices both for initial
 certification and for continued safe use in the market.
 
+|  |  |
+|---------------------------------|------------------------------------------------------|
+| **Process Owner**                 | < *enter role of process owner* >                        |
+| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+
 ## Process Steps
 
 ### 1.1 Clinical Evaluation Plan
