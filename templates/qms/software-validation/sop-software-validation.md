@@ -9,6 +9,7 @@ validation before use.
 |                           |                                                                      |
 |---------------------------|----------------------------------------------------------------------|
 | **Process Owner**         | QMO                                                                  |
+| **Key Performance Indicators**         | < *enter KPIs to be tracked for Management Review* >    |
 | **Regulatory References** | ISO 13485:2016 Sec. 4.1.6 and 6.3 and 7.6<br>IEC 62304:2016 Sec. 9.8 |
 
 ## Process Steps
