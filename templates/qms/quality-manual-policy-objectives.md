@@ -58,7 +58,8 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 ### Quality Policy
 
 > Describe what your company is about, specifically, its mission and things which are important for it. Maybe
-> you're developing software for patients with a certain disease and your goal is to improve their lives.
+> you're developing software for patients with a certain disease and your goal is to improve their lives. 
+> In addition, the policy should include a commitment to meet legal requirements, keep the QMS up to date and define quality objectives to work towards.
 
 ### Quality Objectives
 
