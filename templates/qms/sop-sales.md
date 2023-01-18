@@ -11,6 +11,11 @@ This SOP describes how we offer and sell our medical devices, including trial an
 SOP we want to make sure that we only offer medical devices and services we develop, and that we sell medical
 devices/services that comply with regulatory requirements.
 
+|  |  |
+|---------------------------------|------------------------------------------------------|
+| **Process Owner**                 | < *enter role of process owner* >                        |
+| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+
 ## 1. General Considerations
 
 ### 1.1 Marketing Material
