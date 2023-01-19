@@ -62,3 +62,7 @@ The Medical Device referenced above meets the provisions of Regulation (EU) 2017
 ---
 
 Place, Date, Signature of CEO
+
+---
+
+Place, Date, Signature of PRRC
