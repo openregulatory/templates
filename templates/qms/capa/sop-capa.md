@@ -10,6 +10,11 @@
 
 This SOP describes how CAPAs are implemented and tracked.
 
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
+
 ## Process Steps
 
 ### 1. Input for CAPA
@@ -38,7 +43,9 @@ CAPAs are tracked in the CAPA list.
 
 ### 2. Decision on Next Steps, Immediate Action
 
-If immediate action is necessary (e.g. product recall, notification of authorities), the QMO consults the Person Responsible for Regulatory Compliance.  Immediate action is carried out without undue delay (see ISO 13485 para. 8.5.2).
+If immediate action is necessary (e.g. product recall, notification of authorities), the QMO consults the
+Person Responsible for Regulatory Compliance.  Immediate action is carried out without undue delay (see ISO
+13485 para. 8.5.2).
 
 In any case, the QMO discusses the next steps with the person closest to the issue, e.g. for software bugs, the
 Head of Software Development.

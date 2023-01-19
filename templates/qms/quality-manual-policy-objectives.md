@@ -84,6 +84,9 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 
 > Describe the roles of the people in your company. Typically this is done by drawing an organigram (you could
 > use draw.io for that). Or, you just use a table like below.
+>
+> Minimum requirement information: required qualification and description of tasks related to QMS process
+> involvement If applicable, add: report / authority, access rights, etc.
 
 | Role            | People                    |
 |-----------------|---------------------------|
@@ -109,19 +112,30 @@ The Quality Management Officer (QMO) is responsible to:
 
 Person Responsible for Regulatory Compliance (PRRC)
 Responsibilities of the PRRC are in accordance with Art. 15 MDR as follows:
-* Ensure (review / release) the conformity of the devices is appropriately checked in accordance with the QMS before a device is released (also see Art. 10 Para. 9 MDR)
-* Ensure (review / release) that the technical documentation and the EU declaration of conformity are drawn up and kept up-to-date for all medical devices (also see Art. 10 Para. 4 and Art. 6 MDR)
-* Ensure (review / release) that obligations for post-market surveillance are complied with in accordance with Art. 10 Para. 10 MDR
-* Ensure (review / release) that the reporting obligations of Articles 87 to 91 MDR are fulfilled (FSCA / incidents, also see Art. 10 Para. 13 MDR)
-* Ensure that, in the case of investigational devices, the statement referred to in Section 4.1 of Chapter II of Annex XV MDR is issued.
 
-The PRRC shall not be subjected to Management instructions while carrying out his/her responsibilities specified above. His/her tasks may be delegated to other roles as long as it is ensured that final responsibility stays with the PRRC. She or he has the power and authority to represent the company in the scope of his/her responsibilities, e.g. in communicating with state authorities.
+* Ensure (review / release) the conformity of the devices is appropriately checked in accordance with the QMS
+  before a device is released (also see Art. 10 Para. 9 MDR)
+* Ensure (review / release) that the technical documentation and the EU declaration of conformity are drawn up
+  and kept up-to-date for all medical devices (also see Art. 10 Para. 4 and Art. 6 MDR)
+* Ensure (review / release) that obligations for post-market surveillance are complied with in accordance with
+  Art. 10 Para. 10 MDR
+* Ensure (review / release) that the reporting obligations of Articles 87 to 91 MDR are fulfilled (FSCA /
+  incidents, also see Art. 10 Para. 13 MDR)
+* Ensure that, in the case of investigational devices, the statement referred to in Section 4.1 of Chapter II
+  of Annex XV MDR is issued.
+
+The PRRC shall not be subjected to Management instructions while carrying out his/her responsibilities
+specified above. His/her tasks may be delegated to other roles as long as it is ensured that final
+responsibility stays with the PRRC. She or he has the power and authority to represent the company in the
+scope of his/her responsibilities, e.g. in communicating with state authorities.
 
 Required qualification for this role:
+
 * Fluent in English language
-* Knowledge of the role and responsibilities of a ‘Person Responsible for Regulatory Compliance’ according to Art. 15 MDR
+* Knowledge of the role and responsibilities of a ‘Person Responsible for Regulatory Compliance’ according to
+  Art. 15 MDR
 * Higher education degree in law, medicine, pharmacology or engineering
-OR: four years of professional experience in the fields of quality management and regulatory affairs
+  * OR: four years of professional experience in the fields of quality management and regulatory affairs
 * At minimum one year of professional experience in the fields of quality management and regulatory affairs
 
 ## 4. Processes

@@ -78,6 +78,11 @@
 This SOP describes how software as a medical device is developed. It integrates risk management and usability
 engineering activities into the process.
 
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
+
 ## General Notes
 
 ### Integrated Process, Evolutionary Strategy
@@ -357,21 +362,44 @@ Classification.
 | Clinical Evaluation          |                                        |
 | Software (Release Candidate) |                                        |
 
-### 11. Release
+### 11. Product Release and Labeling
 
-Before release, it is ensured that all required processes (Software Development, Usability Evaluation, Risk
-Analysis) have been completed. Release notes are created which include the list of known anomalies. The
-software is only released if the remaining anomalies are deemed acceptable. A version number in accordance
-with the Software Development and Maintenance Plan is assigned.
+Before release, it is ensured that all required process steps (software development, usability evaluation,
+risk analysis) have been completed. Release notes and a list of known anomalies are created. The software is
+only released if the remaining anomalies are deemed acceptable.
 
-| Participants |
-|--------------|
-| CTO          |
+Finally, the software is assigned required labeling, including at minimum:
+* The (trade) name of the device and manufacturer address
+* The intended purpose of the device (where it is not obvious to the user)
+* An indication that the product is a medical device, following symbols and labels specified in ISO 15223-1
+* CE marking
+* Unique Device Identifier (see CERT-SOP)
+* Software version number in accordance with PR-ESW-SWDP-Software Development Plan
+* Warning, precautions, contraindications and residual risks that need to be brought to the user’s attention
+  as outlined by risk control measures in the risk file
+
+**Regulatory Release:**
+
+A product (version) is considered released with the release of its declaration of conformity or, in the case
+of a minor version update, with the release of its updated software release checklist. The documents have to
+be signed by both a member of Management and the Person Responsible for Regulatory Compliance (PRRC). The
+regulatory release is completed by following all steps of SOP for product certification and registration.
+
+**Technical Release:**
+
+Following the regulatory release of the device, market placement and release is carried out by following the
+deployment process.
+
+
+| Participants  |
+|---------------|
+| CTO           |
+| PRRC          |
 
 | Input                                     | Output                                      |
 |-------------------------------------------|---------------------------------------------|
 | Device Description                        | Released Software                           |
-| Checklist Release                         | Checklist Release (filled out)              |
+| Software Release Checklist                | Software Release Checklist (filled out)     |
 | Risk Analysis                             | Release Notes incl. list of known anomalies |
 | User Needs                                |                                             |
 | Software Requirements                     |                                             |

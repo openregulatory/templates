@@ -17,6 +17,14 @@ is evaluated again for approval.
 > NOTE: enter here a description of the goods and services the organization intends to typically purchase from
 > this supplier.
 
+Quality Requirements:
+
+* \<enter text\>
+
+> NOTE: enter here requirements based on which you will assess the supplier as part of your continuous
+> supplier surveillance. For example: server uptime (for cloud server providers), bugs resulting from
+> development (for development providers).
+
 ## 3. Supplier Criticality
 
 | Criticality Criteria                                                                                                                   | Yes / No | Explanation / Commentary |
