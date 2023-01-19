@@ -359,7 +359,9 @@ Classification.
 
 ### 11. Product Release and Labeling
 
-Before release, it is ensured that all required process steps (software development, usability evaluation, risk analysis) have been completed. Release notes and a list of known anomalies are created. The software is only released if the remaining anomalies are deemed acceptable.
+Before release, it is ensured that all required process steps (software development, usability evaluation,
+risk analysis) have been completed. Release notes and a list of known anomalies are created. The software is
+only released if the remaining anomalies are deemed acceptable.
 
 Finally, the software is assigned required labeling, including at minimum:
 * The (trade) name of the device and manufacturer address
@@ -368,13 +370,20 @@ Finally, the software is assigned required labeling, including at minimum:
 * CE marking
 * Unique Device Identifier (see CERT-SOP)
 * Software version number in accordance with PR-ESW-SWDP-Software Development Plan
-* Warning, precautions, contraindications and residual risks that need to be brought to the user’s attention as outlined by risk control measures in the risk file
+* Warning, precautions, contraindications and residual risks that need to be brought to the user’s attention
+  as outlined by risk control measures in the risk file
 
-Regulatory Release:
-A product (version) is considered released with the release of its declaration of conformity or, in the case of a minor version update, with the release of its updated software release checklist. The documents have to be signed by both a member of Management and the Person Responsible for Regulatory Compliance (PRRC). The regulatory release is completed by following all steps of SOP for product certification and registration.
+**Regulatory Release:**
 
-Technical Release:
-Following the regulatory release of the device, market placement and release is carried out by following the deployment process.
+A product (version) is considered released with the release of its declaration of conformity or, in the case
+of a minor version update, with the release of its updated software release checklist. The documents have to
+be signed by both a member of Management and the Person Responsible for Regulatory Compliance (PRRC). The
+regulatory release is completed by following all steps of SOP for product certification and registration.
+
+**Technical Release:**
+
+Following the regulatory release of the device, market placement and release is carried out by following the
+deployment process.
 
 
 | Participants  |
@@ -385,7 +394,7 @@ Following the regulatory release of the device, market placement and release is 
 | Input                                     | Output                                      |
 |-------------------------------------------|---------------------------------------------|
 | Device Description                        | Released Software                           |
-| Checklist Release                         | Software Release Checklist                  |
+| Software Release Checklist                | Software Release Checklist (filled out)     |
 | Risk Analysis                             | Release Notes incl. list of known anomalies |
 | User Needs                                |                                             |
 | Software Requirements                     |                                             |
