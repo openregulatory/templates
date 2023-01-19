@@ -7,6 +7,11 @@
 This SOP describes how internal auditing is performed for the purpose of reviewing compliance with regulatory
 requirements. It can be used for both internal and supplier audits.
 
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
+
 ## 1. General Considerations
 
 ### 1.1 Auditor Qualification

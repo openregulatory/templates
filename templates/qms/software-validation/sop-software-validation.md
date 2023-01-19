@@ -6,10 +6,11 @@ This SOP ensures that the organization only works with validated computer/softwa
 systems affecting the safety and performance of its medical devices. The process outlines requirements for
 validation before use.
 
-|                           |                                                                      |
-|---------------------------|----------------------------------------------------------------------|
-| **Process Owner**         | QMO                                                                  |
-| **Regulatory References** | ISO 13485:2016 Sec. 4.1.6 and 6.3 and 7.6<br>IEC 62304:2016 Sec. 9.8 |
+|                                |                                                                      |
+|--------------------------------|----------------------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                                    |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>*             |
+| **Regulatory References**      | ISO 13485:2016 Sec. 4.1.6 and 6.3 and 7.6<br>IEC 62304:2016 Sec. 9.8 |
 
 ## Process Steps
 

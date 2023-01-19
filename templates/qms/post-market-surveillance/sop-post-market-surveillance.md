@@ -6,6 +6,11 @@ This SOP describes how Post-Market Surveillance is performed for products. It en
 about safety and performance is proactively collected and can be used as input for the risk management,
 clinical evaluation and software development of our products.
 
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
+
 ## General Considerations
 
 This process is followed for each product separately, meaning that for each product, a Post-Market
