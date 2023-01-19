@@ -1,21 +1,44 @@
-# Periodic Safety Update Report
+# Periodic Safety Update Report (PSUR)
 
 This report describes product-specific post-market surveillance activity output as outlined in the Post-Market
 Surveillance Plan.
 
-## Product
+## General information
 
-|                                     |   |
-|-------------------------------------|---|
-| Product Name:                       |   |
-| Unique Device Identification (UDI): |   |
-| Version:                            |   |
-| Surveillance Period:                |   |
+|                                               |   |
+|-----------------------------------------------|---|
+| Manufacturer Name and Address:                |   |
+| Product Name:                                 |   |
+| Unique Device Identification (UDI):           |   |
+| Product Version:                              |   |
+| Surveillance Period:                          |   |
+| PSUR Reference Number:                        |   |
+| PSUR Version Number:                          |   |
+| Notified Body name and organization number:   |   |
 
+## Device information
+
+|                                             |   |
+|---------------------------------------------|---|
+| Classification:                             |   |
+| Date of the first DoC:                      |   |
+| Date first made available:                  |   |
+| Device status (on the market/recalled/...): |   |
+| Intended Purpose:                           |   |
+| Indications:                                |   |
+| Contraindications:                          |   |
+| Target populations:                         |   |
+| Device trade name(s):                       |   |
+
+## Table of Contents
+
+> Insert ToC here.
 
 ## 1. Summary
 
-> Note: Highlight which issues around the safety and performance of your device you identified.
+> Note: Highlight which issues around the safety and performance of your device you identified and whether the
+> benefit-risk ratio changes. Give a status update on the issues identified in the last PSUR (if applicable).
+
 
 ## 2. Impact on Clinical Evaluation: Benefit and Performance
 
@@ -43,12 +66,15 @@ If not, reasons for deviation:
 
 ### Market Data
 
-> Describe sales volume of the device, e.g. amount of users and, where practicable, the usage frequency of the device.
+> Describe sales volume of the device, e.g. amount of users, their demography, and, where practicable, the
+> usage frequency of the device. Compare the actual patient population to the expected usage with regards to
+> over- or under-representation of a patient group.
 
 ### Summary of Incidents and Problems
 
 > Describe incidents that happened with your device and actions taken (e.g. adverse event reports to
 > authorities, field safety notices to customers, field safety actions).
+> Group them by geography, population or any other parameter that makes sense if there are multiple.
 
 ### Observed undesirable side effects
 
@@ -67,14 +93,16 @@ following CAPAs were initiated during this surveillance period:
 
 **Overall Feedback Assessment:**
 
-* According to the device’s post-market surveillance plan, the overall feedback and complaint rate can be deemed acceptable if (...)
+* According to the device’s post-market surveillance plan, the overall feedback and complaint rate can be
+  deemed acceptable if (...)
 * Feedback data showed (...)
 
 > Note: Summarize the number of customer complaints, predominant subjects of feedback and whether there was
 > anything of importance regarding safety. More specifically, take into account:
 >
 >  * Is the overall complaint rate deemed acceptable and if so, why?
->  * Based on feedback, have any trends been analyzed and have any corrective measures been taken? What is the status of such actions?
+>  * Based on feedback, have any trends been analyzed and have any corrective measures been taken? What is the
+>    status of such actions?
 >  * Has PMS data been compared to occurrence probabilities from risk management?
 
 *Copy this table for every relevant feedback issue that you have analyzed*
@@ -194,4 +222,21 @@ Search keywords: (Insert keywords)
 
 ### Updated Post-Market Surveillance Plan
 
-> List updates to Post-Market Surveillance Plan, if applicable
+> List updates to Post-Market Surveillance Plan, if applicable.
+
+## 6. Summary and Conclusions
+
+### Validity of the collected data
+
+> Is the data collected sufficient and representative to draw conclusions? Is an impact assessment of the
+> benefit-risk ratio possible?
+
+### Overall conclusions
+
+> Have all benefits been met? Have new benefits/risks been identified? How does that change the benefit-risk
+> profile?
+
+### Actions taken by the manufacturer
+
+> Describe all actions that have been initiated as a part of the PMS data collection or resulting from the
+> findings in this report.
