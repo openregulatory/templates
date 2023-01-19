@@ -9,10 +9,10 @@
 
 This SOP describes how documents and records are handled. The goal is to understand how documents are typically structured and their current state as they move from draft to release. The most recent document must be available at a specified location while ensuring changes to documents are always traceable.
 
-|  |  |
-|---------------------------------|------------------------------------------------------|
-| **Process Owner**                 | < *enter role of process owner* >                        |
-| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
 
 ## General Considerations
 

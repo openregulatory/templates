@@ -12,10 +12,10 @@ way.
 > on those questions, you will have to write each single process step of this template. Sorry to disappoint
 > you! Hope the structure helps you at least to get an idea of the regulatory requirements.
 
-|  |  |
-|---------------------------------|------------------------------------------------------|
-| **Process Owner**                 | < *enter role of process owner* >                        |
-| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
 
 **Regulatory references:**
 

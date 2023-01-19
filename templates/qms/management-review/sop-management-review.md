@@ -9,10 +9,10 @@ adequacy, suitability and efficacy of organizational processes. The organization
 Management Review to document the assessment of QMS surveillance outputs and overall compliance with
 regulatory requirements.
 
-|  |  |
-|---------------------------------|------------------------------------------------------|
-| **Process Owner**                 | < *enter role of process owner* >                        |
-| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
 
 ## General Considerations
 

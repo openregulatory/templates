@@ -10,10 +10,10 @@ This SOP describes how a medical device is brought to the market while observing
 requirements, including the compilation of a Technical Documentation and issuing a EU Declaration of
 Conformity for the medical device.
 
-|  |  |
-|---------------------------------|------------------------------------------------------|
-| **Process Owner**                 | < *enter role of process owner* >                        |
-| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
 
 ## Process Steps
 

@@ -9,10 +9,10 @@ as a manufacturer or its products in the market. This process shall ensure that 
 enough and required changes are implemented in a timely manner so that regulatory compliance is guaranteed at
 all times.
 
-|  |  |
-|---------------------------------|------------------------------------------------------|
-| **Process Owner**                 | < *enter role of process owner* >                        |
-| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
 
 ## Process Steps
 

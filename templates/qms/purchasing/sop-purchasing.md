@@ -11,10 +11,10 @@ initial supplier evaluation, budget approval and continuous supplier surveillanc
 high-quality goods and services are purchased in order to guarantee the manufacturing of high-quality products
 for own customers.
 
-|  |  |
-|---------------------------------|------------------------------------------------------|
-| **Process Owner**                 | < *enter role of process owner* >                        |
-| **Key Performance Indicators**    | < *enter KPIs to be tracked for the Management Review* > |
+|                                |                                                          |
+|--------------------------------|----------------------------------------------------------|
+| **Process Owner**              | *\<enter role of process owner\>*                        |
+| **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
 
 ## General Considerations
 
