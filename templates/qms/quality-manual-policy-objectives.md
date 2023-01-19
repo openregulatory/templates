@@ -41,7 +41,6 @@ overview, see the list of applicable standards (reference here).
 | IEC 62304:2006              | Software development for medical devices                  |
 | IEC 62366-1:2015            | Usability evaluation for medical devices                  |
 
-
 ### Exclusions
 
 The following sections of ISO 13485:2016 will be excluded due to the product being stand-alone software:
@@ -59,6 +58,9 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 
 > Describe what your company is about, specifically, its mission and things which are important for it. Maybe
 > you're developing software for patients with a certain disease and your goal is to improve their lives.
+>
+> In addition, the policy should include a commitment to meet legal requirements, keep the QMS up to date and
+> define quality objectives to work towards.
 
 ### Quality Objectives
 
