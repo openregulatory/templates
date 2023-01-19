@@ -41,7 +41,6 @@ overview, see the list of applicable standards (reference here).
 | IEC 62304:2006              | Software development for medical devices                  |
 | IEC 62366-1:2015            | Usability evaluation for medical devices                  |
 
-
 ### Exclusions
 
 The following sections of ISO 13485:2016 will be excluded due to the product being stand-alone software:
@@ -58,21 +57,27 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 ### Quality Policy
 
 > Describe what your company is about, specifically, its mission and things which are important for it. Maybe
-> you're developing software for patients with a certain disease and your goal is to improve their lives. 
-> In addition, the policy should include a commitment to meet legal requirements, keep the QMS up to date and define quality objectives to work towards.
+> you're developing software for patients with a certain disease and your goal is to improve their lives.
+>
+> In addition, the policy should include a commitment to meet legal requirements, keep the QMS up to date and
+> define quality objectives to work towards.
 
 ### Quality Objectives
 
 > Whatever policy you outlined above, now you need to make it measurable by defining objectives which can be
-> tracked. Those objectives should not (only) refer to the quality of your devices but the quality of your QMS and the overall work of your organization. > Typical examples are: hiring excellence in staff, providing best-of-class device performance, high standards of customer satisfaction, etc.
-> In a next step (see short-term goals), those are narrowed down to concrete measures like for example the monthly number of user complaints.
+> tracked. Those objectives should not (only) refer to the quality of your devices but the quality of your QMS
+> and the overall work of your organization. > Typical examples are: hiring excellence in staff, providing
+> best-of-class device performance, high standards of customer satisfaction, etc.
+>
+> In a next step (see short-term goals), those are narrowed down to concrete measures like for example the
+> monthly number of user complaints.
 
 ### Short-Term Goals
 
 > How does your team track its goals? Your auditors want to see how your quality objectives translate into
 > your daily work. You should formulate strategic goals for your company that are somewhat related to your
-> quality goals and which are tracked at least on an annual basis. Do you already have a goal-oriented system in
-> place to track your team’s work? Even better: align business and quality goals and describe your system
+> quality goals and which are tracked at least on an annual basis. Do you already have a goal-oriented system
+> in place to track your team’s work? Even better: align business and quality goals and describe your system
 > here.
 
 ## 3. Roles
