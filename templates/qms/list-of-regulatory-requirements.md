@@ -11,8 +11,8 @@ assessed.
 
 * ISO 13485:2016 Sections 5.6.2 and 7.3.3
 
-> Use this template to give you an idea of the necessary structure and contents. Ideally, this documentation
-> is maintained best in a spreadsheet / excel file format.
+> Use this template to give yourself an idea of the necessary structure and contents. Ideally, this
+> documentation is maintained best in a spreadsheet / excel file format.
 
 ## 2. Regulations
 
@@ -38,6 +38,7 @@ assessed.
 
 
 ## 5. Guidances
+
 | Regulation               | Applicability | Description                                    | Jurisdiction | Notes | Review Cycle | Last Review | Links                                                                                               |
 |--------------------------|---------------|------------------------------------------------|--------------|-------|--------------|-------------|-----------------------------------------------------------------------------------------------------|
 | MDCG 2018-1 rev4 04-2021 | Applies       | Guidance on basic UDI-DI and changes to UDI-DI | EU           |       | Annual       | -           | [EU text](https://health.ec.europa.eu/system/files/2021-04/md_mdcg_2018-1_guidance_udi-di_en_0.pdf) |
