@@ -203,7 +203,7 @@
 | 22.2 | Devices for use by lay persons shall be designed and manufactured in such a way as to: |  |  |  |  |
 |  | — ensure that the device can be used safely and accurately by the intended user at all stages of the procedure, if necessary after appropriate training and/or information, | Yes |  | IEC 62366-1:2015 + AC:2015 | Usability Evaluation Report<br>(Record of User Training) |
 |  | — reduce, as far as possible and appropriate, the risk from unintended cuts and pricks such as needle stick injuries, and | No | Software device |  |  |
-|  | — reduce as far as possible the risk of error by the intended user in the handling of the device and, if applicable, in the interpretation of the results. |  |  | IEC 62366-1:2015 + AC:2015 | Usability Evaluation Report |
+|  | — reduce as far as possible the risk of error by the intended user in the handling of the device and, if applicable, in the interpretation of the results. | Yes |  | IEC 62366-1:2015 + AC:2015 | Usability Evaluation Report |
 | 22.3 | Devices for use by lay persons shall, where appropriate, include a procedure by which the lay person: |  |  |  |  |
 |  | — can verify that, at the time of use, the device will perform as intended by the manufacturer, and | Yes |  | IEC 62366-1:2015 + AC:2015 | Stakeholder Requirements<br>Usability Evaluation Report |
 |  | — if applicable, is warned if the device has failed to provide a valid result. | Yes |  | IEC 62366-1:2015 + AC:2015 | Stakeholder Requirements<br>Usability Evaluation Report |
