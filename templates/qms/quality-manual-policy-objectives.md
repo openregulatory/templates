@@ -26,15 +26,11 @@ The QMS described in this Quality Manual applies to all products of *\<your comp
 
 ### Applicable Standards
 
-> Remove either the MDD or MDR entry, depending on which you're complying with (MDD will only be possible
-> until May 2021, afterwards it's only MDR).
-
 The following table only gives an overview of the most relevant regulation and standards. For a comprehensive
 overview, see the list of applicable standards (reference here).
 
 | Standard / Regulation / Law | Why Applicable?                                           |
 |-----------------------------|-----------------------------------------------------------|
-| MDD (93/42/EEC)             | Directive for all Medical Device Manufacturers in the EU  |
 | MDR (2017/745/              | Regulation for all Medical Device Manufacturers in the EU |
 | ISO 13485:2016              | QMS required by essential requirements of MDD/MDR         |
 | ISO 14971:2019              | Risk management for medical devices                       |
