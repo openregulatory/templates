@@ -97,11 +97,11 @@ the whole organization is oriented towards them.
 
 > See ISO 13485, para. 5.1, para. 5.5.1
 
-The Quality Management Officer (QMO) is responsible to:
+The Quality Management Officer (QMO) is responsible for:
 
-* ensure that processes needed for the company’s quality management system are documented
-* report to top management on the effectiveness of the quality management system and any need for improvement
-* ensure the promotion of awareness of applicable regulatory requirements and QMS requirements throughout the
+* ensuring that processes needed for the company’s quality management system are documented
+* reporting to top management on the effectiveness of the quality management system and any need for improvement
+* ensuring the promotion of awareness of applicable regulatory requirements and QMS requirements throughout the
   organization.
 
 > See ISO 13485, para. 5.1, para. 5.5.2
