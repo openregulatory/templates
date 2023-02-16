@@ -133,8 +133,8 @@ The Risk Management Plan defines criteria for risk acceptability in the form of 
 * Define categories for the severity of harm (for example, categories may range from zero harm to death of a patient)
 * Define probability categories (for example, categories may range from ‘unthinkable’ over ‘rare’ to ‘certain’).
 * Start by defining the least probable category which has an absolute occurrence number of less than one. From there on, the more frequently occurring categories are added with probability increments of 10^2.
-* Create the risk acceptance matrix and define which combinations of the categories are deemed acceptable. Use color coding: red combinations represent unacceptable risks; yellow combinations represent risks that are acceptable.
-* Note: no fields are marked as green as all risks must be reduced as far as possible.
+* Create the risk acceptance matrix and define which combinations of the categories are deemed acceptable. Use color coding: red combinations represent unacceptable risks; green combinations represent risks that are acceptable.
+* Risks should be reduced "as far as possible" through Risk Control Measures
 
 The Usability Evaluation Plan includes summative and formative usability evaluation activities.
 
