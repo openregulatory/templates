@@ -1,4 +1,4 @@
-# SOP Software Validation
+# SOP Software Tools Validation
 
 ## Summary
 
@@ -22,7 +22,7 @@ validation before use.
    organization’s medical devices as part of the computerized system validation form.
  * If quality-relevant: continue to fill out the computerized system validation form (assessing criticality
    and risks).
- * If not quality-relevant: document the system in the list of computerized systems and release the software
+ * If not quality-relevant: document the system in the list of software tools and release the software
    system for use.
 
 | Responsible                                    |
@@ -33,13 +33,13 @@ validation before use.
 | Input                        | Output                          |
 |------------------------------|---------------------------------|
 | Information about the system | Preliminary Software Assessment |
-| Software Validation Form     |                                 |
-| List of Softwares            |                                 |
+| Software Tool Validation Form     |                                 |
+| List of Software Tools            |                                 |
 
 
 ### 1.2 Plan Validation
 
- * QMO continues to fill out the computerized system validation form by planning the validation and
+ * QMO continues to fill out the software tool validation form by planning the validation and
    documenting the requirements for expected validation results.
 
 | Responsible |
@@ -48,12 +48,12 @@ validation before use.
 
 | Input                    | Output                           |
 |--------------------------|----------------------------------|
-| Software Validation Form | Updated Software Validation Form |
+| Software Tool Validation Form | Updated Software Tool Validation Form |
 
 ### 1.3 Perform Validation
 
  * Perform the validation based on the validation plan and fill out the validation report as part of the
-   software validation form.
+   software tool validation form.
  * Where appropriate, save additional proof of validation (e.g. screenshots) and add them to the validation
    report.
 
@@ -63,21 +63,21 @@ validation before use.
 
 | Input                    | Output                           |
 |--------------------------|----------------------------------|
-| Software Validation Form | Updated Software Validation Form |
+| Software Tool Validation Form | Updated Software Tool Validation Form |
 
 
 ### 1.4 Release
 
 If validation was not successful:
 
- * Document the validation results in the list of computerized systems and classify the system as "blocked" /
+ * Document the validation results in the list of software tools and classify the system as "blocked" /
    "not released for use".
 
 If validation was successful:
 
- * Document the validation results and sign the validation report as part of the computerized system
+ * Document the validation results and sign the validation report as part of the software tools
    validation form.
- * Release the computerized system by adding it to the list of computerized systems.
+ * Release the software tool by adding it to the list of software tools.
  * Inform relevant staff about the approval of the system.
 
 | Responsible |
@@ -86,15 +86,15 @@ If validation was successful:
 
 | Input                    | Output                             |
 |--------------------------|------------------------------------|
-| Software Validation Form | Completed Software Validation Form |
-| Software List            | Updated List of Software           |
+| Software Tool Validation Form | Completed Software Tool Validation Form |
+| Software Tools List            | Updated List of Software Tools          |
 |                          | Notification sent                  |
 
 ### 1.5 Monitoring of Softwares
 
  * User feedback and error reports by developers are monitored for relevant occurrences that may affect the
    organization or its medical devices.
- * New version updates are implemented and the list of computerized systems is updated accordingly. If
+ * New version updates are implemented and the list of software tools is updated accordingly. If
    necessary, a revalidation is carried out.
 
 | Responsible                                                |
@@ -103,8 +103,8 @@ If validation was successful:
 
 | Input                               | Output                                                       |
 |-------------------------------------|--------------------------------------------------------------|
-| Error reports by users / developers | Updated List of Software                                     |
-|                                     | If required: new record of Softwares Validation Form created |
+| Error reports by users / developers | Updated List of Software Tools                                    |
+|                                     | If required: new record of Software Tool Validation Form created |
 
 ### 1.6 Decommissioning of Software
 
@@ -117,5 +117,5 @@ If validation was successful:
 
 | Input                    | Output                   |
 |--------------------------|--------------------------|
-| Software Validation Form | Updated List of Software |
-| Software List            |                          |
+| Software Tool Validation Form | Updated List of Software Tools |
+| Software Tools List            |                          |
