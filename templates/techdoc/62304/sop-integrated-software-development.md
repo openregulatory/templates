@@ -153,8 +153,18 @@ The Usability Evaluation Plan includes summative and formative usability evaluat
 In the first risk and usability assessment, a preliminary hazard analysis is conducted and an initial risk
 table is drafted.
 
-Risk analysis is performed by conducting a Failure Mode and Effects Analysis (FMEA). This analysis includes the following
-activities:
+Risk analysis is performed by analizing inputs from the following sources:
+* Intended Use
+* Software Lifecycle
+* Clinical Evaluation
+* Usability Engineering
+* Customer/User/Expert Feedback
+* Design Process
+* Cybersecurity
+* Post-Market Surveillance
+* Vigilance
+
+This analysis includes the following activities:
 
  * Identifying potential failure modes
  * Identifying potential hazards, hazardous situations and harms in collaboration with subject matter experts (e.g. physicians)
