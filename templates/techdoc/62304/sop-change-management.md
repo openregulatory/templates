@@ -41,7 +41,6 @@ Feedback is either classified as a **bug fix** or a **regular change request**:
 
 The processing of changes is based on the following regulatory provisions and guidances:
 
-* **Medical Device Directive, Annex II Section 3.4 and Section 4.4**
 * **Medical Device Regulation, Annex IX Chapter II Section 4.10:** *"Changes to the approved device shall
   require approval from the notified body which issued the EU technical documentation assessment certificate
   where such changes could affect the safety and performance of the device or the conditions prescribed for
@@ -55,7 +54,6 @@ The processing of changes is based on the following regulatory provisions and gu
 * **Medical Device Coordination Group (MDCG) Document 2020-03:** “Guidance on significant changes regarding
   the transitional provision under Article 120 of the MDR with regard to devices covered by certificates
   according to MDD or AIMDD”
-* **EK-Med 3.9 B31** dated 11/2014 and **NBOG BPG 2014-3** dated 03/2014
 
 ## Process Steps
 
