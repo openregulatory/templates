@@ -65,6 +65,7 @@ Changes proposals can originate from various sources, e.g.:
 * Market research
 * Customer feedback (see process for feedback management)
 * Post-Market Surveillance (see process for post-market surveillance)
+* Changes to the QMS
 
 They can originate from anywhere inside the company.
 
@@ -99,6 +100,8 @@ The evaluation is documented as part of the Change Evaluation List and results i
 
 If required, a Notified Body shall be informed before the implementation of changes.
 Multiple proposed changes can be batched and discussed in one session.
+
+If the change request relates to the change of parts of the QMS, the change is assessed with the second part of the change evaluation list for "organizational changes".
 
 | Participants                 |
 |------------------------------|
