@@ -4,8 +4,8 @@
 |----------------------------------------------|------------------|
 | Medical Device Regulation Art. 87 and 89     | All              |
 | Medical Device Directive Art. 10             | All              |
-| ISO 13485:2016 Section 8.2.3                 | All              |
-| MPDG, MPEUAnpV, MEDDEV 2.12/1 rev. 8         | All              |
+| MPDG, MPEUAnpV | All |
+| MDCG 2023-3, MEDDEV 2.12/1 rev. 8 | All |
 
 ## Summary
 
@@ -14,7 +14,7 @@ constitutes a serious and reportable incident.
 
 | General Information      |                                                                                                                             |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Description of Event:    | *\<Describe e.g. the cause that led to the event, the relationship between device and event, urgency of required actions\>* |
+| Description of Event:    | *\<Provide a summary, e.g. the cause that led to the event, the relationship between device and event, urgency of required actions\>* |
 | Report Date and Time:    |                                                                                                                             |
 | Affected Medical Device: | *\<Enter UDI here\>*                                                                                                        |
 | Incident Assessment:     | The event is a reportable incident:<br>( ) Yes ( ) No                                                                       |
@@ -22,35 +22,33 @@ constitutes a serious and reportable incident.
 
 ## Incident Assessment Framework
 
-The following criteria are based on the MEDDEV 2.12/1 rev. 8 guidance document. Any event which meets **all
-three criteria listed below** is considered a serious incident and must be reported to the competent national
-authorities.
+The following criteria are based on the MEDDEV 2.12/1 rev. 8 and MDCG 2023-03 guidance documents. Any event which meets **all three criteria listed below** is considered a serious incident and must be reported to the competent national authorities. Events that are not evaluated as reportable serious incidents may still be required to be documented and and considered in other quality management system processes (e.g. CAPA or post-market surveillance).
 
-> For correct understanding, keep in mind that the template form below can be also used to document
-> appropriately why an event was NOT considered a reportable incident!
+> Keep in mind that this form can be also used to document appropriately why an event was NOT considered a reportable incident.
 
 ### (1) General Event Description and Occurrence
 
-**Criterion:** An event has occurred that could be considered a serious and reportable incident.
+**Criterion:** An event has occurred that meets the definition of an incident according to Art. 2(64) MDR.
+
+*Note #1: An 'incident’ means any malfunction or deterioration in the characteristics or performance of a device made available on the market, including use-error due to ergonomic features, as well as any inadequacy in the information supplied by the manufacturer and any undesirable side-effect."*
+*Note #2: The incident assessment must also consider information resulting from testing, reading the instructions for use or scientific data that indicate implications as outlined in step 3 below.*
 
 |                   |                                                  |
 |-------------------|--------------------------------------------------|
 | Applicable?       | ( ) Yes ( ) No                                   |
-| Explanation:      | *\<if no, describe why this is not applicable\>* |
+| Explanation:      | *\<If no, describe why this is not applicable. The form does not have to be filled out any further.>* |
 | Category of event |                                                  |
 
-> Examples of possible event categories are as follows. For more examples, see MEDDEV 2.12/1 rev. 8 guidance.
+> Examples for possible incidents are as follows. For more information, see MDCG 2023-3, para. 2.
 >
-> * Technical failure mode leading to unexpected behavior of a medical device
-> * Incorrect product claims (marketing material, instructions for use, labeling)
-> * New hazard-related use scenario occurred, i.e. usability problem
-
-*Note: The incident assessment must also consider information resulting from testing, reading the instructions
-for use or scientific data that indicate implications as outlined in step 3 below.*
+> * technical failure mode leading to malfunctions of the medical device
+> * unclear or inadequate instructions for use
+> * use errors caused by ergonomic device features and abnormal use (e.g. off-label use), see MDCG 2023-3, para. 6
+> * undesirable side effects (see MDCG 2023-3, para. 8)
 
 ### (2) Relationship Between the Device and Event
 
-**Criterion:** A (direct or indirect) causal relationship is suspected between the device and the event.
+**Criterion:** A (direct or indirect) causal relationship between the incident and the medical device has been established, is reasonably possible or suspected.
 
 |              |                                                |
 |--------------|------------------------------------------------|
@@ -63,13 +61,11 @@ for use or scientific data that indicate implications as outlined in step 3 belo
 * *The PRRC assessment;*
 * *Previous / similar events and incidents*
 
-*From a risk management perspective, this decision should be made conservatively, i.e. if the situation is
-complex and/or potentially caused by multiple medical devices, the PRRC should have a tendency to
-assess this as "applicable" even if the matter still remains unclear.*
+*This decision should be made conservatively, i.e. if the situation is complex and/or potentially caused by multiple medical devices, the PRRC should have a tendency to assess this as "applicable" even if the matter still remains unclear.*
 
 ### (3) Event Outcomes
 
-**Criterion:** The event led, or might have led, to one of the following outcomes:
+**Criterion:** The event led, might have led, or might lead to one of the following outcomes as defined in Art. 2(65) MDR:
 
 |              |                                                                                                                                 |
 |--------------|---------------------------------------------------------------------------------------------------------------------------------|
