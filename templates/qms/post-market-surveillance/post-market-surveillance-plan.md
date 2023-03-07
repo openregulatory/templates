@@ -13,8 +13,8 @@ Post-Market Surveillance Report.
 
 ## 1. General Considerations
 
-> Note: Whatever kind of post-market surveillance activities you define for your product, make sure to map at
-> minimum all of these actions required by the MDR to one activity in section 2 below.
+> Note: Whatever kind of post-market surveillance documentation you create for your product, make sure to map at
+> minimum all of these actions required by the MDR to one document or record in section 2 below.
 
 According to Annex III section 1.1 (b) MDR, the post-market surveillance plan shall cover:
 
