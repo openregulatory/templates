@@ -18,7 +18,7 @@ Post-Market Surveillance Report.
 
 According to Annex III section 1.1 (b) MDR, the post-market surveillance plan shall cover:
 
-| MDR Requirement                                                                                                                                                                                                                                                                           | Activity |
+| MDR Requirement                                                                                                                                                                                                                                                                           | Document / Record |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | A proactive and systematic process to collect any information referred to in point (a). The process shall allow a correct characterisation of the performance of the devices and shall also allow a comparison to be made between the device and similar products available on the market |          |
 | Effective and appropriate methods and processes to assess the collected data;                                                                                                                                                                                                             |          |
