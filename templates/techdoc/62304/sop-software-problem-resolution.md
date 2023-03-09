@@ -47,7 +47,6 @@ We classify the severity of problems in the following categories:
 For all problems classified as "Medium" or higher the person responsible for regulatory compliance must be
 informed who subsequently assesses it based on SOP Incident Reporting.
 
-> Under MDD, replace the Person Responsible for Regulatory Compliance with Safety Officer.
 
 | Participants                                 |
 |----------------------------------------------|
@@ -60,7 +59,7 @@ informed who subsequently assesses it based on SOP Incident Reporting.
 
 ### 2. Root Cause Analysis and Procedure
 
-The root cause of the problem is determined (if possible) and a decision is made whether to fix it or not.
+The root cause of the problem is determined (if possible) by using an appropriate method (either 5 Whys Method or Ishikawa Fishbone Diagram) and a decision is made whether to fix it or not.
 
 We also analyze whether similar problems have occurred in the past and any trends can be discerned. If this is
 the case, it is noted in the problem report.
