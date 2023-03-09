@@ -53,7 +53,7 @@ Head of Software Development.
 | Participants                                                                            |
 |-----------------------------------------------------------------------------------------|
 | QMO                                                                                     |
-| Medical Device Safety Officer / Person Responsible for Regulatory Compliance (optional) |
+| Person Responsible for Regulatory Compliance (optional) |
 
 | Input | Output                    |
 |-------|---------------------------|
@@ -95,7 +95,7 @@ The QMO conducts the verification and effectiveness review of the implemented ac
 below. Thereafter, the QMO closes the CAPA.
 
 * Verification: Documenting proof of implementation of actions taken.
-* Effectiveness: Review of the effectiveness of actions taken.
+* Effectiveness: Review of the effectiveness of actions taken and whether the root cause has been remediated.
 
 | Participants |
 |--------------|
