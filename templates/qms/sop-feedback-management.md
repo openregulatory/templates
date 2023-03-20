@@ -101,7 +101,7 @@ The feedback ticket is forwarded to the Product team to decide over implementati
 **Issue with a Potential Negative Impact on the State of Health:**
 
 All issues with a potential negative impact on the state of health must be reported immediately, but no later
-than on the same day, to the Medical Device Safety Officer / Person Responsible for Regulatory Compliance.
+than on the same day, to the Person Responsible for Regulatory Compliance (PRRC).
 
 All product-related feedback shall be checked for a potential impact on the risk management file or product requirements of the respective device and shall be taken into consideration for device post-market surveillance.
 
