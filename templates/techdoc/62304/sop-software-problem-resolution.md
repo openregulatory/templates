@@ -44,10 +44,8 @@ We classify the severity of problems in the following categories:
 | Medium                  | May cause new or changed risks to patients which are acceptable. |
 | Low                     | All other problems.                                              |
 
-For all problems classified as "Medium" or higher the person responsible for regulatory compliance must be
-informed who subsequently assesses it based on SOP Incident Reporting.
-
-> Under MDD, replace the Person Responsible for Regulatory Compliance with Safety Officer.
+For all problems classified as "Medium" or higher the person responsible for regulatory compliance (PRRC) must be
+informed who subsequently assesses it according to the SOP Vigilance.
 
 | Participants                                 |
 |----------------------------------------------|
