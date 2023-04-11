@@ -361,7 +361,7 @@ Classification.
 ### 11. Product Release and Labeling
 
 Before release, it is ensured that all required process steps (software development, usability evaluation,
-risk analysis) have been completed. Release notes and a list of known anomalies are created. The software is
+risk analysis) have been completed. Release notes are created and the list of known anomalies is finalized. The software is
 only released if the remaining anomalies are deemed acceptable.
 
 Finally, the software is assigned required labeling, including at minimum:
