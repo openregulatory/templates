@@ -117,16 +117,16 @@ Management).
 | CTO          |
 | CPO          |
 
-| Input           | Output             |
-|-----------------|--------------------|
-| Business input  | Device Description |
-| Technical input | Vision document    |
-| Product ideas   |                    |
-| Change Request  |                    |
+| Input           | Output                                            |
+|-----------------|---------------------------------------------------|
+| Business input  | Device Description                                |
+| Technical input | Vision document                                   |
+| Product ideas   | Medical Device and Software Safety Classification |
+| Change Request  |                                                   |
 
-### 2. Usability Engineering and Risk Management Planning
+### 2. Risk Management Planning
 
-The risk management and usability engineering activities are planned and documented.
+The risk management activities are planned and documented.
 
 The Risk Management Plan defines criteria for risk acceptability in the form of a risk policy and a risk acceptance matrix. It defines risk acceptability both for individual risks and the overall residual risk. The risk acceptance matrix is created by performing the following steps:
 * Estimate product usage over its lifetime
@@ -136,7 +136,6 @@ The Risk Management Plan defines criteria for risk acceptability in the form of 
 * Create the risk acceptance matrix and define which combinations of the categories are deemed acceptable. Use color coding: red combinations represent unacceptable risks; yellow combinations represent risks that are acceptable.
 * Note: no fields are marked as green as all risks must be reduced as far as possible.
 
-The Usability Evaluation Plan includes summative and formative usability evaluation activities.
 
 | Participants                            |
 |-----------------------------------------|
@@ -146,9 +145,8 @@ The Usability Evaluation Plan includes summative and formative usability evaluat
 | Input              | Output                                            |
 |--------------------|---------------------------------------------------|
 | Device description | Risk Management Plan incl. risk acceptance matrix |
-|                    | Usability Evaluation Plan                         |
 
-### 3. First Risk and Usability Assessment
+### 3. First Risk Assessment and Usability Evaluation Planning
 
 In the first risk and usability assessment, a preliminary hazard analysis is conducted and an initial risk
 table is drafted.
@@ -182,8 +180,8 @@ summative usability evaluation and are reviewed following the checklist for user
 | Input                     | Output                                 |
 |---------------------------|----------------------------------------|
 | Device description        | Preliminary Hazards Analysis           |
-| Risk Management Plan      | Risk table (draft)                     |
-| Usability Evaluation Plan | Software Safety Classification (draft) |
+| Risk Management Plan      | Risk Table (Draft)                     |
+|                           | Usability Evaluation Plan              |
 |                           | User Needs                             |
 |                           | User Needs Review Checklist            |
 
