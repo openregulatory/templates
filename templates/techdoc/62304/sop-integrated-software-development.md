@@ -197,8 +197,6 @@ Significant changes will lead to major version changes and a change of the UDI-D
 The software system test plan is created based on the requirements. As requirements may change, the software
 system test plan is continuously updated to reflect those changes.
 
-Software requirements are verified through review by filling out the Checklist Software Requirements Review.
-
 | Participants       |
 |--------------------|
 | CTO                |
