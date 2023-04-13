@@ -100,14 +100,15 @@ the whole organization is oriented towards them.
 The Quality Management Officer (QMO) is responsible for:
 
 * ensuring that processes needed for the company’s quality management system are documented
-* reporting to top management on the effectiveness of the quality management system and any need for improvement
+* reporting to top management on the effectiveness of the quality management system and any need for
+  improvement
 * ensuring the promotion of awareness of applicable regulatory requirements and QMS requirements throughout the
   organization.
 
 > See ISO 13485, para. 5.1, para. 5.5.2
 
-Person Responsible for Regulatory Compliance (PRRC)
-Responsibilities of the PRRC are in accordance with Art. 15 MDR as follows:
+Person Responsible for Regulatory Compliance (PRRC) Responsibilities of the PRRC are in accordance with
+Art. 15 MDR as follows:
 
 * Ensure (review / release) the conformity of the devices is appropriately checked in accordance with the QMS
   before a device is released (also see Art. 10 Para. 9 MDR)

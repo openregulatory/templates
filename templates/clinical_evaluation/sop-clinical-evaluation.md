@@ -29,8 +29,8 @@ phase, this plan is continuously updated as part of the Post-Market Clinical Fol
 External partners can be involved in both conducting the initial clinical evaluation and the post-market
 clinical follow-up in order to ensure higher clinical expertise during the process and lower the risk of
 regulatory nonconformity. In this case, different external partners should be evaluated with regard to
-sufficient experience (see MEDDEV 2.7/1 rev. 4 section 6.2). The *\<Head of the Medical Team\>*  serves as the point
-of contact to provide all relevant information to the partner.
+sufficient experience (see MEDDEV 2.7/1 rev. 4 section 6.2). The *\<Head of the Medical Team\>* serves as the
+point of contact to provide all relevant information to the partner.
 
 > NOTE: if your organization maintains a purchasing process, the selection of an external partner for the
 > clinical evaluation should be subject to supplier evaluation.
