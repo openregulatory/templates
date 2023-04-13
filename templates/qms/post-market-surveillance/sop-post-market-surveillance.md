@@ -14,7 +14,8 @@ clinical evaluation and software development of our products.
 ## General Considerations
 
 This process is followed for each product separately, meaning that for each product, a Post-Market
-Surveillance Plan and Post-Market Surveillance Report (class I) or Periodic Safety Update Report (class IIa and higher) are created and continuously updated.
+Surveillance Plan and Post-Market Surveillance Report (class I) or Periodic Safety Update Report (class IIa
+and higher) are created and continuously updated.
 
 > Note: For class I devices, you could specify a longer update interval, e.g. once every two or three years.
 >
@@ -29,9 +30,14 @@ Surveillance Plan and Post-Market Surveillance Report (class I) or Periodic Safe
 Based on the clinical evaluation and technical documentation, a new Post-Market Surveillance Plan is created
 for a product.
 
-For medical devices of class IIa, post-market surveillance cycles may extend to no longer than two years. For medical devices of classes IIb and III, annual surveillance cycles apply. For devices of class IIa and higher, each surveillance cycle is concluded with the compilation of a periodic safety update report (see below). For class I devices, longer surveillance cycles may be defined and a Post-Market Surveillance Report is compiled. At least, this report should be updated when new relevant data has been identified.
+For medical devices of class IIa, post-market surveillance cycles may extend to no longer than two years. For
+medical devices of classes IIb and III, annual surveillance cycles apply. For devices of class IIa and higher,
+each surveillance cycle is concluded with the compilation of a periodic safety update report (see below). For
+class I devices, longer surveillance cycles may be defined and a Post-Market Surveillance Report is
+compiled. At least, this report should be updated when new relevant data has been identified.
 
-The plan should be created based on the Post-Market Surveillance Plan Template, following MDR Annex III, Section 1.
+The plan should be created based on the Post-Market Surveillance Plan Template, following MDR Annex III,
+Section 1.
 
 | Participants    |
 |-----------------|
@@ -54,38 +60,42 @@ enter them into the report template.
 
 At minimum, the following information categories have to be taken into consideration:
 
- * **Clinical evaluations and PMCF activities:** Input from Post-Market Clinical Follow-Up activities (see clinical evaluation process and template for the PMCF plan).
- * **New research and development in the market:** Information regarding similar medical devices and
-   technologies on the market.
- * **Input from recalls and reportable events:** Recalls, incidents and unintended side effects reported by
-   competitors, similar products and procedures or reported for other devices of our company (e.g. check BfArM
-   / FDA databases as further specified in the post-market surveillance plan; also see vigilance process).
- * **New or updated norms and standards, directives, regulation and other laws:** Verification if the list of
-   applicable regulations is up to date.
- * **SOUP:** Verification if SOUP list is up to date.
- * **Complaints directly reported by customers:** Information gathered through customer feedback and
-   complaints (see process for feedback management).
- * **Other feedback** collected or reported by sales or marketing staff, distributors, or other stakeholders.
+* **Clinical evaluations and PMCF activities:** Input from Post-Market Clinical Follow-Up activities (see
+  clinical evaluation process and template for the PMCF plan).
+* **New research and development in the market:** Information regarding similar medical devices and
+  technologies on the market.
+* **Input from recalls and reportable events:** Recalls, incidents and unintended side effects reported by
+  competitors, similar products and procedures or reported for other devices of our company (e.g. check BfArM
+  / FDA databases as further specified in the post-market surveillance plan; also see vigilance process).
+* **New or updated norms and standards, directives, regulation and other laws:** Verification if the list of
+  applicable regulations is up to date.
+* **SOUP:** Verification if SOUP list is up to date.
+* **Complaints directly reported by customers:** Information gathered through customer feedback and
+  complaints (see process for feedback management).
+* **Other feedback** collected or reported by sales or marketing staff, distributors, or other stakeholders.
 
 For each part of information, it is assessed whether it is applicable to the company's product. Additionally,
 the severity of impact on device safety and performance is rated on the following scale:
 
- * **Severe:** Serious injury or death
- * **Moderate:** Non-serious injury
- * **Marginal:** Everything else, less than moderate
+* **Severe:** Serious injury or death
+* **Moderate:** Non-serious injury
+* **Marginal:** Everything else, less than moderate
 
 Depending on the applicability, severity and observed trends of the new information, appropriate actions are
-initiated. The QMO and the Person Responsible for Regulatory Compliance (PRRC) must be consulted in this step, other roles (e.g. medical
-staff) should be involved if needed.
+initiated. The QMO and the Person Responsible for Regulatory Compliance (PRRC) must be consulted in this step,
+other roles (e.g. medical staff) should be involved if needed.
 
 Actions may entail:
 
- * **Updating the product risk management file**, for example, by adding new risks according to our risk
-   management process, updating occurrence / severity assumptions made for risks we already documented or
-   updating risk mitigation measures in place).
- * **Initiating a CAPA**, for example, to update processes, training measures or resource allocation. If a CAPA is identified based on Post-Market Surceillance information, the competent authority and/or Notified Body are informed.
- * **Initiating the vigilance process** reporting serious incidents and FSCA to competent authorities.
- * **Design changes** to the product following the company’s change management and software development process.
+* **Updating the product risk management file**, for example, by adding new risks according to our risk
+  management process, updating occurrence / severity assumptions made for risks we already documented or
+  updating risk mitigation measures in place).
+* **Initiating a CAPA**, for example, to update processes, training measures or resource allocation. If a CAPA
+  is identified based on Post-Market Surceillance information, the competent authority and/or Notified Body
+  are informed.
+* **Initiating the vigilance process** reporting serious incidents and FSCA to competent authorities.
+* **Design changes** to the product following the company’s change management and software development
+  process.
 
 | Participants    |
 |-----------------|
@@ -100,22 +110,28 @@ Actions may entail:
 
 ### 3. Compile Post-Market Surveillance Report (PMSR)
 
-For class I devices, the Product Manager finalizes the Periodic Safety Update Report (PSUR), which is at least reviewed by the Person Responsible for Regulatory Compliance (PRRC). The report should contain at least the following information:
-   * main findings and analyses of post-market surveillance activities throughout the surveillance interval as set out in the Post-Market Surveillance Plan
-   * a rationale and description of any preventive and corrective actions taken
+For class I devices, the Product Manager finalizes the Post-Market Surveillance Report (PMSR), which is at
+least reviewed by the Person Responsible for Regulatory Compliance (PRRC). The report should contain at least
+the following information:
 
+* main findings and analyses of post-market surveillance activities throughout the surveillance interval as
+  set out in the Post-Market Surveillance Plan
+* a rationale and description of any preventive and corrective actions taken
 
 ### 4. Compile Periodic Safety Update Report (PSUR)
 
-For class IIa devices and higher, the Product Manager finalizes the Periodic Safety Update Report (PSUR), which is at least reviewed by the
-Person Responsible for Regulatory Compliance (PRRC). The report should contain at least the following information:
+For class IIa devices and higher, the Product Manager finalizes the Periodic Safety Update Report (PSUR),
+which is at least reviewed by the Person Responsible for Regulatory Compliance (PRRC). The report should
+contain at least the following information:
 
-   * main findings of post-market surveillance activities throughout the surveillance interval as set out in the Post-Market Surveillance Plan
-   * a rationale and description of any preventive and corrective actions taken
-   * conclusion regarding implications for the risk management and clinical evaluation of the product, in particular, the overall residual risk and benefit-risk determination
-   * findings from the Post-Market Clinical Follow-Up
-   * the sales volume of the device, e.g. amount of users and, where practicable, the usage frequency of the device.
-
+* main findings of post-market surveillance activities throughout the surveillance interval as set out in the
+  Post-Market Surveillance Plan
+* a rationale and description of any preventive and corrective actions taken
+* conclusion regarding implications for the risk management and clinical evaluation of the product, in
+  particular, the overall residual risk and benefit-risk determination
+* findings from the Post-Market Clinical Follow-Up
+* the sales volume of the device, e.g. amount of users and, where practicable, the usage frequency of the
+  device.
 
 | Participants    |
 |-----------------|
