@@ -3,7 +3,6 @@
 | Regulations                                  | Document Section |
 |----------------------------------------------|------------------|
 | Medical Device Regulation Art. 87 and 89     | All              |
-| Medical Device Directive Art. 10             | All              |
 | ISO 13485:2016 Section 8.2.3                 | All              |
 | MPDG, MPEUAnpV, MEDDEV 2.12/1 rev. 8         | All              |
 
@@ -16,7 +15,7 @@ constitutes a serious and reportable incident.
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | Description of Event:    | *\<Describe e.g. the cause that led to the event, the relationship between device and event, urgency of required actions\>* |
 | Report Date and Time:    |                                                                                                                             |
-| Affected Medical Device: | *\<Enter UDI here\>*                                                                                                        |
+| Affected Medical Device: | *\<Enter UDI-DI here\>*                                                                                                     |
 | Incident Assessment:     | The event is a reportable incident:<br>( ) Yes ( ) No                                                                       |
 | Action Planned:          | *\<Describe FSCA\>*                                                                                                         |
 

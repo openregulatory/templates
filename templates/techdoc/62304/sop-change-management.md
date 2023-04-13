@@ -41,7 +41,6 @@ Feedback is either classified as a **bug fix** or a **regular change request**:
 
 The processing of changes is based on the following regulatory provisions and guidances:
 
-* **Medical Device Directive, Annex II Section 3.4 and Section 4.4**
 * **Medical Device Regulation, Annex IX Chapter II Section 4.10:** *"Changes to the approved device shall
   require approval from the notified body which issued the EU technical documentation assessment certificate
   where such changes could affect the safety and performance of the device or the conditions prescribed for
@@ -55,7 +54,6 @@ The processing of changes is based on the following regulatory provisions and gu
 * **Medical Device Coordination Group (MDCG) Document 2020-03:** “Guidance on significant changes regarding
   the transitional provision under Article 120 of the MDR with regard to devices covered by certificates
   according to MDD or AIMDD”
-* **EK-Med 3.9 B31** dated 11/2014 and **NBOG BPG 2014-3** dated 03/2014
 
 ## Process Steps
 
@@ -67,6 +65,7 @@ Changes proposals can originate from various sources, e.g.:
 * Market research
 * Customer feedback (see process for feedback management)
 * Post-Market Surveillance (see process for post-market surveillance)
+* Changes to the QMS
 
 They can originate from anywhere inside the company.
 
@@ -101,6 +100,8 @@ The evaluation is documented as part of the Change Evaluation List and results i
 
 If required, a Notified Body shall be informed before the implementation of changes.
 Multiple proposed changes can be batched and discussed in one session.
+
+If the change request relates to the change of parts of the QMS, the change is assessed with the second part of the change evaluation list for "organizational changes".
 
 | Participants                 |
 |------------------------------|
