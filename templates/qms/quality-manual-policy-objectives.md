@@ -26,15 +26,11 @@ The QMS described in this Quality Manual applies to all products of *\<your comp
 
 ### Applicable Standards
 
-> Remove either the MDD or MDR entry, depending on which you're complying with (MDD will only be possible
-> until May 2021, afterwards it's only MDR).
-
 The following table only gives an overview of the most relevant regulation and standards. For a comprehensive
 overview, see the list of applicable standards (reference here).
 
 | Standard / Regulation / Law | Why Applicable?                                           |
 |-----------------------------|-----------------------------------------------------------|
-| MDD (93/42/EEC)             | Directive for all Medical Device Manufacturers in the EU  |
 | MDR (2017/745/              | Regulation for all Medical Device Manufacturers in the EU |
 | ISO 13485:2016              | QMS required by essential requirements of MDD/MDR         |
 | ISO 14971:2019              | Risk management for medical devices                       |
@@ -101,17 +97,18 @@ the whole organization is oriented towards them.
 
 > See ISO 13485, para. 5.1, para. 5.5.1
 
-The Quality Management Officer (QMO) is responsible to:
+The Quality Management Officer (QMO) is responsible for:
 
-* ensure that processes needed for the company’s quality management system are documented
-* report to top management on the effectiveness of the quality management system and any need for improvement
-* ensure the promotion of awareness of applicable regulatory requirements and QMS requirements throughout the
+* ensuring that processes needed for the company’s quality management system are documented
+* reporting to top management on the effectiveness of the quality management system and any need for
+  improvement
+* ensuring the promotion of awareness of applicable regulatory requirements and QMS requirements throughout the
   organization.
 
 > See ISO 13485, para. 5.1, para. 5.5.2
 
-Person Responsible for Regulatory Compliance (PRRC)
-Responsibilities of the PRRC are in accordance with Art. 15 MDR as follows:
+Person Responsible for Regulatory Compliance (PRRC) Responsibilities of the PRRC are in accordance with
+Art. 15 MDR as follows:
 
 * Ensure (review / release) the conformity of the devices is appropriately checked in accordance with the QMS
   before a device is released (also see Art. 10 Para. 9 MDR)
