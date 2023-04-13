@@ -2,20 +2,9 @@
 
 ## Mapping of Requirements to Document Sections
 
-> Only relevant if you're aiming for MDD (and not MDR) compliance:
-
-| MDD Class     | MDD Section      | Document Section |
-|---------------|------------------|------------------|
-| IIa, IIb, III | Annex II, 3.2 c) | (All)            |
-| I             | Annex VII, 3     | (All)            |
-
-> And vice-versa, only relevant if you're aiming for MDR (not MDD) compliance:
-
 | MDR Class | MDR Section                   | Document Section |
 |-----------|-------------------------------|------------------|
 | (All)     | Annex II, 1.1 a) - d), h), i) | (All)            |
-
-> Always relevant:
 
 | ISO 14971:2019 Section | Document Section |
 |------------------------|------------------|

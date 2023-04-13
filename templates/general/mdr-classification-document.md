@@ -2,9 +2,6 @@
 
 ## Mapping of Requirements
 
-> NOTE: this template only serves for MDR purposes. Before May 2021, use Annex IX MDD instead of Annex VIII
-> MDR.
-
 | Medical Device Regulation (MDR) | Document Section |
 | ------------------------------- | ---------------- |
 | Annex VIII | (All) |

@@ -1,24 +1,23 @@
 # Incident Assessment Form
 
-| Regulations                              | Document Section |
-|------------------------------------------|------------------|
-| Medical Device Regulation Art. 87 and 89 | All              |
-| Medical Device Directive Art. 10         | All              |
-| MPDG, MPEUAnpV                           | All              |
-| MDCG 2023-3, MEDDEV 2.12/1 rev. 8        | All              |
+| Regulations                                       | Document Section |
+|---------------------------------------------------|------------------|
+| Medical Device Regulation Art. 87 and 89          | All              |
+| ISO 13485:2016 Section 8.2.3                      | All              |
+| MDCG 2023-3, MPDG, MPEUAnpV, MEDDEV 2.12/1 rev. 8 | All              |
 
 ## Summary
 
 This template is used to assess whether an event with a potentially negative impact on the state of health
 constitutes a serious and reportable incident.
 
-| General Information      |                                                                                                                                       |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Description of Event:    | *\<Provide a summary, e.g. the cause that led to the event, the relationship between device and event, urgency of required actions\>* |
-| Report Date and Time:    |                                                                                                                                       |
-| Affected Medical Device: | *\<Enter UDI here\>*                                                                                                                  |
-| Incident Assessment:     | The event is a reportable incident:<br>( ) Yes ( ) No                                                                                 |
-| Action Planned:          | *\<Describe FSCA\>*                                                                                                                   |
+| General Information      |                                                                                                                             |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Description of Event:    | *\<Describe e.g. the cause that led to the event, the relationship between device and event, urgency of required actions\>* |
+| Report Date and Time:    |                                                                                                                             |
+| Affected Medical Device: | *\<Enter UDI-DI here\>*                                                                                                     |
+| Incident Assessment:     | The event is a reportable incident:<br>( ) Yes ( ) No                                                                       |
+| Action Planned:          | *\<Describe FSCA\>*                                                                                                         |
 
 ## Incident Assessment Framework
 
