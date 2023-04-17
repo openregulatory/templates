@@ -36,7 +36,7 @@ Quality Requirements:
 | (5.) Could the purchased goods or services have a direct impact on the regulatory compliance of the organization's medical devices?    |          |                          |
 | (6.) Could the purchased goods or services have an indirect impact on the regulatory compliance of the organization's medical devices? |          |                          |
 | (7.) Is the organization not able to manufacture medical devices without the supplier's goods or services?                                 |          |                          |
-| (8.) Is there no alternative and equivalent supplier for these goods or services?                                                      |          |                          |
+| (8.) Is this the only available supplier for these goods or services?                                                      |          |                          |
 
 * A supplier is classified as **critical** if one of the questions (1.) or (3.) or (5.), or both (7.) and (8.) are answered with YES.
 * A supplier is classified as **non-critical** if all the questions (1.) and (3.) and (5.) are answered with NO.
