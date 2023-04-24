@@ -32,6 +32,11 @@ Estimated usage, categories of severity / probability and risk matrix acceptance
 
 Acceptability for individual risks always must be established based on both, the estimated severity and the estimated probability of a risk. The risk is deemed acceptable based on a combination of both, following the risk matrix defined in para. 1.2.4.
 
+All identified risks must be reduced as far as possible (AFAP) without adversely affecting the benefit-risk-ratio. Risk control measures implemented to reduce the risks must be chosen in the following order:
+1. Inherent safety by design
+2. Protective measures
+3. Information for safety
+
 Acceptability of the overall residual risk is established as part of the clinical evaluation process by weighing benefits from intended use against the overall residual risk. Benefits may be described by their magnitude or extent, the probability of experience within the intended patient population, the duration and frequency of the benefit. For example, the manufacturer may compare the device to similar medical devices available on the market: residual risks can be compared individually to corresponding risks of the similar device, considering differences in intended use. The overall evaluation of the benefit-risk-ratio should take into account knowledge of the intended medical indication, the generally acknowledged state of the art in technology and medicine, and the availability of alternative medical devices or treatments.
 
 #### 1.2.1 Estimates for Usage
