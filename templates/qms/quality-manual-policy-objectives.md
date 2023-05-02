@@ -66,11 +66,14 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 
 > Whatever policy you outlined above, now you need to make it measurable by defining objectives which can be
 > tracked. Those objectives should not (only) refer to the quality of your devices but the quality of your QMS
-> and the overall work of your organization. > Typical examples are: hiring excellence in staff, providing
-> best-of-class device performance, high standards of customer satisfaction, etc.
->
-> In a next step (see short-term goals), those are narrowed down to concrete measures like for example the
-> monthly number of user complaints.
+> and the overall work of your organization. Typical examples are: hiring excellence in staff, providing, best-of-class device performance, high standards of customer satisfaction, etc.
+> 
+> Implementation Option 1:
+> You define measurable, yet still abstract quality objectives here. In a next step (see short-term goals below), those are narrowed down to very concrete measures (for example: monthly number of user complaints). The advantage of that: you don't need to update your quality manual and objectives a lot. And you can re-use a system that you already have, combining QMS with your regular business goals.
+> 
+> Implementation Option 2:
+> As part of your management review, you will have to review all QMS processes plus your quality policy and objectives at least annually.
+> You can use that opportunity to define process-related KPIs which serve at the same time as your quality objectives.
 
 ### Short-Term Goals
 
