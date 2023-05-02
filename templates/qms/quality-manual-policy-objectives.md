@@ -143,8 +143,7 @@ Required qualification for this role:
 
 ## 4. Processes
 
-> List all your SOPs here. This list is currently incomplete as many SOPs are company-specific. You will have
-> to complete it yourself - good luck!
+> List all your SOPs here. This list is currently incomplete as many SOPs are company-specific. Important note: also mention if one of these processes is outsourced to a third party (typicaly examples: internal auditing or clinical evaluation done by a regulatory consultant, software development done by an external agency; see ISO 13485:2016, para. 4.1.5). Perhaps add another column to point out if an SOP is outsourced or not.
 
 | SOP                                  | Process Category |
 |--------------------------------------|------------------|
