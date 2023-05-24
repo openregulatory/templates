@@ -45,9 +45,9 @@ following data must be collected as input for the Management Review:
   as part of the Change Evaluation List - for instance, changes to the organizational structure,
   infrastructure, processes or customer requirements).
 * **Other Key Performance Indicators (KPIs)**\
-  While not every process of the QM system requires a KPI, most processes should be assigned an indicator
-  that allows the assessment of process effectiveness, unless there is a valid explanation for why no KPI
-  is reasonably applicable.
+  Typically, every processes should be assigned an indicator that allows the assessment of process
+  effectiveness, unless there is a valid explanation for why no KPI is reasonably applicable (see ISO
+  13485:2016, para. 4.1.3). KPI results become management review input.
 
 
 ### 1.2. Management Review Output
@@ -73,18 +73,19 @@ available.
 
 ## Process Steps
 
-### 2.1 Definition of Strategic Goals and Process KPIs
+### 2.1 Setting Up Process Key Performance Indicators
 
 At the beginning of every review period, Management together with the QMO defines key performance indicators
-(KPIs) for QMS processes as well as strategic goals for the company. The strategic goals are based on the
-organization’s quality objectives as defined in the quality manual. The results of this process step are
-communicated to all relevant members of the organization (e.g. process owners).
+(KPIs) for the QMS processes of the company. The quality objectives are reviewed for continued adequacy.
+
+The results of this process step are communicated to all relevant members of the organization (e.g. process
+owners).
 
 |              |                                      |
 |--------------|--------------------------------------|
 | Participants | Management, QMO                      |
 | Input        | Quality Policy, Quality Objectives   |
-| Output       | Strategic Goals, Process KPIs        |
+| Output       | Process KPIs                         |
 
 ### 2.2 Data Collection and Analysis
 
@@ -109,7 +110,7 @@ responsible to evaluate the results against the pre-defined criteria and formula
 adequacy, suitability and efficacy of the QM system. Where necessary, the Management defines measures for
 improvement. The results of the Management Review are documented in the Management Review Report.
 
-Finally, the Management sets strategic goals and, where necessary, new or revised process KPIs for the next
+Where necessary, the Management sets up new or revised process KPIs as well as quality objectives for the next
 review period. This is communicated again to all relevant members of the organization.
 
 |              |                                                                                     |
