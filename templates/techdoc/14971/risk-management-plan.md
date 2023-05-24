@@ -1,6 +1,8 @@
 # Risk Management Plan
 
-The Risk Management Plan contains the risk policy and defines the criteria for risk acceptance. It also references relevant processes and activities which will be conducted for product-specific risk management as part of the integrated software development process (SOP Integrated Software Development).
+The Risk Management Plan contains the risk policy and defines the criteria for risk acceptance. It also
+references relevant processes and activities which will be conducted for product-specific risk management as
+part of the integrated software development process (SOP Integrated Software Development).
 
 ## Mapping of Standard Requirements to Document Sections
 
@@ -24,20 +26,40 @@ Software Development.
 
 ### 1.2 Risk Policy and Risk Acceptability
 
-The following policy establishes criteria for risk acceptability following ISO 14971:2019 and ISO/TR 24971:2020. It applies to all people and activities involved in the design, development and distribution process of the medical device, and intends to ensure highest levels of medical device safety consistent with stakeholder expectations.
+The following policy establishes criteria for risk acceptability following ISO 14971:2019 and ISO/TR
+24971:2020. It applies to all people and activities involved in the design, development and distribution
+process of the medical device, and intends to ensure highest levels of medical device safety consistent with
+stakeholder expectations.
 
-The manufacturer defines framework criteria for risk acceptability in the form of estimated usage, severity of harm and probability of occurrence (para. 1.2.1 - 1.2.3). The criteria are initially defined as part of the early software development process and reviewed during every post-market surveillance cycle.
+The manufacturer defines framework criteria for risk acceptability in the form of estimated usage, severity of
+harm and probability of occurrence (para. 1.2.1 - 1.2.3). The criteria are initially defined as part of the
+early software development process and reviewed during every post-market surveillance cycle.
 
-Estimated usage, categories of severity / probability and risk matrix acceptance are defined based on applicable regulatory requirements, relevant international norms and standards, as well as the generally acknowledged state of the art (e.g. accepted results of scientific research, reports published by authorities, established industry best practices).
+Estimated usage, categories of severity / probability and risk matrix acceptance are defined based on
+applicable regulatory requirements, relevant international norms and standards, as well as the generally
+acknowledged state of the art (e.g. accepted results of scientific research, reports published by authorities,
+established industry best practices).
 
-Acceptability for individual risks always must be established based on both, the estimated severity and the estimated probability of a risk. The risk is deemed acceptable based on a combination of both, following the risk matrix defined in para. 1.2.4.
+Acceptability for individual risks always must be established based on both, the estimated severity and the
+estimated probability of a risk. The risk is deemed acceptable based on a combination of both, following the
+risk matrix defined in para. 1.2.4.
 
-All identified risks must be reduced as far as possible (AFAP) without adversely affecting the benefit-risk-ratio. Risk control measures implemented to reduce the risks must be chosen in the following order:
+All identified risks must be reduced as far as possible (AFAP) without adversely affecting the
+benefit-risk-ratio. Risk control measures implemented to reduce the risks must be chosen in the following
+order:
+
 1. Inherent safety by design
 2. Protective measures
 3. Information for safety
 
-Acceptability of the overall residual risk is established as part of the clinical evaluation process by weighing benefits from intended use against the overall residual risk. Benefits may be described by their magnitude or extent, the probability of experience within the intended patient population, the duration and frequency of the benefit. For example, the manufacturer may compare the device to similar medical devices available on the market: residual risks can be compared individually to corresponding risks of the similar device, considering differences in intended use. The overall evaluation of the benefit-risk-ratio should take into account knowledge of the intended medical indication, the generally acknowledged state of the art in technology and medicine, and the availability of alternative medical devices or treatments.
+Acceptability of the overall residual risk is established as part of the clinical evaluation process by
+weighing benefits from intended use against the overall residual risk. Benefits may be described by their
+magnitude or extent, the probability of experience within the intended patient population, the duration and
+frequency of the benefit. For example, the manufacturer may compare the device to similar medical devices
+available on the market: residual risks can be compared individually to corresponding risks of the similar
+device, considering differences in intended use. The overall evaluation of the benefit-risk-ratio should take
+into account knowledge of the intended medical indication, the generally acknowledged state of the art in
+technology and medicine, and the availability of alternative medical devices or treatments.
 
 #### 1.2.1 Estimates for Usage
 
@@ -103,12 +125,14 @@ Acceptability of the overall residual risk is established as part of the clinica
 
 ### 1.3 Verification of Risk Control Measures
 
-Risk Control Measures are verified as described in the software development lifecycle as described in SOP Integrated
-Software Development.
+Risk Control Measures are verified as described in the software development lifecycle as described in SOP
+Integrated Software Development.
 
 ### 1.4 Assessment of the overall residual risk
 
-After determination of the Risk Control Measures any risk that could arise from the combination of the individual risks or mitigating measures is assessed. For this purpose, the probability and severity of the possible residual risk are estimated and evaluated using the existing risk matrix.
+After determination of the Risk Control Measures any risk that could arise from the combination of the
+individual risks or mitigating measures is assessed. For this purpose, the probability and severity of the
+possible residual risk are estimated and evaluated using the existing risk matrix.
 
 ### 1.5 Collection and Review of Post-Production Information
 

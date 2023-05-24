@@ -45,7 +45,9 @@ following data must be collected as input for the Management Review:
   as part of the Change Evaluation List - for instance, changes to the organizational structure,
   infrastructure, processes or customer requirements).
 * **Other Key Performance Indicators (KPIs)**\
-  Typically, every processes should be assigned an indicator that allows the assessment of process effectiveness, unless there is a valid explanation for why no KPI is reasonably applicable (see ISO 13485:2016, para. 4.1.3). KPI results become management review input.
+  Typically, every processes should be assigned an indicator that allows the assessment of process
+  effectiveness, unless there is a valid explanation for why no KPI is reasonably applicable (see ISO
+  13485:2016, para. 4.1.3). KPI results become management review input.
 
 
 ### 1.2. Management Review Output
@@ -75,7 +77,9 @@ available.
 
 At the beginning of every review period, Management together with the QMO defines key performance indicators
 (KPIs) for the QMS processes of the company. The quality objectives are reviewed for continued adequacy.
-The results of this process step are communicated to all relevant members of the organization (e.g. process owners).
+
+The results of this process step are communicated to all relevant members of the organization (e.g. process
+owners).
 
 |              |                                      |
 |--------------|--------------------------------------|

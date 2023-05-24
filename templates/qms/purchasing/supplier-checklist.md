@@ -35,8 +35,8 @@ Quality Requirements:
 | (4.) Could the purchased goods or services have an indirect impact on the performance of the organization's medical devices?           |          |                          |
 | (5.) Could the purchased goods or services have a direct impact on the regulatory compliance of the organization's medical devices?    |          |                          |
 | (6.) Could the purchased goods or services have an indirect impact on the regulatory compliance of the organization's medical devices? |          |                          |
-| (7.) Is the organization not able to manufacture medical devices without the supplier's goods or services?                                 |          |                          |
-| (8.) Is this the only available supplier for these goods or services?                                                      |          |                          |
+| (7.) Is the organization not able to manufacture medical devices without the supplier's goods or services?                             |          |                          |
+| (8.) Is this the only available supplier for these goods or services?                                                                  |          |                          |
 
 * A supplier is classified as **critical** if one of the questions (1.) or (3.) or (5.), or both (7.) and (8.) are answered with YES.
 * A supplier is classified as **non-critical** if all the questions (1.) and (3.) and (5.) are answered with NO.
@@ -64,7 +64,7 @@ Additional evaluation criteria can be used to evaluate the suppliers:
 | Further Criteria                                                                                                                               | Yes / No | Explanation / Commentary     |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------|
 | Is there a non-disclosure agreement (NDA) in place between the supplier and our organization?                                                  |          |                              |
-| Does the supplier have a certified management system in place?                                                                                   |          | \<e.g. ISO 9001, ISO 13485\> |
+| Does the supplier have a certified management system in place?                                                                                 |          | \<e.g. ISO 9001, ISO 13485\> |
 | Does the supplier conduct quality reviews before shipment?                                                                                     |          |                              |
 | Does the supplier have a system for traceability established?                                                                                  |          |                              |
 | Does the supplier have a procedure for the handling of nonconforming products in place?                                                        |          |                              |

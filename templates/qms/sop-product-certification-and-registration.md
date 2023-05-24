@@ -1,8 +1,8 @@
-| Regulatory Requirement                                                                                                                    | Document Section |
-|-------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| MDR Annex I (General Safety and Performance Requirements), Annex IV (EU Declaration of Conformity), Art. 27, 29, 31 (UDI / Eudamed)                                     | All              |
-| MPDG §8, §96, §97                                                                                                                         | All              |
-| ISO 13485:2015, Sections 4.2.3                                                                                                            | All              |
+| Regulatory Requirement                                                                                                              | Document Section |
+|-------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| MDR Annex I (General Safety and Performance Requirements), Annex IV (EU Declaration of Conformity), Art. 27, 29, 31 (UDI / Eudamed) | All              |
+| MPDG §8, §96, §97                                                                                                                   | All              |
+| ISO 13485:2015, Sections 4.2.3                                                                                                      | All              |
 
 ## Summary
 
@@ -55,13 +55,16 @@ development (e.g. software development, risk management, usability testing). The
 responsible to coordinate this process step with all relevant members of the organization. Documentation for
 different versions of the device is kept separate.
 
-The Product Manager maintains a Medical Devices List according to MDR Annex II Sec 1.2 that provides an overview of:
+The Product Manager maintains a Medical Devices List according to MDR Annex II Sec 1.2 that provides an
+overview of:
+
 * Installed product versions per customer site (if applicable)
 * Previous device versions, incl. release and decommissioning date
 * Similar devices
 
 Prior to submission to the Notified Body for conformity assessment (if applicable), the QMO checks the
-documentation for completeness according to the stipulations listed below. Compliance with EU legislation is documented in the MDR General Safety and Performance Requirements Checklist.
+documentation for completeness according to the stipulations listed below. Compliance with EU legislation is
+documented in the MDR General Safety and Performance Requirements Checklist.
 
 * MDR General Safety and Performance Requirements (Annex I)
 * MDR EU Declaration of Conformity (Annex IV)
@@ -77,10 +80,10 @@ After successful approval by the Notified Body, the Management signs the declara
 
 ### 4. Registration of Medical Device (UDI)
 
-Country-specific requirements for registration are observed before making a new medical device (version) available in
-a market. For the European market, the Product Manager follows the requirements set out in Art. 29 and Annex
-VI MDR by registering the device’s Unique Device Identifier (UDI) in the European Database for Medical Devices
-(Eudamed).
+Country-specific requirements for registration are observed before making a new medical device (version)
+available in a market. For the European market, the Product Manager follows the requirements set out in
+Art. 29 and Annex VI MDR by registering the device’s Unique Device Identifier (UDI) in the European Database
+for Medical Devices (Eudamed).
 
 For the implementation of product changes, the Product Manager applies for a new UDI-DI if the changes entail
 one of the following:
@@ -101,14 +104,15 @@ The Product Manager assigns a new UDI-PI for modifications such as:
 * Security patches
 * User interfaces (limited to usability and excluding security improvements)
 
-The UDI-PI is determined by the manufacturer. Typically, the device version number serves as the UDI-PI (see SOP Software Development).
+The UDI-PI is determined by the manufacturer. Typically, the device version number serves as the UDI-PI (see
+SOP Software Development).
 
 > NOTE:
 >
-> * The **Basic UDI-DI** (or: BUDI-DI) is assigned by UDI providers and identifies a **group of medical devices
->   with the same purpose, risk class, comparable design and manufacturing features.**
-> * The **UDI-DI** is assigned by UDI providers **for each medical device product type** and is revised for any
->   major modifications (substantial updates) to the device.
+> * The **Basic UDI-DI** (or: BUDI-DI) is assigned by UDI providers and identifies a **group of medical
+>   devices with the same purpose, risk class, comparable design and manufacturing features.**
+> * The **UDI-DI** is assigned by UDI providers **for each medical device product type** and is revised for
+>   any major modifications (substantial updates) to the device.
 > * The **UDI-PI** you can assign yourself as a manufacturer **for every single product** and is revised for
 >   minor modifications (non-substantial updates).
 
