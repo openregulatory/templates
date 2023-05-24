@@ -1,13 +1,12 @@
 | Regulatory Requirement | Document Section |
 |------------------------|------------------|
-| MDD Annex I and X      | All              |
 | MDR Annex XIV          | All              |
 | MEDDEV 2.7/1, rev. 4   | All              |
+| MDCG 2020-6            | All              |
 
 ## Summary
 
-This SOP describes the development of medical devices in accordance with regulatory requirements of Annex I
-and X (MDD) and Annex XIV (MDR) regarding medical device clinical performance. It ensures the level of
+This SOP describes the development of medical devices in accordance with regulatory requirements of Annex XIV (MDR) regarding medical device clinical performance. It ensures the level of
 demonstrated safety and risk-benefit ratio that is required for our medical devices both for initial
 certification and for continued safe use in the market.
 
@@ -30,8 +29,8 @@ phase, this plan is continuously updated as part of the Post-Market Clinical Fol
 External partners can be involved in both conducting the initial clinical evaluation and the post-market
 clinical follow-up in order to ensure higher clinical expertise during the process and lower the risk of
 regulatory nonconformity. In this case, different external partners should be evaluated with regard to
-sufficient experience (see MEDDEV 2.7/1 rev. 4 section 6.2). The Head of the Medical Team serves as the point
-of contact to provide all relevant information to the partner.
+sufficient experience (see MEDDEV 2.7/1 rev. 4 section 6.2). The *\<Head of the Medical Team\>* serves as the
+point of contact to provide all relevant information to the partner.
 
 > NOTE: if your organization maintains a purchasing process, the selection of an external partner for the
 > clinical evaluation should be subject to supplier evaluation.
@@ -46,14 +45,14 @@ of contact to provide all relevant information to the partner.
 ### 1.2 Clinical Evaluation Report
 
 Relevant data is collected and analyzed as part of writing the Clinical Evaluation Report to evaluate the
-device’s clinical performance.  At minimum, the clinical evaluation must take account of:
+device’s clinical performance. The clinical evaluation shall consider at least the following points:
 
-* Intended use (incl. user and patient population, use environment, device features)
+* Intended Use (incl. user and patient population, use environment, device features)
 * Data to support equivalence with other devices (if applicable)
 * Discussion of state of the art technology
 * Discussion of the selected categories of clinical data, the quality of clinical data and its sufficiency to
   support an overall balanced risk-benefit ratio of the device and compliance with the General Safety
-  Performance Requirements (MDR) / Essential Requirements (MDD).
+  Performance Requirements (MDR).
 
 In the course of data collection and analysis, new risks may be identified and are documented accordingly as
 updates to the risk management file.

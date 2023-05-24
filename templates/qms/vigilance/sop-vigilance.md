@@ -8,10 +8,10 @@
 |---------------------------|------------------|
 | Art. 87                   | All              |
 
-> Regulatory references: check MEDDEV 2.12./1 for guidance on this topic. As a German manufacturer, you are
-> also subject to national law which lays out more specific requirements (note that in preparation for MDR,
-> the Medizinproduktegesetz (MPG) was replaced by the Medizinprodukte-Durchführungsgesetz (MPDG) and the
-> Medizinprodukte-EU-Anpassungsverordnung (MPEUAnpV) replaced the old
+> Regulatory references: check MDCG 2023-3 and MEDDEV 2.12./1 for guidance on this topic. As a German
+> manufacturer, you are also subject to national law which lays out more specific requirements (note that in
+> preparation for MDR, the Medizinproduktegesetz (MPG) was replaced by the Medizinprodukte-Durchführungsgesetz
+> (MPDG) and the Medizinprodukte-EU-Anpassungsverordnung (MPEUAnpV) replaced the old
 > Medizinprodukte-Sicherheitsplanverordnung (MPSV)).
 
 ## Summary
@@ -192,9 +192,12 @@ If there is a relationship, the PRRC evaluates if the event qualifies as a repor
 filling out the incident assessment form. Only serious incidents and FSCA must be reported (Art. 87 MDR). In
 the case of uncertainty, the event is always reported as a serious incident.
 
-Where it is determined that the incident is not a serious incident or is an expected undesirable side-effect,
-which will be covered by trend reporting in accordance with the process for post-market surveillance, an
-explanatory statement must be documented in the incident assessment form.
+Where it is determined that the incident is not reportable, an explanatory statement must be documented in the
+incident assessment form.
+
+Incidents that are not evaluated as reportable serious incidents must still be documented and and considered
+in other quality management system processes (e.g. CAPA or as trend reporting as part of post-market
+surveillance).
 
 | Participants                                        |
 |-----------------------------------------------------|
@@ -214,8 +217,8 @@ report with all information required and available at the time.
 If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment
 procedure of the device.
 
-| Participants                                               |
-|------------------------------------------------------------|
+| Participants                                        |
+|-----------------------------------------------------|
 | Person Responsible for Regulatory Compliance (PRRC) |
 
 | Input                                | Output                                                 |
@@ -254,9 +257,8 @@ described in the previous para. 4.
 > would entail labeling instructions for respective product code and instructions for employees handling those
 > products.
 
-
-| Participants                                               |
-|------------------------------------------------------------|
+| Participants                                        |
+|-----------------------------------------------------|
 | Person Responsible for Regulatory Compliance (PRRC) |
 
 | Input                         | Output                                             |
@@ -271,8 +273,8 @@ completion.
 
 All incident records shall be archived as part of the QMS.
 
-| Participants                                               |
-|------------------------------------------------------------|
+| Participants                                        |
+|-----------------------------------------------------|
 | Person Responsible for Regulatory Compliance (PRRC) |
 
 | Input                  | Output                                |
