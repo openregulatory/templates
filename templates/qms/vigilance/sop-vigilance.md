@@ -247,7 +247,7 @@ recommended actions. If a customer does not respond, at least three attempts for
 is also documented as part of the CAPA if all attempts to inform a customer were unsuccessful.
 
 For B2B customers of our devices, respective contact details for vigilance purposes must be documented as part
-of CERT-LIS-DEV. For B2C customers, contact details which allow unique identification of end users must be
+of the Medical Devices List. For B2C customers, contact details which allow unique identification of end users must be
 stored separately for every device.
 
 All FSCA are documented as part of the CAPA and must be reported to competent national authorities as
