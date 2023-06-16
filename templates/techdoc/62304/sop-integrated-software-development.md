@@ -393,8 +393,8 @@ Finally, the software is assigned required labeling, including at minimum:
 * The intended purpose of the device (where it is not obvious to the user)
 * An indication that the product is a medical device, following symbols and labels specified in ISO 15223-1
 * CE marking
-* Unique Device Identifier (see CERT-SOP)
-* Software version number in accordance with PR-ESW-SWDP-Software Development Plan
+* Unique Device Identifier (see product certification and registration process)
+* Software version number in accordance with the software development plan
 * Warning, precautions, contraindications and residual risks that need to be brought to the user’s attention
   as outlined by risk control measures in the risk file
 
