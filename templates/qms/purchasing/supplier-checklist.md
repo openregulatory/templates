@@ -27,20 +27,23 @@ Quality Requirements:
 
 ## 3. Supplier Criticality
 
-| Criticality Criteria                                                                                                                   | Yes / No | Explanation / Commentary |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------|
+| Criticality Criteria                                                                                                                           | Yes / No | Explanation / Commentary |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------|
 | (1.) Could the purchased goods or services have a **direct** impact on the **safety** of the organization's medical devices?                   |          |                          |
 | (2.) Could the purchased goods or services have an **indirect** impact on the **safety** of the organization's medical devices?                |          |                          |
 | (3.) Could the purchased goods or services have a **direct** impact on the **performance** of the organization's medical devices?              |          |                          |
 | (4.) Could the purchased goods or services have an **indirect** impact on the **performance** of the organization's medical devices?           |          |                          |
 | (5.) Could the purchased goods or services have a **direct** impact on the **regulatory compliance** of the organization's medical devices?    |          |                          |
 | (6.) Could the purchased goods or services have an **indirect** impact on the **regulatory compliance** of the organization's medical devices? |          |                          |
-| (7.) Is the organization not able to manufacture medical devices without the supplier's goods or services?                             |          |                          |
-| (8.) Is this the only available supplier for these goods or services?                                                                  |          |                          |
+| (7.) Is the organization not able to manufacture medical devices without the supplier's goods or services?                                     |          |                          |
+| (8.) Is this the only available supplier for these goods or services?                                                                          |          |                          |
 
-* A supplier is classified as **critical** if the supplier **directly** impacts either safety, performance or regulatory compliance, or both (7.) and (8.) are answered with YES.
+* A supplier is classified as **critical** if the supplier **directly** impacts either safety, performance or
+  regulatory compliance, or both (7.) and (8.) are answered with YES.
 * A supplier is classified as **non-critical** if all the questions (1.) and (3.) and (5.) are answered with NO.
-* The QMO decides over criticality on a case-by-case basis, if the questions (1.) and (3.) and (5.) and both (7.) and (8.) are answered with NO, but one of the questions on indirect impact (2, 4, 6) are answered with YES.
+* The QMO decides over criticality on a case-by-case basis, if the questions (1.) and (3.) and (5.) and both
+  (7.) and (8.) are answered with NO, but one of the questions on indirect impact (2, 4, 6) are answered with
+  YES.
 
 **Assessment of Criticality:** \<enter here\>
 
@@ -57,7 +60,8 @@ Quality Requirements:
 
 Average score:
 
-Provisions for supplier evaluation and further information can be found in step 1.4 of the organization's supplier process.
+Provisions for supplier evaluation and further information can be found in step 1.4 of the organization's
+supplier process.
 
 Additional evaluation criteria can be used to evaluate the suppliers:
 
