@@ -4,7 +4,7 @@
 
 ## Summary
 
-This SOP describes how the organization identifies changes to regulation applicable either to the organization
+This SOP describes how the organization identifies changes to regulations applicable either to the organization
 as a manufacturer or its products in the market. This process shall ensure that changes are identified early
 enough and required changes are implemented in a timely manner so that regulatory compliance is guaranteed at
 all times.
@@ -18,7 +18,7 @@ all times.
 
 ### 1. Regulatory Input / Review
 
-The QMO is responsible to gather all available regulatory information that is potentially relevant for the
+The QMO is responsible for collecting all available regulatory information potentially relevant for the
 organization and its medical device(s) based on respective documentation provided by the Product
 Manager(s). Input may entail statutory laws, regulations and guidance documents. The QMO analyzes the
 applicability of relevant regulations and documents his assessment in a List of Applicable Regulations.
@@ -45,8 +45,8 @@ on the market or as specified by the List of Applicable Regulations.
 If a new or revised applicable regulation is brought to their attention, the QMO updates the List of
 Applicable Regulations. Where necessary, updates to medical devices are implemented according to the change management process. Where updates to the organization’s quality management system processes are necessary, the QMO implements those directly or delegates implementation to the respective process owners.
 
-The QMO communicates new or revised regulation to relevant members of the organization (e.g. process owners or
-product managers). Management is informed of new or revised regulation at least annually as part of the Management Review.
+The QMO communicates new or revised regulations to relevant members of the organization (e.g. process owners or
+product managers). Management is informed of new or revised regulations at least annually as part of the Management Review.
 As part of the relevant section of the Management Review Report, it is evaluated if updates to applicable regulations have been implemented effectively.
 
 |              |                                                                                                  |
