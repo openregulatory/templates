@@ -21,7 +21,7 @@ all times.
 The QMO is responsible for collecting all available regulatory information potentially relevant for the
 organization and its medical device(s) based on respective documentation provided by the Product
 Manager(s). Input may entail statutory laws, regulations and guidance documents. The QMO analyzes the
-applicability of relevant regulations and documents his assessment in a List of Applicable Regulations.
+applicability of relevant regulations in the List of Applicable Regulations.
 
 Relevant input channels may include, but are not limited to:
 * Newsletter of ISO / IEC
