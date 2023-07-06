@@ -62,12 +62,12 @@ Head of Software Development.
 ### 3. Root Cause Analysis
 
 The QMO coordinates a root cause analysis with the person closest to the issue. The preferred method for this
-is Five Whys. The result is added to the CAPA list.
+is Five Whys. This method consists of first formulating a clear statement about the issue and then getting to the root of the problem by iteratively asking "Why did this happen?". The result is added to the CAPA list.
 
 | Participants                       |
 |------------------------------------|
 | QMO                                |
-| Other people in company (optional) |
+| Other people in the company (optional) |
 
 | Input | Output                        |
 |-------|-------------------------------|
@@ -75,7 +75,7 @@ is Five Whys. The result is added to the CAPA list.
 
 ### 4. Implementation of Action
 
-The QMO coordinates defining and implementing corrective and preventive action. Additionally, the QMO takes
+The QMO coordinates defining and implementing the corrective and preventive action. Additionally, the QMO takes
 into account adverse negative implications and verifies that the actions do not adversely affect the ability
 to meet applicable regulatory requirements or the safety and performance of the medical device. Outcomes are
 documented in the CAPA list.
