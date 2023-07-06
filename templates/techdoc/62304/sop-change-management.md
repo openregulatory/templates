@@ -59,7 +59,7 @@ The processing of changes is based on the following regulatory provisions and gu
 
 ### 1. Creation of Change Request
 
-Changes proposals can originate from various sources, e.g.:
+Change proposals can originate from various sources, e.g.:
 
 * Internal design ideas
 * Market research
