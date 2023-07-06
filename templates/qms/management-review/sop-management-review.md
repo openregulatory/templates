@@ -89,12 +89,12 @@ owners).
 
 ### 2.2 Data Collection and Analysis
 
-Every process owner is responsible to track the KPI of their process during the review period and to keep
+Every process owner is responsible for tracking the KPI of their process during the review period and creating
 records as required by the process.
 
 At the end of a review period, the QMO collects data input from process owners and analyzes the KPI data
 against pre-defined criteria in preparation for the Management Review. The QMO may undertake further
-investigation to identify nonconformities and to provide a preliminary assessment of the adequacy, suitability
+investigation to identify non-conformities and to provide a preliminary assessment of the adequacy, suitability
 and efficacy of the QM system.
 
 |              |                         |
@@ -106,7 +106,7 @@ and efficacy of the QM system.
 ### 2.3 Management Review Report
 
 Management and QMO together discuss the reported input and completed data analysis. The Management is
-responsible to evaluate the results against the pre-defined criteria and formulate an assessment of the
+responsible for evaluating the results against the pre-defined criteria and formulating an assessment of the
 adequacy, suitability and efficacy of the QM system. Where necessary, the Management defines measures for
 improvement. The results of the Management Review are documented in the Management Review Report.
 
