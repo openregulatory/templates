@@ -52,7 +52,7 @@ assessment for the new device.
 
 The technical documentation for the medical device is compiled by following respective processes for
 development (e.g. software development, risk management, usability testing). The Product Manager is
-responsible to coordinate this process step with all relevant members of the organization. Documentation for
+responsible for coordinating this process step with all relevant members of the organization. Documentation for
 different versions of the device is kept separate.
 
 The Product Manager maintains a Medical Devices List according to MDR Annex II Sec 1.2 that provides an
@@ -81,7 +81,7 @@ After successful approval by the Notified Body, the Management signs the declara
 ### 4. Registration of Medical Device (UDI)
 
 Country-specific requirements for registration are observed before making a new medical device (version)
-available in a market. For the European market, the Product Manager follows the requirements set out in
+available on the market. For the European market, the Product Manager follows the requirements set out in
 Art. 29 and Annex VI MDR by registering the device’s Unique Device Identifier (UDI) in the European Database
 for Medical Devices (Eudamed).
 
