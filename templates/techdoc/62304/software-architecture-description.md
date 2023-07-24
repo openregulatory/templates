@@ -21,7 +21,7 @@ components and software units.
 >
 > NOTE: Ideally, you would add an illustrating diagram to the Annex and reference it here.
 
-## 4.1. Frontend
+## 2.1. Frontend
 
 > Enter description, for example:
 >
@@ -31,7 +31,7 @@ components and software units.
 > * Deployment
 > * User groups
 
-## 4.2. Backend
+## 2.2. Backend
 
 > Enter description, for example:
 >
@@ -41,7 +41,7 @@ components and software units.
 > * Deployment (e.g. Docker container)
 > * User group
 
-## 4.3. Algorithm
+## 2.3. Algorithm
 
 > Enter description, for example:
 >
@@ -51,7 +51,7 @@ components and software units.
 > * Deployment (e.g. Docker container)
 > * User group
 
-# 6. Software Units
+# 3. Software Units
 
 > Describe your internal software units. The IEC 62304 defines those as a “software item [any identifiable
 > part of a program, i.e. source code, object code, control code, control data, etc.] that cannot be
@@ -61,23 +61,23 @@ components and software units.
 > * Notification service (sends messages to Apple / Google for push notifications of mobile apps)
 > * (...)
 
-# 7. Database
+# 4. Database
 
 > Describe your databases. For example:
 >
 > * Relational database: Postgres v14
 
-# 8. IT Security
+# 5. IT Security
 
-## 8.1. Encryption of data
-
-\<enter content\>
-
-### 8.1.1. Data at rest
+## 5.1. Encryption of data
 
 \<enter content\>
 
-### 8.1.2. Data in transit
+### 5.1.1. Data at rest
+
+\<enter content\>
+
+### 5.1.2. Data in transit
 
 > Example content:
 >
