@@ -144,7 +144,7 @@ e.g., 1.0.0.*
 
 > Describe your policy on what should be documented while you develop software. Maybe you want to require
 > your developers to document all methods which are private. Maybe you want to keep an up-to-date software
-> architecture diagram in the repository, etc. Make sure to mention how trancebility between Software Requirements and Tests is maintained.
+> architecture diagram in the repository, etc. Make sure to mention how traceability between Software Requirements and Tests is maintained.
 
 ## 7 Implementation Verification Activities
 
