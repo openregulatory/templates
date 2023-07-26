@@ -50,10 +50,11 @@ Please see the relevant processes for the following activities:
 
 ### 2.1 Team
 
-| Role               | Count | Names                    |
-|--------------------|-------|--------------------------|
-| Frontend Developer | 2     | Ada Lovelace, Steve Jobs |
-| Backend Developer  | 1     | Alan Turing              |
+| Role               | Count | Responsibilities                           |
+|--------------------|-------|--------------------------------------------|
+| Head of Development| 1     | Prioritizing tasks and technical oversight |
+| Frontend Developer | 2     | Implementing Frontend Software Requirements|
+| Backend Developer  | 1     | Implementing Backend Software Requirements |
 
 ### 2.2 Software
 
@@ -97,13 +98,13 @@ Describe your device's software safety class according to IEC 62304 and your rea
 
 > The 13485 requires you to specify "Design Phases". Here are some suggestions which you could use.
 
-| Title          | Date | Description |
-|----------------|------|-------------|
-| Specification  |      |             |
-| Implementation |      |             |
-| Testing        |      |             |
-| Validation     |      |             |
-| Release        |      |             |
+| Title          | Estimated Completion Date | Description | Review method                   |
+|----------------|---------------------------|-------------| ------------------------------- |
+| Specification  |                           |             | Software Requirements Checklist |
+| Implementation |                           |             | Code Reviews                    |
+| Testing        |                           |             | System Test                     |
+| Validation     |                           |             | Usability Evaluation            |
+| Release        |                           |             | Release Checklist               |
 
 ## 4 Avoiding Common Software Defects Based on Selected Programming Technology
 
@@ -143,7 +144,7 @@ e.g., 1.0.0.*
 
 > Describe your policy on what should be documented while you develop software. Maybe you want to require
 > your developers to document all methods which are private. Maybe you want to keep an up-to-date software
-> architecture diagram in the repository, etc.
+> architecture diagram in the repository, etc. Make sure to mention how traceability between Software Requirements and Tests is maintained.
 
 ## 7 Implementation Verification Activities
 
