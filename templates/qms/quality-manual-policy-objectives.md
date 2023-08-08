@@ -32,8 +32,8 @@ overview, see the list of applicable standards (reference here).
 | Standard / Regulation / Law | Why Applicable?                                           |
 |-----------------------------|-----------------------------------------------------------|
 | MDR (2017/745/              | Regulation for all Medical Device Manufacturers in the EU |
-| ISO 13485:2016              | QMS required by essential requirements of MDD/MDR         |
-| ISO 14971:2019              | Risk management for medical devices                       |
+| EN ISO 13485:2016              | QMS required by essential requirements of MDD/MDR         |
+| EN ISO 14971:2019              | Risk management for medical devices                       |
 | IEC 62304:2006              | Software development for medical devices                  |
 | IEC 62366-1:2015            | Usability evaluation for medical devices                  |
 
