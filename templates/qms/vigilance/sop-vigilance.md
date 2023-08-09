@@ -1,19 +1,5 @@
 # SOP Vigilance
 
-| ISO 13485:2016 Section | Document Section |
-|------------------------|------------------|
-| 8.2.3                  | All              |
-
-| Medical Device Regulation | Document Section |
-|---------------------------|------------------|
-| Art. 87                   | All              |
-
-> Regulatory references: check MDCG 2023-3 and MEDDEV 2.12./1 for guidance on this topic. As a German
-> manufacturer, you are also subject to national law which lays out more specific requirements (note that in
-> preparation for MDR, the Medizinproduktegesetz (MPG) was replaced by the Medizinprodukte-Durchführungsgesetz
-> (MPDG) and the Medizinprodukte-EU-Anpassungsverordnung (MPEUAnpV) replaced the old
-> Medizinprodukte-Sicherheitsplanverordnung (MPSV)).
-
 ## Summary
 
 This SOP describes how we handle (potentially) serious incidents and field safety corrective action (FSCA). It
@@ -23,6 +9,16 @@ outlines how we follow the requirements for reporting to competent authorities a
 |--------------------------------|----------------------------------------------------------|
 | **Process Owner**              | *\<enter role of process owner\>*                        |
 | **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
+
+
+**Regulatory requirements:**
+
+|  |  |
+| --- | --- |
+| Regulation 2017/745 (MDR) | Art. 87 (Vigilance) |
+| ISO 13485:2016 | Para. 8.2.3 |
+
+> Regulatory references: check MDCG 2023-3 and MEDDEV 2.12./1 for guidance on this topic. As a German manufacturer, you are also subject to national law which lays out more specific requirements (note that in preparation for MDR, the Medizinproduktegesetz (MPG) was replaced by the Medizinprodukte-Durchführungsgesetz (MPDG) and the Medizinprodukte-EU-Anpassungsverordnung (MPEUAnpV) replaced the old Medizinprodukte-Sicherheitsplanverordnung (MPSV)).
 
 ## General Considerations
 
@@ -160,13 +156,11 @@ surveillance).
 In a first step, the PRRC opens a CAPA to document the respective event.
 Where necessary, immediate action is initiated without undue delay as part of the CAPA process.
 
-| Participants                                        |
-|-----------------------------------------------------|
-| Person Responsible for Regulatory Compliance (PRRC) |
-
-| Input                                                           | Output                                                             |
-|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Event with a potentially negative impact on the state of health | Documented incident and initiated immediate action where necessary |
+|  |  |
+| --- | --- |
+| Participants | Person Responsible for Regulatory Compliance (PRRC) |
+| Input | Event with a potentially negative impact on the state of health |
+| Output | Documented incident and initiated immediate action where necessary |
 
 ### 2. Investigation of Causal Relationship
 
@@ -178,13 +172,11 @@ If there is no causal relationship, the event is not considered a reportable ser
 the PRRC proceeds with para. 5 to assess if FSCA is required nevertheless (for example, to prevent the
 occurrence of reportable events).
 
-| Participants                                        |
-|-----------------------------------------------------|
-| Person Responsible for Regulatory Compliance (PRRC) |
-
-| Input               | Output                                       |
-|---------------------|----------------------------------------------|
-| Documented incident | Documented evaluation of causal relationship |
+|  |  |
+| --- | --- |
+| Participants | Person Responsible for Regulatory Compliance (PRRC) |
+| Input | Documented incident |
+| Output | Documented evaluation of causal relationship |
 
 ### 3. Evaluation as Reportable Incident
 
@@ -199,13 +191,11 @@ Incidents that are not evaluated as reportable serious incidents must still be d
 in other quality management system processes (e.g. CAPA or as trend reporting as part of post-market
 surveillance).
 
-| Participants                                        |
-|-----------------------------------------------------|
-| Person Responsible for Regulatory Compliance (PRRC) |
-
-| Input                                       | Output                                         |
-|---------------------------------------------|------------------------------------------------|
-| Documented incident and causal relationship | Documented evaluation as a reportable incident |
+|  |  |
+| --- | --- |
+| Participants | Person Responsible for Regulatory Compliance (PRRC) |
+| Input | Documented incident and causal relationship |
+| Output | Documented evaluation as a reportable incident |
 
 
 ### 4. Reporting of Incidents and Field Safety Corrective Action (FSCA)
@@ -217,13 +207,11 @@ report with all information required and available at the time.
 If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment
 procedure of the device.
 
-| Participants                                        |
-|-----------------------------------------------------|
-| Person Responsible for Regulatory Compliance (PRRC) |
-
-| Input                                | Output                                                 |
-|--------------------------------------|--------------------------------------------------------|
-| Completed evaluation of the incident | Completed reporting to authorities (and Notified Body) |
+|  |  |
+| --- | --- |
+| Participants | Person Responsible for Regulatory Compliance (PRRC) |
+| Input | Completed evaluation of the incident |
+| Output | Completed reporting to authorities (and Notified Body) |
 
 ### 5. Initiate Field Safety Corrective Action (FSCA)
 
@@ -257,13 +245,11 @@ described in the previous para. 4.
 > would entail labeling instructions for respective product code and instructions for employees handling those
 > products.
 
-| Participants                                        |
-|-----------------------------------------------------|
-| Person Responsible for Regulatory Compliance (PRRC) |
-
-| Input                         | Output                                             |
-|-------------------------------|----------------------------------------------------|
-| Risks resulting from incident | Implemented FSCA, Reporting of FSCA to authorities |
+|  |  |
+| --- | --- |
+| Participants | Person Responsible for Regulatory Compliance (PRRC) |
+| Input | Risks resulting from incident |
+| Output | Implemented FSCA, Reporting of FSCA to authorities |
 
 ### 6. Verification and Evaluation of Effectiveness
 
@@ -273,10 +259,8 @@ completion.
 
 All incident records shall be archived as part of the QMS.
 
-| Participants                                        |
-|-----------------------------------------------------|
-| Person Responsible for Regulatory Compliance (PRRC) |
-
-| Input                  | Output                                |
-|------------------------|---------------------------------------|
-| Implementation of FSCA | Final incident report and closed CAPA |
+|  |  |
+| --- | --- |
+| Participants | Person Responsible for Regulatory Compliance (PRRC) |
+| Input | Implementation of FSCA |
+| Output | Final incident report and closed CAPA |
