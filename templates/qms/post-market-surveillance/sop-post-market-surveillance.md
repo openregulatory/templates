@@ -11,6 +11,12 @@ clinical evaluation and software development of our products.
 | **Process Owner**              | *\<enter role of process owner\>*                        |
 | **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
 
+**Regulatory References:**
+
+|  |  |
+| --- | --- |
+| EU Regulation 2017/745 | Art. 83 - 86 (Post-market surveillance) |
+
 ## General Considerations
 
 This process is followed for each product separately, meaning that for each product, a Post-Market
@@ -39,16 +45,11 @@ compiled. At least, this report should be updated when new relevant data has bee
 The plan should be created based on the Post-Market Surveillance Plan Template, following MDR Annex III,
 Section 1.
 
-| Participants    |
-|-----------------|
-| QMO             |
-| Product Manager |
-
-| Input                  | Output                        |
-|------------------------|-------------------------------|
-| Device Description     | Post-Market Surveillance Plan |
-| Clinical Evaluation    |                               |
-| Risk Management Report |                               |
+|  |  |
+| --- | --- |
+| Participants | QMO,<br>Product Manager |
+| Input | Device Description<br>Clinical Evaluation<br>Risk Management Report |
+| Output | Post-Market Surveillance Plan |
 
 ### 2. Conduct Post-Market Surveillance
 
@@ -97,15 +98,11 @@ Actions may entail:
 * **Design changes** to the product following the company’s change management and software development
   process.
 
-| Participants    |
-|-----------------|
-| QMO             |
-| Product Manager |
-
-| Input                                | Output                |
-|--------------------------------------|-----------------------|
-| Post-Market Surveillance Plan        | Evaluated Information |
-| Post-Market Surveillance Information |                       |
+|  |  |
+| --- | --- |
+| Participants | QMO,<br>Product Manager |
+| Input | Post-Market Surveillance Plan<br>Post-Market Surveillance Information |
+| Output | Evaluated Information |
 
 
 ### 3. Compile Post-Market Surveillance Report (PMSR)
@@ -117,6 +114,12 @@ the following information:
 * main findings and analyses of post-market surveillance activities throughout the surveillance interval as
   set out in the Post-Market Surveillance Plan
 * a rationale and description of any preventive and corrective actions taken
+
+|  |  |
+| --- | --- |
+| Participants | QMO,<br>Product Manager |
+| Input | Collected and evaluated information |
+| Output | Post-Market Surveillance Report |
 
 ### 4. Compile Periodic Safety Update Report (PSUR)
 
@@ -133,11 +136,8 @@ contain at least the following information:
 * the sales volume of the device, e.g. amount of users and, where practicable, the usage frequency of the
   device.
 
-| Participants    |
-|-----------------|
-| PRRC            |
-| Product Manager |
-
-| Input                               | Output                        |
-|-------------------------------------|-------------------------------|
-| Collected and evaluated information | Periodic Safety Update Report |
+|  |  |
+| --- | --- |
+| Participants | QMO,<br>Product Manager |
+| Input | Collected and evaluated information |
+| Output | Periodic Safety Update Report |
