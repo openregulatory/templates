@@ -41,7 +41,7 @@ CAPAs are tracked in the CAPA list.
 |---------------------------------|--------------|
 | Non-conformity, complaint, etc. | CAPA created |
 
-### 2. Decision on Next Steps, Immediate Action
+### 2. Decision on Next Steps and Immediate Action
 
 If immediate action is necessary (e.g. field safety corrective action or a notification to authorities according to SOP Vigilance), the QMO consults the
 Person Responsible for Regulatory Compliance.  Immediate action is carried out without undue delay (see ISO 13485 para. 8.5.2).
