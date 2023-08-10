@@ -2,8 +2,7 @@
 
 ## Summary
 
-This SOP describes how we handle (potentially) serious incidents and field safety corrective action (FSCA). It
-outlines how we follow the requirements for reporting to competent authorities and necessary immediate action.
+This SOP describes how we handle (potentially) serious incidents and field safety corrective action (FSCA). It also instructs on the reporting requirements to competent authorities.
 
 |                                |                                                          |
 |--------------------------------|----------------------------------------------------------|
@@ -15,7 +14,7 @@ outlines how we follow the requirements for reporting to competent authorities a
 
 |  |  |
 | --- | --- |
-| Regulation 2017/745 (MDR) | Art. 87 (Vigilance) |
+| EU Regulation 2017/745 (MDR) | Art. 87 - 92 (Vigilance) |
 | ISO 13485:2016 | Para. 8.2.3 |
 
 > Regulatory references: check MDCG 2023-3 and MEDDEV 2.12./1 for guidance on this topic. As a German manufacturer, you are also subject to national law which lays out more specific requirements (note that in preparation for MDR, the Medizinproduktegesetz (MPG) was replaced by the Medizinprodukte-Durchführungsgesetz (MPDG) and the Medizinprodukte-EU-Anpassungsverordnung (MPEUAnpV) replaced the old Medizinprodukte-Sicherheitsplanverordnung (MPSV)).
@@ -75,19 +74,15 @@ include (non-exclusively):
 * In the event of imminent danger:
     * **Immediately** (without any delay that could not be justified)
 * In the event of a serious public health threat:
-    * **Immediately** after a link was established between the device and the event, **but no later than 2
-      elapsed calendar days** following the date of awareness of the event.
-* Death or serious deterioration in state of health:
-    * **immediately** after a link was established between the device and the event, **but no later than 10
-      elapsed calendar days** following the date of awareness of the event.
+    * **Immediately**, **but no later than 2 elapsed calendar days** following the date of awareness of the event.
+* Death or unanticipated serious deterioration in state of health:
+    * **immediately** as soon as a causal relationship between the device and the event is suspected, **but no later than 10 elapsed calendar days** following the date of awareness of the event.
 * Other reportable incidents:
-    * **Immediately** after a link was established between the device and the event, **but not later than 15
-      elapsed calendar days** following the date of awareness of the event.
+    * **Immediately** after a causal relationship between the device and the event is established or reasonably possible, **but not later than 15 elapsed calendar days** following the date of awareness of the event.
 * Field Safety Corrective Action (FSCA):
-    * **Immediately**, at latest with the beginning of the implementation of actions.
+    * **Immediately**, at latest with the beginning of the implementation of actions, except in cases of urgency in which FSCA must be undertaken immediately.
 
-All report times refer to when the national responsible authority must first be notified. In case of
-uncertainty whether the incident has to be reported or not, it is reported within the above deadlines.
+All report times refer to when the competent national authority must be notified first. In case of uncertainty whether an incident has to be reported or not, it is reported within the above deadlines.
 
 ### Responsible Authorities
 
@@ -153,8 +148,7 @@ surveillance).
 * Post-market surveillance (e.g. events with similar devices trigger own FSCA, see process for post-market
   surveillance)
 
-In a first step, the PRRC opens a CAPA to document the respective event.
-Where necessary, immediate action is initiated without undue delay as part of the CAPA process.
+In a first step, the PRRC opens a CAPA to document the respective event. If necessary, immediate field safety corrective action (see para. 5 below) is initiated without undue delay as also instructed by the CAPA process.
 
 |  |  |
 | --- | --- |
@@ -181,13 +175,10 @@ occurrence of reportable events).
 ### 3. Evaluation as Reportable Incident
 
 If there is a relationship, the PRRC evaluates if the event qualifies as a reportable serious incident by
-filling out the incident assessment form. Only serious incidents and FSCA must be reported (Art. 87 MDR). In
-the case of uncertainty, the event is always reported as a serious incident.
+filling out the incident assessment form. In the case of uncertainty, the event is always reported as a serious incident.
 
 Where it is determined that the incident is not reportable, an explanatory statement must be documented in the
-incident assessment form.
-
-Incidents that are not evaluated as reportable serious incidents must still be documented and and considered
+incident assessment form. Incidents that are not evaluated as reportable serious incidents must still be documented and and considered
 in other quality management system processes (e.g. CAPA or as trend reporting as part of post-market
 surveillance).
 
@@ -198,14 +189,14 @@ surveillance).
 | Output | Documented evaluation as a reportable incident |
 
 
-### 4. Reporting of Incidents and Field Safety Corrective Action (FSCA)
+### 4. Reporting to Authorities
 
-Within the applicable reporting timescale (see general considerations above), the PRRC informs the
-competent national authority about the event using respective reporting forms. The PRRC compiles and provides a
-report with all information required and available at the time.
+Within the applicable reporting timescale (see general considerations above), the PRRC informs the competent national authority about the event using respective reporting forms. The PRRC compiles and provides a report with all information required and available at the time. If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment procedure of the device.
 
-If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment
-procedure of the device.
+Generally, the competent national authority must be informed:
+* Of any serious incidents with the organization's own medical devices
+* Of any field safety corrective action (FSCA) initiated by the organization (e.g. in response to serious incidents with comparable devices of other manufacturers)
+* Of any statistically significant increase in the frequency or severity of non-serious incidents or expected undesirable side-effects that could impact the benefit-risk-profile of the device (i.e., which have led or may lead to risks to the health or safety of patients, users or others that are unacceptable when weighed against the intended benefits. See Art. 88 MDR and SOP Post-Market Surveillance).
 
 |  |  |
 | --- | --- |
