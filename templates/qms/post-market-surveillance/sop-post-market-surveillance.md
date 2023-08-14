@@ -51,14 +51,11 @@ Section 1.
 | Input | Device Description<br>Clinical Evaluation<br>Risk Management Report |
 | Output | Post-Market Surveillance Plan |
 
-### 2. Conduct Post-Market Surveillance
+### 2\. Collect Information and Initiate Actions
 
-The Post-Market Surveillance is carried out as described in the Post-Market Surveillance Plan in the defined
-interval.
+The Post-Market Surveillance is carried out as described in the Post-Market Surveillance Plan in the defined interval.
 
-The responsible employees continuously collect information from all the categories described below and
-enter them into the report template.
-
+The responsible employees continuously collect information from all the categories described below and enter them into the report template.
 At minimum, the following information categories have to be taken into consideration:
 
 * **Clinical evaluations and PMCF activities:** Input from Post-Market Clinical Follow-Up activities (see
@@ -82,9 +79,7 @@ the severity of impact on device safety and performance is rated on the followin
 * **Moderate:** Non-serious injury
 * **Marginal:** Everything else, less than moderate
 
-Depending on the applicability, severity and observed trends of the new information, appropriate actions are
-initiated. The QMO and the Person Responsible for Regulatory Compliance (PRRC) must be consulted in this step,
-other roles (e.g. medical staff) should be involved if needed.
+Depending on the applicability, severity and statistical relevance of the new information, appropriate actions are initiated. The QMO and the Person Responsible for Regulatory Compliance (PRRC) must be consulted in this step, other roles (e.g. medical staff) should be involved if needed.
 
 Actions may entail:
 
@@ -104,8 +99,22 @@ Actions may entail:
 | Input | Post-Market Surveillance Plan<br>Post-Market Surveillance Information |
 | Output | Evaluated Information |
 
+### 3\. Conduct Trend Analysis
 
-### 3. Compile Post-Market Surveillance Report (PMSR)
+All collected post-market surveillance information must be reviewed against the device's risk management file. Any statistically significant increase in the frequency or severity of non-serious incidents and expected undesirable side effects must reported to the competent authority following the SOP Vigilance, if:
+
+* The non-serious incident or undesirable side effect could have a significantly negative impact on the benefit-risk-profile of the device (see Annex I, Para. 1 + 5 MDR); AND
+* The non-serious incident or undesirable side effect led or could have lead to unacceptable risks for patients, users or others when weighed against the intended benefits.
+
+The significant increase is established in comparison to the assumptions for frequency or severity of such incidents during the product lifetime, which are specified in the device's risk management file. Records of the conducted trend analysis shall be stored with other TechDoc records of the device.
+
+|  |  |
+| --- | --- |
+| Participants | QMO |
+| Input | Collected information |
+| Output | Conducted trend analysis<br>Reported statistically significant trend to competent authority (if necessary) |
+
+### 4. Compile Post-Market Surveillance Report (PMSR)
 
 For class I devices, the Product Manager finalizes the Post-Market Surveillance Report (PMSR), which is at
 least reviewed by the Person Responsible for Regulatory Compliance (PRRC). The report should contain at least
@@ -121,7 +130,7 @@ the following information:
 | Input | Collected and evaluated information |
 | Output | Post-Market Surveillance Report |
 
-### 4. Compile Periodic Safety Update Report (PSUR)
+### 5. Compile Periodic Safety Update Report (PSUR)
 
 For class IIa devices and higher, the Product Manager finalizes the Periodic Safety Update Report (PSUR),
 which is at least reviewed by the Person Responsible for Regulatory Compliance (PRRC). The report should
