@@ -15,7 +15,7 @@ clinical evaluation and software development of our products.
 
 |  |  |
 | --- | --- |
-| EU Regulation 2017/745 | Art. 83 - 86 (Post-market surveillance) |
+| EU Regulation 2017/745 | Art. 83 - 86 (Post-market surveillance), Art. 88 (Trend reporting) |
 
 ## General Considerations
 
