@@ -137,16 +137,16 @@ The overall complaint rate is deemed acceptable if:
 
 ## 4. Trend Analysis
 
-Trend analysis is performed with a focus on undesirable side-effects and non-serious incidents. These will be
-monitored if they impact the benefit-risk ratio in a negative way.
+> The following instructions are general placeholders. Ideally, you should add product-specific information. For example, if you know how your organization should react to the most prominent non-serious incidents that you expect, then describe more specific actions here. Also see Art. 88 MDR:
+> *"The manufacturer shall specify how to manage the incidents referred to in the first subparagraph and the methodology used for determining any statistically significant increase in the frequency or severity of such incidents, as well as the observation period, in the post-market surveillance plan referred to in Article 84."*
+> Disclaimer for startups: as long as your usage numbers are low (e.g. n < 2.000), it's likely that none of your trend analysis will turn over statistically significant results.
+
+Trend analysis is performed with a focus on undesirable side-effects and non-serious incidents. These will be monitored if they impact the benefit-risk ratio in a negative way.
 
 Hazards in the risk table are compared to post-market surveillance results:
 
- * If post-market surveillance leads to the finding that the estimated **probability** was too low (= event
-   happened more often in post-market surveillance), actions are initiated as described in the SOP Post-Market
-   Surveillance.
- * If post-market surveillance leads to the finding that the estimated **severity** was too low (= event
-   happened led to more serious harm in post-market surveillance), a CAPA is initiated.
+* If post-market surveillance leads to the finding that the estimated **probability** was too low (i.e. the event happened more often during post-market surveillance cycle than appropriate when compared to the assumed event count for the entire product lifetime), a CAPA is initiated to update the risk file and take further actions as needed.
+* If post-market surveillance leads to the finding that the estimated **severity** was too low (i.e. the event led to a more serious harm than expected), a CAPA is initiated to update the risk file and take further actions as needed.
 
 
 <!-- Links -->
