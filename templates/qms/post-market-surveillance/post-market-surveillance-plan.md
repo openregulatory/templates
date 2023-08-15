@@ -1,8 +1,12 @@
 # Post-Market Surveillance Plan
 
-This plan describes product-specific post-market surveillance activities. The general process of how to do
-post-market surveillance is described in SOP Post-Market Surveillance. Its outputs are saved to the
-Post-Market Surveillance Report.
+This plan describes product-specific post-market surveillance activities. The general process of how to do post-market surveillance is described in SOP Post-Market Surveillance. Its outputs are saved to the Post-Market Surveillance Report or the Periodic Safety Update Report.
+
+**Regulatory References:**
+
+|  |  |
+| --- | --- |
+| EU Regulation 2017/745 (MDR) | Art. 84 and Annex III, Para. 1.1 |
 
 ## Product
 
