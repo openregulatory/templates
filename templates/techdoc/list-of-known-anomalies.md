@@ -8,6 +8,12 @@ release of the latest version.
 
 It, therefore, serves as an overview and as a documentation of reasoning for non-correction.
 
+**Regulatory references:**
+
+|  |  |
+| --- | --- |
+| IEC 62304:2006 | Para. 5.7.5, 5.8.2 / 5.8.3 |
+
 ## Anomalies
 
 | Title            | Description                                                                                                                                                          | Impact / Hazard                                                                                                                                    | Discovery (Date, How, By Whom)                         | Proposed Correction                | Justification for Delay                                                                                         | Timeline             |
