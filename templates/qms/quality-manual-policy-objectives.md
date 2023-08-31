@@ -143,19 +143,27 @@ Required qualification for this role:
   * OR: four years of professional experience in the fields of quality management and regulatory affairs
 * At minimum one year of professional experience in the fields of quality management and regulatory affairs
 
-## 4. Processes
+## 4\. Processes
 
-> List all your SOPs here. This list is currently incomplete as many SOPs are company-specific. Important
-> note: also mention if one of these processes is outsourced to a third party (typical examples: internal
-> auditing or clinical evaluation done by a regulatory consultant, software development done by an external
-> agency; see ISO 13485:2016, para. 4.1.5). Perhaps add another column to point out if an SOP is outsourced or
-> not.
+> List all your SOPs here. This list is highly company-specific and might therefore be currently incomplete.
+> 
+> **Important Note:**
+> Also mention if one of these processes is outsourced to a third party (typical examples: internal auditing or clinical evaluation done by a regulatory consultant, software development done by an external agency; see ISO 13485:2016, para. 4.1.5 for more context).
 
-| SOP                                  | Process Category |
-|--------------------------------------|------------------|
-| SOP Corrective and Preventive Action | Core             |
-| SOP Document and Record Control      | Core             |
-| SOP Integrated Software Development  | Core             |
-| SOP Post-Market Surveillance         | Support          |
-| SOP Software Validation              | Support          |
-| (...)                                | (...)            |
+| SOP | Process Category | Internal / Outsourced |
+| --- | ---------------- | --------------------- |
+| SOP Corrective and Preventive Action | Management | Internal |
+| SOP Clinical Evaluation | Core | Outsourced (?) |
+| SOP Product Certification and Registration | Core | Internal |
+| SOP Change Management | Core | Internal |
+| SOP Deployment | Core | Internal |
+| SOP Document and Record Control | Support | Internal |
+| SOP Integrated Software Development | Core | Internal |
+| SOP Feedback Management | Core | Internal |
+| SOP Internal Auditing | Management | Outsourced (?) |
+| SOP Management Review | Management | Internal |
+| SOP Post-Market Surveillance | Management | Internal |
+| SOP Problem Resolution | Core | Internal |
+| SOP Software Validation | Support | Internal |
+| SOP Update of Regulations | Support | Internal |
+| SOP Vigilance | Core | Internal |
