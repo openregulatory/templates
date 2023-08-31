@@ -13,8 +13,8 @@ clinical evaluation and software development of our products.
 
 **Regulatory References:**
 
-|  |  |
-| --- | --- |
+|                        |                                                                    |
+|------------------------|--------------------------------------------------------------------|
 | EU Regulation 2017/745 | Art. 83 - 86 (Post-market surveillance), Art. 88 (Trend reporting) |
 
 ## General Considerations
@@ -45,13 +45,13 @@ compiled. At least, this report should be updated when new relevant data has bee
 The plan should be created based on the Post-Market Surveillance Plan Template, following MDR Annex III,
 Section 1.
 
-|  |  |
-| --- | --- |
-| Participants | QMO,<br>Product Manager |
-| Input | Device Description<br>Clinical Evaluation<br>Risk Management Report |
-| Output | Post-Market Surveillance Plan |
+|              |                                                                     |
+|--------------|---------------------------------------------------------------------|
+| Participants | QMO,<br>Product Manager                                             |
+| Input        | Device Description<br>Clinical Evaluation<br>Risk Management Report |
+| Output       | Post-Market Surveillance Plan                                       |
 
-### 2\. Collect Information and Initiate Actions
+### 2. Collect Information and Initiate Actions
 
 The Post-Market Surveillance is carried out as described in the Post-Market Surveillance Plan in the defined interval.
 
@@ -93,13 +93,13 @@ Actions may entail:
 * **Design changes** to the product following the company’s change management and software development
   process.
 
-|  |  |
-| --- | --- |
-| Participants | QMO,<br>Product Manager |
-| Input | Post-Market Surveillance Plan<br>Post-Market Surveillance Information |
-| Output | Evaluated Information |
+|              |                                                                       |
+|--------------|-----------------------------------------------------------------------|
+| Participants | QMO,<br>Product Manager                                               |
+| Input        | Post-Market Surveillance Plan<br>Post-Market Surveillance Information |
+| Output       | Evaluated Information                                                 |
 
-### 3\. Conduct Trend Analysis
+### 3. Conduct Trend Analysis
 
 All collected post-market surveillance information must be reviewed against the device's risk management file. Any statistically significant increase in the frequency or severity of non-serious incidents and expected undesirable side effects must reported to the competent authority following the SOP Vigilance, if:
 
@@ -108,11 +108,11 @@ All collected post-market surveillance information must be reviewed against the 
 
 The significant increase is established in comparison to the assumptions for frequency or severity of such incidents during the product lifetime, which are specified in the device's risk management file. Records of the conducted trend analysis shall be stored with other TechDoc records of the device.
 
-|  |  |
-| --- | --- |
-| Participants | QMO |
-| Input | Collected information |
-| Output | Conducted trend analysis<br>Reported statistically significant trend to competent authority (if necessary) |
+|              |                                                                                                            |
+|--------------|------------------------------------------------------------------------------------------------------------|
+| Participants | QMO                                                                                                        |
+| Input        | Collected information                                                                                      |
+| Output       | Conducted trend analysis<br>Reported statistically significant trend to competent authority (if necessary) |
 
 ### 4. Compile Post-Market Surveillance Report (PMSR)
 
@@ -124,11 +124,11 @@ the following information:
   set out in the Post-Market Surveillance Plan
 * a rationale and description of any preventive and corrective actions taken
 
-|  |  |
-| --- | --- |
-| Participants | QMO,<br>Product Manager |
-| Input | Collected and evaluated information |
-| Output | Post-Market Surveillance Report |
+|              |                                     |
+|--------------|-------------------------------------|
+| Participants | QMO,<br>Product Manager             |
+| Input        | Collected and evaluated information |
+| Output       | Post-Market Surveillance Report     |
 
 ### 5. Compile Periodic Safety Update Report (PSUR)
 
@@ -145,8 +145,8 @@ contain at least the following information:
 * the sales volume of the device, e.g. amount of users and, where practicable, the usage frequency of the
   device.
 
-|  |  |
-| --- | --- |
-| Participants | QMO,<br>Product Manager |
-| Input | Collected and evaluated information |
-| Output | Periodic Safety Update Report |
+|              |                                     |
+|--------------|-------------------------------------|
+| Participants | QMO,<br>Product Manager             |
+| Input        | Collected and evaluated information |
+| Output       | Periodic Safety Update Report       |

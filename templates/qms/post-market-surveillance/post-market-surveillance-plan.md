@@ -4,8 +4,8 @@ This plan describes product-specific post-market surveillance activities. The ge
 
 **Regulatory References:**
 
-|  |  |
-| --- | --- |
+|                              |                                  |
+|------------------------------|----------------------------------|
 | EU Regulation 2017/745 (MDR) | Art. 84 and Annex III, Para. 1.1 |
 
 ## Product

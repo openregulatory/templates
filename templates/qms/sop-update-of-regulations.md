@@ -33,7 +33,7 @@ Every relevant regulation is reviewed at least once per year, every time before 
 | Input        | Medical device specification (technical documentation), Available regulatory requirements |
 | Output       | List of Regulatory Requirements                                                           |
 
-### 2\. Changes Based on Applicable Regulation
+### 2. Changes Based on Applicable Regulation
 
 If a new or revised applicable regulation is brought to their attention, the QMO conducts a gap analysis to assess if:
 
@@ -45,18 +45,18 @@ are necessary in order to stay compliant with the updated regulatory requirement
 
 Changes to medical devices are implemented according to the change management process. Where updates to the organization’s quality management system processes are necessary, the QMO implements those directly or delegates implementation to the respective process owners.
 
-|  |  |
-| --- | --- |
-| Participants | QMO, Process owners |
-| Input | New or revised regulation |
-| Output | Gap analysis of new or revised applicable regulation, List of Regulatory Requirements (updated) |
+|              |                                                                                                 |
+|--------------|-------------------------------------------------------------------------------------------------|
+| Participants | QMO, Process owners                                                                             |
+| Input        | New or revised regulation                                                                       |
+| Output       | Gap analysis of new or revised applicable regulation, List of Regulatory Requirements (updated) |
 
-### 3\. Communication and Evaluation of Changes
+### 3. Communication and Evaluation of Changes
 
 The QMO communicates new or revised regulation to relevant members of the organization (e.g. process owners or product managers). Management is informed of new or revised regulation at least annually as part of the Management Review. As part of the Management Review, it is also evaluated if updates to applicable regulations have been implemented effectively.
 
-|  |  |
-| --- | --- |
-| Participants | QMO, Management |
-| Input | Implemented changes based on new or revised regulation |
-| Output | Communication to relevant members of the organization, Management Review Report: evaluation of implemented regulatory updates |
+|              |                                                                                                                               |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Participants | QMO, Management                                                                                                               |
+| Input        | Implemented changes based on new or revised regulation                                                                        |
+| Output       | Communication to relevant members of the organization, Management Review Report: evaluation of implemented regulatory updates |

@@ -12,11 +12,11 @@ This SOP describes how to respond to feedback and complaints.
 
 **Regulatory requirements:**
 
-|  |  |
-| --- | --- |
+|                           |                                                                     |
+|---------------------------|---------------------------------------------------------------------|
 | Regulation 2017/745 (MDR) | Art. 83-88 (Post-market surveillance, trend analysis and vigilance) |
-| ISO 13485:2016 | 8.2.1 / 8.2.2 |
-| IEC 62304:2006 | 6.2.1 |
+| ISO 13485:2016            | 8.2.1 / 8.2.2                                                       |
+| IEC 62304:2006            | 6.2.1                                                               |
 
 ## General Considerations
 
@@ -64,11 +64,11 @@ minimum the following information in the ticket:
 * Affected users, contact details and customer locations
 * Steps to reproduce the problem
 
-|  |  |
-| --- | --- |
-| Participants | Operations team |
-| Input | Received feedback / complaint |
-| Output | Structured documentation of feedback in ticket system |
+|              |                                                       |
+|--------------|-------------------------------------------------------|
+| Participants | Operations team                                       |
+| Input        | Received feedback / complaint                         |
+| Output       | Structured documentation of feedback in ticket system |
 
 
 ### 2. Evaluation of Feedback
@@ -108,7 +108,7 @@ All product-related feedback shall be checked for a potential impact on:
 * the device risk management file.
 
 |              |                                             |
-| ------------ | ------------------------------------------- |
+|--------------|---------------------------------------------|
 | Participants | Operations team                             |
 | Input        | Documented feedback                         |
 | Output       | Classified feedback and decision on actions |
@@ -123,11 +123,11 @@ so, the validation is documented in the ticket and the ticket is closed. If not,
 
 If a customer / user does not respond, validation is tried at least a second time before the ticket is closed.
 
-|  |  |
-| --- | --- |
-| Participants | Operations team |
-| Input | Implemented actions |
-| Output | Validation of actions, ticket is closed |
+|              |                                         |
+|--------------|-----------------------------------------|
+| Participants | Operations team                         |
+| Input        | Implemented actions                     |
+| Output       | Validation of actions, ticket is closed |
 
 > Optionally, depending on the features that your ticket system provides, consider adding a process step to
 > assign each ticket a status (open, pending input, closed).

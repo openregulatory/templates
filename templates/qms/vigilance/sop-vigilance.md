@@ -12,10 +12,10 @@ This SOP describes how we handle (potentially) serious incidents and field safet
 
 **Regulatory requirements:**
 
-|  |  |
-| --- | --- |
+|                              |                          |
+|------------------------------|--------------------------|
 | EU Regulation 2017/745 (MDR) | Art. 87 - 92 (Vigilance) |
-| ISO 13485:2016 | Para. 8.2.3 |
+| ISO 13485:2016               | Para. 8.2.3              |
 
 > Regulatory references: check MDCG 2023-3 and MEDDEV 2.12./1 for guidance on this topic. As a German manufacturer, you are also subject to national law which lays out more specific requirements (note that in preparation for MDR, the Medizinproduktegesetz (MPG) was replaced by the Medizinprodukte-Durchführungsgesetz (MPDG) and the Medizinprodukte-EU-Anpassungsverordnung (MPEUAnpV) replaced the old Medizinprodukte-Sicherheitsplanverordnung (MPSV)).
 
@@ -72,15 +72,15 @@ include (non-exclusively):
 ### Reporting Timescale
 
 * In the event of imminent danger:
-    * **Immediately** (without any delay that could not be justified)
+  * **Immediately** (without any delay that could not be justified)
 * In the event of a serious public health threat:
-    * **Immediately**, **but no later than 2 elapsed calendar days** following the date of awareness of the event.
+  * **Immediately**, **but no later than 2 elapsed calendar days** following the date of awareness of the event.
 * Death or unanticipated serious deterioration in state of health:
-    * **immediately** as soon as a causal relationship between the device and the event is suspected, **but no later than 10 elapsed calendar days** following the date of awareness of the event.
+  * **immediately** as soon as a causal relationship between the device and the event is suspected, **but no later than 10 elapsed calendar days** following the date of awareness of the event.
 * Other reportable incidents:
-    * **Immediately** after a causal relationship between the device and the event is established or reasonably possible, **but not later than 15 elapsed calendar days** following the date of awareness of the event.
+  * **Immediately** after a causal relationship between the device and the event is established or reasonably possible, **but not later than 15 elapsed calendar days** following the date of awareness of the event.
 * Field Safety Corrective Action (FSCA):
-    * **Immediately**, at latest with the beginning of the implementation of actions, except in cases of urgency in which FSCA must be undertaken immediately.
+  * **Immediately**, at latest with the beginning of the implementation of actions, except in cases of urgency in which FSCA must be undertaken immediately.
 
 All report times refer to when the competent national authority must be notified first. In case of uncertainty whether an incident has to be reported or not, it is reported within the above deadlines.
 
@@ -95,7 +95,6 @@ Incidents are reported to the authority of the country in which the reportable i
 * Email: medizinprodukte@bfarm.de; Phone: +49 228 207 5355
 * Incident reporting: look for “MIR Formular”
 
-
 **Spain:**
 
 * Spanish Agency for Drugs and Medical Products (AEMPS)
@@ -103,13 +102,11 @@ Incidents are reported to the authority of the country in which the reportable i
 * Email: sgps@aemps.es
 * Phone: +34918225274
 
-
 **Netherlands:**
 
 * CIBG-Farmatec
 * Website: www.igj.nl
 * Email: medische_hulpmiddelen@minvws.nl
-
 
 **Poland:**
 
@@ -150,11 +147,11 @@ surveillance).
 
 In a first step, the PRRC opens a CAPA to document the respective event. If necessary, immediate field safety corrective action (see para. 5 below) is initiated without undue delay as also instructed by the CAPA process.
 
-|  |  |
-| --- | --- |
-| Participants | Person Responsible for Regulatory Compliance (PRRC) |
-| Input | Event with a potentially negative impact on the state of health |
-| Output | Documented incident and initiated immediate action where necessary |
+|              |                                                                    |
+|--------------|--------------------------------------------------------------------|
+| Participants | Person Responsible for Regulatory Compliance (PRRC)                |
+| Input        | Event with a potentially negative impact on the state of health    |
+| Output       | Documented incident and initiated immediate action where necessary |
 
 ### 2. Investigation of Causal Relationship
 
@@ -166,11 +163,11 @@ If there is no causal relationship, the event is not considered a reportable ser
 the PRRC proceeds with para. 5 to assess if FSCA is required nevertheless (for example, to prevent the
 occurrence of reportable events).
 
-|  |  |
-| --- | --- |
+|              |                                                     |
+|--------------|-----------------------------------------------------|
 | Participants | Person Responsible for Regulatory Compliance (PRRC) |
-| Input | Documented incident |
-| Output | Documented evaluation of causal relationship |
+| Input        | Documented incident                                 |
+| Output       | Documented evaluation of causal relationship        |
 
 ### 3. Evaluation as Reportable Incident
 
@@ -182,11 +179,11 @@ incident assessment form. Incidents that are not evaluated as reportable serious
 in other quality management system processes (e.g. CAPA or as trend reporting as part of post-market
 surveillance).
 
-|  |  |
-| --- | --- |
+|              |                                                     |
+|--------------|-----------------------------------------------------|
 | Participants | Person Responsible for Regulatory Compliance (PRRC) |
-| Input | Documented incident and causal relationship |
-| Output | Documented evaluation as a reportable incident |
+| Input        | Documented incident and causal relationship         |
+| Output       | Documented evaluation as a reportable incident      |
 
 
 ### 4. Reporting to Authorities
@@ -198,11 +195,11 @@ Generally, the competent national authority must be informed:
 * Of any field safety corrective action (FSCA) initiated by the organization (e.g. in response to serious incidents with comparable devices of other manufacturers)
 * Of any statistically significant increase in the frequency or severity of non-serious incidents or expected undesirable side-effects that could impact the benefit-risk-profile of the device (i.e., which have led or may lead to risks to the health or safety of patients, users or others that are unacceptable when weighed against the intended benefits. See Art. 88 MDR and SOP Post-Market Surveillance).
 
-|  |  |
-| --- | --- |
-| Participants | Person Responsible for Regulatory Compliance (PRRC) |
-| Input | Completed evaluation of the incident |
-| Output | Completed reporting to authorities (and Notified Body) |
+|              |                                                        |
+|--------------|--------------------------------------------------------|
+| Participants | Person Responsible for Regulatory Compliance (PRRC)    |
+| Input        | Completed evaluation of the incident                   |
+| Output       | Completed reporting to authorities (and Notified Body) |
 
 ### 5. Initiate Field Safety Corrective Action (FSCA)
 
@@ -236,11 +233,11 @@ described in the previous para. 4.
 > would entail labeling instructions for respective product code and instructions for employees handling those
 > products.
 
-|  |  |
-| --- | --- |
+|              |                                                     |
+|--------------|-----------------------------------------------------|
 | Participants | Person Responsible for Regulatory Compliance (PRRC) |
-| Input | Risks resulting from incident |
-| Output | Implemented FSCA, Reporting of FSCA to authorities |
+| Input        | Risks resulting from incident                       |
+| Output       | Implemented FSCA, Reporting of FSCA to authorities  |
 
 ### 6. Verification and Evaluation of Effectiveness
 
@@ -250,8 +247,8 @@ completion.
 
 All incident records shall be archived as part of the QMS.
 
-|  |  |
-| --- | --- |
+|              |                                                     |
+|--------------|-----------------------------------------------------|
 | Participants | Person Responsible for Regulatory Compliance (PRRC) |
-| Input | Implementation of FSCA |
-| Output | Final incident report and closed CAPA |
+| Input        | Implementation of FSCA                              |
+| Output       | Final incident report and closed CAPA               |

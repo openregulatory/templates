@@ -2,14 +2,14 @@
 
 **Regulatory requirements:**
 
-|  |  |
-| --- | --- |
-| EU Regulation 2017/745 (MDR) | Art. 87 and 89 (Vigilance, incident analysis, field safety corrective actions) |
-| ISO 13485:2016 | Para. 8.2.3 |
-| German Medical Devices Law (MPDG) | Chapter 5, Art. 71 - 83 |
-| German Medical Device EU Adjustment Ordinance (MPEUAnpV) | All |
-| MDCG 2023-3 | All |
-| MEDDEV 2.12/1 rev. 8 | All |
+|                                                          |                                                                                |
+|----------------------------------------------------------|--------------------------------------------------------------------------------|
+| EU Regulation 2017/745 (MDR)                             | Art. 87 and 89 (Vigilance, incident analysis, field safety corrective actions) |
+| ISO 13485:2016                                           | Para. 8.2.3                                                                    |
+| German Medical Devices Law (MPDG)                        | Chapter 5, Art. 71 - 83                                                        |
+| German Medical Device EU Adjustment Ordinance (MPEUAnpV) | All                                                                            |
+| MDCG 2023-3                                              | All                                                                            |
+| MEDDEV 2.12/1 rev. 8                                     | All                                                                            |
 
 ## Summary
 
