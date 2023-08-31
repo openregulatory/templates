@@ -1,10 +1,15 @@
 # Incident Assessment Form
 
-| Regulations                                       | Document Section |
-|---------------------------------------------------|------------------|
-| Medical Device Regulation Art. 87 and 89          | All              |
-| ISO 13485:2016 Section 8.2.3                      | All              |
-| MDCG 2023-3, MPDG, MPEUAnpV, MEDDEV 2.12/1 rev. 8 | All              |
+**Regulatory requirements:**
+
+|                                                          |                                                                                |
+|----------------------------------------------------------|--------------------------------------------------------------------------------|
+| EU Regulation 2017/745 (MDR)                             | Art. 87 and 89 (Vigilance, incident analysis, field safety corrective actions) |
+| ISO 13485:2016                                           | Para. 8.2.3                                                                    |
+| German Medical Devices Law (MPDG)                        | Chapter 5, Art. 71 - 83                                                        |
+| German Medical Device EU Adjustment Ordinance (MPEUAnpV) | All                                                                            |
+| MDCG 2023-3                                              | All                                                                            |
+| MEDDEV 2.12/1 rev. 8                                     | All                                                                            |
 
 ## Summary
 
@@ -13,7 +18,7 @@ constitutes a serious and reportable incident.
 
 | General Information      |                                                                                                                             |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| Description of Event:    | *\<Describe e.g. the cause that led to the event, the relationship between device and event, urgency of required actions\>* |
+| Description of the Event:    | *\<Describe e.g. the cause that led to the event, the relationship between device and event, urgency of required actions\>* |
 | Report Date and Time:    |                                                                                                                             |
 | Affected Medical Device: | *\<Enter UDI-DI here\>*                                                                                                     |
 | Incident Assessment:     | The event is a reportable incident:<br>( ) Yes ( ) No                                                                       |

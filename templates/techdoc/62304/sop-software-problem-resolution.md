@@ -75,10 +75,10 @@ the case, it is noted in the problem report.
 
 ### 3. Implementation and Verification
 
-The change is implemented. If the change includes a change to an existing product, it is handled according to
+The bug fix is implemented. If the fix includes a change to an existing product, it is handled according to
 SOP Change Management.
 
-After the change has been implemented, the problem report is reviewed whether it has been successfully fixed
+After the bug fix has been implemented, the problem report is reviewed whether it has been successfully fixed
 and can be closed. Closing the problem report is equivalent to successful verification.
 
 | Participants                                 |

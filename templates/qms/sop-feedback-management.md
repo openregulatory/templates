@@ -1,14 +1,5 @@
 # SOP Feedback Management and Customer Complaints
 
-| ISO 13485:2016 Section | Document Section |
-|------------------------|------------------|
-| 8.2.1.                 | All              |
-| 8.2.2.                 | All              |
-
-| IEC 62304:2006 Section | Document Section |
-|------------------------|------------------|
-| 6.2.1                  | All              |
-
 ## Summary
 
 This SOP describes how to respond to feedback and complaints.
@@ -17,6 +8,15 @@ This SOP describes how to respond to feedback and complaints.
 |--------------------------------|----------------------------------------------------------|
 | **Process Owner**              | *\<enter role of process owner\>*                        |
 | **Key Performance Indicators** | *\<enter KPIs to be tracked for the Management Review\>* |
+
+
+**Regulatory requirements:**
+
+|                           |                                                                     |
+|---------------------------|---------------------------------------------------------------------|
+| Regulation 2017/745 (MDR) | Art. 83-88 (Post-market surveillance, trend analysis and vigilance) |
+| ISO 13485:2016            | 8.2.1 / 8.2.2                                                       |
+| IEC 62304:2006            | 6.2.1                                                               |
 
 ## General Considerations
 
@@ -64,13 +64,11 @@ minimum the following information in the ticket:
 * Affected users, contact details and customer locations
 * Steps to reproduce the problem
 
-| Participants    |
-|-----------------|
-| Operations team |
-
-| Input                         | Output                                                |
-|-------------------------------|-------------------------------------------------------|
-| Received feedback / complaint | Structured documentation of feedback in ticket system |
+|              |                                                       |
+|--------------|-------------------------------------------------------|
+| Participants | Operations team                                       |
+| Input        | Received feedback / complaint                         |
+| Output       | Structured documentation of feedback in ticket system |
 
 
 ### 2. Evaluation of Feedback
@@ -101,17 +99,19 @@ The feedback ticket is forwarded to the Product team to decide over implementati
 **Issue with a Potential Negative Impact on the State of Health:**
 
 All issues with a potential negative impact on the state of health must be reported immediately, but no later
-than on the same day, to the Medical Device Safety Officer / Person Responsible for Regulatory Compliance.
+than on the same day, to the Person Responsible for Regulatory Compliance (PRRC) to initiate the SOP Vigilance.
 
-All product-related feedback shall be checked for a potential impact on the risk management file or product requirements of the respective device and shall be taken into consideration for device post-market surveillance.
+All product-related feedback shall be checked for a potential impact on:
 
-| Participants    |
-|-----------------|
-| Operations team |
+* product requirements for the respective device;
+* the post-market surveillance for the respective device, including trend analysis (see Art. 83 and 88 MDR);
+* the device risk management file.
 
-| Input               | Output                                      |
-|---------------------|---------------------------------------------|
-| Documented feedback | Classified feedback and decision on actions |
+|              |                                             |
+|--------------|---------------------------------------------|
+| Participants | Operations team                             |
+| Input        | Documented feedback                         |
+| Output       | Classified feedback and decision on actions |
 
 ### 3. Validation of Actions
 
@@ -123,13 +123,11 @@ so, the validation is documented in the ticket and the ticket is closed. If not,
 
 If a customer / user does not respond, validation is tried at least a second time before the ticket is closed.
 
-| Participants    |
-|-----------------|
-| Operations team |
-
-| Input               | Output                                  |
-|---------------------|-----------------------------------------|
-| Implemented actions | Validation of actions, ticket is closed |
+|              |                                         |
+|--------------|-----------------------------------------|
+| Participants | Operations team                         |
+| Input        | Implemented actions                     |
+| Output       | Validation of actions, ticket is closed |
 
 > Optionally, depending on the features that your ticket system provides, consider adding a process step to
 > assign each ticket a status (open, pending input, closed).
