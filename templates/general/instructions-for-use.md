@@ -1,6 +1,7 @@
-| ISO 13485:2016 Section | Document Section |
+|                        |                  |
 |------------------------|------------------|
-| 4.2.3                  | (All)            |
+| ISO 13485:2016         | 4.2.3            |
+| ISO 20417:2021         | All              |
 
 # User Manual [enter Product Name]
 
