@@ -22,7 +22,7 @@ validation before use.
    organization’s medical devices as part of the computerized system validation form.
  * If quality-relevant: continue to fill out the computerized system validation form (assessing criticality
    and risks).
- * If not quality-relevant: document the system in the list of computerized systems and release the software
+ * If not quality-relevant: document the system in the Software List and release the software
    system for use.
 
 | Responsible                                    |
@@ -30,11 +30,11 @@ validation before use.
 | Employee intending to work with the new system |
 | QMO                                            |
 
-| Input                        | Output                          |
-|------------------------------|---------------------------------|
-| Information about the system | Preliminary Software Assessment |
-| Software Validation Form     |                                 |
-| List of Softwares            |                                 |
+| Input                                       | Output                          |
+|---------------------------------------------|---------------------------------|
+| Information about the system                | Preliminary Software Assessment |
+| Software Validation Form                    |                                 |
+| Software List / List of Software            |                                 |
 
 
 ### 1.2 Plan Validation
