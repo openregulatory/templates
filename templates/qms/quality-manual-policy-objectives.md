@@ -113,6 +113,11 @@ The Quality Management Officer (QMO) is responsible for:
 * ensuring the promotion of awareness of applicable regulatory requirements and QMS requirements throughout the
   organization.
 
+Required qualification for this role:
+
+* Fluent in English language
+* At minimum one year of professional experience related to quality management and regulatory affairs
+
 > See ISO 13485, para. 5.1, para. 5.5.2
 
 Person Responsible for Regulatory Compliance (PRRC) Responsibilities of the PRRC are in accordance with
