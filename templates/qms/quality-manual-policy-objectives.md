@@ -115,8 +115,8 @@ The Quality Management Officer (QMO) is responsible for:
 
 Required qualification for this role:
 
-* Fluent in English language
-* At minimum one year of professional experience related to quality management and regulatory affairs
+* Fluent in German and English language
+* At minimum one year of professional experience in the fields of quality management and regulatory affairs
 
 > See ISO 13485, para. 5.1, para. 5.5.2
 
