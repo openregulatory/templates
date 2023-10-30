@@ -19,8 +19,8 @@ validation before use.
  * Employee notifies QMO of the new system and provides the minimum information required for preliminary
    assessment, such as intended use description and preliminary risk estimation.
  * QMO documents the intended use and determines whether the system is relevant for the QMS or the
-   organization’s medical devices as part of the computerized system validation form.
- * If quality-relevant: continue to fill out the computerized system validation form (assessing criticality
+   organization’s medical devices as part of the Software Validation Form.
+ * If quality-relevant: continue to fill out the Software Validation Form (assessing criticality
    and risks).
  * If not quality-relevant: document the system in the Software List and release the software
    system for use.
@@ -39,7 +39,7 @@ validation before use.
 
 ### 1.2 Plan Validation
 
- * QMO continues to fill out the computerized system validation form by planning the validation and
+ * QMO continues to fill out the Software Validation Form by planning the validation and
    documenting the requirements for expected validation results.
 
 | Responsible |
@@ -70,14 +70,13 @@ validation before use.
 
 If validation was not successful:
 
- * Document the validation results in the list of computerized systems and classify the system as "blocked" /
+ * Document the validation results in the List of Software and classify the system as "blocked" /
    "not released for use".
 
 If validation was successful:
 
- * Document the validation results and sign the validation report as part of the computerized system
-   validation form.
- * Release the computerized system by adding it to the list of computerized systems.
+ * Document the validation results and sign the validation report as part of the Software Validation Form.
+ * Release the software by adding it to the List of Software.
  * Inform relevant staff about the approval of the system.
 
 | Responsible |
@@ -87,14 +86,14 @@ If validation was successful:
 | Input                    | Output                             |
 |--------------------------|------------------------------------|
 | Software Validation Form | Completed Software Validation Form |
-| Software List            | Updated List of Software           |
+| List of Software         | Updated List of Software           |
 |                          | Notification sent                  |
 
 ### 1.5 Monitoring of Softwares
 
  * User feedback and error reports by developers are monitored for relevant occurrences that may affect the
    organization or its medical devices.
- * New version updates are implemented and the list of computerized systems is updated accordingly. If
+ * New version updates are implemented and the List of Software is updated accordingly. If
    necessary, a revalidation is carried out.
 
 | Responsible                                                |
@@ -108,7 +107,7 @@ If validation was successful:
 
 ### 1.6 Decommissioning of Software
 
- * In case it is decided to decommission a computerized system, evaluate possible effects and document the
+ * In case it is decided to decommission a software, evaluate possible effects and document the
    actions in the List of Software.
 
 | Responsible |
@@ -118,4 +117,4 @@ If validation was successful:
 | Input                    | Output                   |
 |--------------------------|--------------------------|
 | Software Validation Form | Updated List of Software |
-| Software List            |                          |
+| List of Software         |                          |
