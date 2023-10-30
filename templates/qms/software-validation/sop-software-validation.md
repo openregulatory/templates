@@ -25,16 +25,10 @@ validation before use.
  * If not quality-relevant: document the system in the Software List and release the software
    system for use.
 
-| Responsible                                    |
-|------------------------------------------------|
-| Employee intending to work with the new system |
-| QMO                                            |
-
-| Input                                       | Output                          |
-|---------------------------------------------|---------------------------------|
-| Information about the system                | Preliminary Software Assessment |
-| Software Validation Form                    |                                 |
-| Software List / List of Software            |                                 |
+| Responsible | Employee intending to work with the new system<br>QMO                        |
+| ----------- | ---------------------------------------------------------------------------- |
+| Input       | Information about the system<br>Software Validation Form<br>List of Software |
+| Output      | Preliminary Software Assessment                                              |
 
 
 ### 1.2 Plan Validation
@@ -42,13 +36,10 @@ validation before use.
  * QMO continues to fill out the Software Validation Form by planning the validation and
    documenting the requirements for expected validation results.
 
-| Responsible |
-|-------------|
-| QMO         |
-
-| Input                    | Output                           |
-|--------------------------|----------------------------------|
-| Software Validation Form | Updated Software Validation Form |
+| Responsible | QMO                              |
+| ----------- | -------------------------------- |
+| Input       | Software Validation Form         |
+| Output      | Updated Software Validation Form |
 
 ### 1.3 Perform Validation
 
@@ -57,13 +48,10 @@ validation before use.
  * Where appropriate, save additional proof of validation (e.g. screenshots) and add them to the validation
    report.
 
-| Responsible                      |
-|----------------------------------|
-| Employee working with the system |
-
-| Input                    | Output                           |
-|--------------------------|----------------------------------|
-| Software Validation Form | Updated Software Validation Form |
+| Responsible | Employee working with the system |
+| ----------- | -------------------------------- |
+| Input       | Software Validation Form         |
+| Output      | Updated Software Validation Form |
 
 
 ### 1.4 Release
@@ -79,15 +67,10 @@ If validation was successful:
  * Release the software by adding it to the List of Software.
  * Inform relevant staff about the approval of the system.
 
-| Responsible |
-|-------------|
-| QMO         |
-
-| Input                    | Output                             |
-|--------------------------|------------------------------------|
-| Software Validation Form | Completed Software Validation Form |
-| List of Software         | Updated List of Software           |
-|                          | Notification sent                  |
+| Responsible | QMO                                                                                 |
+| ----------- | ----------------------------------------------------------------------------------- |
+| Input       | Software Validation Form<br>List of Software                                        |
+| Output      | Completed Software Validation Form<br>Updated List of Software<br>Notification Sent |
 
 ### 1.5 Monitoring of Softwares
 
@@ -96,25 +79,17 @@ If validation was successful:
  * New version updates are implemented and the List of Software is updated accordingly. If
    necessary, a revalidation is carried out.
 
-| Responsible                                                |
-|------------------------------------------------------------|
-| QMO in collaboration with employee working with the system |
-
-| Input                               | Output                                                       |
-|-------------------------------------|--------------------------------------------------------------|
-| Error reports by users / developers | Updated List of Software                                     |
-|                                     | If required: new record of Softwares Validation Form created |
+| Responsible | QMO in collaboration with employee working with the system                                       |
+| ----------- | ------------------------------------------------------------------------------------------------ |
+| Input       | Error reports by users / developers                                                              |
+| Output      | Updated Software Validation Form<br>If required: new record of Softwares Validation Form created |
 
 ### 1.6 Decommissioning of Software
 
  * In case it is decided to decommission a software, evaluate possible effects and document the
    actions in the List of Software.
 
-| Responsible |
-|-------------|
-| QMO         |
-
-| Input                    | Output                   |
-|--------------------------|--------------------------|
-| Software Validation Form | Updated List of Software |
-| List of Software         |                          |
+| Responsible | QMO                                          |
+| ----------- | -------------------------------------------- |
+| Input       | Software Validation Form<br>List of Software |
+| Output      | Updated List of Software                     |
