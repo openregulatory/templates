@@ -26,7 +26,7 @@ validation before use.
    system for use.
 
 | Responsible | Employee intending to work with the new system<br>QMO                        |
-| ----------- | ---------------------------------------------------------------------------- |
+|-------------|------------------------------------------------------------------------------|
 | Input       | Information about the system<br>Software Validation Form<br>List of Software |
 | Output      | Preliminary Software Assessment                                              |
 
@@ -37,7 +37,7 @@ validation before use.
    documenting the requirements for expected validation results.
 
 | Responsible | QMO                              |
-| ----------- | -------------------------------- |
+|-------------|----------------------------------|
 | Input       | Software Validation Form         |
 | Output      | Updated Software Validation Form |
 
@@ -49,7 +49,7 @@ validation before use.
    report.
 
 | Responsible | Employee working with the system |
-| ----------- | -------------------------------- |
+|-------------|----------------------------------|
 | Input       | Software Validation Form         |
 | Output      | Updated Software Validation Form |
 
@@ -68,7 +68,7 @@ If validation was successful:
  * Inform relevant staff about the approval of the system.
 
 | Responsible | QMO                                                                                 |
-| ----------- | ----------------------------------------------------------------------------------- |
+|-------------|-------------------------------------------------------------------------------------|
 | Input       | Software Validation Form<br>List of Software                                        |
 | Output      | Completed Software Validation Form<br>Updated List of Software<br>Notification Sent |
 
@@ -80,7 +80,7 @@ If validation was successful:
    necessary, a revalidation is carried out.
 
 | Responsible | QMO in collaboration with employee working with the system                                       |
-| ----------- | ------------------------------------------------------------------------------------------------ |
+|-------------|--------------------------------------------------------------------------------------------------|
 | Input       | Error reports by users / developers                                                              |
 | Output      | Updated Software Validation Form<br>If required: new record of Softwares Validation Form created |
 
@@ -90,6 +90,6 @@ If validation was successful:
    actions in the List of Software.
 
 | Responsible | QMO                                          |
-| ----------- | -------------------------------------------- |
+|-------------|----------------------------------------------|
 | Input       | Software Validation Form<br>List of Software |
 | Output      | Updated List of Software                     |
