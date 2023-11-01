@@ -98,13 +98,13 @@ technology and medicine, and the availability of alternative medical devices or 
 > Event Count" are simply the total usage number multiplied by the upper limit probability of the same row,
 > e.g. you want to know "how often can probability P3 occur if the product is being used 100 times per day?"
 
-| Probability  | Upper Limit | Lower Limit | Estimated Maximum Event Count |
-|--------------|-------------|-------------|-------------------------------|
-| P5: Certain  | 1           | 10^-2       | 1000000 *(change this*)       |
-| P4: Likely   | 10^-2       | 10^-4       | 10000                         |
-| P3: Possible | 10^-4       | 10^-6       | 100                           |
-| P2: Unlikely | 10^-6       | 10^-8       | 1                             |
-| P1: Rare     | 10^-8       | 0           | 0                             |
+| Probability     | Upper Limit | Lower Limit | Estimated Maximum Event Count |
+|-----------------|-------------|-------------|-------------------------------|
+| P5: Certain     | 1           | 10^-2       | 1000000 *(change this*)       |
+| P4: Likely      | 10^-2       | 10^-4       | 10000                         |
+| P3: Unlikely    | 10^-4       | 10^-6       | 100                           |
+| P2: Rare        | 10^-6       | 10^-8       | 1                             |
+| P1: Unthinkable | 10^-8       | 0           | 0                             |
 
 #### 1.2.4 Risk Acceptance Matrix
 

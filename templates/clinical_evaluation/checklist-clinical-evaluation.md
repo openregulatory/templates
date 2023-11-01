@@ -1,4 +1,4 @@
-# Checklist: Literature Evaluation Report
+# Checklist: Clinical Evaluation Report
 
 ## 1. Summary
 
@@ -16,7 +16,7 @@ requirements stated in Appendix A10 of the MEDDEV 2.7/1 revision 4 Guideline.
 
 ## 2. Relevant Other Documentation
 
-* Literature Evaluation Report (Doc-ID)
+* Clinical Evaluation Report (Doc-ID)
 
 ## 3. Checklist Overview
 
