@@ -6,6 +6,11 @@
 | ------------------------------- | ---------------- |
 | Annex VIII | (All) |
 
+
+**Related documents:**
+* Intended Use
+* SOP Product Certification and Registration
+
 ## Summary
 
 | Product: | (enter content) |
