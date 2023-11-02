@@ -64,16 +64,16 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 > and the overall work of your organization. Typical examples are: hiring excellence in staff, providing,
 > best-of-class device performance, high standards of customer satisfaction, etc.
 >
-> Implementation Option 1:
-> You define measurable, yet still abstract quality objectives here. In a next step (see short-term goals
-> below), those are narrowed down to very concrete measures (for example: monthly number of user
-> complaints). The advantage of that: you don't need to update your quality manual and objectives a lot. And
-> you can re-use a system that you already have, combining QMS with your regular business goals.
+> ### Key Performance Indicators (KPIs)
+
+> Auditors might ask you: how do you keep track of a quality objective, to see if it was achieved or not?
+> The answer is: Key Performance Indicators. As part of your management review, you have to review all QMS processes plus your quality policy and objectives at least annually. Now, you can meet both requirements at the same time by defining KPIs for your QMS processes. You can then argue that by achieving your KPIs, you make sure that your processes run well, which also meets your quality objectives.
+> This is your action items:
+> 1. Make sure to define at least one KPI for each QMS process.
+> 2. Make sure each quality objectives translates into at minimum one process KPI. Where there's no corresponding process for a quality objective, you define additional KPIs that are not process-related.
+> 3. You can document those KPIs either in each SOP or in a separate overview sheet. For example, you can use the template for a management review report for that purpose.
 >
-> Implementation Option 2:
-> As part of your management review, you will have to review all QMS processes plus your quality policy and
-> objectives at least annually.  You can use that opportunity to define process-related KPIs which serve at
-> the same time as your quality objectives.
+> Also see regulatory requirements: ISO 13485, para. 4.1.3.a (process KPIs), para. 5.6.2 (management review input).
 
 ## 3. Roles
 
