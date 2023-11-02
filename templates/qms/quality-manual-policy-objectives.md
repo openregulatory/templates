@@ -75,14 +75,6 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 > objectives at least annually.  You can use that opportunity to define process-related KPIs which serve at
 > the same time as your quality objectives.
 
-### Short-Term Goals
-
-> How does your team track its goals? Your auditors want to see how your quality objectives translate into
-> your daily work. You should formulate strategic goals for your company that are somewhat related to your
-> quality goals and which are tracked at least on an annual basis. Do you already have a goal-oriented system
-> in place to track your team’s work? Even better: align business and quality goals and describe your system
-> here.
-
 ## 3. Roles
 
 > Describe the roles of the people in your company. Typically this is done by drawing an organigram (you could
