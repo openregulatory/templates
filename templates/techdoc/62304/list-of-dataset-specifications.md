@@ -19,24 +19,24 @@ not specified yet.
 
 |                    |                                                                                 |
 |--------------------|---------------------------------------------------------------------------------|
-| Use context:       | \<e.g. AI-based decision support in radiology>                                  |
-| Pathology:         | \<e.g. prostate cancer>                                                         |
+| Use context:       | \<e.g. AI-based decision support in radiology\>                                 |
+| Pathology:         | \<e.g. prostate cancer\>                                                        |
 | Target numbers:    | For example: XXX tumor cases with biopsies, XXX benign cases, XXX healthy cases |
-| Other information: | \<For example: Prefer images from certain manufacturers>                        |
+| Other information: | \<For example: Prefer images from certain manufacturers\>                       |
 | (...)              | (...)                                                                           |
 
 ### Medical Specifications
 
 |                              |                                                          |
 |------------------------------|----------------------------------------------------------|
-| Patient population:          | \<For example: European male>                            |
+| Patient population:          | \<For example: European male\>                           |
 | Contents of medical reports: | \<Applicable clinical scores, biopsy information, etc.\> |
 
 ### Technical Specifications
 
 |               |                                                                 |
 |---------------|-----------------------------------------------------------------|
-| Manufacturer: | \<Enter hardware manufacturer, e.g. Siemens>                    |
+| Manufacturer: | \<Enter hardware manufacturer, e.g. Siemens\>                   |
 | Exclusions:   | For example: images other than MRI, no medical reports included |
 | (...)         | (...)                                                           |
 
