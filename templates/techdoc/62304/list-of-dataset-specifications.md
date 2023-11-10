@@ -10,7 +10,7 @@ not specified yet.
 
 * SOP Machine Learning Model Development
 * Intended Use
-* Data Annotation Guidelines
+* Instructions on data annotation
 * Algorithm Validation Report
 
 ## Acquisition
