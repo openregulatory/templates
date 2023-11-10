@@ -68,7 +68,7 @@ validation testing.
 Based on the initial device description defined as part of the SOP Integrated Software Development, the
 Medical team collects and documents required medical background information.
 
-**Data Acquisitions**
+**Instructions Data Acquisitions**
 
 The Operations team and the Machine Learning Team then define the Instructions on Data Acquisitions required to
 obtain relevant data for ML model training and development. At minimum, these include:
@@ -77,21 +77,20 @@ obtain relevant data for ML model training and development. At minimum, these in
 * Data volume incl. appropriate backup
 * Data sources (e.g. outpatient clinics, hospital information systems, etc.)
 
-The Instructions on Data Acquisitions shall provide reasonable evidence about dataset composition, dataset size and
+The Instructions on Data Acquisitions provide specifications of dataset composition, dataset size and other
 technical requirements, including reasoning for why these specifications are deemed appropriate for model
-development. The output should be specific enough to provide the Operations team with insightful information
-to acquire the right datasets from partner organizations. It is documented in the Instructions on Data Acquisitions
-and must be approved by the CTO.
+development. The Instructions on Data Acquisitions shall be specific enough both to enable employees to acquire
+the correct data and to serve as evidence if the correct data has been acquired. They must be approved by the CTO.
 
-**Data Annotations**
+**Instructions on Data Annotations**
 
 The Medical team and the Machine Learning team compile Instructions on Data Annotations. The instructions shall
-specify the way in which datasets shall be annotated by medical experts to apply labelling required for the
-training of the ML model. It shall provide a standard annotation style, incl. the accuracy and form of
-annotations (e.g. polygons). Annotation requirements shall be specific enough to provide the Operations team
-with information to evaluate the quality of annotations. The guidelines shall also provide a reasoning for the
-selection of labels and the methodology used to derive the ground truth for later model development. The Instructions
-on Data Annotations must be approved at minimum by the CTO, QMO and a medical expert.
+specify the way in which datasets must be annotated by medical experts to apply labelling required for the
+training of the ML model. It shall provide a standard annotation style, incl. the accuracy and form of annotations.
+Annotation requirements shall be specific enough both to serve as instructions and as evidence to evaluate the
+quality of annotations. They shall also provide a reasoning for the selection of labels and the methodology used
+to derive the ground truth for later model development. The Instructions on Data Annotations must be approved at
+minimum by the CTO, QMO and a medical expert.
 
 Both the Instructions on Data Acquisitions and Annotations shall be continuously monitored for
 adequacy and completeness and updated when necessary.
