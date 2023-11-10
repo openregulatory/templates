@@ -1,4 +1,4 @@
-# Instructions on data acquisitions
+# Instructions on Data Acquisitions
 
 In this document we define what kind of data we obtain from partners (“acquisition”) and what we then use for
 annotation (“annotation data”).
