@@ -1,4 +1,4 @@
-# List of Dataset Specifications
+# Instructions on data acquisitions
 
 In this document we define what kind of data we obtain from partners (“acquisition”) and what we then use for
 annotation (“annotation data”).
