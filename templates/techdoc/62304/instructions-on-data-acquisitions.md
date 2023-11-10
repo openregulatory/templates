@@ -1,10 +1,9 @@
 # Instructions on Data Acquisitions
 
-In this document we define what kind of data we obtain from partners (“acquisition”) and what we then use for
-annotation (“annotation data”).
-
-Acquisition requirements are less specific because we might use such data for future developments which are
-not specified yet.
+The Instructions on Data Acquisitions define what kind of data is collected and annotated (prepared) for
+machine learning model development. The requirements for general data acquisition can be defined less
+specific than the subset of data used for annotations as any additional data can be used for future
+developments that are not specified yet.
 
 **Relevant other documentation:**
 
