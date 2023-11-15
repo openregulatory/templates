@@ -17,8 +17,8 @@ ISO 13485:2016 Chapter 7.5
 
 * SOP Integrated Software Development
 * Intended use
-* Instructions on data acquisitions
-* Instructions on data annotations
+* Instructions on data acquisition
+* Instructions on data annotation
 * List of software requirements
 * List of applicable regulations
 * List of medical devices
@@ -63,47 +63,47 @@ validation testing.
 | Input        | ML development infrastructure<br/>(e.g. cloud server) |
 | Output       | Configured development environment                    |
 
-## 2.2. Define Instructions on Data Acquisitions and Annotations
+## 2.2. Define Instructions on Data Acquisition and Annotation
 
 Based on the initial device description defined as part of the SOP Integrated Software Development, the
 Medical team collects and documents required medical background information.
 
-**Instructions Data Acquisitions**
+**Instructions Data Acquisition**
 
-The Operations team and the Machine Learning Team then define the Instructions on Data Acquisitions required to
+The Operations team and the Machine Learning Team then define the Instructions on Data Acquisition required to
 obtain relevant data for ML model training and development. At minimum, these include:
 
 * Data type (e.g. patient population, medical modality, data format etc.)
 * Data volume incl. appropriate backup
 * Data sources (e.g. outpatient clinics, hospital information systems, etc.)
 
-The Instructions on Data Acquisitions provide specifications of dataset composition, dataset size and other
+The Instructions on Data Acquisition provide specifications of dataset composition, dataset size and other
 technical requirements, including reasoning for why these specifications are deemed appropriate for model
-development. The Instructions on Data Acquisitions shall be specific enough both to enable employees to acquire
+development. The Instructions on Data Acquisition shall be specific enough both to enable employees to acquire
 the correct data and to serve as evidence if the correct data has been acquired. They must be approved by the CTO.
 
-**Instructions on Data Annotations**
+**Instructions on Data Annotation**
 
-The Medical team and the Machine Learning team compile Instructions on Data Annotations. The instructions shall
+The Medical team and the Machine Learning team compile Instructions on Data Annotation. The instructions shall
 specify the way in which datasets must be annotated by medical experts to apply labelling required for the
-training of the ML model. It shall provide a standard annotation style, incl. the accuracy and form of annotations.
+training of the ML model. It shall provide a standard annotation style, incl. the accuracy and form of annotation.
 Annotation requirements shall be specific enough both to serve as instructions and as evidence to evaluate the
-quality of annotations. They shall also provide a reasoning for the selection of labels and the methodology used
-to derive the ground truth for later model development. The Instructions on Data Annotations must be approved at
+quality of annotation. They shall also provide a reasoning for the selection of labels and the methodology used
+to derive the ground truth for later model development. The Instructions on Data Annotation must be approved at
 minimum by the CTO, QMO and a medical expert.
 
-Both the Instructions on Data Acquisitions and Annotations shall be continuously monitored for
+Both the Instructions on Data Acquisition and Annotation shall be continuously monitored for
 adequacy and completeness and updated when necessary.
 
 |              |                                                                        |
 |--------------|------------------------------------------------------------------------|
 | Participants | Operations team<br/>Medical team<br/>ML team                           |
 | Input        | Device description                                                     |
-| Output       | Instructions on Data Acquisitions<br/>Instructions on Data Annotations |
+| Output       | Instructions on Data Acquisition<br/>Instructions on Data Annotation |
 
 ## 2.3. Collection and Annotation of Data
 
-The Operations team is responsible to obtain the required data according to the Instructions on Data Acquisitions
+The Operations team is responsible to obtain the required data according to the Instructions on Data Acquisition
 from relevant partner organizations.
 
 The Operations team is also responsible to ensure that all partners are informed about legal and data privacy
@@ -112,23 +112,23 @@ considerations.
 Data exports must receive prior approval by the data protection officer of both the donating and receiving
 organization.
 
-In case the exported data has been annotated already, the annotations are reviewed against the annotation
-requirements described in the Instructions on Data Annotations. Data with unqualified annotations is discarded.
+In case the exported data has been annotated already, the annotation are reviewed against the annotation
+requirements described in the Instructions on Data Annotation. Data with unqualified annotation is discarded.
 If the exported data consists of raw data, the Operations team is responsible to hire medical experts which
-provide the necessary data annotations according to the requirements of the Instructions on Data Annotations.
+provide the necessary data annotation according to the requirements of the Instructions on Data Annotation.
 Annotation workforce must be contracted following the organization's purchasing process.
 
-|              |                                                                                                          |
-|--------------|----------------------------------------------------------------------------------------------------------|
-| Participants | Operations team                                                                                          |
-| Input        | Instructions on Data Acquisitions<br/>Instructions on Data Annotations<br/>If applicable: SOP Purchasing |
-| Output       | Acquisition of annotated data                                                                            |
+|              |                                                                                                        |
+|--------------|--------------------------------------------------------------------------------------------------------|
+| Participants | Operations team                                                                                        |
+| Input        | Instructions on Data Acquisition<br/>Instructions on Data Annotation<br/>If applicable: SOP Purchasing |
+| Output       | Acquisition of annotated data                                                                          |
 
 ## 2.4. Data Pre-Processing
 
 Once data acquisition is completed, the Machine Learning team is responsible to apply necessary preprocessing
 steps such as data cleaning, normalization and/or feature extraction to achieve a refined dataset according to
-the Instructions on Data Acquisitions. Detailed steps may include:
+the Instructions on Data Acquisition. Detailed steps may include:
 
 * Exploratory data analysis (EDA) to gain insight into data distribution, missing values, outliers and other
   potential dataset deficiencies.

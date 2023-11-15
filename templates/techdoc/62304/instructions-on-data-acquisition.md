@@ -1,6 +1,6 @@
-# Instructions on Data Acquisitions
+# Instructions on Data Acquisition
 
-The Instructions on Data Acquisitions define what kind of data is collected and annotated (prepared) for
+The Instructions on Data Acquisition define what kind of data is collected and annotated (prepared) for
 machine learning model development. The requirements for general data acquisition can be defined less
 specific than the subset of data used for annotations as any additional data can be used for future
 developments that are not specified yet.
