@@ -63,8 +63,8 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 > tracked. Those objectives should not (only) refer to the quality of your devices but the quality of your QMS
 > and the overall work of your organization. Typical examples are: hiring excellence in staff, providing,
 > best-of-class device performance, high standards of customer satisfaction, etc.
->
-> ### Key Performance Indicators (KPIs)
+
+### Key Performance Indicators (KPIs)
 
 > Auditors might ask you: how do you keep track of a quality objective, to see if it was achieved or not?
 > The answer is: Key Performance Indicators. As part of your management review, you have to review all QMS processes plus your quality policy and objectives at least annually. Now, you can meet both requirements at the same time by defining KPIs for your QMS processes. You can then argue that by achieving your KPIs, you make sure that your processes run well, which also meets your quality objectives.
