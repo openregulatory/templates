@@ -18,8 +18,8 @@
 
 **Medical Device Class: \<enter class\>**
 
-Classification based on \<enter MDR reference, for example: Annex VIII, Chapter 3, Paragraph 6, Rule 13 (for
-class I active devices)\>.
+Classification based on \<enter MDR reference, for example: Annex VIII, Chapter 3, Paragraph 6, Rule 11 (for
+software devices)\>.
 
 > For context, read Chapter 5, Section 1, Art. 51 MDR. You can find the classification rule applicable to your
 > medical device set out in Annexes VIII of the MDR.
