@@ -74,7 +74,7 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 > 3. You can document those KPIs either in each SOP or in a separate overview sheet. For example, you can use the template for a management review report for that purpose.
 >
 > Also see regulatory requirements: ISO 13485, para. 4.1.3.a (process KPIs) and para. 5.6.2 (management review input).
-> In this section here, describe where you define your KPIs and how you keep track of them. For example, you could define KPIs in every single SOP or in a separate, central overview sheet and ideally, they are tracked by each process owner independently.
+> In this section here, describe where you define your KPIs and how you keep track of them. For example, say that you define KPIs in every single SOP or reference to a separate, central overview sheet. Ideally, KPIs are tracked by each process owner independently.
 
 ## 3. Roles
 
