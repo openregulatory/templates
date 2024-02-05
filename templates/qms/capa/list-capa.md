@@ -1,6 +1,6 @@
 # List of CAPAs
 
-| ISO 13485:2018 Section | Document Section |
+| ISO 13485:2016 Section | Document Section |
 |------------------------|------------------|
 | 8.5.2                  | (All)            |
 | 8.5.3                  | (All)            |
