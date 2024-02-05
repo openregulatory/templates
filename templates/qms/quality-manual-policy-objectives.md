@@ -68,13 +68,13 @@ The following sections of ISO 13485:2016 will be excluded due to the product bei
 
 > Auditors might ask you: how do you keep track of a quality objective, to see if it was achieved or not?
 > The answer is: Key Performance Indicators. As part of your management review, you have to review all QMS processes plus your quality policy and objectives at least annually. Now, you can meet both requirements at the same time by defining KPIs for your QMS processes. You can then argue that by achieving your KPIs, you make sure that your processes run well, which also meets your quality objectives.
-> This is your action items:
+> These are your action items:
 > 1. Make sure to define at least one KPI for each QMS process.
 > 2. Make sure each quality objectives translates into at minimum one process KPI. Where there's no corresponding process for a quality objective, you define additional KPIs that are not process-related.
 > 3. You can document those KPIs either in each SOP or in a separate overview sheet. For example, you can use the template for a management review report for that purpose.
 >
 > Also see regulatory requirements: ISO 13485, para. 4.1.3.a (process KPIs) and para. 5.6.2 (management review input).
-> In this section, describe where you define your KPIs and how you keep track of them. For example, you could define KPIs in every single SOP or in a separate, central overview sheet and ideally, they are tracked by each process owner independently.
+> In this section here, describe where you define your KPIs and how you keep track of them. For example, you could define KPIs in every single SOP or in a separate, central overview sheet and ideally, they are tracked by each process owner independently.
 
 ## 3. Roles
 
