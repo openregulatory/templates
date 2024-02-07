@@ -123,19 +123,19 @@ Optional: remove or add to the following sub-paragraphs as appropriate.
 
 (...)
 
-## 3.2. Data Pre-Processing
-
-> Describe how you pre-processed data. Possible steps may include: anonymization / pseudonymization, removing
-> data elements, converting data formats or units, handling missing values or data outliers. How did you
-> divide data into training, validation and test data. If applicable, reference relevant QMS processes.
-
-(...)
-
-## 3.3. Data Annotation
+## 3.2. Data Annotation
 
 > Describe how data is labeled and how you determined the ground truth. Further, you can describe: labeling
 > requirements (quality criteria), qualification / training of staff involved, quality assurance for correct
 > labeling. If applicable, reference relevant QMS processes.
+
+(...)
+
+## 3.3. Data Pre-Processing
+
+> Describe how you pre-processed data. Possible steps may include: anonymization / pseudonymization, removing
+> data elements, converting data formats or units, handling missing values or data outliers. How did you
+> divide data into training, validation and test data. If applicable, reference relevant QMS processes.
 
 (...)
 

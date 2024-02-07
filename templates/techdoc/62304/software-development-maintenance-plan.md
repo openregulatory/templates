@@ -44,7 +44,7 @@ Please see the relevant processes for the following activities:
    Integrated Software Development
  * Change management: SOP Change Management
  * SOUP List
- * SOP Usability Engineering
+ * Usability engineering activities: SOP Integrated Software Development
 
 ## 2. Required Resources
 
