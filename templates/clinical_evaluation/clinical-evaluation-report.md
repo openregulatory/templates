@@ -81,6 +81,7 @@ All claims can be found in the table below. These claims will be thoroughly exam
 Clinical evaluation is an on-going process, conducted throughout the life cycle of a MDSW. Both favorable and unfavorable data considered in the clinical evaluation shall be included in the technical documentation.
 
 Three key components will be taken into account when compiling clinical evidence:
+
 **Valid clinical association**
 
 * Demonstrate that it corresponds to the clinical situation, condition, indication or parameter defined in the intended purpose of the MDSW
