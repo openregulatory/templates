@@ -1,447 +1,361 @@
 # Clinical Evaluation Report
 
-The Clinical Evaluation Report states the clinical benefits and safety characteristics of the device, based on
-clinical data. It is the output of the Clinical Evaluation Plan.
+## 1\. Purpose and Scope
 
-> While the content of the Clinical Evaluation is simple, writing it, coming up with the right structure and
-> forming a sensible line of reasoning (equivalence) can be a bit tricky.
+According to the Regulation (EU) 2017/745, Article 61 and ANNEX XIV, the evaluation of the clinical performance and safety as well as the clinical benefit must be based on clinical data and is required for all medical device classes. The clinical evaluation report and the clinical data on which it is based, verifies the clinical safety and performance of the [device name].
+A clinical evaluation plan [Reference] is in place and this clinical evaluation report is carried out in accordance with the plan.
+
+## 2\. Definitions
+
+| Definition / Abbreviation | Description |
+| ------------------------- | ----------- |
+| MDR | Regulation (EU) 2017/745 |
+| [...] | [...] |
+
+## 3\. Product Information
+
+|  |  |
+| --- | --- |
+| Manufacturer: |  |
+| Product name: |  |
+| Product models: |  |
+| CE marking: |  |
+| Classification: |  |
+
+### 3.1 Intended Use
+
+> Add intended use.
+
+### 3.2 Patient Population
+
+> Add patient population
+
+### 3.3 Intended Medical Indication
+
+> Add intended medical indication
+
+### 3.4 Contraindications
+
+> If none, state as follows: There are no known specific situations that contraindicate the use of this device.
+
+### 3.5 Operating Principle
+
+> Offer a detailed overview of the device, encompassing its name, models, sizes, and components across hardware, software, and accessories. Clearly categorize the device, such as a biological artificial aortic valve, and outline its physical and chemical attributes, technical specifications, and mechanical traits. Specify sterilization methods, radioactivity considerations, and operational principles. Detail materials used, particularly those in contact with the patient, and any inclusion of medicinal substances, animal tissues, or blood components. Incorporate a visual representation, and note the device's class, global market entry, and specific product configurations. Highlight innovative features relevant to ongoing assessments and address unmet medical needs. Provide concise step-by-step application procedures, elucidate performance in different modes, and describe the device's workflow.
+
+### 3.6 User Profile
+
+> Describe the typical user of the software. Some ideas could be: Qualifications, prior training (for your software), technical proficiency, time spent using the software.
+
+### 3.7 User Environment Including Hardware / Software
+
+> Describe the typical use environment. What sort of devices is this running on? Does the software only run on one device or multiple devices? Is it loud and chaotic like in an emergency ward? How’s the lighting? Also, add other software or hardware which is required by your device. Most commonly, apps require users to have a smartphone with a compatible operating system (iOS / Android).
+
+## 4\. Clinical Benefits
+
+> Describe the intended clinical benefit(s) of the device.
+
+## 5\. Clinical Claims
+
+All claims can be found in the table below. These claims will be thoroughly examined as part of the literature search in the clinical evaluation.
+
+| No. | Claim | Source | Reference |
+| --- | ----- | ------ | --------- |
+| 1 | Our device reduces procedure time by 20% | Website / promotional material | Usability study / Literature analysis (addressed in clinical evaluation report) / verification and validation / PMS data; PMCF data |
+| ... |  |  |  |
+
+> If there are no claims:
+> No claims require validation through the clinical evaluation
+
+## 6\. Context of the Medical Device
+
+### 6.1 Developmental Context
+
+> Provide an overview of the device's developmental context, including its current market presence in Europe or other countries, the duration of its presence, and the quantity of devices placed on the market. Consider incorporating information from relevant publications to enrich this chapter.
+
+### 6.2 State of the Art
+
+> Outline the state of the art and the medical alternatives of the device. Summarise guidance documents, common specifications or health technology assessment report, which could help describing the state of the art. Usually, review articles provide a broad overview on the state of the art and medical alternatives.
+
+## 7\. Clinical Evidence
+
+Clinical evaluation is an on-going process, conducted throughout the life cycle of a MDSW. Both favorable and unfavorable data considered in the clinical evaluation shall be included in the technical documentation.
+
+Three key components will be taken into account when compiling clinical evidence:
+**Valid clinical association**
+
+* Demonstrate that it corresponds to the clinical situation, condition, indication or parameter defined in the intended purpose of the MDSW
+
+**Technical performance**
+
+* Demonstration of the MDSW’s ability to accurately, reliably and precisely generate the intended output, from the input data.
+
+**Clinical performance**
+
+* Demonstration of a MDSW’s ability to yield clinically relevant output in accordance with the intended purpose
+
+### 7.1 Valid Clinical Association
+
+Valid clinical association is understood as the extent to which, the MDSW’s output (e.g. concept, conclusion, calculations) based on the inputs and algorithms selected, is associated with the targeted physiological state or clinical condition. This association should be well founded or clinically accepted. The valid clinical association of a MDSW should demonstrate that it corresponds to the clinical situation, condition, indication or parameter defined in the intended purpose of the MDSW.
+
+> Example: MDSW that detects heart arrhythmia by analysing auscultation sound obtained by a digital stethoscope requires demonstrating valid clinical association of the association between abnormal cardiac sounds and heart arrhythmia. Evidence supporting valid clinical association can be generated e.g. through literature research, professional guidelines, proof of concept studies, or manufacturer’s own clinical investigations/clinical performance studies.
+> 
+> The is intended to […]. This is a well-established clinical procedure and clinically accepted.
+> The valid clinical association will be demonstrated with:
 >
-> These are the guidance documents on Clinical Evaluation. If you're the person writing it, you should read
-> them:
+> * Technical standards
+> * Professional medical society guidelines
+> * Systematic scientific literature review
+> * Clinical investigations
+> * Published clinical data (e.g. Summary of Safety and Clinical Performance (SSCP) / Summary of Safety and Performance (SSP), Registries and databases from authorities)
+<br>
+
+#### 7.1.1	Systematic scientific literature review
+
+Chosen source for the literature search is PubMed. The table lists the search terms used and the number of results.
+
+| No. | Search category | Search term | no. of results |
+| --- | --------------- | ----------- | -------------- |
+| 1 | Clinical association / state of the art |  |  |
+| ... |  |  |  |
+
+> Describe the total number of results and the number of duplicate publications.
+
+Different filters, exclusion & selection criteria have been used.
+
+> Justify the set filters, especially the timeframe and the limitation of certain evidence level.
+
+**Filter**
+
+* Publication Dates
+* Article types
+* Languages
+* Species
+* Text availability
+
+**Exclusion criteria**
+
+* Publications about animal trials
+* Publications in a language other than English
+* Publications published before [Date]
+* Publications with no abstract
+* Duplicates identified in more than one search category
+* Publications with the following content are generally not relevant:
+* ...
+
+**Selection criteria**
+
+* Publications describing or focusing on the use of the medical device under evaluation
+* Publications describing the use of an equivalent device
+* Publications describing or focusing on comparative literature of medical alternatives and state of the art of the medical device under evaluation
+* …
+
+### 7.2 Technical Performance
+
+> According to the MDCG 2020-1 technical performance is the demonstration of the MDSW’s ability to accurately, reliably and precisely generate the intended output, from the input data. Evidence supporting technical performance can be generated through verification and validation activities, e.g. unit-level, integration, and system testing or by generating new evidence through use of curated databases, curated registries, reference databases or use of previously collected patient data.
+> 
+> Technical performance is confirmed by the examination and provision of objective evidence that the MDSW specifications conform to user needs and intended uses, and that the requirements implemented can be consistently fulfilled. For example, performance verification and validation in the intended computing and use environments can be characterized by the demonstration of:
 >
->  * MDCG 2020-1, 2020-5, 2020-6
->  * MDCG 2020-13: Quite helpful as it gives you an idea of the structure.
->  * MEDDEV 2.7/1 Rev. 4. (mostly for MDD, but still a good starting point; especially the list of proposed
->    headings for a report at the end of the document).
+> * availability,
+> * confidentiality,
+> * integrity,
+> * reliability,
+> * accuracy (resulting from trueness and precision),
+> * analytical sensitivity,
+> * limit of detection,
+> * limit of quantitation,
+> * analytical specificity,
+> * linearity,
+> * cut-off value(s),
+> * measuring interval (range),
+> * GENERALISABILITY,
+> * expected data rate or quality,
+> * absence of inacceptable cybersecurity vulnerabilities,
+> * HUMAN FACTORS ENGINEERING.
 >
-> Finally, this Clinical Evaluation Report is for Medical Devices. If you are an IVD manufacturer you will
-> write a Performance Evaluation Report which has many similarities but some essential parts are different,
-> e.g., Post-Market Performance Follow-Up and procedural descriptions of evaluation and validation).
-
-## Table of Contents
-
-> A list of the sections is presented below. You have to update this manually when you edit headings as this
-> is a markdown file (sorry - guilty dog face).
-
-1. List of Abbreviations
-2. Product
-3. Relevant Documents
-4. Scope of the Clinical Evaluation
-5. Device
-6. Clinical Background, Current Knowledge, State of the Art
-7. Type of Evaluation
-8. Literature Search
-9. Clinical Data
-10. Post-Market Activities
-11. Conclusions
-12. Date of the Next Clinical Evaluation
-13. Dates and Signatures
-14. Qualification of the Responsible Evaluators
-15. References
-
-## 1. List of Abbreviations
-
-| Abbreviation | Explanation                                            |
-|--------------|--------------------------------------------------------|
-| AE           | Adverse Event                                          |
-| BfArM        | German Federal Institute for Drugs and Medical Devices |
-| CE           | Communauté Européenne                                  |
-| CER          | Clinical Evaluation Report                             |
-| CI           | Confidence interval                                    |
-| DHF          | Design History File                                    |
-| DMR          | Device Master Record                                   |
-| EUDAMED      | European Database for Medical Devices                  |
-| FDA          | Food and Drug Administration (US)                      |
-| IFU          | Instruction for Use                                    |
-| LoE          | Level of Evidence                                      |
-| MAUDE        | Manufacturer and User Facility Device Experience       |
-| MEDDEV       | Guideline for Clinical Evaluation of Medical Devices   |
-| MDD          | Medical Device Directive, European Directive 93/42/EEC |
-| MDR          | Medical Device Regulation (EU) 2017/745                |
-| PMS          | Post Market Surveillance                               |
-| PMCF         | Post Market Clinical Follow Up                         |
-| Rev          | Revision                                               |
-| SOP          | Standard Operation Procedure                           |
-| T            | Tendency                                               |
-| C            | Comparability                                          |
-| WHO          | World Health Organization                              |
-
-## 2. Product
-
- * Name: *\<product name\>*
- * Version: *\<product version\>*
- * Basic UDI-DI: *\<insert UDI-DI, if/when available\>*
- * UMDNS-Code: *\<insert UMDNS-Code, if/when available\>*
- * GMDN-Code: *\<insert GMDN-Code, if/when available\>*
-
-The classification is based on the following criteria:
-
-> Select one of these two, based on whether you're going for MDD or MDR compliance.
-
- * Annex IX of the European Directive 93/42/EEC (MDD): *\<if applicable\>*.
- * Annex VIII, Section 6 (Active Devices) Rule *\<write the Rule number, e.g., 13\>* of the EU Regulation
-   2017/745 (MDR).
+> Summarize the relevant tests, validations and verifications to demonstrate that the medical deviceaccurately and consistently meets the intended purpose in real-world usage. Add subchapter if necessary.
 
-## 3. Relevant Regulatory References
+### 7.3 Clinical performance
 
-Other relevant regulatory documents:
+> Validation of the CLINICAL PERFORMANCE is the demonstration of a MDSW’s ability to yield clinically relevant output in accordance with the intended purpose. The clinical relevance of a MDSW’s output is a positive impact on the health of an individual expressed in terms of measurable, patient-relevant clinical outcome(s), including outcome(s) related to diagnosis, prediction of risk, prediction of treatment response(s), or related to its function, such as that of screening, monitoring, diagnosis or aid to diagnosis of patients, oron patient management or public health. Example for clinical performance is a retrospective study on previously obtained data. Generate evidence that shows your:SaMD has been tested in your target population and for your intended use; and that users can achieve clinically meaningful outcomes through predictable and reliable use.
+> 
+> Note that line with the provisions of MDR Article 61 (1), the level of clinical evidence required should be appropriate in view of the device claims and characteristics. For medical devices, where the demonstration of conformity with GSPRs based on clinical data is not deemed appropriate (MDR Article 61 (10)), the manufacturer shall duly substantiate in the technical documentation why it is adequate to demonstrate conformity based on the results of non-clinical testing methods alone, bench testing and preclinical evaluation, and usability assessment.
+>  
+> This means in case where your device does not produce clinical data, you can use bench testing and usability to demonstrate the clinical performance.
+>  
+> Summarize the clinical performance data.
 
-* SOP Clinical Evaluation
-* Clinical Evaluation Plan
-* Instructions for Use (IFU)
-
-This clinical evaluation report serves as evidence of conformance with certain General Safety and Performance
-Requirements pursuant to EU Regulation 2017/745 (MDR), Annex I.
-
-Specifically, the following requirements were evaluated as part of this report:
+#### 7.3.1 Equivalent device
 
-* Chapter 1 (General Requirements), para. 1 and 8
-* Chapter 2.8 (Software Devices), para. 17.2
-
-## 4. Scope of the Clinical Evaluation
-
-> Note: This section is copy-pasted from the Clinical Evaluation Plan.
-
-> The following section can be part of the Clinical Evaluation Plan or pasted here with reference to the
-> respective chapters. Remember that you can update the Clinical Evaluation Plan during your evaluation
-> (e.g., your search criteria are not sufficient).
->
-The approach according to the MEDDEV 2.7/1 Rev. 4 includes five logical procedural stages in order to
-evaluate the performance and safety data of the medical device:
-
-* Step 0 ("Scope")
-* Step 1 ("Identification")
-* Step 2 ("Appraisal")
-* Step 3 ("Analysis")
-* Step 4 ("Report")
-
-During the working process, these five steps are iterative and influence each other. The report shows the
-steps in a sequential way. In the present report (step 4), the steps 0 through 3 are corresponding to the
-following chapters:
+> If no equivalence is claimed: No equivalent device could be identified.
+> General guidance including a detailed comparison table is provided in the MDCG 2020-05. Read this guidance and use the table to demonstrate equivalence if applicable.
 
-> List sections of the Clinical Evaluation Report here which cover the steps above.
+## 8 Risk Management
 
-## 5. Device
+A risk analysis, conducted in compliance with EN ISO 14971 is currently documented in the:
 
-### 5.1 Device Description
+* SOP Risk management
+* Risk Management Plan
+* Risk Analysis
+* Risk Management Report
 
-> Copy-paste your Device Description here, which includes the Intended Use but also, User Profile,
-> Precautions/Safety Instructions, Contraindications, Use Environment, Operating Principle,
-> Variants/Accessories, Novelty, Design Requirements. If it's not done yet, remember to
-> do it later :)
+### 8.1 Known Hazards and Risks
 
-> Make sure to reference your Design Requirements Document of the stakeholder and software requirements here.
+> List hazards/ risks associated with the medical device.
 
-### 5.2 Clinical Benefits, Outcome Parameters
+### 8.2 Known Side-Effects
 
-> Medical device claims are statements from accompanying documents, marketing material, your website,
-> etc. that include information about the performance and safety of the medical device (information by the
-> manufacturer). The clinical evaluation is done in order to determine whether those claims are confirmed by
-> sufficient clinical evidence.
->
-> So, if your website claims that your device cures back pain in 50% of patients after 14 days, here's the
-> place to list that claim and show explain how you'll prove it.
+> If applicable, please list/ describe side-effects.
 
-Claims that have not been stated so far (e.g., in the IFU) are described below and sorted according to their
-meaning for performance and safety. In this clinical evaluation, it was determined that the claims are
-sufficiently supported by clinical data.
+### 8.3 Precautions and Warnings
 
-Performance-related product claims:
-> * Claim 1, e.g., diagnosis for better treatment decision (performance)
-> * Claim 2, e.g., xy % accuracy, xy % sensitivity, xy % specificity
+> List precautions and warnings.
 
-### 5.3 Clinical Safety, Methods for Analysis
+### 8.4 Usability Engineering
 
-> Describe your safety parameters, i.e., which things should your product fulfil so that you consider it safe?
-> And your methods, i.e., how will you prove that your product fulfils those safety parameters? A method could
-> be a literature search for past studies, but you could additionally do a Post-Market Clinical Follow-Up to
-> double-check whether that's actually true for your device.
+> Please provide a summary of the usability engineering either deriving from separate documents or the risk management.
+> Example of text of the conclusion might be:
+> The evaluation of the usability in accordance with IEC 62366-1 confirms that the design adequately reduces the risk of use error as far as possible, that the design is adequate for the intended users and that the information materials supplied by the manufacturer for the intended users are suitable.
 
-> Also, make sure to mention that a risk management plan, risk assessment and risk management report were
-> undertaken according to the EN ISO 14971:2019 to evaluate all the known and foreseeable risks related to the
-> product.
+### 8.3 Additional risks identified in the literature
 
-Safety-related product claims:
+PubMed has been searched for risks that might be associated with the use of the medical device.
 
-> * Claim 1, e.g., temporary worsening
-> * Claim 2, e.g., placebo effect
+> Describe here the search for risks and usability related risks with the use of the device. State the filters used in your search.
 
-### 5.4 Acceptability of Benefit-Risk-Ratio
+| Risks | Search term | No. of results |
+| ----- | ----------- | -------------- |
+| Risks associated with the device | Search term |  |
 
-> After you've defined your benefits and safety parameters, which combination of those is acceptable to you?
-> In the case of most software devices (and apps), you'll probably have subtle benefits (e.g., better disease
-> management, early detection of relapses) while low safety concerns (e.g., disease progression unlikely, not
-> killing anyone). Thus, define criteria under which the benefit-risk profile is acceptable.
+> Describe the total number of results and the number of duplicate publications.
 
-### 5.5. Risk Analysis
+| Usability related risks | Search term | No. of results |
+| ----------------------- | ----------- | -------------- |
+| Risks associated with the device | Search term |  |
 
-> Copy-paste your Risk Management Report here. This is to prove that your medical device is safe.
+> Describe the total number of results and the number of duplicate publications.
 
-### 5.6. Usability Testing
+> List the publications in Annex Literature accordingly.
 
-> Copy-paste your Usability Evaluation Report here. This is to prove that your medical device is effective.
+> Summary of identified risks
+> A general patient benefit has been identified and proven within the literature. However, some possible complications have been reported in the literature.
+> Limit your focus to risks that are directly or indirectly linked to the medical device. Risks related solely to the procedure, without any interaction with the medical device under evaluation, are not pertinent to this chapter or the risk-benefit assessment.
 
-## 6. Clinical Background, Current Knowledge, State of the Art
+| Literature ref. | Risks / Complications | Considered in risk management? |
+| --------------- | --------------------- | ------------------------------ |
+| ... | ... | ... |
 
-> This chapter focus on literature  and guidelines that describe the current state of the art and
-> other topics. It is similar to the literature / introduction chapter of papers.
->
-> It makes sense to differentiate between "context" and "pivotal" data:
-> * Context data describes the state of the art (commonly the introduction / literature part of papers)
-> * Pivotal data is used for the appraisal, i.e., that's the data describing the actual study and
->   outcome(s). In the best case, the pivotal data is about the device(s) you're claiming similarity to.
+* Not one of the outlined risks pertained to an overarching product issue or design flaw. The examination of pertinent publications did not unveil any apprehensions concerning the safety. Additionally, the literature review did not uncover any risks that haven't already been addressed in the existing risk management protocols.
+* 
+* Summarise the literature regarding usability.
+* In the absence of usability information: A review of the literature did not uncover any additional insights regarding the usability aspects associated with the use of the . Furthermore, there is no indication in the literature of any overarching product issues or design flaws related to usability.
 
-### 6.1 Clinical Background & Current Knowledge
+### 8.6 Conclusion of Risk Management
 
-> Describe the clinical context of the disease you're treating. How are patients currently treated? Which
-> symptoms do they have, which diagnostic modalities are being used to establish a diagnosis, which treatment
-> options exist? What are the benefits and drawbacks of current treatment options?
->
-> You can start with a definition of the disease and describe details about epidemiology, aetiology,
-> pathophysiology, investigation and diagnosis.
+> Example of text might be:
+> Risk control measures were established and executed in accordance with the Risk Management Plan. These implemented measures are predominantly aligned with the adherence to relevant standards. Furthermore, technical control and monitoring measures were introduced and successfully validated for efficacy. The risk management process validates the adequacy of information materials provided by the manufacturer, ensuring that risk mitigation measures are accurately addressed in the Instructions for Use (IFU). Following the successful implementation of these risk control measures, both the remaining individual risks and the overall residual risks were evaluated as acceptable [Reference the Risk Management Report].
 
-### 6.2 State of the Art incl. Alternative Treatments
+## 9 Post-Market Surveillance Data
 
-> Given the current treatment options, what is the preferred, "state of the art" treatment? What are its
-> benefits and drawbacks? Are there recent scientific achievements (studies, new technologies, software) which
-> may be promising to improve this state-of-the-art treatment? Also, what are alternative treatments?
->
-> You might want to consider adding a sub-section on digital therapeutics as well as organising this section
-> into tables.
+> Present available post-market surveillance data and delineate its significance in assessing the clinical performance and safety of the relevant medical device. If applicable, reference post-market surveillance reports or periodic safety update reports, focusing on conclusions that are relevant to the device's clinical performance and safety.
+> [Manufacturer] has implemented a post-market surveillance (PMS) system to promptly identify new risks not previously recognized during the extended market experience. This commitment ensures the immediate execution of corrective and preventive actions, as detailed in <reference to the post-market surveillance system.
+> This section further consolidates insights gained from the medical device under evaluation and/or its equivalent devices, utilizing internal and external databases. The strategy for identifying pertinent reports is tailored to each database.
+> Add or remove subchapters as needed. If possible, align the timeframe for database searches with that of the literature search. If an excessive number of potentially relevant results arise, opt for a restricted timeframe with justification.
 
-## 7. Type of Evaluation
+### 9.1 Internal Vigilance System
 
-> Note: This section is copy-pasted from the Clinical Evaluation Plan.
->
-> Describe the type of Clinical Evaluation you'll be doing. Most probably, you'll be doing a literature search
-> and review to come up with adequate clinical data.
+> Summarise the data regarding sales numbers and complaints.
 
-## 8. Literature Search
+### 9.2 Additional Post-Market Clinical Follow-Up Data
 
-### 8.1 Literature Search Methods
+> PMCF is planned and conducted to proactively collect and evaluate clinical data with the aim of confirming the clinical safety and performance throughout the expected lifetime of the device, ensuring the continued acceptability of identified risks and detecting emerging risks on the basis of factual evidence.
+> Summarise the data regarding PMCF of the device under evaluation & reference the post-market clinical follow-up plan.
 
-> Copy-paste from Clinical Evaluation Plan.
+### 9.3 Relevant Device Registers
 
-### 8.2 Literature Appraisal Criteria
+> Please summarise internal and external register data.
+> If no internal device register is available, example of text might be:
+> The manufacturer has not implemented an internal device register.
 
-> Copy-paste from Clinical Evaluation Plan.
+### 9.4 BfArM Database
 
-### 8.3 Literature Search Protocol
+Sources: https://www.bfarm.de/SiteGlobals/Forms/Suche/EN/Expertensuche\_Formular.html?nn=708434&cl2Categories\_Format=kundeninfo
+The following search terms have been used:
 
-> You can describe it as a flow chart, e.g.:
->
-> 1. Initial search with all publications from the relevant databases.\
-> 1.1 Potentially relevant papers (from the first skimming of article titles / abstracts)\
-> 1.2 Irrelevant papers\
-> 2. Potentially relevant papers found in irrelevant papers\
-> 2.1 Relevant paper used for context\
-> 2.2 Relevant paper used for a single appraisal (pivotal data)\
+Please state a timeframe of the search if restricted.
+The search led to < xxx > results of which only < xx > refer to the or its equivalent devices.
 
-### 8.4 Literature Search Overview
+| Ref. | Issue Date | Device | Description / Action | Relevant? |
+| ---- | ---------- | ------ | -------------------- | --------- |
+|  |  |  |  |  |
 
-> A table which lists your actual literature search results. For each entry, you should decide whether it's
-> acceptable (based on your appraisal criteria) or not. I pre-wrote some tables to give you an idea of the
-> structure below. You could separate the tables based on the database where you did the search (PubMed,
-> Google Scholar).
->
-> It could make sense to put this in a separate document (rather: a spreadsheet).
+### 9.5 Swissmedic Database if applicable
 
-> Here are some bullet points from the guidance:
-> * Literature search protocol provided
-> * Literature search reports provided
-> * Full list of retrieved articles provided
-> * Full list of excluded articles provided, with reasons for exclusion Full text copies of relevant documents
->   available
+> Summarize the search in this database and use the structure provided in the BfArm example.
 
-#### Database Search Overview
+### 9.6 MHRA Database if applicable
 
-| Database | Search term | # Hits | # Evaluated Abstracts | # Potential Relevant Publications |
-|----------|-------------|--------|-----------------------|-----------------------------------|
-|          |             |        |                       |                                   |
+> Summarize the search in this database and use the structure provided in the BfArm example.
 
-#### Database: PubMed
+### 9.7 FDA MAUDE Database if applicable
 
-| Title | Author | Year | Summary | Relevant? Why?                           |
-|-------|--------|------|---------|------------------------------------------|
-|       |        |      |         | *e.g., similar design, similar features* |
+> Summarize the search in this database and use the structure provided in the BfArm example.
 
-#### Database: Google Scholar
+### 9.8 FDA Recall Database if applicable
 
-| Title | Author | Year | Summary | Relevant? Why? |
-|-------|--------|------|---------|----------------|
-|       |        |      |         |                |
+> Summarize the search in this database and use the structure provided in the BfArm example.
 
-#### Database: Cochrane
+### 9.9 Summary and Conclusion of PMS Data
 
-| Title | Author | Year | Summary | Relevant? Why? |
-|-------|--------|------|---------|----------------|
-|       |        |      |         |                |
+> Offer a condensed overview of post-market surveillance data, incorporating considerations on risk management and usability. Enumerate identified risks aligned with the evaluation, ensuring comprehensive coverage of all risk management aspects. Specifically, focus on assessing use errors and the design of the user interface. Include details about the user profile and usage environment, if applicable.
+> 
+> Noteworthy complications from MHRA, Swissmedic, BfArM, and FDA databases include:
+> • List all relevant general complications
+> 
+> Crucially, the scrutiny of post-market surveillance data revealed no risks unaddressed in the risk management discussion. The assessment of clinical data provides further reinforcement of the safety and performance of the device under evaluation.
 
-### 8.5 Literature Search Report
+## 10\. Benefit Risk Assessment
 
-> Briefly summarise how many studies you reviewed, how many you deemed acceptable and why you didn't include
-> the unacceptable ones (probably because they didn't conform to the appraisal criteria).
+> Provide an overview about risks and benefits for the medical device and come to a final conclusion, why the probable benefits outweigh potential risks. The following list summarises an example of the evaluation of acceptability of the benefit-risk ratio.
+> Based on the findings in the clinical data review as well as in the risk analysis, it can be inferred that the probability of a patient experiencing a substantial benefit when using the [device name] outweighs the probability of suffering harm due to a residual risk of the device significantly.
 
-> Describe a gap analysis which information could not be found during your search e.g., specific
-> functionalities of your device, limited number of clinical data in publications.
+## 11\. Summary & Conclusion
 
-### 8.6 Evaluation of Study Quality
+> Executive Summary: This clinical evaluation represents a methodologically rigorous ongoing process encompassing the collection, assessment, and analysis of clinical data for the . The report synthesizes preclinical, non-clinical, and clinical data from diverse sources, presenting crucial information about the device's intended purpose. A comprehensive literature search, yielding a sufficient number of relevant publications (n=xx), underscores the safety and performance of the , with identified publications meeting satisfactory quality standards. The evidence supports the intended purpose, clinical performance, and benefits as outlined in informational materials. No safety-related complaints, unaddressed risks, or usability concerns were identified beyond those addressed in risk management.
+> Market experience, involving more than xxx units sold worldwide since xxxx, provides valuable insights. Safety-related complaints (xx) were reported, and a thorough search within clinical experience databases (MHRA, BfArM, Swissmedic, and FDA) revealed no unevaluated risks or usability aspects. Residual risks were deemed acceptable in the final risk management report, with the benefits outweighing these residual risks.
+> The clinical evaluation affirms compliance with relevant safety and performance requirements (Regulation (EU) 2017/745, ANNEX I, clauses 1 and 8). Overall, the clinical safety, performance, and benefits demonstrate that the \<medical device> aligns with current knowledge and technological standards.
+> Conclusions: The clinical evaluation confirms that the \<medical device> complies with current knowledge and technological standards, is suitable for its intended purpose and users, and offers substantial clinical benefits, outweighing potential adverse effects. Evaluated clinical data, aligned with Regulation (EU) 2017/745, are scientifically sound and comprehensive, supporting the device's conformity. The analysis of literature, clinical data, and risk factors indicates that patient benefits significantly surpass the risk of residual harm, rendering further clinical investigations unnecessary.
+> A planned PMCF strategy, considering the clinical evaluation report's results, defines the process and frequency of activities. In summary, the clinical safety, performance, and benefits showcased in this evaluation confirm that the \<medical device> adheres to relevant general safety and performance requirements (Regulation (EU) 2017/745, ANNEX I, clauses 1 and 8).
 
-#### 8.6.1  Level of Evidence (LoE)
+## Annex
 
-> Take a sufficient classification to evaluate the quality of your study. You can use the LoE from MDCG 2020-6
-> or from the American Heart Association.
+### A1 References
 
-#### 8.6.2 Tendency (T)
+The following table lists all relevant publications, provides a summary of the content and lists the appraisal.
 
-> The MEDDEV 2.7/1 Rev. 4 requires that literature is used that confirms as well as questions the suitability
-> of the evaluated medical device.
->
->  * Positive: + (Confirms clinical suitability)
->  * Negative: - (Does not confirm clinical suitability)
->  * Indifferent: i (No statement to the clinical suitability possible)
+| Ref. | No. | Title | Summary | Indication / Application | Risks | Named Device | Benefits | Usability |
+| ---- | --- | ----- | ------- | ------------------------ | ----- | ------------ | -------- | --------- |
+|  |  |  |  |  |  |  |  |  |
 
-#### 8.6.3 Comparability (C)
+### A2 Selection of Literature Search Results
 
-> For the consideration of the relevance of literature data for the clinical evaluation it is necessary to make
-> a statement about the comparability to the medical device to be evaluated.
+The following table lists all identified publications, the decision for potential relevance and final relevance.
+Use the literature assessment Excel sheet and copy paste the first columns in here.
 
-#### 8.6.4  Single Appraisal of Searched Clinical Studies
+| No. | References | Potentially relevant? | Relevant after reading the full text? |
+| --- | ---------- | --------------------- | ------------------------------------- |
+|  |  |  |  |
 
-> This sub-section is highly important for medical device evaluation. Here you take all the publications from
-> the literature search and evaluate them to prove equivalence with your device and prove the respective
-> product claims. The latter can also be proven by other activities (e.g., PMS, equivalent device, usability
-> testing, result of adverse events etc.).
+### A3 Document References
 
-#### 8.6.5 Literature Data on the Performance of the Medical Device
+Reference documents that you used in the CER (Risk management, Usability, bench testing summaries) here.
 
-> Focus here on equivalent devices that support your performance claims.
+### A4 Qualification of authors
 
-> Do the paper description in the same way e.g.:
->
->  * First, describe the study with its main characteristics regarding the quality and relevance are made
->    (study design, patient number, mean age inclusion and exclusion criteria, used product, endpoint,
->    results of performance, conclusion of the author).
->  * Complications, side-effects, adverse events.
->  * A consideration of the study according to the criteria (LoE, T, C).
+Provide qualification and experience of the evaluators (e.g. author, reviewer and/or approver) to demonstrate that the responsible person fulfils the requirements for the accomplishment of clinical evaluations.
 
-Herein, the selected literature references, which were categorised as "relevant" (appraisal), are
-evaluated. This was done according to the following scheme:
+***
 
-#### 8.6.6 Literature Data about the Safety of the Medical Device
+<br>
+Template Copyright [openregulatory.com](https://openregulatory.com). See [templatelicense](https://openregulatory.com/template-license).
 
-> Focus here on equivalent devices that support your Safety claims. So you do not need to describe the LoE
-> since potential risks can also arise from case studies (which might have a low LoE). Were any side effects mentioned
-> in any of the identified relevant studies?
-
-## 9. Clinical Data
-
-### 9.1 Clinical Data From Literature
-
-> List all the clinical data you got from studies which matched your appraisal criteria,
-> e.g., study design such as number of subjectives, age and any other relevant parameter considered, objectives,
-> disease severity, what the measured outcomes/endpoints were.
->
-> Feel free to organise this section into tables.
-
-
-### 9.2 Clinical Data from Clinical Study Databases
-
-> List all the clinical data you got from studies (clinical trials.gov, ANCTR, DRKS, WHO etc.).
-
-### 9.3 Clinical Data From Adverse Event Databases
-
-> List all the clinical data you got from studies which matched your appraisal criteria (BfArM, MAUDE, FDA
-> Medical Device Recall, EUDAMED (when applicable)).
-
-### 9.4 Summary and Appraisal of Clinical Data
-
-> Summarise all the clinical data from above :)
-
-### 9.5 Analysis of the Clinical Data
-
-> Analyse the clinical data with a focus on whether your targets of clinical benefits and safety were
-> fulfilled.
-
-## 10. Post-Market Activities
-
-> This chapter is used to summarise your PMS/ PMCF activities. During the clinical evaluation you evaluate
-> the information of your safety and performance claims as well as general requirements on safety &
-> performance. If you can not cover certain aspects you might need to add them to your PMS/ PMCF - Plan.
-
-> Summarise your post-market activities. You can copy-paste a lot of those here. At the minimum, you'll have a
-> Post-Market Surveillance Plan and Report. If this is your initial certification, your report may be empty as
-> you haven't brought your device to the market yet.
-
-> Additionally, you may have a Post-Market Clinical Follow-Up (PMCF) Plan and Report, which essentially have the
-> content of "we'll be tracking some data to make sure that our claims of clinical benefits and safety are
-> actually true".
-
-> Here's what the guidance states about it:\
-> Describe how the manufacturer will verify the presumption that there would be no clinically significant
-> difference in the safety and clinical performance of the device under evaluation compared with the
-> equivalent device by post market surveillance or post market clinical follow-up.
-
-> * PMS Plan
-> * PMS Report
-> * PMCF Plan
-> * PMCF Report
-> * PSUR (if relevant)
-
-## 11. Conclusions
-
-> Your conclusion is whether the clinical data shows that your goals (benefit/ performance and safety) are
-> fulfilled. Reference your claims you stated before.
-
-## 12. Date of the Next Clinical Evaluation
-
-> When will you be doing the next clinical evaluation and updating this report?
-
-## 13. Dates and Signatures
-
-> Date and sign the report. If your document management system supports it, you can digitally sign by typing
-> e.g., your initials in the "Signature" field. Otherwise, you can still sign it the old-school way (print it
-> and sign the sheet of paper, ugh).
-
-| Activity | Name | Date | Signature |
-|----------|------|------|-----------|
-| Creation |      |      |           |
-| Review   |      |      |           |
-| Approval |      |      |           |
-
-## 14. Qualification of the Responsible Evaluators
-
-> Attach CVs of the people who were involved in writing the Clinical Evaluation. They must fulfil some
-> criteria (it's complicated), so I'll just copy-paste MEDDEV 2.7/1 Rev. 4 here:
-
-> * The manufacturer defines requirements for the evaluators that are in line with the nature of the device
->    under evaluation and its clinical performance and risks.
->  * The manufacturer should be able to justify the choice of the evaluators through reference to their
->    qualifications and documented experience, and present a declaration of interest for each evaluator.
->
-> As a general principle, the evaluators should possess knowledge of the following:
->  * research methodology (including clinical investigation design and biostatistics); MEDDEV 2.7/1 revision 4
->    page 14 of 65
->  * information management (e.g., scientific background or librarianship qualification; experience with relevant
->    databases such as Embase and Medline);
->  * regulatory requirements; and
->  * medical writing (e.g., post-graduate experience in a relevant science or in medicine; training and
->    experience in medical writing, systematic review and clinical data appraisal).
->
-> With respect to the particular device under evaluation, the evaluators should in addition have knowledge of:
->  * the device technology and its application;
->  * diagnosis and management of the conditions intended to be diagnosed or managed by the device, knowledge of
->    medical alternatives, treatment standards and technology (e.g., specialist clinical expertise in the
->    relevant medical speciality).
->
-> The evaluators should have at least the following training and experience in the relevant field:
->  * a degree from higher education in the respective field and 5 years of documented professional experience;
->    or
->  * 10 years of documented professional experience if a degree is not a prerequisite for a given task.
->
-> There may be circumstances where the level of evaluator expertise may be less or different; this should be
-> documented and duly justified.
-
-## 15. References
-
-> Papers and other references which you cite go here.
+Please don't remove this notice even if you've modified contents of this template.
