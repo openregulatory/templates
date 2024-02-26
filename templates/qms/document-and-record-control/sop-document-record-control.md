@@ -70,17 +70,15 @@ QMS documents and records shall be stored for at least 10 years after their arch
 Technical Documentation shall be stored for at least 10 years after the lifecycle of the respective device has
 ended.
 
-### Review Periods
+### Checking Periods
 
-We review our QMS documents typically once per year to ensure they remain up to date.
+We check our QMS documents regularly following a risk-based approach in order to ensure they remain up to date:
 
-Our core and safety processes as defined in the quality management manual must be reviewed once per year.
-
-All other processes and associated documents can be reviewed every three years once they have been reviewed
-before without any findings.
-
-In case of audit findings or related corrective action, it is up to the discretion of the QMO to apply shorter
-review periods (e.g. 6 months).
+* *Category A*: following a new release or the release of a new version of a document, it is checked again 6 months later to see if any changes are necessary. If not, it's status can be changed to category B.
+* *Category B*: once a document has passed a first checking cycle without any changes, it is sufficient to check it again only 1 year later. If found necessary during this time period, changes are applied and the status of the document is reset to category A. If no changes are required, it's status can be changed to category C.
+* *Category C*: once a document has passed a second checking cycle without any changes, it is sufficient to check it again only 3 years later. If found necessary during this time period, changes are applied and the status of the document is rest to category A. If no changes are required, it's status can remain in category C.
+* Our *core and safety processes* as defined in the quality management manual must be reviewed at minimum once per year (max. category B).
+* In the case of *audit findings or related corrective action*, it is up to the discretion of the QMO to apply shorter review periods for a document (e.g. 6 months).
 
 ### QMS Document List
 
