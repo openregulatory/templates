@@ -16,7 +16,8 @@ Usability Engineering and Evaluation activities are defined in the **SOP Integra
 ## 2. Related Documents
 
  * List of Hazard-Related Use Scenarios
- * Usability Evaluation Report
+ * Usability Evaluation Protocol
+ * Usability Evaluation Plan
 
 ## 3. Summary of Formative Evaluations
 
