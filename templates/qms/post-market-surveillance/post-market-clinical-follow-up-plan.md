@@ -1,6 +1,6 @@
 # Post-Market Clinical Follow-Up Plan (PMCFP)
 
-This document is used to plan all post-market clinical follow-up activities for the [name of the medical
+This document is used to plan all post-market clinical follow-up activities for the \<name of the medical
 device].
 
 ## Product information
@@ -54,42 +54,42 @@ evaluate clinical data with the aim of:
 >
 > Below are two examples provided:
 
-| Method 1                                         | [Literature Review]                                                                                                                                            |
+| Method 1                                         | \<Literature Review\>                                                                                                                                            |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Description:                                     | [Literature search as defined in the search protocol of the CER]                                                                                               |
-| Search period:                                   | [Beginning from last update of CER until Month/Year]                                                                                                           |
-| Objective:                                       | [Confirming the findings of the initial Clinical Evaluation Report and identifying new potential benefits and risks]                                           |
-| Search Strategy:                                 | [Copy paste your search strategy from the CER here]                                                                                                            |
-| Rationale and known limitations of the activity: | [Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method] |
+| Description:                                     | \<Literature search as defined in the search protocol of the CER\>                                                                                               |
+| Search period:                                   | \<Beginning from last update of CER until Month/Year\>                                                                                                           |
+| Objective:                                       | \<Confirming the findings of the initial Clinical Evaluation Report and identifying new potential benefits and risks\>                                           |
+| Search Strategy:                                 | \<Copy paste your search strategy from the CER here\>                                                                                                            |
+| Rationale and known limitations of the activity: | \<Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method\> |
 
-| Method 2                                         | [Feedback from users or patients]                                                                                                                              |
+| Method 2                                         | \<Feedback from users or patients\>                                                                                                                              |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Description:                                     | [Describe the survey]                                                                                                                                          |
-| Search period:                                   | [State the survey periode here]                                                                                                                                |
-| Objective:                                       | [Describe the objective of your survey]                                                                                                                        |
-| Additional information                           | [Countries, sponsor, survey sides...]                                                                                                                          |
-| Rationale and known limitations of the activity: | [Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method] |
+| Description:                                     | \<Describe the survey\>                                                                                                                                          |
+| Search period:                                   | \<State the survey periode here\>                                                                                                                                |
+| Objective:                                       | \<Describe the objective of your survey\>                                                                                                                        |
+| Additional information                           | \<Countries, sponsor, survey sides...\>                                                                                                                          |
+| Rationale and known limitations of the activity: | \<Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method\> |
 
 ### 1.2 Specific methods and procedures
 
 > According to the MDR, Annex XIV, 6.2 The PMCF plan shall include at least:
 > (b) the specific methods and procedures of PMCF to be applied, such as evaluation of suitable registers or PMCF studies;
 
-| Method 3                                         | [PMCF Study]                                                                                                                                                   |
+| Method 3                                         | \<PMCF Study\>                                                                                                                                                   |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Description:                                     | [Describe the study]                                                                                                                                           |
-| Search period:                                   | [State the study periode here]                                                                                                                                 |
-| Objective:                                       | [Describe the objective of your study]                                                                                                                         |
-| Additional information                           | [Countries, sponsor, survey sides...]                                                                                                                          |
-| Rationale and known limitations of the activity: | [Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method] |
+| Description:                                     | \<Describe the study\>                                                                                                                                           |
+| Search period:                                   | \<State the study periode here\>                                                                                                                                 |
+| Objective:                                       | \<Describe the objective of your study\>                                                                                                                         |
+| Additional information                           | \<Countries, sponsor, survey sides...\>                                                                                                                          |
+| Rationale and known limitations of the activity: | \<Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method\> |
 
-| Method 4                                         | [Device registry]                                                                                                                                              |
+| Method 4                                         | \<Device registry\>                                                                                                                                              |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Description:                                     | [Database search as defined in the CER]                                                                                                                        |
-| Search period:                                   | [Beginning from last update of CER until Month/Year]                                                                                                           |
-| Objective:                                       | [Confirming the findings of the initial Clinical Evaluation Report and identifying new potential benefits and risks]                                           |
-| Search Strategy:                                 | [Copy paste your search strategy from the CER here]                                                                                                            |
-| Rationale and known limitations of the activity: | [Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method] |
+| Description:                                     | \<Database search as defined in the CER\>                                                                                                                        |
+| Search period:                                   | \<Beginning from last update of CER until Month/Year\>                                                                                                           |
+| Objective:                                       | \<Confirming the findings of the initial Clinical Evaluation Report and identifying new potential benefits and risks\>                                           |
+| Search Strategy:                                 | \<Copy paste your search strategy from the CER here\>                                                                                                            |
+| Rationale and known limitations of the activity: | \<Address device risk, the novelty of the product and/or of the clinical procedure, the sufficiency of clinical data in the CER & the objective of this method\> |
 
 ## 2. Reference to the relevant parts of the technical documentation
 
@@ -103,27 +103,27 @@ evaluate clinical data with the aim of:
 
 ###### Relevant information to be further analysed and monitored:
 
-* [Describe what needs to be analysed]
+* \<Describe what needs to be analysed\>
 
 > Example: The clinical data gathered and evaluated as a result of this PMCF plan will be used to update and
 > verify the chapters 11.6 (literature summary and conclusion), 12 (clinical experience data), 13
 > (risk-benefit assessment) and the conclusion of the CER. The literature will furthermore be searched for
 > similar devices with a focus on associated risks and the state of the art.
 
-* [ ] No relevant information from the clinical evaluation report to be considered in this plan
+* No relevant information from the clinical evaluation report to be considered in this plan
 
 ### 2.2 Risk Management File (date and version)
 
 ###### Relevant information to be further analysed and monitored:
 
-* [Describe what needs to be analysed]
+* \<Describe what needs to be analysed\>
 
 > Example: Clinical data will be used to ensure the ongoing appropriateness of identified hazards, hazardous
 > situations, harms, their frequency and severity estimations in the risk assessment & risk
 > control. Furthermore, the data including information on similar devices shall be evaluated to identify
 > potential emerging risks in the risk assessment & risk control.
 
-* [ ] No relevant information from the risk management file to be considered in this plan
+* No relevant information from the risk management file to be considered in this plan
 
 ## 3. Evaluation of clinical data relating to equivalent or similar devices
 
