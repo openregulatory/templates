@@ -11,6 +11,10 @@
 | MDCG 2023-3                                              | All                                                                            |
 | MEDDEV 2.12/1 rev. 8                                     | All                                                                            |
 
+**Related Documents:**
+
+* SOP Vigilance
+
 ## Summary
 
 This template is used to assess whether an event with a potentially negative impact on the state of health

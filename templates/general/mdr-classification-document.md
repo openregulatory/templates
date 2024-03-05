@@ -6,13 +6,18 @@
 | ------------------------------- | ---------------- |
 | Annex VIII | (All) |
 
+**Related documents:**
+
+* Intended Use
+* SOP Product Certification and Registration
+
 ## Summary
 
-| Product: | (enter content) |
-| -------- | --------------- |
-| Version: | (enter content) |
+| Product:        | (enter content) |
+|-----------------|-----------------|
+| Version:        | (enter content) |
 | Classification: | (enter content) |
-| Rule: | (enter content) |
+| Rule:           | (enter content) |
 
 ## Chapter 1: Applicable Definitions
 

@@ -3,240 +3,159 @@
 This report describes product-specific post-market surveillance activity output as outlined in the Post-Market
 Surveillance Plan.
 
-## General information
+## 1. Executive Summary
 
-|                                               |   |
-|-----------------------------------------------|---|
-| Manufacturer Name and Address:                |   |
-| Product Name:                                 |   |
-| Unique Device Identification (UDI):           |   |
-| Product Version:                              |   |
-| Surveillance Period:                          |   |
-| PSUR Reference Number:                        |   |
-| PSUR Version Number:                          |   |
-| Notified Body name and organization number:   |   |
+> Describe the main results of the current PSUR and provide background information so that the PSUR “stands
+> alone”. Executive summary should provide a clear and bold statement declaring whether the benefit risk ratio
+> has been negatively impacted based on the information reported within the current PSUR. This statement
+> should be added after the conclusions of the PSUR have been completed.
 
-## Device information
+## 2. Purpose and Scope of the PSUR
 
-|                                             |   |
+This Periodic Safety Update Report (PSUR) applies to [Device Name] and summarizes the results and conclusions
+of the analyses of the post-market surveillance data. Furthermore, this report provides a rationale and
+description of any preventive and corrective actions taken.
+
+| General information    |   |
+|------------------------|---|
+| Surveillance Period:   |   |
+| PSUR Reference Number: |   |
+| PSUR Version Number:   |   |
+
+## 3. Device information
+
+| This PSUR covers:                           |   |
 |---------------------------------------------|---|
+| Device name:                                |   |
+| Device model:                               |   |
+| Legal manufacturer                          |   |
 | Classification:                             |   |
+| Basic UDI:                                  |   |
 | Date of the first DoC:                      |   |
-| Date first made available:                  |   |
-| Device status (on the market/recalled/...): |   |
-| Intended Purpose:                           |   |
-| Indications:                                |   |
-| Contraindications:                          |   |
-| Target populations:                         |   |
-| Device trade name(s):                       |   |
+| Notified Body name and organization number: |   |
+| Expected lifetime of device:                |   |
 
-## Table of Contents
+### 3.1 Intended Use
 
-> Insert ToC here.
+> Add intended use.
 
-## 1. Summary
+### 3.2 Patient Population
 
-> Note: Highlight which issues around the safety and performance of your device you identified and whether the
-> benefit-risk ratio changes. Give a status update on the issues identified in the last PSUR (if applicable).
+> Add patient population
 
+### 3.3 Intended Medical Indication
 
-## 2. Impact on Clinical Evaluation: Benefit and Performance
+> Add intended medical indication
 
-**Are the claims made for expected benefits and performance being met?**
+### 3.4 Contraindications
 
-( ) Yes ( ) No
+> If none, state as follows: There are no known specific situations that contraindicate the use of this device.
 
-If not, reasons for deviation:
+### 3.5 Operating Principle
 
-## 3. Impact on Risk Management: Risks and Benefits Determination
+> Offer a detailed overview of the device, encompassing its name, models, sizes, and components across
+> hardware, software, and accessories. Clearly categorize the device, such as a biological artificial aortic
+> valve, and outline its physical and chemical attributes, technical specifications, and mechanical
+> traits. Specify sterilization methods, radioactivity considerations, and operational principles. Detail
+> materials used, particularly those in contact with the patient, and any inclusion of medicinal substances,
+> animal tissues, or blood components. Incorporate a visual representation, and note the device's class,
+> global market entry, and specific product configurations. Highlight innovative features relevant to ongoing
+> assessments and address unmet medical needs. Provide concise step-by-step application procedures, elucidate
+> performance in different modes, and describe the device's workflow.
 
-**The medical device is safe and the risks correspond to the assumptions in the risk management file:**
+### 3.6 User Profile
 
-( ) Yes ( ) No
+> Describe the typical user of the software. Some ideas could be: Qualifications, prior training (for your
+> software), technical proficiency, time spent using the software.
 
-If not, describe new risks that have been identified:
+### 3.7 User Environment Including Hardware / Software
 
-**Do the clinical benefits of the device outweigh the risks?**
+> Describe the typical use environment. What sort of devices is this running on? Does the software only run on
+> one device or multiple devices? Is it loud and chaotic like in an emergency ward? How’s the lighting? Also,
+> add other software or hardware which is required by your device. Most commonly, apps require users to have a
+> smartphone with a compatible operating system (iOS / Android).
 
-( ) Yes ( ) No
+### 3.8 Characteristics of the Population using the Device
 
-If not, reasons for deviation:
+> Describe the observed usage of the device in different patient populations in comparison to the expected
+> usage and identify the possible over-represented or under-represented patient groups.
 
-## 4. Results of Post-Market Surveillance Activities
+### 3.9 Volume of Sales
 
-### Market Data
+> Provide an accurate information on the number of devices sold and the possible changes on it. The data
+> should be presented by year to year. Provide also further information on the volume of sales in respect to
+> the various sizes, models and system components of the device.
 
-> Describe sales volume of the device, e.g. amount of users, their demography, and, where practicable, the
-> usage frequency of the device. Compare the actual patient population to the expected usage with regards to
-> over- or under-representation of a patient group.
+## 4. Summary of PMS Activities
 
-### Summary of Incidents and Problems
+### 4.1 Feedbackback and Complaints
 
-> Describe incidents that happened with your device and actions taken (e.g. adverse event reports to
-> authorities, field safety notices to customers, field safety actions).
-> Group them by geography, population or any other parameter that makes sense if there are multiple.
+#### 4.1.1 Serious incidents
 
-### Observed undesirable side effects
+> Summarize all serious incidents and describe the influence on the risk management and the risk benefit
+> evaluation.
 
-> Describe incidents that happened with your device and actions taken.
+#### 4.1.2 Non-Serious incidents and expected undesirable side effects
 
-| Title | Date | Hazard in Risk Table | Expected Frequency / Severity | Assessment |
-|-------|------|----------------------|-------------------------------|------------|
-|       |      |                      |                               |            |
+> Summarize all non-serious incidents and describe the influence on the risk management and the risk benefit
+> evaluation.
 
-### List of CAPAs
+#### 4.1.3 Proactively gathered feedback
 
-The following CAPAs resulted from post-market surveillance activities during product lifetime and the
-following CAPAs were initiated during this surveillance period:
+> Summarize the activities and findings, any consequences on risk management and/or clinical evaluation,
+> including any follow-up activity.
 
-### Summary of Customer Complaints and Problems
+### 4.2 Trend identification and reporting
 
-**Overall Feedback Assessment:**
+> Summarize information on any detected trends for non-serious incidents or expected undesirable
+> side-effects. Summarize the activities and findings, including the reporting to the regulatory authority and
+> any required follow-up activity.
 
-* According to the device’s post-market surveillance plan, the overall feedback and complaint rate can be
-  deemed acceptable if (...)
-* Feedback data showed (...)
+### 4.3 Technical & Specialist Literature
 
-> Note: Summarize the number of customer complaints, predominant subjects of feedback and whether there was
-> anything of importance regarding safety. More specifically, take into account:
->
->  * Is the overall complaint rate deemed acceptable and if so, why?
->  * Based on feedback, have any trends been analyzed and have any corrective measures been taken? What is the
->    status of such actions?
->  * Has PMS data been compared to occurrence probabilities from risk management?
+> Summarize information coming from specialist or technical literature, such as regulations, directives,
+> guidance document updates, common specifications, product standards, specialist journals, etc.
 
-*Copy this table for every relevant feedback issue that you have analyzed*
+### 4.4 Information about Similar Devices
 
-|                 |   |
-|-----------------|---|
-| Subject         |   |
-| Feedback Source |   |
-| Date            |   |
-| Root Cause      |   |
-| Assessment      |   |
+> Summarize information coming from publicly available sources and channels for complaints or other experience
+> databases on equivalent/similar devices (such as FDA MAUDE, MHRA, Swissmedic, Implant Registries, etc.).
 
-### SOUP Issues
+### 4.5 Summary of FSCA Documentation
 
-> Describe anything of relevance you found when going through issue trackers of your SOUP. Also describe
-> whether this leads to any changes, e.g. you could have updated the SOUP to a newer version (and then updated
-> that entry in the SOUP list), or you identified new risks which should be added to the risk table.
+> Summarize the information on field safety and corrective actions.
 
-*The SOUP List has been updated.*
+## 5. Main findings from PMCF Activities
 
-(Describe significant changes, e.g., new risks, if applicable)
+### 5.1 List of PMCF Studies
 
-### Post-Market Data of Similar Products
+> Summaries all ongoing and plannend PMCF studies.
 
-> Note: copy the sections below for every database that you looked into.
+### 5.2 Systematic Literature Research
 
-#### BfArM Database(s)
+> Reference the CER or provide a summary of the literature search.
 
-Short description of database:
+## 6. Information from previous PSURs
 
-Search keywords: (Insert keywords)
+> Information from the previous PSUR / PMSR (if available) to identify pending actions during that reporting
+> periods.
 
-| Subject | Description and Date | Assessment | Applicable (Yes / No) |
-|---------|----------------------|------------|-----------------------|
-|         |                      |            |                       |
+## 7. Change of the State of the Art
 
-#### FDA Database(s)
+> Describe whether there is any change of the device state of the art when compared with the evaluation from
+> the current Clinical Evaluation Report.
 
-Short description of database:
+## 8. Risk Management & Benefit-Risk Assessment
 
-Search keywords: (Insert keywords)
+> Potential failure modes (hazards) and harms related to use of the Device Name/Group have been identified,
+> assessed and controlled during development according to EN ISO 14971:2019. No new hazards and harms were
+> identified as a result of the PMS activities conducted during the present review period, and no update of
+> the risk management file has been made due to safety and performance issues.
 
-| Subject | Description and Date | Assessment | Applicable (Yes / No) |
-|---------|----------------------|------------|-----------------------|
-|         |                      |            |                       |
+> In conclusion, the results referred to above demonstrate a continuous acceptability of the benefit-risk
+> determination of the Device Name/Group , i.e. the risks associated with use of the device are still
+> outweighed by the benefits of the device.
 
+## 9. Required Updates to PMS Plan
 
-### Summary of Post-Market Clinical Follow-Up Findings
-
-Post-Market Clinical Follow-Up activities were performed following the manufacturer's process for clinical evaluation.
-
-**Main Findings of Post-Market Clinical Follow-Up Activities:**
-
-> Describe the main findings that were derived from your post-market clinical follow-up.
-
-**Status of Post-Market Clinical Follow-Up Activities:**
-
-> Describe or list here which PMCF activities are planned, were adjusted or completed. Include evidence that
-> the post-market surveillance activities are meeting their objectives. Reference the location of the original
-> data and the analysis performed.
-
-### State of Research and Development
-
-#### Market Information on Similar Devices
-
-> Note: Describe any relevant information on similar devices in the market, e.g. clinical studies that started
-> with outcomes that may be applicable to our device.
-
-*Copy this table for every issue that you evaluated.*
-
-|                      |   |
-|----------------------|---|
-| Query                |   |
-| Results (incl. date) |   |
-| Applicable?          |   |
-| Assessment           |   |
-
-#### Scientific Literature
-
-> Note: This chapter should analyze other publications applicable to our product if not considered already as
-> part of the post-market clinical follow-up.
-
-*Copy this section for every issue that you evaluated.*
-
-Short description of database:
-Search keywords: (Insert keywords)
-
-| ID / Title | Description (incl. date) | Assessment | Applicable (Yes / No) |
-|------------|--------------------------|------------|-----------------------|
-|            |                          |            |                       |
-
-### General Updates of Standards and Legislation
-
-> List legislation and standards which were updated in the meantime. E.g. there could be a new version of ISO
-> 13485 which could be relevant for your company.
-
-## 5. Trend Analysis
-
-> Describe trends that you identified according to the metrics and threshold values that were specified in
-> your post-market surveillance plan.
->
-> For example: during the surveillance period, we received several customer complaints related to product
-> feature XYZ. Malfunctioning of this software component led to XYZ cases of minor injury which was not
-> anticipated. Therefore, we initiated action to do XYZ (ideally, refer here to the listed CAPAs in section 1
-> above).
-
-*Copy this table for every issue that you evaluated.*
-
-|                                |   |
-|--------------------------------|---|
-| Hazard                         |   |
-| Date / Time Span               |   |
-| Occurrence acc. to             |   |
-| Observation                    |   |
-| Probability acc. to risk table |   |
-| Assessment and Actions Taken    |   |
-
-### Updated Post-Market Surveillance Plan
-
-> List updates to Post-Market Surveillance Plan, if applicable.
-
-## 6. Summary and Conclusions
-
-### Validity of the collected data
-
-> Is the data collected sufficient and representative to draw conclusions? Is an impact assessment of the
-> benefit-risk ratio possible?
-
-### Overall conclusions
-
-> Have all benefits been met? Have new benefits/risks been identified? How does that change the benefit-risk
-> profile?
-
-### Actions taken by the manufacturer
-
-> Describe all actions that have been initiated as a part of the PMS data collection or resulting from the
-> findings in this report.
+> Describe the plannend updates of the PMS plan.
