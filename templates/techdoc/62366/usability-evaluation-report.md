@@ -16,7 +16,8 @@ Usability Engineering and Evaluation activities are defined in the **SOP Integra
 ## 2. Related Documents
 
  * List of Hazard-Related Use Scenarios
- * Usability Evaluation Report
+ * Usability Evaluation Protocol
+ * Usability Evaluation Plan
 
 ## 3. Summary of Formative Evaluations
 
@@ -36,7 +37,7 @@ Usability Engineering and Evaluation activities are defined in the **SOP Integra
 |----|-------------|-------------------------|--------------|---------------------|--------------|---------------------|
 |    |             |                         |              |                     |              |                     |
 
-### 5.2 Pass / Fail Counts of Tests
+### 4.3 Pass / Fail Counts of Tests
 
 > Count the pass/fail results from the Usability Evaluation Protocol
 
@@ -44,19 +45,19 @@ Usability Engineering and Evaluation activities are defined in the **SOP Integra
 |---------|-------------|-------------|------------|------------|
 |         |             |             |            |            |
 
-### 5.3 Use Errors and Hazards
+### 4.4 Use Errors and Hazards
 
 | Test ID | Description | Use Error | Potential Hazard |
 |---------|-------------|-----------|------------------|
 |         |             |           |                  |
 
-### 5.4 Information for Safety
+### 4.5 Information for Safety
 
 > Describe whether information for safety could correctly be perceived and understood by the users and
 > whether it supported the correct use of the medical device.
 
-### 5.5 Other Findings
+### 4.6 Other Findings
 
-## 6. Qualitative Participant Feedback
+## 5. Qualitative Participant Feedback
 
-## 7. Conclusion
+## 6. Conclusion

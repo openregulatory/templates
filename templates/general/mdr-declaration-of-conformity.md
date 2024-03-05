@@ -18,10 +18,10 @@
 
 **Medical Device Class: \<enter class\>**
 
-Classification based on \<enter MDR reference, for example: Annex VIII, Chapter 3, Paragraph 6, Rule 13 (for
-class I active devices)\>.
+Classification based on \<enter MDR reference, for example: Annex VIII, Chapter 3, Paragraph 6, Rule 11 (for
+software devices)\>.
 
-> For context, read Chapter 5, Section 1, Art. 51 MDR. You can find the classification rule applicable to your
+> For context, read Art. 51 MDR, Section 1. You can find the classification rule applicable to your
 > medical device set out in Annexes VIII of the MDR.
 >
 > For example: software intended to provide information used to take decisions with diagnosis or therapeutic
@@ -33,14 +33,14 @@ class I active devices)\>.
 Conformity assessment procedure: *\<enter reference to applicable Annex, for example for class I: Annex I and
 III\>* of the Regulation (EU) 2017/745.
 
-> For context, read Chapter 5, Section 2, Art. 52 MDR. You can find the conformity assessment procedures
+> For context, read Art. 52 MDR, Section 2. You can find the conformity assessment procedures
 > applicable to your medical device class set out in Annexes IX to XI of the MDR:
 >
 > * For class III devices (other than custom-made or investigational devices) -> Annex IX. Alternatively:
 >   Annex X + XI
 > * For class IIb devices (other than custom-made or investigational devices) -> Chapters I and III of Annex
 >   IX, incl. TechDoc assessment according to Para. 4 of Annex IX for at least one representative device of a
->   generic device group. For class IIb implant devices, Annex IX applies for every device. Alternatively,
+>   generic device group. For class IIb implant devices, Annex IX applies to every device. Alternatively,
 >   manufacturers may choose type examination following Annex X in combination with Annex XI.
 > * For class IIa devices (other than custom-made or investigational devices) -> Chapters I and III of Annex
 >   IX, incl. TechDoc assessment according to Para. 4 of Annex IX for at least one representative device for

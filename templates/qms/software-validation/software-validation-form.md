@@ -132,23 +132,23 @@ Approving the software for use is recommended due to the acceptance criteria bei
 **GAMP Implications**
 
 * GAMP 5 always leads to "high" software criticality
-* GAMP 4 always leads to a "high" or "moderate" software criticality, depending on further risk assessment in step 4.2
-* GAMP 1 and 3 typically leads to a "low" or "moderate" software criticality, depending on further risk assessment in step 4.2
+* GAMP 4 always leads to a "high" or "moderate" software criticality, depending on further risk assessment in
+  step 4.2
+* GAMP 1 and 3 typically leads to a "low" or "moderate" software criticality, depending on further risk
+  assessment in step 4.2
 
 **Criticality High**
 
-* A software failure can lead to physical harm requiring medical intervention
-* Software controls parameters or data that are essential during product release
-* Software manages data relevant for clinical evaluation or product approval
-* Software manages data from which conclusions about incident messages or recall actions are drawn
+* A software failure can lead to harm, requiring medical intervention
+* Software manages information relevant for vigilance purposes (e.g. customer safety information or recall
+  actions)
+* Software manages information that is quality-relevant and its loss would lead to an audit nonconformity
 
 **Criticality Moderate**
 
-* A software failure can lead to physical damage requiring medical intervention
-* Software administers documents whose loss endangers the certification
-* Software controls intermediate results in the product realization, which are revealed in later steps by
-  other processes
+* A software failure can lead to harm, however, not requiring medical intervention
+* Software manages information that is quality-relevant and its loss would lead to an audit nonconformity
 
 **Criticality Low**
 
-* Software manages documents that play a role in the QM system, and whose loss would lead to an audit variance
+* Software manages information that is quality-relevant and its loss would lead to an audit nonconformity
