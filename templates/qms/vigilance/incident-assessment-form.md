@@ -12,6 +12,7 @@
 | MEDDEV 2.12/1 rev. 8                                     | All                                                                            |
 
 **Related Documents:**
+
 * SOP Vigilance
 
 ## Summary
