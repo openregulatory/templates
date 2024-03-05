@@ -88,7 +88,7 @@ to evaluate the performance and safety data of the medical device:
 * Step 3 (“Analysis”)
 * Step 4 (“Report”)
 
-## Device
+## 2. Device
 
 ### 2.1 Device Description
 
