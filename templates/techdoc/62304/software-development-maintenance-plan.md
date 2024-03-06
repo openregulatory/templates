@@ -1,10 +1,5 @@
 # Software Development and Maintenance Plan
 
-> This document is related to your product. You somehow need to associate it with it. The easiest way would be
-> to just put all product-related documents into a folder in your QMS so that the association is
-> clear. Alternatively, you could mention the related product and version here, but then you'd have to update
-> the version here any time you do a new release. Painful!
-
 This document summarizes development and maintenance activities.
 
 ## Mapping of Standard Requirements to Document Sections
