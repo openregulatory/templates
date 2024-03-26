@@ -53,7 +53,7 @@ scope of the clinical evaluation.
 
 ## 2. Definitions
 
-| Defintion / Abbrevitation | Description              |
+| Definition / Abbrevitation | Description              |
 |---------------------------|--------------------------|
 | MDR                       | Regulation (EU) 2017/745 |
 | [...]                     | [...]                    |

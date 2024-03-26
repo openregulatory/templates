@@ -282,7 +282,7 @@ A risk analysis, conducted in compliance with EN ISO 14971 is currently document
 > the risk of use error as far as possible, that the design is adequate for the intended users and that the
 > information materials supplied by the manufacturer for the intended users are suitable.
 
-### 8.3 Additional risks identified in the literature
+### 8.5 Additional risks identified in the literature
 
 PubMed has been searched for risks that might be associated with the use of the medical device.
 
