@@ -53,7 +53,7 @@ The following categories of Risk Control Measures were implemented in priority a
 
 1. Inherent safety by design
 2. Protective measures
-3. Information for safety 
+3. Information for safety
 
 In total, *\<no. of risk control measures\>* were implemented.
 
@@ -104,3 +104,10 @@ Weighing the benefits against the risks, we conclude that...
 > Take a look at your risk mitigating measures and assess whether the combination of them could lead to a risk that has not been taken care of yet, e.g., if one mitigation serves two or more risks at once.
 
 The overall residual risk is estimated to have a probability of *\<probability of residual risk\>* and a severity of *\<severity of residual risk\>*. According to the Risk Acceptance Matrix the overall residual risk is assessed as *\<acceptable\>*.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

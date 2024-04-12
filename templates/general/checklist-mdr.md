@@ -393,3 +393,10 @@ The documentation shall contain the results and critical analyses of all verific
 | (e) | In the case of devices placed on the market in a sterile or defined microbiological condition, a description of the environmental conditions for the relevant manufacturing steps. In the case of devices placed on the market in a sterile condition, a description of the methods used, including the validation reports, with respect to packaging, sterilization and maintenance of sterility. The validation report shall address bioburden testing, pyrogen testing and, if applicable, testing for sterilant residues. | No | Software device |  |  |
 | (f) | In the case of devices placed on the market with a measuring function, a description of the methods used in order to ensure the accuracy as given in the specifications. | No | No measuring function |  |  |
 | (g) | If the device is to be connected to other device(s) in order to operate as intended, a description of this combination/configuration including proof that it conforms to the general safety and performance requirements when connected to any such device(s) having regard to the characteristics specified by the manufacturer. | No | Standalone software device |  |  |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -86,3 +86,10 @@ The classification of audit findings is established as follows:
 ## 10. List of Documents and Information collected during the Audit
 
 > List the documents that have been audited here.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

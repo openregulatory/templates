@@ -166,3 +166,10 @@ evaluation criteria. A sample approach is provided below:
 
 > Please state the month and year of the planned PMS report (for Class I devices)/ of the PSUR (for all other
 > devices).
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -14,3 +14,10 @@
 |----|-------|------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------|-----------------------------|-------|
 | 1  | 1     | Login with correct email and password succeeds | 1. Enter email steve@apple.com<br>2. Enter password atari<br>3. Click login    | Redirect to account page              | Redirect to account page    | Pass  |
 | 2  | 1     | Login with incorrect email and password fails  | 1. Enter email jony@apple.com<br>2. Enter password butterfly<br>3. Click login | Error "invalid credentials" displayed | Error "invalid credentials" | Pass  |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

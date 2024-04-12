@@ -114,3 +114,10 @@ Relevant information analyzed and monitored:
 ## 5. Update of Post-Market Clinical Follow-Up
 
 > Describe implications for PMCF activities in the next surveillance interval.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -155,3 +155,10 @@ Notification of Authorities*
 | P3: Rather unlikely | S1P3 (yellow) | S2P3 (yellow)  | S3P3 (red)      | S3P3 (red)    |
 | P2: Seldom          | S1P2 (yellow) | S2P2 (yellow)  | S3P2 (yellow)   | S4P2 (red)    |
 | P1: Never           | S1P1 (yellow) | S2P1 (yellow)  | S3P1 (yellow)   | S4P1 (yellow) |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

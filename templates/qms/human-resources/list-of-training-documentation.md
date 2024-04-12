@@ -20,3 +20,10 @@
 | Code of Conduct              | New SOP          | 01.05.2021 | Applicable     | 03.05.2021     | Confirmed by questionnaire | Applicable     | 03.05.2021     |       |
 | Development Process          | Updated SOP      | 01.05.2021 | N/A            |                |                            | Applicable     | 03.05.2021     |       |
 |                              |                  |            |                |                |                            |                |                |       |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

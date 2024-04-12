@@ -62,6 +62,12 @@ copy with the Instructions for Use and confirm the receipt of this notice.*
 | Actions Planned by (company name): |                                                                     |
 | Further Information and Support:   | (Refer to a country contact including information on availability.) |
 
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.
 
 
 <!-- Links -->

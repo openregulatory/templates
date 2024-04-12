@@ -43,3 +43,10 @@ assessed.
 |--------------------------|---------------|------------------------------------------------|--------------|-------|--------------|-------------|-----------------------------------------------------------------------------------------------------|
 | MDCG 2018-1 rev4 04-2021 | Applies       | Guidance on basic UDI-DI and changes to UDI-DI | EU           |       | Annual       | -           | [EU text](https://health.ec.europa.eu/system/files/2021-04/md_mdcg_2018-1_guidance_udi-di_en_0.pdf) |
 | (...)                    |               |                                                |              |       |              |             |                                                                                                     |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

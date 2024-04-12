@@ -28,3 +28,10 @@ The PRRC ensures permanent and continuous availability in accordance with the co
 
 Place, Date\
 Management Representative // Person Responsible for Regulatory Compliance
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

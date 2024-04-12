@@ -174,3 +174,10 @@ Validation is carried out as formative and summative usability evaluation as des
 
 *SOUP issue trackers are checked at least once every 6 months. The verification date is updated in the SOUP
 list accordingly.*
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

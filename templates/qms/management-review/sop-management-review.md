@@ -118,3 +118,10 @@ review period. This is communicated again to all relevant members of the organiz
 | Participants | Management, QMO                                                                     |
 | Input        | Completed data analysis                                                             |
 | Output       | Management Review Report, new or revised KPIs and strategic goals, planned measures |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

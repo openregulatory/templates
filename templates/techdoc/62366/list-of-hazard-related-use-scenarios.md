@@ -25,3 +25,10 @@ usability), then a Hazard could be encountered which could subsequently lead to 
 | ID | User Group | Description        | App State / Environment                               | Tasks                                                         | Acceptance Criteria                 |
 |----|------------|--------------------|-------------------------------------------------------|---------------------------------------------------------------|-------------------------------------|
 | 1  | Physician  | Assess COVID score | 1) App is installed<br>2) App displays patient result | Understand COVID score and initiate further medical treatment | COVID score is understood correctly |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

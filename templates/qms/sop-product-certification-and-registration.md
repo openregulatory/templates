@@ -136,3 +136,10 @@ SOP Software Development).
 | Participants | Product Manager                                  |
 | Input        | Released Declaration of Conformity               |
 | Output       | Updated or new UDI Completed device registration |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

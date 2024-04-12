@@ -26,3 +26,10 @@ change management process.
 | Preliminary Incident Assessment by MDSO                                       | No incident                                              | No incident                                          |       |
 | Preliminary Significance Assessment by QMO                                    | Not significant                                          | Not significant                                      |       |
 | Release Date of Updated Software Version                                      | 2021-04-16                                               | 2021-04-16                                           |       |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.
