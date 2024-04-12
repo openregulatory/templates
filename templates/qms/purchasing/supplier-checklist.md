@@ -99,3 +99,10 @@ Additional evaluation criteria can be used to evaluate the suppliers:
 | Is the supplier required to enter a quality assurance agreement (QAA)? |          |                          |
 | Is the supplier required to agree to a supplier audit program?         |          |                          |
 | Are any other supplier surveillance measures required?                 |          |                          |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -258,3 +258,10 @@ as outlined in this SOP and delete records as soon as the retention period expir
 | Input             | Output            |
 |-------------------|-------------------|
 | Record (released) | Record (archived) |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -11,3 +11,10 @@
 |----|---------------|------------------|--------------------------------------------|-------------------|-----------------|-----------------|-----------------|
 | 1  | GitHub        | GitHub, Inc.     |                                            | yes               | 2020-05-17      |                 |                 |
 | 2  | IntelliJ IDEA | JetBrains s.r.o. | https://youtrack.jetbrains.com/issues/IDEA | yes               | 2020-05-17      |                 |                 |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

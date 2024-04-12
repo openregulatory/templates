@@ -159,3 +159,10 @@ description of any preventive and corrective actions taken.
 ## 9. Required Updates to PMS Plan
 
 > Describe the plannend updates of the PMS plan.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

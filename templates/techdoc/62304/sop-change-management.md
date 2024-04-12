@@ -119,3 +119,10 @@ Change requests result as input to the SOP Software Development and are implemen
 
 This includes verification, validation and release activities while ensuring traceability. The relevant
 documentation is updated and released with an updated declaration of conformity.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

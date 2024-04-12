@@ -34,3 +34,10 @@ This document describes the latest device details and as well as details for pre
 | Product Name          | Manufacturer | Country of Origin | Additional Information | Device Identifier (DI) |
 |-----------------------|--------------|-------------------|------------------------|------------------------|
 | \<enter device name\> | (...)        | (...)             | (...)                  | (...)                  |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

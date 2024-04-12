@@ -72,3 +72,10 @@ in contact with tissue or bodily fluids.
 
 > Describe variants and/or accessories of/to this device, if applicable. For typical stand-alone software of
 > startups, this shouldn't be applicable.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

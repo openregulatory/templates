@@ -46,3 +46,10 @@ provided that no second person can adequately evaluate the effectiveness.
 [ ] The training has not sufficiently achieved the objective. The following actions are proposed.
 
 Actions:
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

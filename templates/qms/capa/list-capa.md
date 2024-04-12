@@ -19,3 +19,10 @@ This list contains all of our Corrective and Preventive Actions (CAPAs).
 | Input Category | CAPA ID | Date Created | CAPA Description | Root Cause | Date Root Cause Analysis Completed | Action (Corrective / Preventive) | Date Actions Defined | Potentially Adverse Implications | Verification | Date of Verification | Effectiveness Evaluation | Date Closed |
 | -------------- | ------- | ------------ | ---------------- | ---------- | ---------------------------------- | -------------------------------- | -------------------- | -------------------------------- | ------------ | -------------------- | ------------------------ | ----------- |
 | Usability feedback | 1 | 01-01-2022 | No contact details provided as part of product information | Missing Test Case for Product Information | 02-01-2022 | New product release incl. contact details; update test cases | 03-01-2022 |  | Release of product version and test case update |  | Number of future complaints related to this issue; review of technical information by Notified Body for completeness |  |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -153,3 +153,10 @@ The following equivalent or similar devices have been chosen and the clinical da
 
 The findings of the PMCF will be summarized in the PMCF Evaluation Report that is part of the clinical
 evaluation report and the technical documentation.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -40,3 +40,10 @@
 | ISO 13485:2016, para. 8.5:<br>Improvement                                         |                |                | x              |                |   |
 | Reg. (EU) 2017/745, Chapter VII, Art. 83-86:<br>Post-Market Surveillance          |                |                | x              |                |   |
 | Reg. (EU) 2017/745, Chapter VII, Art. 87-90:<br>Vigilance                         |                |                | x              |                |   |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

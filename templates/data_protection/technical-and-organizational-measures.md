@@ -208,3 +208,10 @@ The company has implemented the following internal measures:
 * Appointment of a data protection officer
 * Regular auditing of procedures
 * Regular review of technical advancements in accordance with Article 32 GDPR
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

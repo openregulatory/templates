@@ -45,3 +45,10 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 | 8.3     | Control of Nonconforming Products                 | *SOP Corrective and Preventive Actions*<br>*SOP Incident Reporting*                                              |
 | 8.4     | 8.4 Data Analysis                                 | *SOP Management Review*                                                                                          |
 | 8.5     | 8.5 Improvement: Corrective and Preventive Action | *SOP Corrective and Preventive Actions*                                                                          |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -364,3 +364,10 @@ SSL) via HTTPS.
 We reserve the right to amend this privacy policy so that it always complies with current legal requirements
 or to implement changes to our services in the privacy policy, e.g. when introducing new services. Your next
 visit will be subject to the new privacy policy.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -85,3 +85,10 @@ components and software units.
 > * Additionally, we create a Virtual Private Network (VPC) which prevents the Compute Instances from being
 >   exposed to the public internet. The algorithm and the database are therefore not publicly reachable; they
 >   are only reachable by the backend.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -212,3 +212,10 @@ evaluation criteria outlined in step 1.3.
 | Participants | QMO                                             |
 | Input        | Supplier records<br>List of Qualified Suppliers |
 | Output       | Updated List of Qualified Suppliers             |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

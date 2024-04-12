@@ -37,3 +37,10 @@
 | 3                          | Company                | The software can be integrated with most laboratory systems in the intended use environment.                           | No               |
 | 4                          | Regulatory authorities | The device is developed in compliance with applicable regulations, norms and standards (e.g. IVDR / MDR, GDPR, HIPAA). | No               |
 | 5                          | (...)                  | (...)                                                                                                                  | (...)            |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

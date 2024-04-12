@@ -93,3 +93,10 @@ If validation was successful:
 |-------------|----------------------------------------------|
 | Input       | Software Validation Form<br>List of Software |
 | Output      | Updated List of Software                     |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

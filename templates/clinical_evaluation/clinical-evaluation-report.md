@@ -483,3 +483,10 @@ Reference documents that you used in the CER (Risk management, Usability, bench 
 
 Provide qualification and experience of the evaluators (e.g. author, reviewer and/or approver) to demonstrate
 that the responsible person fulfils the requirements for the accomplishment of clinical evaluations.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

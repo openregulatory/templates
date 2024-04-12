@@ -157,3 +157,10 @@ A *serious deterioration in state of health* results in at least one of the foll
 | Participants | Sales team                                         |
 | Input        | Running customer project                           |
 | Output       | Initiated feedback management or vigilance process |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

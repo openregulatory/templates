@@ -99,3 +99,10 @@ The QMO reports audit findings to the Management as part of the next Management 
 | Participants | QMO                |
 | Input        | Audit report       |
 | Output       | CAPA documentation |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

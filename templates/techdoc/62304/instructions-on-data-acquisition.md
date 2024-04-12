@@ -45,3 +45,10 @@ developments that are not specified yet.
 |---------------------|-------------------------------------------------------------------------------------------------------|
 | Inclusion criteria: | For example: male patients in Europe with certain diagnoses, (...)                                    |
 | Exclusion criteria: | For example: tumors caused by metastasis of other cancers, implants e.g. for radiation therapy, (...) |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

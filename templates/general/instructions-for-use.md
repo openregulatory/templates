@@ -32,13 +32,13 @@ This symbol indicates supplementary information.
 > On your introductory pages, explain the symbols that you use in the following sections. Take into account standards like ISO 15223.
 
 > **General Provisions:** Instructions for use are regulated in Section 13 of the Essential Requirements (MDD) and Chapter 3, Section 23 of the General Safety and Performance Requirements (MDR). You may be able to make a case for why your users must not be provided with instructions for use, based on the exception stated in Section 13.1 (MDD) or Section 23.1.d (MDR):
-> 
+>
 > "By way of exception, no such instructions for use are needed for devices in Class I or IIa if they can be used safely without any such instructions."
-> 
+>
 > **Language Requirements:** Language requirements are regulated on the national level. German Medical Device Law (Medizinprodukte-Durchführungsgesetz (MPDG), Art. 8) typically requires German, but also gives leeway to argue that English may be a language that is easily understood by your users if those are trained professionals. If you follow this route, as a minimum requirement, all safety-related information has to be provided in German nevertheless:
-> 
+>
 > "In begründeten Fällen dürfen die Informationen auch in englischer Sprache oder einer anderen für den Anwender des Medizinproduktes leicht verständlichen Sprache zur Verfügung gestellt werden, wenn diese Informationen ausschließlich für professionelle Anwender bestimmt sind und die sicherheitsbezogenen Informationen auch in deutscher Sprache oder in der Sprache des Anwenders zur Verfügung gestellt werden."
-> 
+>
 > https://www.gesetze-im-internet.de/mpdg/MPDG.pdf
 
 ## Product Description
@@ -115,3 +115,10 @@ Other aspects you may want to consider for the section as part of your instructi
  * Using the software: walkthrough guide to explain functionalities including screenshots and links to helpful websites
  * Description of the algorithm for machine-learning based medical devices
  * Description of alternative devices or services
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

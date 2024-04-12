@@ -32,3 +32,10 @@ IEC 62304, para. 5.3.6 [class B, C]
 ( ) Software Architecture passed\
 ( ) Software Architecture not passed\
 ( ) Software Architecture passed with the following obligations: \<Insert if applicable\>\
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.
