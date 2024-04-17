@@ -6,7 +6,7 @@ The Usability Evaluation report describes the results of all (formative and summ
 
 | IEC 62366-1:2015 Section | Title                                             | Document Section |
 |--------------------------|---------------------------------------------------|------------------|
-| 4.1.3                    | Information for Safety as it relates to Usability | 5.4              |
+| 4.1.3                    | Information for Safety as it relates to Usability | 4.5              |
 | 4.2                      | Usability Engineering File                        | (all)            |
 
 ## 1. Relevant Processes
