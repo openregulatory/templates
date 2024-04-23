@@ -30,7 +30,7 @@ software devices)\>.
 
 ## Conformity Assessment
 
-Conformity assessment procedure: *\<enter reference to applicable Annex, for example for class I: Annex I and
+Conformity assessment procedure: *\<enter reference to applicable Annex, for example for class I: Annex II and
 III\>* of the Regulation (EU) 2017/745.
 
 > For context, read Art. 52 MDR, Section 2. You can find the conformity assessment procedures
@@ -46,7 +46,7 @@ III\>* of the Regulation (EU) 2017/745.
 >   IX, incl. TechDoc assessment according to Para. 4 of Annex IX for at least one representative device for
 >   each category of devices.
 > * For class I devices (other than custom-made or investigational devices) -> draw up technical documentation
->   according to Annexes I and III.
+>   according to Annexes II and III.
 > * For class I devices in sterile condition, including a measuring function or constituting reusable surgical
 >   instruments -> apply the procedures set out in Chapters I and III of Annex IX, or in Part A of Annex XI.
 
