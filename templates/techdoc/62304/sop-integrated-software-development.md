@@ -180,7 +180,7 @@ summative usability evaluation and are reviewed following the checklist for user
 
 | Participants | CPO, subject matter experts, e.g. physicians                        |
 | ------------ | ------------------------------------------------------------------- |
-| Input        | Device Description, Risk Management Plan, Usability Evaluation Plan |
+| Input        | Device Description, Risk Management Plan                            |
 | Output       | Preliminary Hazards Analysis, Risk Table incl. Risk Acceptance Matrix (Draft), User Needs, User Needs Review Checklist, Usability Evaluation Plan |
 
 ### 4. Software Planning
