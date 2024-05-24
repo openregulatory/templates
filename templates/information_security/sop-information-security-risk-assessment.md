@@ -1,10 +1,10 @@
 # SOP Information Security Risk Assessment
 
-| ISO 27001:2023 Section                         | Document Section |
-|------------------------------------------------|------------------|
-| 6.1 Actions to address risks and opportunities | 1., 2., 3.       |
-| 6.1.2 Information security risk assessment     | 2.               |
-| 6.1.3 Information security risk treatment      | 3.               |
+| ISO 27001:2023 Section                                     | Document Section |
+|------------------------------------------------------------|------------------|
+| 6.1.1 Actions to address risks and opportunities - General | 1., 2., 3.       |
+| 6.1.2 Information security risk assessment                 | 2.               |
+| 6.1.3 Information security risk treatment                  | 3.               |
 
 ## Summary
 
