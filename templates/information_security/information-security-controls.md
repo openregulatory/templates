@@ -2,7 +2,8 @@
 
 | ISO 27001:2023 Section                                      | Document Section |
 |-------------------------------------------------------------|------------------|
-| Annex A (normative) Information security controls reference | All              |
+| 6.1.3                                                       | (All)            |
+| Annex A (normative) Information security controls reference | (All)            |
 
 ## Summary
 
@@ -17,101 +18,106 @@ The following table summarizes the controls from Annex A that are applicable to 
 grouped by categories as defined in the standard. For more details on each security control, see the
 implementation section below this overview table.
 
-| Section | Control Category | Control Title                                                           | In Compliance? |
-|---------|------------------|-------------------------------------------------------------------------|----------------|
-| 5.1     | Organizational   | Policies for information security                                       |                |
-| 5.2     | Organizational   | Information security roles and responsibilities                         |                |
-| 5.3     | Organizational   | Segregation of duties                                                   |                |
-| 5.4     | Organizational   | Management responsibilities                                             |                |
-| 5.5     | Organizational   | Contact with authorities                                                |                |
-| 5.6     | Organizational   | Contact with special interest groups                                    |                |
-| 5.7     | Organizational   | Threat intelligence                                                     |                |
-| 5.8     | Organizational   | Information security in project management                              |                |
-| 5.9     | Organizational   | Inventory of information and other associated assets                    |                |
-| 5.10    | Organizational   | Acceptable use of information and other associated assets               |                |
-| 5.11    | Organizational   | Return of assets                                                        |                |
-| 5.12    | Organizational   | Classification of information                                           |                |
-| 5.13    | Organizational   | Labelling of information                                                |                |
-| 5.14    | Organizational   | Information transfer                                                    |                |
-| 5.15    | Organizational   | Access control                                                          |                |
-| 5.16    | Organizational   | Identity management                                                     |                |
-| 5.17    | Organizational   | Authentication information                                              |                |
-| 5.18    | Organizational   | Access rights                                                           |                |
-| 5.19    | Organizational   | Information security in supplier relationships                          |                |
-| 5.20    | Organizational   | Addressing information security within supplier agreements              |                |
-| 5.21    | Organizational   | Managing information security in the ICT supply chain                   |                |
-| 5.22    | Organizational   | Monitoring, review, and change management of supplier services          |                |
-| 5.23    | Organizational   | Information security for use of cloud services                          |                |
-| 5.24    | Organizational   | Information security incident management planning and preparation       |                |
-| 5.25    | Organizational   | Assessment and decision on information security events                  |                |
-| 5.26    | Organizational   | Response to information security incidents                              |                |
-| 5.27    | Organizational   | Learning from information security incidents                            |                |
-| 5.28    | Organizational   | Collection of evidence                                                  |                |
-| 5.29    | Organizational   | Information security during disruption                                  |                |
-| 5.30    | Organizational   | ICT readiness for business continuity                                   |                |
-| 5.31    | Organizational   | Legal, statutory, regulatory, and contractual requirements              |                |
-| 5.32    | Organizational   | Intellectual property rights                                            |                |
-| 5.33    | Organizational   | Protection of records                                                   |                |
-| 5.34    | Organizational   | Privacy and protection of personal identifiable information (PII)       |                |
-| 5.35    | Organizational   | Independent review of information security                              |                |
-| 5.36    | Organizational   | Compliance with policies, rules, and standards for information security |                |
-| 5.37    | Organizational   | Documented operating procedures                                         |                |
-| 6.1     | People           | Background verification checks                                          |                |
-| 6.2     | People           | Terms and conditions of employment                                      |                |
-| 6.3     | People           | Information security awareness, education, and training                 |                |
-| 6.4     | People           | Disciplinary process                                                    |                |
-| 6.5     | People           | Responsibilities after termination or change of employment              |                |
-| 6.6     | People           | Confidentiality or non-disclosure agreements                            |                |
-| 6.7     | People           | Remote working                                                          |                |
-| 6.8     | People           | Information security event reporting                                    |                |
-| 7.1     | Physical         | Physical security perimeters                                            |                |
-| 7.2     | Physical         | Physical entry                                                          |                |
-| 7.3     | Physical         | Securing offices, rooms, and facilities                                 |                |
-| 7.4     | Physical         | Physical security monitoring                                            |                |
-| 7.5     | Physical         | Protecting against physical and environmental threats                   |                |
-| 7.6     | Physical         | Working in secure areas                                                 |                |
-| 7.7     | Physical         | Clear desk and clear screen                                             |                |
-| 7.8     | Physical         | Equipment siting and protection                                         |                |
-| 7.9     | Physical         | Security of assets off-premises                                         |                |
-| 7.10    | Physical         | Storage media                                                           |                |
-| 7.11    | Physical         | Supporting utilities                                                    |                |
-| 7.12    | Physical         | Cabling security                                                        |                |
-| 7.13    | Physical         | Equipment maintenance                                                   |                |
-| 7.14    | Physical         | Secure disposal or re-use of equipment                                  |                |
-| 8.1     | Technological    | User end point devices                                                  |                |
-| 8.2     | Technological    | Privileged access rights                                                |                |
-| 8.3     | Technological    | Information access restriction                                          |                |
-| 8.4     | Technological    | Access to source code                                                   |                |
-| 8.5     | Technological    | Secure authentication                                                   |                |
-| 8.6     | Technological    | Capacity management                                                     |                |
-| 8.7     | Technological    | Protection against malware                                              |                |
-| 8.8     | Technological    | Management of technical vulnerabilities                                 |                |
-| 8.9     | Technological    | Configuration management                                                |                |
-| 8.10    | Technological    | Information deletion                                                    |                |
-| 8.11    | Technological    | Data masking                                                            |                |
-| 8.12    | Technological    | Data leakage prevention                                                 |                |
-| 8.13    | Technological    | Information backup                                                      |                |
-| 8.14    | Technological    | Redundancy of information processing facilities                         |                |
-| 8.15    | Technological    | Logging                                                                 |                |
-| 8.16    | Technological    | Monitoring activities                                                   |                |
-| 8.17    | Technological    | Clock synchronization                                                   |                |
-| 8.18    | Technological    | Use of privileged utility programs                                      |                |
-| 8.19    | Technological    | Installation of software on operational systems                         |                |
-| 8.20    | Technological    | Networks security                                                       |                |
-| 8.21    | Technological    | Security of network services                                            |                |
-| 8.22    | Technological    | Segregation of networks                                                 |                |
-| 8.23    | Technological    | Web filtering                                                           |                |
-| 8.24    | Technological    | Use of cryptography                                                     |                |
-| 8.25    | Technological    | Secure development life cycle                                           |                |
-| 8.26    | Technological    | Application security requirements                                       |                |
-| 8.27    | Technological    | Secure system architecture and engineering principles                   |                |
-| 8.28    | Technological    | Secure coding                                                           |                |
-| 8.29    | Technological    | Security testing in development and acceptance                          |                |
-| 8.30    | Technological    | Outsourced development                                                  |                |
-| 8.31    | Technological    | Separation of development, test and production environments             |                |
-| 8.32    | Technological    | Change management                                                       |                |
-| 8.33    | Technological    | Test information                                                        |                |
-| 8.34    | Technological    | Protection of information systems during audit testing                  |                |
+> Note that you don't have to comply with all controls listed below. Here's what you do instead: For each
+> control, mark it as applicable (yes or no). If you selected "yes", then add some notes on how you
+> implemented it in the sections below this table (scroll down). If you selected "no", add a comment in the
+> "Comment" column on why it's not applicable, and in the "In Compliance?" column, select "n/a".
+
+| Section | Control Category | Control Title                                                           | Applicable? | In Compliance? | Comment |
+|---------|------------------|-------------------------------------------------------------------------|-------------|----------------|---------|
+| 5.1     | Organizational   | Policies for information security                                       | yes / no    | yes / no / n/a |         |
+| 5.2     | Organizational   | Information security roles and responsibilities                         |             |                |         |
+| 5.3     | Organizational   | Segregation of duties                                                   |             |                |         |
+| 5.4     | Organizational   | Management responsibilities                                             |             |                |         |
+| 5.5     | Organizational   | Contact with authorities                                                |             |                |         |
+| 5.6     | Organizational   | Contact with special interest groups                                    |             |                |         |
+| 5.7     | Organizational   | Threat intelligence                                                     |             |                |         |
+| 5.8     | Organizational   | Information security in project management                              |             |                |         |
+| 5.9     | Organizational   | Inventory of information and other associated assets                    |             |                |         |
+| 5.10    | Organizational   | Acceptable use of information and other associated assets               |             |                |         |
+| 5.11    | Organizational   | Return of assets                                                        |             |                |         |
+| 5.12    | Organizational   | Classification of information                                           |             |                |         |
+| 5.13    | Organizational   | Labelling of information                                                |             |                |         |
+| 5.14    | Organizational   | Information transfer                                                    |             |                |         |
+| 5.15    | Organizational   | Access control                                                          |             |                |         |
+| 5.16    | Organizational   | Identity management                                                     |             |                |         |
+| 5.17    | Organizational   | Authentication information                                              |             |                |         |
+| 5.18    | Organizational   | Access rights                                                           |             |                |         |
+| 5.19    | Organizational   | Information security in supplier relationships                          |             |                |         |
+| 5.20    | Organizational   | Addressing information security within supplier agreements              |             |                |         |
+| 5.21    | Organizational   | Managing information security in the ICT supply chain                   |             |                |         |
+| 5.22    | Organizational   | Monitoring, review, and change management of supplier services          |             |                |         |
+| 5.23    | Organizational   | Information security for use of cloud services                          |             |                |         |
+| 5.24    | Organizational   | Information security incident management planning and preparation       |             |                |         |
+| 5.25    | Organizational   | Assessment and decision on information security events                  |             |                |         |
+| 5.26    | Organizational   | Response to information security incidents                              |             |                |         |
+| 5.27    | Organizational   | Learning from information security incidents                            |             |                |         |
+| 5.28    | Organizational   | Collection of evidence                                                  |             |                |         |
+| 5.29    | Organizational   | Information security during disruption                                  |             |                |         |
+| 5.30    | Organizational   | ICT readiness for business continuity                                   |             |                |         |
+| 5.31    | Organizational   | Legal, statutory, regulatory, and contractual requirements              |             |                |         |
+| 5.32    | Organizational   | Intellectual property rights                                            |             |                |         |
+| 5.33    | Organizational   | Protection of records                                                   |             |                |         |
+| 5.34    | Organizational   | Privacy and protection of personal identifiable information (PII)       |             |                |         |
+| 5.35    | Organizational   | Independent review of information security                              |             |                |         |
+| 5.36    | Organizational   | Compliance with policies, rules, and standards for information security |             |                |         |
+| 5.37    | Organizational   | Documented operating procedures                                         |             |                |         |
+| 6.1     | People           | Background verification checks                                          |             |                |         |
+| 6.2     | People           | Terms and conditions of employment                                      |             |                |         |
+| 6.3     | People           | Information security awareness, education, and training                 |             |                |         |
+| 6.4     | People           | Disciplinary process                                                    |             |                |         |
+| 6.5     | People           | Responsibilities after termination or change of employment              |             |                |         |
+| 6.6     | People           | Confidentiality or non-disclosure agreements                            |             |                |         |
+| 6.7     | People           | Remote working                                                          |             |                |         |
+| 6.8     | People           | Information security event reporting                                    |             |                |         |
+| 7.1     | Physical         | Physical security perimeters                                            |             |                |         |
+| 7.2     | Physical         | Physical entry                                                          |             |                |         |
+| 7.3     | Physical         | Securing offices, rooms, and facilities                                 |             |                |         |
+| 7.4     | Physical         | Physical security monitoring                                            |             |                |         |
+| 7.5     | Physical         | Protecting against physical and environmental threats                   |             |                |         |
+| 7.6     | Physical         | Working in secure areas                                                 |             |                |         |
+| 7.7     | Physical         | Clear desk and clear screen                                             |             |                |         |
+| 7.8     | Physical         | Equipment siting and protection                                         |             |                |         |
+| 7.9     | Physical         | Security of assets off-premises                                         |             |                |         |
+| 7.10    | Physical         | Storage media                                                           |             |                |         |
+| 7.11    | Physical         | Supporting utilities                                                    |             |                |         |
+| 7.12    | Physical         | Cabling security                                                        |             |                |         |
+| 7.13    | Physical         | Equipment maintenance                                                   |             |                |         |
+| 7.14    | Physical         | Secure disposal or re-use of equipment                                  |             |                |         |
+| 8.1     | Technological    | User end point devices                                                  |             |                |         |
+| 8.2     | Technological    | Privileged access rights                                                |             |                |         |
+| 8.3     | Technological    | Information access restriction                                          |             |                |         |
+| 8.4     | Technological    | Access to source code                                                   |             |                |         |
+| 8.5     | Technological    | Secure authentication                                                   |             |                |         |
+| 8.6     | Technological    | Capacity management                                                     |             |                |         |
+| 8.7     | Technological    | Protection against malware                                              |             |                |         |
+| 8.8     | Technological    | Management of technical vulnerabilities                                 |             |                |         |
+| 8.9     | Technological    | Configuration management                                                |             |                |         |
+| 8.10    | Technological    | Information deletion                                                    |             |                |         |
+| 8.11    | Technological    | Data masking                                                            |             |                |         |
+| 8.12    | Technological    | Data leakage prevention                                                 |             |                |         |
+| 8.13    | Technological    | Information backup                                                      |             |                |         |
+| 8.14    | Technological    | Redundancy of information processing facilities                         |             |                |         |
+| 8.15    | Technological    | Logging                                                                 |             |                |         |
+| 8.16    | Technological    | Monitoring activities                                                   |             |                |         |
+| 8.17    | Technological    | Clock synchronization                                                   |             |                |         |
+| 8.18    | Technological    | Use of privileged utility programs                                      |             |                |         |
+| 8.19    | Technological    | Installation of software on operational systems                         |             |                |         |
+| 8.20    | Technological    | Networks security                                                       |             |                |         |
+| 8.21    | Technological    | Security of network services                                            |             |                |         |
+| 8.22    | Technological    | Segregation of networks                                                 |             |                |         |
+| 8.23    | Technological    | Web filtering                                                           |             |                |         |
+| 8.24    | Technological    | Use of cryptography                                                     |             |                |         |
+| 8.25    | Technological    | Secure development life cycle                                           |             |                |         |
+| 8.26    | Technological    | Application security requirements                                       |             |                |         |
+| 8.27    | Technological    | Secure system architecture and engineering principles                   |             |                |         |
+| 8.28    | Technological    | Secure coding                                                           |             |                |         |
+| 8.29    | Technological    | Security testing in development and acceptance                          |             |                |         |
+| 8.30    | Technological    | Outsourced development                                                  |             |                |         |
+| 8.31    | Technological    | Separation of development, test and production environments             |             |                |         |
+| 8.32    | Technological    | Change management                                                       |             |                |         |
+| 8.33    | Technological    | Test information                                                        |             |                |         |
+| 8.34    | Technological    | Protection of information systems during audit testing                  |             |                |         |
 
 ## Implementation Of Information Security Controls
 
