@@ -957,3 +957,10 @@ implementation section below this overview table.
   * \<measure 1\>
   * \<measure 2\>
 * **Monitoring and review:** \<describe what you'll do\>
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

@@ -95,3 +95,10 @@ The company will:
 | Information Security Risk Analysis Plan   | Information Security Risk Analysis Plan (updated)   |
 | Information Security Risk Table           | Information Security Risk Table (updated)           |
 | Information Security Risk Analysis Report | Information Security Risk Analysis Report (updated) |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.
