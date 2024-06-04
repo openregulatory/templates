@@ -32,9 +32,9 @@ cause and if it fulfills the definition of a serious incident as outlined in thi
 incidents are assessed based on our respective template form for incident assessment [reference document ID
 here].
 
-A serious incident is defined as “<em>the subset of incidents that directly or indirectly led, might have led
+A serious incident is defined as *"the subset of incidents that directly or indirectly led, might have led
 or might lead to the death or the temporary or permanent serious deterioration in the state of health of a
-patient, user or other person or posed a serious public health threat.</em>” (see MDR Art. 2 and MDCG 2023-03).
+patient, user or other person or posed a serious public health threat.”* (see MDR Art. 2 and MDCG 2023-03).
 Examples are therefore (non-exclusively):
 
 * malfunctioning (e.g. a software bug) of one of our medical devices
