@@ -55,19 +55,19 @@ Please see the relevant processes for the following activities:
 
 #### IEC 62304 Software Safety Classification
 
-The software safety classification for \[enter device name] has been established as class \[XXXX] per IEC 62304:2006/AMD1:2015 based on the decision-making process outlined in table 3 and in paragraph 4.3 of the norm. A malfunction of, or latent design flaw in the software device may lead to situations with unacceptable risks \[for example: false-positive and false-negative diagnosis, resulting in unnecessary interventions or missed necessary interventions]. This excludes software safety class A. Serious injuries or death, however, can be ruled out because \[XXXX]. Considering these risk control measures external to the software system, safety class C can be ruled out, resulting in class B.
+The software safety classification for \[enter device name\] has been established as class \[XXXX\] per IEC 62304:2006/AMD1:2015 based on the decision-making process outlined in table 3 and in paragraph 4.3 of the norm. A malfunction of, or latent design flaw in the software device may lead to situations with unacceptable risks \[for example: false-positive and false-negative diagnosis, resulting in unnecessary interventions or missed necessary interventions\]. This excludes software safety class A. Serious injuries or death, however, can be ruled out because \[XXXX\]. Considering these risk control measures external to the software system, safety class C can be ruled out, resulting in class B.
 
 #### Measuring Function
 
-The \[enter device name] does not include a measuring function, as described in EU Regulation 2017/45 and relevant regulatory guidance documents. The definition of MEDDEV 2.1-5 for measuring functions does not apply because \[XXX].
+The \[enter device name\] does not include a measuring function, as described in EU Regulation 2017/45 and relevant regulatory guidance documents. The definition of MEDDEV 2.1-5 for measuring functions does not apply because \[XXX\].
 
 #### Combination With Other Products
 
-To achieve its intended purpose, the \[enter device name] is intended to be used in combination with \[for example: MRI/CT scanners that produce imaging data]. Specifications for compatible equipment are described in the List of Software Requirements as well as in the Instructions for Use. Relevant verification and validation tests will be added to the documentation.
+To achieve its intended purpose, the \[enter device name\] is intended to be used in combination with \[for example: MRI/CT scanners that produce imaging data\]. Specifications for compatible equipment are described in the List of Software Requirements as well as in the Instructions for Use. Relevant verification and validation tests will be added to the documentation.
 
 #### Product Lifetime
 
-The software's lifetime is established to be \[for example: three years], defined as the minimum expected time until a significant change, implemented in reaction to changes to the established technological state of art (e.g. SOUP, cybersecurity, clinical protocol).
+The software's lifetime is established to be \[for example: three years\], defined as the minimum expected time until a significant change, implemented in reaction to changes to the established technological state of art (e.g. SOUP, cybersecurity, clinical protocol).
 
 #### Programming Languages
 

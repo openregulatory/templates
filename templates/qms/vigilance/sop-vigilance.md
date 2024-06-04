@@ -29,8 +29,8 @@ information supplied and any undesirable side-effect.
 
 Any incident that our organization becomes aware of is reportable, if one of our medical devices could be its
 cause and if it fulfills the definition of a serious incident as outlined in this process. Potentially serious
-incidents are assessed based on our respective template form for incident assessment [reference document ID
-here].
+incidents are assessed based on our respective template form for incident assessment \[reference document ID
+here\].
 
 A serious incident is defined as *"the subset of incidents that directly or indirectly led, might have led
 or might lead to the death or the temporary or permanent serious deterioration in the state of health of a
