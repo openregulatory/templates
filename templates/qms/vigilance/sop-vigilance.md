@@ -29,14 +29,13 @@ information supplied and any undesirable side-effect.
 
 Any incident that our organization becomes aware of is reportable, if one of our medical devices could be its
 cause and if it fulfills the definition of a serious incident as outlined in this process. Potentially serious
-incidents are assessed based on our respective template form for incident assessment [reference document ID
-here].
+incidents are assessed based on our respective template form for incident assessment \[reference document ID
+here\].
 
-A serious incident is defined as “*any malfunction or deterioration in the characteristics and/or performance
-of a device, as well as any inadequacy in the labeling or the instructions for use which, directly or
-indirectly, might lead to or might have led to the death of a patient, user or other person or to a serious
-deterioration in their state of health or a serious public health threat*” (see MDR Art. 2 and MEDDEV
-2.12./1). Examples are therefore (non-exclusively):
+A serious incident is defined as *"the subset of incidents that directly or indirectly led, might have led
+or might lead to the death or the temporary or permanent serious deterioration in the state of health of a
+patient, user or other person or posed a serious public health threat.”* (see MDR Art. 2 and MDCG 2023-03).
+Examples are therefore (non-exclusively):
 
 * malfunctioning (e.g. a software bug) of one of our medical devices
 * incorrect labeling, instruction for use or advertising material
@@ -188,7 +187,9 @@ surveillance).
 
 ### 4. Reporting to Authorities
 
-Within the applicable reporting timescale (see general considerations above), the PRRC informs the competent national authority about the event using respective reporting forms. The PRRC compiles and provides a report with all information required and available at the time. If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment procedure of the device.
+Within the applicable reporting timescale (see general considerations above), the PRRC informs the competent national authority about the event using respective reporting forms. The PRRC collects all information required and available at the time in the form of the Manufacturer Incident Report (MIR) provided by the European Commission:
+[https://ec.europa.eu/docsroom/documents/41681](https://ec.europa.eu/docsroom/documents/41681)
+If applicable, a copy of the report is sent to the Notified Body involved in the conformity assessment procedure of the device.
 
 Generally, the competent national authority must be informed:
 * Of any serious incidents with the organization's own medical devices

@@ -114,18 +114,10 @@ Business input could be:
 Changes to the product also enter the process here (i.e., as a change request as defined in SOP Change
 Management).
 
-| Participants |
-|--------------|
-| CEO          |
-| CTO          |
-| CPO          |
-
-| Input           | Output                                            |
-|-----------------|---------------------------------------------------|
-| Business input  | Device Description                                |
-| Technical input | Vision document                                   |
-| Product ideas   | Medical Device and Software Safety Classification |
-| Change Request  |                                                   |
+| Participants | Management (e.g. CEO, CTO, CPO)                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| Input        | Business input, Technical input, Product ideas, Change requests                                  |
+| Output       | Intended use, Medical device classification, Device software safety classification (preliminary) |
 
 ### 2. Risk Management Planning
 
@@ -148,14 +140,10 @@ risk acceptance matrix is created by performing the following steps:
 * Note: no fields are marked as green as all risks must be reduced as far as possible.
 
 
-| Participants                            |
-|-----------------------------------------|
-| CPO                                     |
-| Subject matter experts, e.g. physicians |
-
-| Input              | Output                                            |
-|--------------------|---------------------------------------------------|
-| Device description | Risk Management Plan incl. risk acceptance matrix |
+| Participants | CPO, subject matter experts, e.g. physicians    |
+| ------------ | ----------------------------------------------- |
+| Input        | Device Description                              |
+| Output       | Risk Management Plan, Usability Evaluation Plan |
 
 ### 3. First Risk Assessment and Usability Evaluation Planning
 
@@ -190,18 +178,10 @@ evaluation activities.
 User needs with a focus on those related to hazards are specified. These will serve as input to the
 summative usability evaluation and are reviewed following the checklist for user needs review.
 
-| Participants                            |
-|-----------------------------------------|
-| CPO                                     |
-| Subject matter experts, e.g. physicians |
-
-| Input                     | Output                                 |
-|---------------------------|----------------------------------------|
-| Device description        | Preliminary Hazards Analysis           |
-| Risk Management Plan      | Risk Table (Draft)                     |
-|                           | Usability Evaluation Plan              |
-|                           | User Needs                             |
-|                           | User Needs Review Checklist            |
+| Participants | CPO, subject matter experts, e.g. physicians                        |
+| ------------ | ------------------------------------------------------------------- |
+| Input        | Device Description, Risk Management Plan                            |
+| Output       | Preliminary Hazards Analysis, Risk Table incl. Risk Acceptance Matrix (Draft), User Needs, User Needs Review Checklist, Usability Evaluation Plan |
 
 ### 4. Software Planning
 
@@ -218,20 +198,10 @@ version changes and changes of the UDI-PI only. Third-digit version changes (“
 The software system test plan is created based on the requirements. As requirements may change, the software
 system test plan is continuously updated to reflect those changes.
 
-| Participants       |
-|--------------------|
-| CTO                |
-| Software Engineer  |
-| Risk Manager       |
-| Usability Engineer |
-
-| Input                        | Output                                                   |
-|------------------------------|----------------------------------------------------------|
-| Device Description           | Software Development and Maintenance Plan                |
-| Vision Document              | Software Requirements incl. User Interface Specification |
-| Change Request               | Software System Test Plan                                |
-| Risk Table (draft)           | Risk Table (updated)                                     |
-| Preliminary Hazards Analysis |                                                          |
+| Participants | CTO, Software Engineer, Risk Manager, Usability Engineer                                              |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
+| Input        | Device Description, Vision Document, Change Request, Risk Table (draft), Preliminary Hazards Analysis |
+| Output       | Software Development and Maintenance Plan, Software Requirements incl. User Interface Specification, Software System Test Plan, Risk Table (updated) |
 
 ### 5. First Review: Software Planning Review
 
@@ -239,19 +209,10 @@ Software requirements are reviewed by following the checklist for Software Requi
 is successful, move forward to the next step. If it's not, the software requirements have to be reworked with
 possible changes to the risk analysis and user needs. In that case, move back to the relevant step above.
 
-| Participants                            |
-|-----------------------------------------|
-| CTO                                     |
-| CPO                                     |
-| Risk Manager                            |
-| Usability Engineer                      |
-| Subject matter experts, e.g. physicians |
-
-| Input                 | Output                                              |
-|-----------------------|-----------------------------------------------------|
-| Software Requirements | Checklist Software Requirements Review (filled out) |
-| Risk Table (draft)    |                                                     |
-| User Needs            |                                                     |
+| Participants | CTO, CPO, Risk Manager, Usability Engineer, Subject matter experts, e.g. physicians |
+| ------------ | ----------------------------------------------------------------------------------- |
+| Input        | Software Requirements, Risk Table (draft), User Needs                               |
+| Output       | Checklist Software Requirements Review (filled out)                                 |
 
 ### 6. Software Architecture, Detailed Design and Implementation
 
@@ -272,18 +233,10 @@ system testing in the following steps.
 If new risks relating to software units and potential failure modes are discovered during this phase, they are
 added to the risk table.
 
-| Participants      |
-|-------------------|
-| CTO               |
-| Software Engineer |
-
-| Input                                     | Output                                     |
-|-------------------------------------------|--------------------------------------------|
-| Software Development and Maintenance Plan | Implemented Software Items, i.e. code      |
-| Software Requirements                     | Software Architecture (created/updated)    |
-| Software System Test Plan                 | Software Detailed Design (created/updated) |
-|                                           | SOUP list (created/updated)                |
-|                                           | Risk Table (updated)                       |
+| Participants | CTO, Software Engineer                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| Input        | Software Development and Maintenance Plan, Software Requirements, Software System Test Plan |
+| Output       | Implemented Software Items, i.e. code, Software Architecture (created/updated), Software Detailed Design (created/updated), SOUP list (created/updated), Risk Table (updated) |
 
 ### 7. Second Review, Verification, Formative Usability Evaluation, Integration
 
@@ -303,16 +256,10 @@ Upon successful verification, the implemented software requirement is integrated
 described in the Software Development and Maintenance Plan. The software units may be integrated only if all
 activities above were successful.
 
-| Participants       |
-|--------------------|
-| Software Engineer  |
-| Usability Engineer |
-
-| Input                                             | Output                                    |
-|---------------------------------------------------|-------------------------------------------|
-| Implemented Software Unit(s) incl. User Interface | Code review result                        |
-|                                                   | Unit / Integration test result(s)         |
-|                                                   | Formative Usability Evaluation Assessment |
+| Participants | Software Engineer, Usability Engineer                                                            |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| Input        | Implemented Software Unit(s) incl. User Interface                                                |
+| Output       | Code review result, Unit / Integration test result(s), Formative Usability Evaluation Assessment |
 
 ### 8. Software System Testing
 
@@ -324,16 +271,10 @@ If new risks are discovered during the system tests, they are added to the risk 
 If anomalies are encountered, they are added to the list of known anomalies and/or entered as new software
 requirements to be fixed.
 
-| Participants      |
-|-------------------|
-| Software Engineer |
-
-| Input                     | Output                            |
-|---------------------------|-----------------------------------|
-| Software System Test Plan | Software System Test Protocols    |
-|                           | Software System Test Report       |
-|                           | Risk Table (updated)              |
-|                           | List of known anomalies (updated) |
+| Participants | Software Engineer                                                                                                    |
+| ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Input        | Software System Test Plan                                                                                            |
+| Output       | Software System Test Protocols, Software System Test Report, Risk Table (updated), List of known anomalies (updated) |
 
 ### 9. Validation / Summative Usability Evaluation
 
@@ -344,17 +285,10 @@ Evaluation Plan.
 
 If new risks are discovered during the usability tests, they are added to the risk table.
 
-| Participants             |
-|--------------------------|
-| CPO          |
-| Usability Engineer       |
-| Users for Usability Test |
-
-| Input                                            | Output                      |
-|--------------------------------------------------|-----------------------------|
-| User Needs                                       | Usability Test Protocol(s)  |
-| Labeling and Instructions for Use, if applicable | Summative Evaluation Report |
-| Usability Evaluation Plan                        | Risk Table (updated)        |
+| Participants | CPO<br>Usability Engineer<br>Users for Usability Test                                    |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| Input        | User Needs, Labeling and Instructions for Use (if applicable), Usability Evaluation Plan |
+| Output       | Usability Test Protocol(s), Summative Evaluation Report, Risk Table (updated)            |
 
 ### 10. Final Risk Assessment and Risk-Benefit Analysis
 
@@ -369,18 +303,10 @@ measures and move back in to the relevant step in the process.
 The finalization of the Risk Management Report is the prerequisite for finalizing the Software Safety
 Classification.
 
-| Participants |
-|--------------|
-| CEO          |
-| CTO          |
-| CPO          |
-
-| Input                        | Output                                 |
-|------------------------------|----------------------------------------|
-| Preliminary Hazards Analysis | Risk Management Report                 |
-| Risk Table                   | Software Safety Classification (final) |
-| Clinical Evaluation          |                                        |
-| Software (Release Candidate) |                                        |
+| Participants | CEO, CTO, CPO                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| Input        | Preliminary Hazards Analysis, Risk Table, Clinical Evaluation, Software (Release Candidate) |
+| Output       | Risk Management Report, Software Safety Classification (final)                              |
 
 ### 11. Product Release and Labeling
 
@@ -409,7 +335,6 @@ regulatory release is completed by following all steps of SOP for product certif
 
 Following the regulatory release of the device, market placement and release is carried out by following the
 deployment process.
-
 
 | Participants  |
 |---------------|

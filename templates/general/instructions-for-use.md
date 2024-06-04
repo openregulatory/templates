@@ -82,6 +82,12 @@ This symbol indicates supplementary information.
 
 > You can use this section to point out user information as required for risk mitigation measures. For example, specific information that must be checked for accuracy or completeness to operate the device.
 
+### Reporting a Serious Incident
+
+> If you want to report a serious incident which occurred with this medical device, then you can do so by contacting your national competent authority under the following contact information:
+> 
+> (Add information of authorities for each country your device will be sold in)
+
 
 ## Language
 

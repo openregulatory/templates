@@ -16,13 +16,13 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 | 4.2.3   | Medical Device File                               | *SOP Product Certification and Registration*<br>*SOP Integrated Software Development*                            |
 | 4.2.4   | Control of Documents                              | *SOP Document and Record Control*                                                                                |
 | 4.2.5   | Control of Records                                | *SOP Document and Record Control*                                                                                |
-| 5.1     | Management Obligations                            | *Quality Management Manual*<br>*Template Annual Strategic Goals*<br>*SOP Management Review*                      |
-| 5.2     | Client Orientation                                | *SOP Update of Regulations*<br>*Template Annual Strategic Goals*                                                 |
-| 5.3     | Quality Policies                                  | *Quality Management Manual*<br>*Template Annual Strategic Goals*<br>*SOP Management Review*                      |
-| 5.4     | QMS Planning and Quality Goals                    | *Quality Management Manual*<br>*Template Annual Strategic Goals*<br>*SOP Management Review*                      |
+| 5.1     | Management Obligations                            | *Quality Management Manual*<br>*SOP Management Review*                                                           |
+| 5.2     | Client Orientation                                | *SOP Update of Regulations and KPIs*                                                                             |
+| 5.3     | Quality Policies                                  | *Quality Management Manual*<br>*SOP Management Review*                                                           |
+| 5.4     | QMS Planning and Quality Goals                    | *Quality Management Manual and KPIs*<br>*SOP Management Review*                                                  |
 | 5.5     | Responsibilities, Competencies and Communication  | *Quality Management Manual*                                                                                      |
 | 5.6     | Management Review                                 | *SOP Management Review*                                                                                          |
-| 6.1     | Allocation of Resources                           | *Template Annual Strategic Goals*<br>*SOP Management Review*                                                     |
+| 6.1     | Allocation of Resources                           | *SOP Management Review and KPIs*                                                                                 |
 | 6.2     | Staff Resources                                   | *SOP Human Resources Administration*                                                                             |
 | 6.3     | Infrastructure                                    | *SOP Software Validation*                                                                                        |
 | 6.4     | Work Environment                                  | *\- not applicable \-*                                                                                           |
@@ -34,7 +34,7 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 | 7.5     | Production and Service Provision                  | *SOP Integrated Software Development*                                                                            |
 | 7.5.5   | Special Requirements for Sterile Medical Devices  | *\- not applicable \-*                                                                                           |
 | 7.5.9   | Traceability                                      | *SOP Product Certification and Registration*                                                                     |
-| 7.6     | Control of Surveillance and Measurement           | *SOP Post-Market Surveillance*<br>*SOP Software Validation*                                         |
+| 7.6     | Control of Surveillance and Measurement           | *SOP Post-Market Surveillance*<br>*SOP Software Validation*                                                      |
 | 8.1     | General Measurement, Analysis and Improvement     | *SOP Integrated Software Development*<br>*SOP Internal Auditing*<br>*SOP Management Review*                      |
 | 8.2.1   | Feedback                                          | *SOP Feedback Management*                                                                                        |
 | 8.2.2   | Complaint Processing                              | *SOP Feedback Management*<br>*SOP Corrective and Preventive Actions*                                             |
