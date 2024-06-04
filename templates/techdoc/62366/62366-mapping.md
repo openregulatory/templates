@@ -25,3 +25,10 @@ This table maps all requirements of the IEC 62366-1:2015 (by section) to the rel
 | 5.8     | Perform User Interface design, implementation and Formative Evaluation             | SOP Integrated Software Development  |
 | 5.9     | Perform Summative Evaluation of the Usability of the User Interface                | Usability Evaluation Protocol        |
 | 5.10    | User Interface of Unknown Provenance                                               | (not applicable)                     |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

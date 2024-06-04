@@ -103,3 +103,10 @@ below. Thereafter, the QMO closes the CAPA.
 | Input | Output                                                             |
 |-------|--------------------------------------------------------------------|
 | CAPA  | CAPA, updated with verification, effectiveness review, closed date |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

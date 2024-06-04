@@ -336,8 +336,26 @@ regulatory release is completed by following all steps of SOP for product certif
 Following the regulatory release of the device, market placement and release is carried out by following the
 deployment process.
 
+| Participants  |
+|---------------|
+| CTO           |
+| PRRC          |
 
-| Participants | CTO, PRRC |
-| ------------ | --------- |
-| Input        | Device Description, Checklist Release, Risk Analysis, User Needs, Software Requirements, Software Architecture and Detailed Design, Software Items incl. Verification, Software System Test Report, Usability Evaluation Results |
-| Output       | Released Software, Software Release Checklist, Release Notes incl. List of Known Anomalies   |
+| Input                                     | Output                                      |
+|-------------------------------------------|---------------------------------------------|
+| Device Description                        | Released Software                           |
+| Software Release Checklist                | Software Release Checklist (filled out)     |
+| Risk Analysis                             | Release Notes incl. list of known anomalies |
+| User Needs                                |                                             |
+| Software Requirements                     |                                             |
+| Software Architecture and Detailed Design |                                             |
+| Software Items incl. Verification         |                                             |
+| Software System Test Report               |                                             |
+| Usability Evaluation Results              |                                             |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

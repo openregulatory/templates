@@ -253,3 +253,10 @@ All incident records shall be archived as part of the QMS.
 | Participants | Person Responsible for Regulatory Compliance (PRRC) |
 | Input        | Implementation of FSCA                              |
 | Output       | Final incident report and closed CAPA               |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

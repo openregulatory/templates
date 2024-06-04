@@ -91,3 +91,10 @@ change.
 >   configuration may change the treatment of the patient in comparison to the previous version of the
 >   software
 > * medical data is presented in a new format, new dimension or new measuring unit.
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

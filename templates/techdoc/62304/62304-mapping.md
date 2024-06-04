@@ -103,3 +103,10 @@ OpenRegulatory templates).
 | A, B, C   | 9.6     | Analyse problems for trends                                            | SOP Software Problem Resolution                                                                |                                                   |
 | A, B, C   | 9.7     | Verify software problem resolution                                     | SOP Software Problem Resolution                                                                |                                                   |
 | A, B, C   | 9.8     | Test documentation contents                                            | SOP Integrated Software Development                                                            |                                                   |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

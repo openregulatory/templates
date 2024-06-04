@@ -64,3 +64,10 @@ sense to create them in parallel with the programming.
 | Software Release Checklist | QA/RA Manager                         | Checking if all the requirements are fulfilled, if the documents are complete and if the product is safe to be used.                                                |
 | Release Notes              | Product Manager OR Software Developer | Description of new features in the current release.                                                                                                                 |
 | Declaration of Conformity  | QA/RA and CEO                         | Declaring the product's conformity with the regulations and standards.                                                                                              |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

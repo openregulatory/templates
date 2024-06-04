@@ -131,3 +131,10 @@ If a customer / user does not respond, validation is tried at least a second tim
 
 > Optionally, depending on the features that your ticket system provides, consider adding a process step to
 > assign each ticket a status (open, pending input, closed).
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

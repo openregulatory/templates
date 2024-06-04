@@ -1,6 +1,8 @@
 # Post-Market Surveillance Plan
 
-This plan describes product-specific post-market surveillance activities. The general process of how to do post-market surveillance is described in SOP Post-Market Surveillance. Its outputs are saved to the Post-Market Surveillance Report or the Periodic Safety Update Report.
+This plan describes product-specific post-market surveillance activities. The general process of how to do
+post-market surveillance is described in SOP Post-Market Surveillance. Its outputs are saved to the
+Post-Market Surveillance Report or the Periodic Safety Update Report.
 
 **Regulatory References:**
 
@@ -14,153 +16,160 @@ This plan describes product-specific post-market surveillance activities. The ge
 |-------------------------|---------------|----------------------------|
 | *\<your product name\>* | *\<version\>* | *\<e.g. 10/2020-10/2021\>* |
 
-
 ## 1. General Considerations
 
-> Note: Whatever kind of post-market surveillance documentation you create for your product, make sure to map at
-> minimum all of these actions required by the MDR to one document or record in section 2 below.
+> Note: Whatever kind of post-market surveillance activities you define for your product, make sure to map at
+> minimum all of these actions required by the MDR to one activity in section 2 below.
 
 According to Annex III section 1.1 (b) MDR, the post-market surveillance plan shall cover:
 
-| MDR Requirement                                                                                                                                                                                                                                                                           | Document / Record |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| A proactive and systematic process to collect any information referred to in point (a). The process shall allow a correct characterisation of the performance of the devices and shall also allow a comparison to be made between the device and similar products available on the market |                   |
-| Effective and appropriate methods and processes to assess the collected data;                                                                                                                                                                                                             |                   |
-| Suitable indicators and threshold values that shall be used in the continuous reassessment of the benefit-risk analysis and of the risk management as referred to in Section 3 of Annex I;                                                                                                |                   |
-| Effective and appropriate methods and tools to investigate complaints and analyze market-related experience collected in the field;                                                                                                                                                       |                   |
-| Methods and protocols to manage the events subject to the trend report as provided for in Article 88, including the methods and protocols to be used to establish any statistically significant increase in the frequency or severity of incidents as well as the observation period;     |                   |
-| Methods and protocols to communicate effectively with competent authorities, notified bodies, economic operators and users;                                                                                                                                                               |                   |
-| Reference to procedures to fulfill the manufacturers obligations laid down in Articles 83, 84 and 86;                                                                                                                                                                                     |                   |
-| Systematic procedures to identify and initiate appropriate measures including corrective actions;                                                                                                                                                                                         |                   |
-| Effective tools to trace and identify devices for which corrective actions might be necessary;                                                                                                                                                                                            |                   |
-| A PMCF plan as referred to in Part B of Annex XIV, or a justification as to why a PMCF is not applicable.                                                                                                                                                                                 |                   |
+| MDR Requirement                                                                                                                                                                                                                                                                           | Activity                                    |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| A proactive and systematic process to collect any information referred to in point (a). The process shall allow a correct characterization of the performance of the devices and shall also allow a comparison to be made between the device and similar products available on the market | SOP Post-Market Surveillance                |
+| Effective and appropriate methods and processes to assess the collected data;                                                                                                                                                                                                             | SOP Post-Market Surveillance                |
+| Suitable indicators and threshold values that shall be used in the continuous reassessment of the benefit-risk analysis and of the risk management as referred to in Section 3 of Annex I;                                                                                                | PMS Plan - Trend Identification & Reporting |
+| Effective and appropriate methods and tools to investigate complaints and analyze market-related experience collected in the field;                                                                                                                                                       | SOP Feedback Management                     |
+| Methods and protocols to manage the events subject to the trend report as provided for in Article 88, including the methods and protocols to be used to establish any statistically significant increase in the frequency or severity of incidents as well as the observation period;     | PMS Plan - Trend Identification & Reporting |
+| Methods and protocols to communicate effectively with competent authorities, notified bodies, economic operators and users;                                                                                                                                                               | SOP Vigilance                               |
+| Reference to procedures to fulfill the manufacturers obligations laid down in Articles 83, 84 and 86;                                                                                                                                                                                     | SOP Post-Market Surveillance                |
+| Systematic procedures to identify and initiate appropriate measures including corrective actions;                                                                                                                                                                                         | SOP CAPA                                    |
+| Effective tools to trace and identify devices for which corrective actions might be necessary;                                                                                                                                                                                            | SOP Product Certification and Registration  |
+| A PMCF plan as referred to in Part B of Annex XIV, or a justification as to why a PMCF is not applicable.                                                                                                                                                                                 | SOP Clinical Evaluation                     |
 
 ## 2. Data Collection Activities
 
-> Note: In the "Metric / Threshold" column there's a placeholder "(define)". Replace this with the metric and
-> threshold you've decided upon.
+| PMS activity                                                                                                                                                                                                                | Responsibility               | When?      | Documented in                              |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|--------------------------------------------|
+| Incident documentation and analysis of undesirable side effects                                                                                                                                                             | QMO                          | Annually   | PMS Report / PSUR                          |
+| Assess feedback (customer complaints, sales feedback)                                                                                                                                                                       | Head of Product              | Annually   | PMS Report / PSUR                          |
+| Check SOUP for new published issues                                                                                                                                                                                         | Head of Software Development | Biannually | PMS Report / PSUR                          |
+| Research data about similar products in the market                                                                                                                                                                          | QMO                          | Annually   | PMS Report / PSUR                          |
+| Conduct post-market clinical follow-up activities as planned                                                                                                                                                                | Head of Medical Team         | Annually   | PMCF Evaluation Report / CER               |
+| Research scientific publications                                                                                                                                                                                            | Head of Product              | Annually   | PMCF Evaluation Report / CER               |
+| Research updates of standards and legislation                                                                                                                                                                               | QMO                          | Annually   | PMS Report / PSUR                          |
+| Analyze trends, decide on necessary measures and implement them                                                                                                                                                             | QMO                          | Annually   | PMS Report / PSUR                          |
+| Update risk management file                                                                                                                                                                                                 | QMO                          | Annually   | Risk Management Report / PMS Report / PSUR |
+| Compile post-market clinical follow-up report                                                                                                                                                                               | Head of Medical Team         | Annually   | PMCF Evaluation Report / CER               |
+| Compile Periodic Safety Update Report                                                                                                                                                                                       | Head of Product              | Annually   | PMCF Evaluation Report / CER               |
+| Upload PSUR to Eudamed database                                                                                                                                                                                             | QMO                          | Annually   | N/A                                        |
+| Compile post-market surveillance plan and post-market clinical follow-up plan for next surveillance interval                                                                                                                | QMO                          | Annually   | PMS & PMCF Plan                            |
+| Volume of sales, an estimate evaluation of the size and other characteristics of the population (such as profession) using the device and, where practicable, the usage frequency of the device, volume of sales by country | QMO                          | Annually   | PMS Report / PSUR                          |
 
-| Activity                                                                                                     | Assigned To                  | Metric / Threshold | How Often?                    |
-|--------------------------------------------------------------------------------------------------------------|------------------------------|--------------------|-------------------------------|
-| Incident documentation and analysis of undesirable side effects                                              | QMO                          | (define)           | 1/year on Jan 1st             |
-| Assess feedback (customer complaints, sales feedback)                                                        | Head of Product              | (define)           | 1/year on Jan 1st             |
-| Check SOUP for new published issues                                                                          | Head of Software Development | N/A                | 2/year on Jan 1st and Aug 1st |
-| Research data about similar products in the market                                                           | QMO                          | (define)           | 1/year on Jan 1st             |
-| Conduct post-market clinical follow-up activities as planned                                                 | Head of Medical Team         |                    |                               |
-| Research scientific publications                                                                             | Head of Product              |                    |                               |
-| Research updates of standards and legislation                                                                | QMO                          |                    |                               |
-| Analyze trends, decide on necessary measures and implement them                                              | QMO                          |                    | 1 /year                       |
-| Update risk management file                                                                                  | QMO                          |                    |                               |
-| Compile post-market clinical follow-up report                                                                | Head of Medical Team         |                    |                               |
-| Compile Periodic Safety Update Report                                                                        | Head of Product              |                    |                               |
-| Upload PSUR to Eudamed database                                                                              |                              |                    |                               |
-| Compile post-market surveillance plan and post-market clinical follow-up plan for next surveillance interval |                              |                    |                               |
+## 3. Methods and Procedures
 
-## 3. Data Collection Categories
+> Include mandatory data sources in the PMS plan for each product, with additional methods based on risk class
+> and product type. Justify any non-applicability.
 
-At minimum, the information required by the process for post-market surveillance is collected. For (enter
-product name), the following categories of data will be collected  specifically:
+### 3.1 Feedback
 
-### Information about other devices*
+### Serious Incidents and FSCA
 
- * [BfArM Field Corrective Actions][bfarm-fca]
-   * Keywords:
-   * Filter:
-   * Time span:
- * [BfArM Recommendations][bfarm-rec]
-   * Keywords:
-   * Time span:
- * [MHRA][mhra]
-   * Keywords:
-   * Filter:
-   * Time span:
- * [Swissmedic: List of recalls and other field corrective actions][swissmedic]
-   * Keywords:
-   * Time span:
- * [FDA Recalls: medical device recalls][fda-recalls]
-   * Keywords:
-   * Time span:
- * [FDA Maude][fda-maude]
-   * Keywords:
-   * Time span:
- * SOUP Incident Reports
-   * Go through SOUP list
-   * Research public incident reports of the last (enter time span) months
+The insert report type, e.g. PMS Report or PSUR will summarize the number of reported serious incidents, their
+investigation results and any taken subsequent measures.
 
-> Make sure to not just update your clinical evaluation here and enter the same keywords as for the literature review.
-> Also add keywords for the equivalent / similar devices you compare (such as their brand names).
+### Non-serious Incidents and Expected Undesirable Side-Effects
 
-### Other information about similar devices
+The PMS Report or PSUR will summarize the evaluation results and conclusions, including any taken preventive
+or corrective actions.
 
- * Google News Search
-   * Filter: (define)
-   * Time span:
- * (...)
+### Proactively gathered Feedback
 
-### Specialist literature / technical databases
+Proactively collect feedback from distributors, users, and importers, including inputs not considered in
+previous sections. This encompasses feedback on usability, both positive and regarding issues, gathered
+through client visits, conferences, and events. General market feedback will also be actively obtained during
+client visits, conferences, fairs, and specified events. Specify objectives, acceptance criteria, and
+responsible persons for these activities. The aim is to identify new risks, verify existing ones, and assess
+benefits and use-related aspects of the medical device. Evaluate and summarize the gathered information. If
+potential serious incidents arise, follow the SOP Vigilance. The PMS Report or PSURwill summarize the results.
 
-> Note: This chapter should analyze other publications applicable to our product which are not considered
-> already (or typically) as part of the post-market clinical follow-up.
+### 3.2 Trend Identification and Reporting
 
- * Pubmed
-   * Filter: (define)
-   * Time span: last 12 months
- * (...)
+According to the MDR, Article 88 non-serious incidents and expected undesirable side-effects are subject to
+trend analysis. Statistically significant increases in the frequency or severity will be reported.  There are
+three types of changes that can be indicated by a trend analysis:
 
-### Serious incidents of our medical device
+* a sudden significant deviation like an outlier or spike, respectively;
+* significant trends, i.e. repetitive deviations or continuous drifting away from the history of earlier
+  values;
+* detection by visual inspection, whether the data are subject to cyclic effects, e.g. of calendar events like
+  summer holidays or end of budget periods.
 
- * Incident documentation
-   * Was the device involved in any event that caused, directly or indirectly, death of a patient, user or
-     other person or to a serious deterioration in their state of health? Did the company issue a recall of
-     the device?
-   * If so, attach respective documentation (e.g. field safety notices)
-   * Time span:
+All incidents deemed non-serious and anticipated undesirable side-effects will undergo meticulous
+documentation and categorization, encompassing occurrences such as the arrival of a non-sterile device or a
+software crash. This process is crucial for maintaining a standardized approach, ensuring comparability across
+different incidents. To achieve this, normalization will be applied, factoring in the respective sales numbers
+or the number of installed devices per month.
 
-### Non-serious incidents and undesirable side effects of our own medical device
+The data obtained will be graphically represented for each incident category, portraying the number of
+normalized incidents against the corresponding month. This visualization serves to illuminate the temporal
+progression of these incidents over time, facilitating a comprehensive understanding of trends and
+patterns. Adhering to the guidelines outlined in ISO/TR 20416 for Medical Devices - PMS for manufacturers,
+Rule 3 of the Nelson Rules will be employed to detect trends. A trend is detected, where six or more points in
+a row exhibit a continuous upward trajectory. In addition, long term trends are detected by visual inspection
+and review of the plotted incidents. If a trend is detected, a CAPA will be opened to investigate the
+incidents.
 
- * Feedback and customer complaints
-   * Filter: hazard-related feedback, usability issues
-   * Time span:
+### 3.3. Databases and Registers
 
-### Feedback we collect from our partners, users, distributors, importers
+> Specify applicable literature databases, e.g. PubMed, Embase, COCHRANE, etc. for the gathering of clinical
+> data. If you have a separate PMCF plan which already contains the literature search as one of the planned
+> PMCF activities, you may provide a brief statement that there is a search strategy for literature in the
+> PMCF plan.
 
- * Feedback and customer complaints
-   * Filter: not hazard-related feedback, feedback on performance, safety or processes
-   * Time span:
+### SOUP Incident Reports
 
-The overall complaint rate is deemed acceptable if:
-* Less than 10% of complaints are associated with moderate severity of harm or higher
-* Overall number of complaints does not exceed 10% of total active users
-* (...)
+Check device SOUP list and research incident reports from last 12 months.
 
-> Note: customize the acceptance criteria for the overall complaint rate to your setup
+### Technical, Specialist & Regulatory Information
 
-### Trends
+Applicable literature are product standards and guidelines as documented in the checklist of General Safety
+and Performance Requirements according to Annex I of Regulation (EU) 2017/745. These serve to determine the
+current state of the art and possible technical improvements and will be monitored on a yearly basis for
+changes and renewals. Furthermore, the Medical Device Coordination Group (MDCG) publications (guidance
+documents) will be reviewed with regards to guidance on interpretation of process- or product-relevant
+interpretations of regulatory requirements in the Regulation (EU) 2017/745. The < PMS Report or PSUR\> will
+summarize the results.
 
- * Compile a list of trends as described in the section below.
+### Other Publicly Available Information about Similar Medical Devices
 
-## 4. Trend Analysis
+Identify the databases to be utilized for investigating incidents and recalls related to comparable devices
+(e.g., through MAUDE, BfArM, MHRA). Clearly outline the similar devices and establish appropriate search and
+evaluation criteria. A sample approach is provided below:
 
-> The following instructions are general placeholders. Ideally, you should add product-specific information. For example, if you know how your organization should react to the most prominent non-serious incidents that you expect, then describe more specific actions here. Also see Art. 88 MDR:
-> *"The manufacturer shall specify how to manage the incidents referred to in the first subparagraph and the methodology used for determining any statistically significant increase in the frequency or severity of such incidents, as well as the observation period, in the post-market surveillance plan referred to in Article 84."*
-> Disclaimer for startups: as long as your usage numbers are low (e.g. n < 2.000), it's likely that none of your trend analysis will turn over statistically significant results.
+| Database      | BfArM                                                    |
+|---------------|----------------------------------------------------------|
+| Criteria:     | Safety Information (Safety warnings, alerts and recalls) |
+| Timeframe:    | January 1 – December 31 2020                             |
+| Search terms: | E.g. Similar Device Name                                 |
 
-Trend analysis is performed with a focus on undesirable side-effects and non-serious incidents. These will be monitored if they impact the benefit-risk ratio in a negative way.
+### 3.4. PMCF
 
-Hazards in the risk table are compared to post-market surveillance results:
+> If PMCF is exempt, add a justification.
+>
+> PMCF may only be exempt under one of the two following conditions:
+>
+> The demonstration of conformity with general safety and performance requirements based on clinical data is
+> not deemed appropriate, and adequate justification for the non-applicability of a clinical evaluation report
+> has been given; or It is a product without an intended medical purpose (see Annex XVI of Regulation (EU)
+> 2017/745).
+>
+> Otherwise:
+>
+> A PMCF plan has been developed for this device to consistently collect relevant clinical data, confirming
+> the benefit-risk determination in the Risk Management Report and Clinical Evaluation Report. This includes
+> assessing clinical safety, performance, any claims, and its alignment with the current state of the art. The
+> specific PMCF activities are contingent on factors such as device innovation, the availability of adequate
+> clinical data, inherent risks, and device type. These considerations have guided the planning of suitable
+> PMCF methods.
 
-* If post-market surveillance leads to the finding that the estimated **probability** was too low (i.e. the event happened more often during post-market surveillance cycle than appropriate when compared to the assumed event count for the entire product lifetime), a CAPA is initiated to update the risk file and take further actions as needed.
-* If post-market surveillance leads to the finding that the estimated **severity** was too low (i.e. the event led to a more serious harm than expected), a CAPA is initiated to update the risk file and take further actions as needed.
+## 4. Planned PMS Report/ Periodic Safety Update Report \(PSUR\)
 
+> Please state the month and year of the planned PMS report (for Class I devices)/ of the PSUR (for all other
+> devices).
 
-<!-- Links -->
+---
 
-[bfarm-fca]: https://www.bfarm.de/SiteGlobals/Forms/Suche/EN/kundeninfo_Filtersuche_Formular_en.html?nn=4527724
-[bfarm-rec]: https://www.bfarm.de/EN/MedicalDevices/RiskInformation/Recommendations/_functions/_node.html
-[mhra]: https://www.gov.uk/drug-device-alerts
-[swissmedic]: https://fsca.swissmedic.ch/mep/
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
 
-<!-- This is a great link -->
-[fda-recalls]: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=&productdescriptiontxt=&productcode=&IVDProducts=&rootCauseText=&recallstatus=&centerclassificationtypetext=&recallnumber=&postdatefrom=&postdateto=&productshortreasontxt=&firmlegalnam=&PMA_510K_Num=&pnumber=&knumber=&PAGENUM=100
-
-[fda-maude]: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfmaude/search.cfm
+Please don't remove this notice even if you've modified contents of this template.

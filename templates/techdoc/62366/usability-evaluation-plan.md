@@ -94,3 +94,10 @@ Results of Summative Usability Evaluation are summarized in the Usability Evalua
 | Date       | Description                                                                               |
 |------------|-------------------------------------------------------------------------------------------|
 | 02.01.2021 | *Summative Evaluation 1*<br>(Description of methods incl. environment, participants etc.) |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

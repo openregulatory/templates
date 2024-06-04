@@ -188,3 +188,10 @@ administrative offboarding. This includes:
 | Participants | HR Manager                                                      |
 | Input        | Termination of employment                                       |
 | Output       | Removal of access rights<br>Updated documentation: deleted data |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

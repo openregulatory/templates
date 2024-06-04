@@ -6,7 +6,7 @@ The Usability Evaluation report describes the results of all (formative and summ
 
 | IEC 62366-1:2015 Section | Title                                             | Document Section |
 |--------------------------|---------------------------------------------------|------------------|
-| 4.1.3                    | Information for Safety as it relates to Usability | 5.4              |
+| 4.1.3                    | Information for Safety as it relates to Usability | 4.5              |
 | 4.2                      | Usability Engineering File                        | (all)            |
 
 ## 1. Relevant Processes
@@ -16,7 +16,8 @@ Usability Engineering and Evaluation activities are defined in the **SOP Integra
 ## 2. Related Documents
 
  * List of Hazard-Related Use Scenarios
- * Usability Evaluation Report
+ * Usability Evaluation Protocol
+ * Usability Evaluation Plan
 
 ## 3. Summary of Formative Evaluations
 
@@ -60,3 +61,10 @@ Usability Engineering and Evaluation activities are defined in the **SOP Integra
 ## 5. Qualitative Participant Feedback
 
 ## 6. Conclusion
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

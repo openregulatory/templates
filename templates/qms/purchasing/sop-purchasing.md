@@ -205,10 +205,17 @@ ratings, certificates) to update the evaluation status of suppliers listed in th
 Following a decrease in a supplier's evaluation status, the QMO can decide over appropriate measures, such as
 opening a CAPA, further surveillance measures or blocking a supplier in case of a significant decrease in
 quality standards. Opening a CAPA is always required in case of a decrease by one grade according to the
-evaluation criteria outlined in step 1.3.
+evaluation criteria outlined in step 1.4.
 
 |              |                                                 |
 |--------------|-------------------------------------------------|
 | Participants | QMO                                             |
 | Input        | Supplier records<br>List of Qualified Suppliers |
 | Output       | Updated List of Qualified Suppliers             |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

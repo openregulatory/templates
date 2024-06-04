@@ -43,3 +43,10 @@ The following activities have been performed:
 | Software is registered with a Notified Body. |  |  |  |
 | If release includes substantial change: Notified Body has been informed. |  |  |  |
 | Label is applied correctly including CE marking. |  |  |  |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

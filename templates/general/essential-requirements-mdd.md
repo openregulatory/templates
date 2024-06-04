@@ -182,3 +182,10 @@
 
  * **Applicable:** Yes
  * **Evidence of Conformity:** ISO 14971:2019, IEC 62366-1:2015 (Labelling, Instructions for Use)
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

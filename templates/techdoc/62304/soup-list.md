@@ -45,3 +45,10 @@
 | ID | Software System | Package Name | Programming Language | Version | Website                                          | Last verified at | Risk Level | Requirements               | Verification Reasoning                                                    |
 |----|-----------------|--------------|----------------------|---------|--------------------------------------------------|------------------|------------|----------------------------|---------------------------------------------------------------------------|
 | 1  | Mobile App      | react-native | JavaScript           | 0.61    | [Link](https://facebook.github.io/react-native/) | 23.10.2020       | Low        | * Runs JS on Android / iOS | Commonly used, maintained by a large organisation, sufficient test coverage |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

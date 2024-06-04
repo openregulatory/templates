@@ -27,7 +27,7 @@ This document summarizes development and maintenance activities.
 | B, C    | 5.1.10 Supporting Items to be Controlled                                   | 5                |
 | B, C    | 5.1.11 Software Configuration Item Control Before Verification             | 5                |
 | B, C    | 5.1.12 Identification and Avoidance of Common Software Defects             | 4                |
-| A, B, C | 6.1 Software Maintenance Plan.                                             | 9                |
+| A, B, C | 6.1 Software Maintenance Plan.                                             | 10               |
 
 ## 1 Relevant Processes and Documents
 
@@ -183,3 +183,10 @@ Validation is carried out as formative and summative usability evaluation as des
 
 *SOUP issue trackers are checked at least once every 6 months. The verification date is updated in the SOUP
 list accordingly.*
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

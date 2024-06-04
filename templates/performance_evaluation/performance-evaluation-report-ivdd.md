@@ -191,3 +191,10 @@ performance and clinical performance.
 [imdrf-1]: http://www.imdrf.org/docs/ghtf/final/sg5/technical-docs/ghtf-sg5-n6-2012-clinical-evidence-ivd-medical-devices-121102.pdf
 [imdrf-2]: http://www.imdrf.org/docs/ghtf/final/sg5/technical-docs/ghtf-sg5-n7-2012-scientific-validity-determination-evaluation-121102.pdf
 [imdrf-3]: http://www.imdrf.org/docs/ghtf/final/sg5/technical-docs/ghtf-sg5-n8-2012-clinical-performance-studies-ivd-medical-devices-121102.pdf
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

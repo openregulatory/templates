@@ -6,13 +6,18 @@
 | ------------------------------- | ---------------- |
 | Annex VIII | (All) |
 
+**Related documents:**
+
+* Intended Use
+* SOP Product Certification and Registration
+
 ## Summary
 
-| Product: | (enter content) |
-| -------- | --------------- |
-| Version: | (enter content) |
+| Product:        | (enter content) |
+|-----------------|-----------------|
+| Version:        | (enter content) |
 | Classification: | (enter content) |
-| Rule: | (enter content) |
+| Rule:           | (enter content) |
 
 ## Chapter 1: Applicable Definitions
 
@@ -97,3 +102,10 @@
 | ***Rule 20***<br>All invasive devices with respect to body orifices, other than surgically invasive devices, which are intended to administer medicinal products by inhalation are classified as class IIa, unless their mode of action has an essential impact on the efficacy and safety of the administered medicinal product or they are intended to treat life-threatening conditions, in which case they are classified as class IIb. | No |
 | ***Rule 21***<br>Devices that are composed of substances or of combinations of substances that are intended to be introduced into the human body via a body orifice or applied to the skin and that are absorbed by or locally dispersed in the human body are classified as:<br>— class III if they, or their products of metabolism, are systemically absorbed by the human body in order to achieve the intended purpose;<br>— class III if they achieve their intended purpose in the stomach or lower gastrointestinal tract and they, or their products of metabolism, are systemically absorbed by the human body;<br>— class IIa if they are applied to the skin or if they are applied in the nasal or oral cavity as far as the pharynx, and achieve their intended purpose on those cavities; and<br>— class IIb in all other cases. | No |
 | ***Rule 22***<br>Active therapeutic devices with an integrated or incorporated diagnostic function which significantly determines the patient management by the device, such as closed loop systems or automated external defibrillators, are classified as class III. |  |
+
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.

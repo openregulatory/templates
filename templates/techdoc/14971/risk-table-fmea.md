@@ -117,6 +117,13 @@ multiple sections:
 | --- | ----------- | ---- | --------------------- | ------------------ | ----------------------------------------- | --------------------------- | --------------------------- |
 | 1   | Check prediction algorithm with test data | Protective Measure | 10^-2 | 1 | No | Link Software Test ID | Link Usability Test ID |
 
+---
+
+Template Copyright [openregulatory.com](https://openregulatory.com). See [template
+license](https://openregulatory.com/template-license).
+
+Please don't remove this notice even if you've modified contents of this template.
+
 
 <!-- Links -->
 
