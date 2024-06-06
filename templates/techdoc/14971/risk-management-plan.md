@@ -72,6 +72,8 @@ technology and medicine, and the availability of alternative medical devices or 
 | Usages / user       | Enter number of estimated times the device is used per user                                                        |
 | Total usages        | Do the math!                                                                                                       |
 
+See Software Development and Maintenance plan for a rationale regarding the assumed device lifetime.
+
 #### 1.2.2 Severity of Harm
 
 > Define what can go wrong with your product here. Make the examples specific - chances are, your product
