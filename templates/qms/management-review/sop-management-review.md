@@ -57,10 +57,7 @@ of the QM system to comply with regulatory requirements. Additionally, process i
 be critically reviewed.
 
 As part of this process, the Management also reviews the organization’s quality policy, quality objectives and
-the status of previous strategic goals. It defines new strategic goals for the next review period.
-
-> NOTE: this refers to the section of your quality manual where you describe your organization’s process of
-> managing company / team objectives.
+the status of key performance indicators (KPIs).
 
 Based on findings during the Management Review, the Management may define further measures such as the
 revision of single processes, product changes or the (re-)allocation of resources.

@@ -159,6 +159,8 @@ perform them. For that, the currently-released document is copied to the "drafts
 employee. After finishing the edit, it moves to the **Document Ready for Review** stage (step 2), following
 the same steps as above.
 
+Changes to documents should be reviewed and approved by the orginal author, process owner or by a designated role with sufficient background information to make a qualified decision.
+
 A QMS change can trigger a substantial change. Before release, it shall be checked whether it may impact the
 organization's process landscape and hence, overall organizational conformity with regulatory
 requirements. The QMO is responsible to evaluate such potentially major changes as part of the Change
