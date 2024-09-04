@@ -2,30 +2,44 @@
 
 Version 1, dated 21st of March, 2023
 
-### 1\. Preliminary remarks
+### 1. Preliminary remarks
 
-* This document was compiled by the [German Notified Bodies Alliance](https://www.ig-nb.de/fileadmin/user_upload/ig-nb/Questionnaire_Cybersecurity_for_Medical_Devices_-_Technical_Documentation_-_Version_1.pdf) ("Interessengemeinschaft der Benannten Stellen für Medizinprodukte in Deutschland", IG-NB) and is intended to serve as orientation for Notified Bodies, manufacturers and interested parties. It makes no claim to completeness or mandatory application.
-* This document covers assessments of Technical Documentation for MDR / IVDR. Not all requirements of MDR, IVDR and MDCG 2019-16 are covered in this document.
-* Created by Jan Küfner (TÜV SÜD), Dr. Abtin Rad (TÜV SÜD), Dr. Andreas Schwab (TÜV Rheinland), Volker Sudmann (mdc medical device certification), Markus Bianchi (DNV Medcert), Martin Tettke (Berlin Cert), Michael Bothe (DQS Med), Mark Küller (TÜV-Verband / IG-NB). It replaces the previous version "IT Security for Medical Devices“ (Version 5, 09.06.2022).
-* Questions regarding the security risks of artificial intelligence can be found in latest version of IG-NB's "Questionnaire Artificial Intelligence (AI) in Medical Devices".
-* Compliance to IEC 81001-5-1 is not expected, however recommended, prior to the end of its transition period. Compliance to IEC 81001-5-1 prior its transition period is however recommended. In the following tables IEC 81001-5-1 is mentioned only for complementary purposes. Questions for manufacturers are solely based on the current requirements (MDR, IVDR, MDCG 2019-16)
-* Since cybersecurity evolves on a regulatory and technological level, this document is intended to reflect the current state of the art at the time of creation only.
+* This document was compiled by the [German Notified Bodies
+  Alliance](https://www.ig-nb.de/fileadmin/user_upload/ig-nb/Questionnaire_Cybersecurity_for_Medical_Devices_-_Technical_Documentation_-_Version_1.pdf)
+  ("Interessengemeinschaft der Benannten Stellen für Medizinprodukte in Deutschland", IG-NB) and is intended
+  to serve as orientation for Notified Bodies, manufacturers and interested parties. It makes no claim to
+  completeness or mandatory application.
+* This document covers assessments of Technical Documentation for MDR / IVDR. Not all requirements of MDR,
+  IVDR and MDCG 2019-16 are covered in this document.
+* Created by Jan Küfner (TÜV SÜD), Dr. Abtin Rad (TÜV SÜD), Dr. Andreas Schwab (TÜV Rheinland), Volker Sudmann
+  (mdc medical device certification), Markus Bianchi (DNV Medcert), Martin Tettke (Berlin Cert), Michael Bothe
+  (DQS Med), Mark Küller (TÜV-Verband / IG-NB). It replaces the previous version "IT Security for Medical
+  Devices“ (Version 5, 09.06.2022).
+* Questions regarding the security risks of artificial intelligence can be found in latest version of IG-NB's
+  "Questionnaire Artificial Intelligence (AI) in Medical Devices".
+* Compliance to IEC 81001-5-1 is not expected, however recommended, prior to the end of its transition
+  period. Compliance to IEC 81001-5-1 prior its transition period is however recommended. In the following
+  tables IEC 81001-5-1 is mentioned only for complementary purposes. Questions for manufacturers are solely
+  based on the current requirements (MDR, IVDR, MDCG 2019-16)
+* Since cybersecurity evolves on a regulatory and technological level, this document is intended to reflect
+  the current state of the art at the time of creation only.
 
 **References:**
 
 * Regulation (EU) 2017/745 (MDR), dated 5 April 2017
 * MDCG 2019-16 - Guidance on Cybersecurity for medical devices, Rev. 1, 2020-07
 * IEC 62304:2006-05 Medical device software - Software life cycle processes
-* IEC 81001-5-1:2021-12 Health software and health IT systems safety, effectiveness and security — Part 5-1: Security — Activities in the product life cycle
+* IEC 81001-5-1:2021-12 Health software and health IT systems safety, effectiveness and security — Part 5-1:
+  Security — Activities in the product life cycle
 
-### 2\. System Description
+### 2. System Description
 
 | Item | Source | Requirement(s) | IG-NB Commentary | Manufacturer Reference for Compliance |
 | ---- | ------ | -------------- | ---------------- | ------------------------------------- |
 | 2.1 | State of the Art (SOTA) | An appropriate system diagram must be available. | Is an appropriate system diagram available? | Yes, see:<br>\- Software development plan<br>\- Software architecture |
 | 2.2 | IEC 81001-5-1 cl. 7.2 | 'All products have a threat model specific to the current development scope. Characteristics (where applicable): correct flow of categorized information throughout the system, trust boundaries, data stores, internal/external communication protocols etc.' | Note: a complete system diagram should include the following:<br>1\. All medical devices incl\. their interfaces \(e\.g\. bluetooth\, wifi\, ethernet\)\, utilized protocols \(e\.g\. HL7\, DICOM\, HTTPS\, MQTTS\, custom\) on those interfaces and their implemented technical specification \(e\.g\. implemented protocol version\) incl\. the type of data being transferred \(e\.g\. personal health information\, therapeutic commands\, updates\, remote access\) on those interfaces\.<br>2\. All human machine interfaces within the system \(e\.g\. screens\, keyboards\)\. | Potential cyber security risks and IT-security concerns have been taken into account within the framework of the existing FMEA risk analysis, following the ISO 14971 standard for risk management in medical devices. |
 
-### 3\. Security Risk Management
+### 3. Security Risk Management
 
 | Item | Source | Requirement(s) | IG-NB Commentary | Manufacturer Reference for Compliance |
 | ---- | ------ | -------------- | ---------------- | ------------------------------------- |
@@ -38,14 +52,14 @@ Version 1, dated 21st of March, 2023
 | 3.7 | IEC 81001-5-1 cl. 7.4 | \- Determine whether security risk control measures are appropriate for reducing security risks to an acceptable level \(based on security risk acceptance policies\)<br>\- If risk controls are deemed appropriate: appropriate mitigations selected<br>\- Determine whether mitigations result in new risks or increased other risks\,<br>\- Select mitigations implemented\, effectiveness of the implemented measures verified | Are risk control measures / counter measures appropriate? | Yes, see:<br>\- Risk table<br>\- Risk management report |
 | 3.8 | MDCG 2019-16 cpt. 2.1<br>and<br>MDR Annex I (17.4) / IVDR Annex I (16.4)<br>and<br>MDR Annex I (18.8)<br>and<br>MDR Annex I (17.2) / IVDR Annex I (16.2) | ‘Key concepts involved in IT security specifically for medical devices are the following:<br>\- Confidentiality of information at rest and in transit<br>\- Integrity\, which is necessary to ensure information authenticity and accuracy \(i\.e\. non\-repudiation\)<br>\- Availability of the processes\, devices\, data\, and connected systems\.‘<br>AND<br>‘Manufacturers shall set out minimum requirements concerning hardware, IT networks characteristics and IT security measures, including protection against unauthorised access, necessary to run the software as intended.’<br>AND<br>‘Devices shall be designed and manufactured in such a way as to protect, as far as possible, against unauthorised access that could hamper the device from functioning as intended.’<br>AND<br>'The Cybersecurity risks are as far as possible reduced without adversely affecting the benefit-risk ratio. The device is developed in accordance with the state of the art taking into account the principles of risk management, including information security.' | Is the security concept of the device under evaluation appropriate? | Yes, see:<br>\- Risk table<br>\- Risk management report<br>\- Software development plan |
 
-### 4\. Accompanying Documentation
+### 4. Accompanying Documentation
 
 | Item | Source | Requirement(s) | IG-NB Commentary | Manufacturer Reference for Compliance |
 | ---- | ------ | -------------- | ---------------- | ------------------------------------- |
 | 4.1 | MDCG 2019-16 cpt. 2.6<br>and<br>MDR Annex I (23.4.ab) / IVDR Annex I (20.4.1.ah) | ‘While the MDR and the IVDR provide legal obligations only with regard to manufacturers, however it should be noted that for the provision of secured healthcare services, it is important to recognize the roles and expectations of all stakeholders, such as manufacturers, suppliers, healthcare providers, patients, integrators, operators and regulators. All of these actors share responsibilities for ensuring a secured environment for the benefit of patients’ safety.’<br>AND<br>The instructions for use shall contain all of the following particulars: ‘for devices that incorporate electronic programmable systems, including software, or software that are devices in themselves, minimum requirements concerning hardware, IT networks characteristics and IT security measures, including protection against unauthorised access, necessary to run the software as intended.’ | Are the responsibilities of manufacturer, integrator and users correctly reflected in the IFU?<br>Note: in cases where the medical device relies on the operating environment to provide essential IT security controls, this is appropriately stated in the accompanying technical documentation. | Yes, see:<br>\- Instructions for use / user manual |
 | 4.2 | MDCG 2019-16 cpt. 4.2 | ‘The requirements regarding the instructions for use are outlined in the following articles of Annex I’ | Does the accompanying documentation appropriately contain the following (if applicable):<br>\- Any residual cybersecurity risk communicated as limitation\, contraindication\, precaution or warning<br>\- Information about product installation such as configuration of security features \(CNFS\)\. Note: this does NOT mean the documentation /or provisioning of passwords for assessment in the accompanying documents\. Also include required information about any necessary 3rd party software such as anti\-virus software\, firewall\, malware detection/protection \(MLDP\) and minimum requirements for OS\, workstation\, peripherals\.<br>\- Procedures for using the medical device in fail\-safe mode / action plan for users to follow in case of alert messages<br>\- Information about user requirements in terms of training / required skills<br>\- Instruction on installing \(cybersecurity\) updates & patches \(CSUP\)<br>\- The environment of use \(home environment\, healthcare facility\, etc\.\)<br>\- A description of data backup \(DTBK\) and restore features<br>\- User roles incl\. privileges<br>\- Information about logging | Yes, see:<br>\- Instructions for use / user manual<br>\- User training |
 
-### 5\. Lifecycle \(Relevant Output Documents\)
+### 5. Lifecycle (Relevant Output Documents)
 
 | Item | Source | Requirement(s) | IG-NB Commentary | Manufacturer Reference for Compliance |
 | ---- | ------ | -------------- | ---------------- | ------------------------------------- |
