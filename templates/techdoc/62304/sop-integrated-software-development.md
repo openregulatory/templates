@@ -137,7 +137,7 @@ risk acceptance matrix is created by performing the following steps:
 * Create the risk acceptance matrix and define which combinations of the categories are deemed acceptable. Use
   color coding: red combinations represent unacceptable risks; yellow combinations represent risks that are
   acceptable.
-* Note: no fields are marked as green as all risks must be reduced as far as possible.
+* Note: no fields are marked as yellow as all risks must be reduced as far as possible.
 
 
 | Participants | CPO, subject matter experts, e.g. physicians    |
