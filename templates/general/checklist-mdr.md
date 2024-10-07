@@ -108,7 +108,7 @@
 | (a) | the risk of injury, in connection with their physical features, including the volume/pressure ratio, dimensional and where appropriate ergonomic features; | No | Software device |  |  |
 | (b) | risks connected with reasonably foreseeable external influences or environmental conditions, such as magnetic fields, external electrical and electromagnetic effects, electrostatic discharge, radiation associated with diagnostic or therapeutic procedures, pressure, humidity, temperature, variations in pressure and acceleration or radio signal interferences; | No | Software device |  |  |
 | (c) | the risks associated with the use of the device when it comes into contact with materials, liquids, and substances, including gases, to which it is exposed during normal conditions of use; | No | Software device |  |  |
-| (d) | the risks associated with the possible negative interaction between software and the IT environment within which it operates and interacts; | Yes | ISO 14971:2919 |  | Risk Table |
+| (d) | the risks associated with the possible negative interaction between software and the IT environment within which it operates and interacts; | Yes |  | ISO 14971:2019 | Risk Table |
 | (e) | the risks of accidental ingress of substances into the device; | No | Software device |  |  |
 | (f) | the risks of reciprocal interference with other devices normally used in the investigations or for the treatment given; and | No | Software device |  |  |
 | (g) | risks arising where maintenance or calibration are not possible (as with implants), from ageing of materials used or loss of accuracy of any measuring or control mechanism. | No | Software device |  |  |

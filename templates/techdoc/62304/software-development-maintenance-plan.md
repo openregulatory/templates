@@ -67,7 +67,7 @@ To achieve its intended purpose, the \[enter device name\] is intended to be use
 
 #### Product Lifetime
 
-The software's lifetime is established to be \[for example: three years\], defined as the minimum expected time until a significant change, implemented in reaction to changes to the established technological state of art (e.g. SOUP, cybersecurity, clinical protocol).
+The software's lifetime is established to be \[for example: three years\]. This is what is expected to be the maximum time until the implementation of a significant change, by which the manufacturer is able to react to the relevant changes to the software device environment, such as SOUP changes, cybersecurity innovations, or the evolving technological or medical state of the art.
 
 #### Programming Languages
 
