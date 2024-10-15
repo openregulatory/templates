@@ -72,6 +72,9 @@ technology and medicine, and the availability of alternative medical devices or 
 | Usages / user       | Enter number of estimated times the device is used per user                                                        |
 | Total usages        | Do the math!                                                                                                       |
 
+The software's lifetime is established to be [for example: three years]. This is what is expected to be the maximum time until the implementation of a significant change, by which the manufacturer is able to react to the relevant changes to the software device environment, such as SOUP changes, cybersecurity innovations, or the evolving technological or medical state of the art.
+Estimated product lifetime may not align with the planned PMS / PMCF surveillance periods, as continuous risk management involves continuous updates of the risk management file in order to account for new information in a timely manner.
+
 #### 1.2.2 Severity of Harm
 
 > Define what can go wrong with your product here. Make the examples specific - chances are, your product
