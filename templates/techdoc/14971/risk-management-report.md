@@ -40,9 +40,7 @@ the Risk Table.
 
 ### 2.3 Failure Mode and Effects Analysis (FMEA)
 
-All preliminary hazards and potential failure modes of the software were analyzed. In total, *\<no. of
-hazards\>* were identified. The hazardous situation(s) and harm(s) which they could lead to were analyzed,
-including intermediate probabilities (p1 and p2).
+All preliminary hazards and potential failure modes of the software were analyzed. Annec C of ISO 14971 was reviewed for potentially applicable scenarios. In total, *\<no. of hazards\>* were identified. The hazardous situation(s) and harm(s) which they could lead to were analyzed, including intermediate probabilities (p1 and p2).
 
 ## 3. Risk Control Measures
 
