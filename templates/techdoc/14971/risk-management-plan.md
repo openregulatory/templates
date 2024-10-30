@@ -24,6 +24,8 @@ part of the integrated software development process (SOP Integrated Software Dev
 Risk Management Activities are integrated in the software development lifecycle as described in SOP Integrated
 Software Development.
 
+When creating a first-time risk analysis for a product, Annex C of ISO 14971 should be reviewed for applicable examples.
+
 ### 1.2 Risk Policy and Risk Acceptability
 
 The following policy establishes criteria for risk acceptability following ISO 14971:2019 and ISO/TR
