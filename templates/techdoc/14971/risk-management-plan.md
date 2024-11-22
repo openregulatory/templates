@@ -22,7 +22,7 @@ part of the integrated software development process (SOP Integrated Software Dev
 ### 1.1 Risk Management Process and Activities
 
 Risk Management Activities are integrated in the software development lifecycle as described in SOP Integrated
-Software Development.
+Software Development. The scope of this risk management plan therefore covers the entire software device lifecycle.
 
 When creating a first-time risk analysis for a product, Annex C of ISO 14971 should be reviewed for applicable examples.
 
@@ -34,8 +34,7 @@ process of the medical device, and intends to ensure highest levels of medical d
 stakeholder expectations.
 
 The manufacturer defines framework criteria for risk acceptability in the form of estimated usage, severity of
-harm and probability of occurrence (para. 1.2.1 - 1.2.3). The criteria are initially defined as part of the
-early software development process and reviewed during every post-market surveillance cycle.
+harm and probability of occurrence. The criteria are initially defined as part of the early software development process and reviewed during each post-market surveillance cycle.
 
 Estimated usage, categories of severity / probability and risk matrix acceptance are defined based on
 applicable regulatory requirements, relevant international norms and standards, as well as the generally
@@ -53,6 +52,8 @@ order:
 1. Inherent safety by design
 2. Protective measures
 3. Information for safety
+
+Users of the device must be informed about any remaining residual risks.
 
 Acceptability of the overall residual risk is established as part of the clinical evaluation process by
 weighing benefits from intended use against the overall residual risk. Benefits may be described by their
