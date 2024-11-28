@@ -2,7 +2,7 @@
 
 ## Chapter I: General Requirements
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 1 | Devices shall achieve the performance intended by their manufacturer and shall be designed and manufactured in such a way that, during normal conditions of use, they are suitable for their intended purpose. They shall be safe and effective and shall not compromise the clinical condition or the safety of patients, or the safety and health of users or, where applicable, other persons, provided that any risks which may be associated with their use constitute acceptable risks when weighed against the benefits to the patient and are compatible with a high level of protection of health and safety, taking into account the generally acknowledged state of the art. | Yes |  | EN ISO 14971:2019/A11:2021,<br>ISO/TR 24971:2020,<br>MEDDEV 2.7/1 | ISD-Intended Use,<br>ISD-Stakeholder Descriptions,<br>ISD-Usability Evaluation Plan,<br>ISD-Usability Evaluation Report,<br>ISD-Risk Management Report,<br>CEV-Clinical Evaluation Plan,<br>CEV-Clinical Evaluation Report,<br>CEV - Clinical Evaluation Checklist |
 | 2 | The requirement in this Annex to reduce risks as far as possible means the reduction of risks as far as possible without adversely affecting the benefit-risk ratio. | Yes |  | EN ISO 14971:2019/A11:2021,<br>ISO/TR 24971:2020 | ISD-Risk Management Plan,<br>ISD-Risk Management Report |
@@ -29,7 +29,7 @@
 
 ### 2.1) Chemical, Physical and Biological Properties
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 10.1 | Devices shall be designed and manufactured in such a way as to ensure that the characteristics and performance requirements referred to in Chapter I are fulfilled. Particular attention shall be paid to: | No | Software device |  |  |
 | (a) | the choice of materials and substances used, particularly as regards toxicity and, where relevant, flammability; | No | Software device |  |  |
@@ -45,7 +45,7 @@
 
 ### 2.2) Substances
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 10.4.1 | Devices shall be designed and manufactured in such a way as to reduce as far as possible the risks posed by substances or particles, including wear debris, degradation products and processing residues, that may be released from the device. Devices, or those parts thereof or those materials used therein that: | No | Software device |  |  |
 |  | — are invasive and come into direct contact with the human body, | No | Software device |  |  |
@@ -67,7 +67,7 @@
 
 ### 2.3) Infection and Microbiological Contamination
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 11.1 | Devices and their manufacturing processes shall be designed in such a way as to eliminate or to reduce as far as possible the risk of infection to patients, users and, where applicable, other persons. The design shall: | No | Software device |  |  |
 | (a) | reduce as far as possible and appropriate the risks from unintended cuts and pricks, such as needle stick injuries, | No | Software device |  |  |
@@ -87,7 +87,7 @@
 
 ### 2.4) Devices Incorporating Materials of Biological Origin
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | :--- | :---------- | :--------- | :-------- | ------------------- | --------------------- |
 | 13.1. | For devices manufactured utilizing derivatives of tissues or cells of human origin which are non-viable or are rendered non-viable covered by this Regulation in accordance with point (g) of Article 1(6), the following shall apply: | No | Software device |  |  |
 | (a) | donation, procurement and testing of the tissues and cells shall be done in accordance with Directive 2004/23/EC; | No | Software device |  |  |
@@ -101,7 +101,7 @@
 
 ### 2.5) Construction of Devices and Interaction with their Environment
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | :--- | :---------- | :--------- | :-------- | ------------------- | --------------------- |
 | 14.1. | If the device is intended for use in combination with other devices or equipment the whole combination, including the connection system shall be safe and shall not impair the specified performance of the devices. Any restrictions on use applying to such combinations shall be indicated on the label and/or in the instructions for use. Connections which the user has to handle, such as fluid, gas transfer, electrical or mechanical coupling, shall be designed and constructed in such a way as to minimise all possible risks, such as misconnection. | No | Software device |  |  |
 | 14.2. | Devices shall be designed and manufactured in such a way as to remove or reduce as far as possible: | No | Software device |  |  |
@@ -120,14 +120,14 @@
 
 ### 2.6) Devices with a Diagnostic or Measurement Function
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 15.1 | Diagnostic devices and devices with a measuring function, shall be designed and manufactured in such a way as to provide sufficient accuracy, precision and stability for their intended purpose, based on appropriate scientific and technical methods. The limits of accuracy shall be indicated by the manufacturer. | No | No measuring function |  |  |
 | 15.2 | The measurements made by devices with a measuring function shall be expressed in legal units conforming to the provisions of Council Directive 80/181/EEC (4). | No | No measuring function |  |  |
 
 ### 2.7) Protection Against Radiation
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 16.1. | General |  |  |  |  |
 | (a) | Devices shall be designed, manufactured and packaged in such a way that exposure of patients, users and other persons to radiation is reduced as far as possible, and in a manner that is compatible with the intended purpose, whilst not restricting the application of appropriate specified levels for therapeutic and diagnostic purposes. | No | No radiation |  |  |
@@ -144,7 +144,7 @@
 
 ### 2.8) Devices that Incorporate Electronic Programmable Systems and Softwares that are Devices Themselves
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 17.1 | Devices that incorporate electronic programmable systems, including software, or software that are devices in themselves, shall be designed to ensure repeatability, reliability and performance in line with their intended use. In the event of a single fault condition, appropriate means shall be adopted to eliminate or reduce as far as possible consequent risks or impairment of performance. | Yes |  | IEC 62304:2006/AMD1:2015,<br>IEC 82304-1:2016 | ISD-Intended Use,<br>ISD-SOP Integrated Software Development,<br>CHM-SOP Change Management,<br>ISD-FMEA Risk Table,<br>ISD-SOUP List,<br>ISD-Software Architecture Description,<br>ISD-Software Architecture Checklist |
 | 17.2 | For devices that incorporate software or for software that are devices in themselves, the software shall be developed and manufactured in accordance with the state of the art taking into account the principles of development life cycle, risk management, including information security, verification and validation. | Yes |  | IEC 62304:2006/AMD1:2015,<br>IEC 82304-1:2016,<br>MDCG 2019-16 rev1,<br>Team-NB Position Paper Cybersecurity v1,<br>IG-NB Questionnaire Cybersecurity for Medical Devices v1 | ISD-Software Development and Maintenance Plan,<br>ISD-FMEA Risk Table,<br>ISD-Risk Management Cybersecurity Checklist,<br>ISD-SOUP List,<br>ISD-Software Architecture Description,<br>ISD-Software Architecture Checklist |
@@ -153,7 +153,7 @@
 
 ### 2.9) Active Devices and Devices Connected to Them
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 18.1. | For non-implantable active devices, in the event of a single fault condition, appropriate means shall be adopted to eliminate or reduce as far as possible consequent risks. | Yes |  | EN ISO 14971:2019/A11:2021,<br>ISO/TR 24971:2020 | ISD-FMEA Risk Table |
 | 18.2. | Devices where the safety of the patient depends on an internal power supply shall be equipped with a means of determining the state of the power supply and an appropriate warning or indication for when the capacity of the power supply becomes critical. If necessary, such warning or indication shall be given prior to the power supply becoming critical. | No | Safety does not depend on power supply |  |  |
@@ -166,7 +166,7 @@
 
 ### 2.10) Particular requirements for active implantable devices
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 19.1. | Active implantable devices shall be designed and manufactured in such a way as to remove or minimize as far as possible: | No | Software device |  |  |
 | (a) | risks connected with the use of energy sources with particular reference, where electricity is used, to insulation, leakage currents and overheating of the devices, | No | Software device |  |  |
@@ -178,7 +178,7 @@
 
 ### 2.11) Protection Against Mechanical and Thermal Risks
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 20.1. | Devices shall be designed and manufactured in such a way as to protect patients and users against mechanical risks connected with, for example, resistance to movement, instability and moving parts. | No | Software device |  |  |
 | 20.2. | Devices shall be designed and manufactured in such a way as to reduce to the lowest possible level the risks arising from vibration generated by the devices, taking account of technical progress and of the means available for limiting vibrations, particularly at source, unless the vibrations are part of the specified performance. | No | Software device |  |  |
@@ -197,7 +197,7 @@
 
 ### 2.13) Protection against the risks by medical devices intended by manufacturers for use by lay persons
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 22.1. | Devices for use by lay persons shall be designed and manufactured in such a way that they perform appropriately for their intended purpose taking into account the skills and the means available to lay persons and the influence resulting from variation that can be reasonably anticipated in the lay person's technique and environment. The information and instructions provided by the manufacturer shall be easy for the lay person to understand and apply. | No | The device is not intended to be used by lay persons |  |  |
 | 22.2. | Devices for use by lay persons shall be designed and manufactured in such a way as to: | No | The device is not intended to be used by lay persons |  |  |
@@ -212,7 +212,7 @@
 
 ### 3.1) Label and Instructions for Use
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | 23.1 | Each device shall be accompanied by the information needed to identify the device and its manufacturer, and by any safety and performance information relevant to the user, or any other person, as appropriate. Such information may appear on the device itself, on the packaging or in the instructions for use, and shall, if the manufacturer has a website, be made available and kept up to date on the website, taking into account the following: |  |  |  |  |
 | (a) | The medium, format, content, legibility, and location of the label and instructions for use shall be appropriate to the particular device, its intended purpose and the technical knowledge, experience, education or training of the intended user(s). In particular, instructions for use shall be written in terms readily understood by the intended user and, where appropriate, supplemented with drawings and diagrams. | Yes |  | IEC 62304:2006/AMD1:2015,<br>ISO 20417:2021 | ISD-Instructions for Use |
@@ -301,7 +301,7 @@ The technical documentation and, if applicable, the summary thereof to be drawn 
 
 ### 4.1.1) Device Description and Specification
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | (a) | product or trade name and a general description of the device including its intended purpose and intended users; | Yes |  | IEC 62304:2006/AMD1:2015,<br>IEC 82304-1:2016 | ISD-Intended Use |
 | (b) | the Basic UDI-DI as referred to in Part C of Annex VI assigned by the manufacturer to the device in question, as soon as identification of this device becomes based on a UDI system, or otherwise a clear identification by means of product code, catalogue number or other unambiguous reference allowing traceability; | Yes |  | IEC 62304:2006/AMD1:2015,<br>IEC 82304-1:2016,<br>MDCG 2018-1 rev4,<br>MDCG 2018-5 | CERT-SOP Product Certification and Registration,<br>ISD-Intended Use |
@@ -318,14 +318,14 @@ The technical documentation and, if applicable, the summary thereof to be drawn 
 
 ### 4.1.2) References to Previous and Similar Generations of the Device
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | (a) | an overview of the previous generation or generations of the device produced by the manufacturer, where such devices exist; | No | No previous generation or generations - this is the first device produced by the manufacturer. |  |  |
 | (b) | an overview of identified similar devices available on the Union or international markets, where such devices exist. | Yes |  | EN ISO 13485:2016/A11:2021 | CERT-SOP Product Certification and Registration,<br>CERT-List of Medical Devices,<br>CEV-SOP Clinical Evaluation,<br>CEV-Clinical Evaluation Report |
 
 ### 4.2) Information to be Supplied by the Manufacturer
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 |  | A complete set of |  |  |  |  |
 | (a) | — the label or labels on the device and on its packaging, such as single unit packaging, sales packaging, transport packaging in case of specific management conditions, in the languages accepted in the Member States where the device is envisaged to be sold; and | Yes |  | EN ISO 13485:2016/A11:2021,<br>IEC 62304:2006/AMD1:2015,<br>ISO 20417:2021 | ISD-Instructions for Use,<br>Labelling Information,<br>ISD-Software Requirements Specification |
@@ -333,7 +333,7 @@ The technical documentation and, if applicable, the summary thereof to be drawn 
 
 ### 4.3) Design and Manufacturing Information
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | (a) | information to allow the design stages applied to the device to be understood; | Yes |  | IEC 62304:2006/AMD1:2015,<br>IEC 82304-1:2016 | ISD-Software Development and Maintenance Plan,<br>ISD-SOP Integrated Software Development |
 | (b) | complete information and specifications, including the manufacturing processes and their validation, their adjuvants, the continuous monitoring and the final product testing. Data shall be fully included in the technical documentation; | Yes |  | EN ISO 13485:2016/A11:2021,<br>IEC 62304:2006/AMD1:2015,<br>IEC 82304-1:2016 | ISD-SOP Integrated Software Development,<br>ISD-Software Requirements Specification,<br>Software Tests Specification,<br>ISD-List of Known Anomalies |
@@ -341,7 +341,7 @@ The technical documentation and, if applicable, the summary thereof to be drawn 
 
 ### 4.4) General Safety and Performance Requirements
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 |  | The documentation shall contain information for the demonstration of conformity with the general safety and performance requirements set out in Annex I that are applicable to the device taking into account its intended purpose, and shall include a justification, validation and verification of the solutions adopted to meet those requirements. The demonstration of conformity shall include: | Yes |  |  | CERT-MDR General Safety and Performance Requirements Checklist,<br>CERT-Declaration of Conformity |
 | (a) | the general safety and performance requirements that apply to the device and an explanation as to why others do not apply; | Yes |  |  | CERT-MDR General Safety and Performance Requirements Checklist |
@@ -351,7 +351,7 @@ The technical documentation and, if applicable, the summary thereof to be drawn 
 
 ### 4.5) Benefit-Risk-Analysis and Risk Management
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 |  | The documentation shall contain information on: |  |  |  |  |
 | (a) | the benefit-risk analysis referred to in Sections 1 and 8 of Annex I, and | Yes |  | EN ISO 13485:2016/A11:2021,<br>MEDDEV 2.7/1,<br>MDCG 2020-1 | CEV-Clinical Evaluation Report |
@@ -363,7 +363,7 @@ The documentation shall contain the results and critical analyses of all verific
 
 #### 4.6.1) Pre-Clinical and Clinical Data
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | (a) | results of tests, such as engineering, laboratory, simulated use and animal tests, and evaluation of published literature applicable to the device, taking into account its intended purpose, or to similar devices, regarding the pre-clinical safety of the device and its conformity with the specifications; | Yes |  | EN ISO 13485:2016/A11:2021,<br>MEDDEV 2.7/1,<br>MDCG 2020-1 | CEV-SOP Clinical Evaluation,<br>CEV-Clinical Evaluation Report,<br>CEV - Clinical Evaluation Checklist |
 | (b) | detailed information regarding test design, complete test or study protocols, methods of data analysis, in addition to data summaries and test conclusions regarding in particular: |  |  |  |  |
@@ -379,7 +379,7 @@ The documentation shall contain the results and critical analyses of all verific
 
 #### 4.6.2) Additional Information Required in Specific Cases
 
-| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Methods of Conformity** |
+| **No.** | **Requirement** | **Applicable** | **Rationale** | **Applicable Standard** | **Evidence of Conformity** |
 | --- | ----------- | ---------- | --------- | ------------------- | --------------------- |
 | (a) | Where a device incorporates, as an integral part, a substance which, if used separately, may be considered to be a medicinal product within the meaning of point 2 of Article 1 of Directive 2001/83/EC, including a medicinal product derived from human blood or human plasma, as referred to in the first subparagraph of Article 1(8), a statement indicating this fact. In this case, the documentation shall identify the source of that substance and contain the data of the tests conducted to assess its safety, quality and usefulness, taking account of the intended purpose of the device. | No | Software device |  |  |
 | (b) | Where a device is manufactured utilising tissues or cells of human or animal origin, or their derivatives, and is covered by this Regulation in accordance with points (f) and (g) of Article 1(6, and where a device incorporates, as an integral part, tissues or cells of human origin or their derivatives that have an action ancillary to that of the device and is covered by this Regulation in accordance with the first subparagraph of Article 1(10), a statement indicating this fact. In such a case, the documentation shall identify all materials of human or animal origin used and provide detailed information concerning the conformity with Sections 13.1. or 13.2., respectively, of Annex I. | No | Software device |  |  |
