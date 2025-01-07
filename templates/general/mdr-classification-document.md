@@ -19,6 +19,9 @@
 | Classification: | (enter content) |
 | Rule:           | (enter content) |
 
+Rationale for the qualification of the product as a medical device (MDR Annex II, para. 1.1.e):
+See Intended Use Statement
+
 ## Chapter 1: Applicable Definitions
 
 > You will need to carefully check and fill out all rows below. Some rows are pre-filled for applicability

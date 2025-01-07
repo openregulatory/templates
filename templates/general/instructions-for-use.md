@@ -114,6 +114,8 @@ This symbol indicates supplementary information.
 
 ## Safety and Maintenance
 
+The software's lifetime is established to be [for example: three years]. This is what is expected to be the maximum time until the implementation of a significant change, by which the manufacturer is able to react to the relevant changes to the software device environment, such as SOUP changes, cybersecurity innovations, or the evolving technological or medical state of the art.
+
 > Consider multiple sub-sections here: how do you plan to deploy frontend / backend updates? How can users report malfunctions, clinical incidents, lost passwords or a potential security breach?
 
 Other aspects you may want to consider for the section as part of your instructions for use:
