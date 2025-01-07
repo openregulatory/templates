@@ -22,7 +22,9 @@ part of the integrated software development process (SOP Integrated Software Dev
 ### 1.1 Risk Management Process and Activities
 
 Risk Management Activities are integrated in the software development lifecycle as described in SOP Integrated
-Software Development.
+Software Development. The scope of this risk management plan therefore covers the entire software device lifecycle.
+
+When creating a first-time risk analysis for a product, Annex C of ISO 14971 should be reviewed for applicable examples.
 
 ### 1.2 Risk Policy and Risk Acceptability
 
@@ -32,8 +34,7 @@ process of the medical device, and intends to ensure highest levels of medical d
 stakeholder expectations.
 
 The manufacturer defines framework criteria for risk acceptability in the form of estimated usage, severity of
-harm and probability of occurrence (para. 1.2.1 - 1.2.3). The criteria are initially defined as part of the
-early software development process and reviewed during every post-market surveillance cycle.
+harm and probability of occurrence. The criteria are initially defined as part of the early software development process and reviewed during each post-market surveillance cycle.
 
 Estimated usage, categories of severity / probability and risk matrix acceptance are defined based on
 applicable regulatory requirements, relevant international norms and standards, as well as the generally
@@ -51,6 +52,8 @@ order:
 1. Inherent safety by design
 2. Protective measures
 3. Information for safety
+
+Users of the device must be informed about any remaining residual risks.
 
 Acceptability of the overall residual risk is established as part of the clinical evaluation process by
 weighing benefits from intended use against the overall residual risk. Benefits may be described by their
@@ -72,7 +75,14 @@ technology and medicine, and the availability of alternative medical devices or 
 | Usages / user       | Enter number of estimated times the device is used per user                                                        |
 | Total usages        | Do the math!                                                                                                       |
 
-See Software Development and Maintenance plan for a rationale regarding the assumed device lifetime.
+The software's lifetime is established to be [for example: three years]. This is what is expected to be the
+maximum time until the implementation of a significant change, by which the manufacturer is able to react to
+the relevant changes to the software device environment, such as SOUP changes, cybersecurity innovations, or
+the evolving technological or medical state of the art.
+
+Estimated product lifetime may not align with the planned PMS / PMCF surveillance periods, as continuous risk
+management involves continuous updates of the risk management file in order to account for new information in
+a timely manner.
 
 #### 1.2.2 Severity of Harm
 

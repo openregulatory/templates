@@ -137,7 +137,7 @@ risk acceptance matrix is created by performing the following steps:
 * Create the risk acceptance matrix and define which combinations of the categories are deemed acceptable. Use
   color coding: red combinations represent unacceptable risks; yellow combinations represent risks that are
   acceptable.
-* Note: no fields are marked as green as all risks must be reduced as far as possible.
+* Note: no fields are marked as yellow as all risks must be reduced as far as possible.
 
 
 | Participants | CPO, subject matter experts, e.g. physicians    |
@@ -150,12 +150,12 @@ risk acceptance matrix is created by performing the following steps:
 In the first risk and usability assessment, a preliminary hazard analysis is conducted and an initial risk
 table is drafted.
 
-Risk analysis is performed by conducting a Failure Mode and Effects Analysis (FMEA). This analysis includes
+The comprehensive risk analysis is performed by conducting a Failure Mode and Effects Analysis (FMEA). This analysis includes
 the following activities:
 
  * Identifying potential failure modes
  * Identifying potential hazards, hazardous situations and harms in collaboration with subject matter experts
-   (e.g. physicians)
+   (e.g. physicians). When creating a first-time risk analysis for a product, Annex C of ISO 14971 should be checked for applicable examples.
  * Estimating probabilities for the identified items and analyzing the severity of each harm, taking into
    account international standards, scientific studies, public reports, expert opinions and usability data.
  * For software devices, the probability of occurrence of a hazard is assumed as 100%. The probability of each
