@@ -7,6 +7,14 @@
 | Purpose of audit: | Internal audit                        |
 | Auditors:         | Enter names of your internal auditors |
 
+|                   |                                       |
+|-------------------|---------------------------------------|
+| Audit date:       |                                       |
+| Start:            |                                       |
+| End:              |                                       |
+| Scope:            |                                       |
+| Audit Criteria:   |                                       |
+
 ## 2. Internal Participants
 
 |                |   |
@@ -14,11 +22,6 @@
 | Name           |   |
 | Team           |   |
 | Position/Role  |   |
-| Audit date     |   |
-| Start          |   |
-| End            |   |
-| Scope          |   |
-| Audit Criteria |   |
 
 ## 3. Audit Activities
 
