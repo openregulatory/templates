@@ -28,8 +28,7 @@ When creating a first-time risk analysis for a product, Annex C of ISO 14971 sho
 
 ### 1.2 Risk Policy and Risk Acceptability
 
-The following policy establishes criteria for risk acceptability following ISO 14971:2019 and ISO/TR
-24971:2020. It applies to all people and activities involved in the design, development and distribution
+The following policy establishes criteria for risk acceptability following EU Regulation 2017/745, EN ISO 14971:2019+A11:2021, ISO/TR 24971:2020. It applies to all people and activities involved in the design, development and distribution
 process of the medical device, and intends to ensure highest levels of medical device safety consistent with
 stakeholder expectations.
 
@@ -42,8 +41,8 @@ acknowledged state of the art (e.g. accepted results of scientific research, rep
 established industry best practices).
 
 Acceptability for individual risks always must be established based on both, the estimated severity and the
-estimated probability of a risk. The risk is deemed acceptable based on a combination of both, following the
-risk matrix defined in para. 1.2.4.
+estimated probability of a risk. The risk is deemed acceptable based on a combination of both (following the
+risk matrix defined in para. 1.2.4.). Additionally, all known and foreseeable risks, and any undesirable side-effects, shall be minimised and be acceptable when weighed against the evaluated benefits to the patient/user arising from the achieved performance of the device during normal conditions of use (see MDR Annex 1 Sections 1 and 8).
 
 All identified risks must be reduced as far as possible (AFAP) without adversely affecting the
 benefit-risk-ratio. Risk control measures implemented to reduce the risks must be chosen in the following
