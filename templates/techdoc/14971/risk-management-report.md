@@ -40,7 +40,7 @@ the Risk Table.
 
 ### 2.3 Failure Mode and Effects Analysis (FMEA)
 
-All preliminary hazards and potential failure modes of the software were analyzed. Annec C of ISO 14971 was reviewed for potentially applicable scenarios. In total, *\<no. of hazards\>* were identified. The hazardous situation(s) and harm(s) which they could lead to were analyzed, including intermediate probabilities (p1 and p2).
+All preliminary hazards and potential failure modes of the software were analyzed. Annex C of ISO 14971 was reviewed for potentially applicable scenarios. In total, *\<no. of hazards\>* were identified. The hazardous situation(s) and harm(s) which they could lead to were analyzed, including intermediate probabilities (p1 and p2).
 
 ## 3. Risk Control Measures
 
@@ -84,10 +84,9 @@ assessed in the Benefit-Risk Assessment below.
 
 ## 6. Benefit-Risk Assessment
 
-> Only use this whole section (Risk-Benefit Assessment) if you have unacceptable risks.
+According to MDR Annex 1, Sections 1 and 8, all known and foreseeable risks, and any undesirable side-effects, shall be minimised and be acceptable when weighed against the evaluated benefits to the patient and/or user arising from the achieved performance of the device during normal conditions of use.
 
-The *\<no. of unacceptable risks\>* remaining unacceptable risks are compared to the benefits resulting from
-the Clinical Evaluation Report.
+The results from this risk analysis are therefore compared to the benefits resulting from the Clinical Evaluation Report.
 
 The benefits are as follows:
 

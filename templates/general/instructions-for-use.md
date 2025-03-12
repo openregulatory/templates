@@ -19,6 +19,9 @@ Website: [enter content]
 [enter Product Name]   is a class [enter content] medical device in accordance with 93/42/EEC (for MDD) // Regulation (EU) 2017/745 (for MDR).
 UMDNS Code: [enter content]
 
+Users can request a physical copy of the user manual by reaching out to the manufacturer's customer support:
+[enter content]
+
 Symbols:
 
 Safety Information:
@@ -31,7 +34,7 @@ This symbol indicates supplementary information.
 
 > On your introductory pages, explain the symbols that you use in the following sections. Take into account standards like ISO 15223.
 
-> **General Provisions:** Instructions for use are regulated in Section 13 of the Essential Requirements (MDD) and Chapter 3, Section 23 of the General Safety and Performance Requirements (MDR). You may be able to make a case for why your users must not be provided with instructions for use, based on the exception stated in Section 13.1 (MDD) or Section 23.1.d (MDR):
+> **General Provisions:** Instructions for use are regulated in Chapter 3, Section 23 of the General Safety and Performance Requirements.  For example, your user manual should be available on the company website. Also keep in mind to consider the provision of (electronic) instructions for use as part of your risk management. Especially if you want to make a case for why your users may not be provided with instructions for use, based on the exception stated in Section 23.1.d MDR:
 >
 > "By way of exception, no such instructions for use are needed for devices in Class I or IIa if they can be used safely without any such instructions."
 >
