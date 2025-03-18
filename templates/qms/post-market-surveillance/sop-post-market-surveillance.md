@@ -13,9 +13,10 @@ clinical evaluation and software development of our products.
 
 **Regulatory References:**
 
-|                        |                                                                    |
-|------------------------|--------------------------------------------------------------------|
-| EU Regulation 2017/745 | Art. 83 - 86 (Post-market surveillance), Art. 88 (Trend reporting) |
+|                             |                                                                    |
+|-----------------------------|--------------------------------------------------------------------|
+| EU Regulation 2017/745      | Art. 83 - 86 (Post-market surveillance), Art. 88 (Trend reporting) |
+| ISO 13485:2016, Section 7.6 | Control of monitoring and measuring equipment                      |
 
 ## General Considerations
 
