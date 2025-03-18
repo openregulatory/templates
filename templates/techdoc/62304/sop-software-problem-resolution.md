@@ -12,6 +12,10 @@
 | A, B, C | 9.6                    | 2                |
 | A, B, C | 9.7                    | 3                |
 
+| ISO 13485:2016 Section | Document Section |
+|------------------------|------------------|
+| 8.3.4                  | (All)            |
+
 ## Summary
 
 This SOP describes how problems concerning our software product(s) are processed, evaluated and fixed.
