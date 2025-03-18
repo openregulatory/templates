@@ -67,11 +67,20 @@
 | 8                      | 10                       |
 | 9                      | 10                       |
 
-| IEC 62366-1:2015 Section | Title                                                                  | Document Section |
-|--------------------------|------------------------------------------------------------------------|------------------|
-| 4.1.1                    | Usability Engineering Process                                          | (All)            |
-| 5.1                      | Prepare Use Specification                                              | 4                |
-| 5.8                      | Perform User Interface design, implementation and Formative Evaluation | 4, 5, 6, 7       |
+| IEC 62366-1:2015 Section | Document Section |
+|--------------------------|------------------|
+| 4.1.1                    | (All)            |
+| 5.1                      | 4                |
+| 5.8                      | 4, 5, 6, 7       |
+
+| ISO 13485 Section | Document Section |
+|-------------------|------------------|
+| 4.2.3             | (All)            |
+| 7.1               | 1.-5.            |
+| 7.2               | 1.-5.            |
+| 7.3               | (All)            |
+| 7.5               | (All)            |
+| 8.1               | (All)            |
 
 ## Summary
 
