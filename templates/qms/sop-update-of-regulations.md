@@ -1,6 +1,8 @@
-| Regulatory Requirement                  | Document Section |
-|-----------------------------------------|------------------|
-| ISO 13485:2016 Sections 5.6.2 and 7.3.3 | All              |
+| Regulatory Requirement       | Document Section |
+|------------------------------|------------------|
+| ISO 13485:2016 Section 5.2   | All              |
+| ISO 13485:2016 Section 5.6.2 | All              |
+| ISO 13485:2016 Section 7.3.3 | All              |
 
 ## Summary
 
