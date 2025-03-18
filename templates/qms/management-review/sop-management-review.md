@@ -7,6 +7,7 @@
 | 5.6                          | All              |
 | 6.1                          | All              |
 | 8.1                          | All              |
+| 8.2.5                        | All              |
 
 ## Summary
 
