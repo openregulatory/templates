@@ -28,7 +28,7 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 | 6.4     | Work Environment                                  | *\- not applicable \-*                                                                                           |
 | 6.4.2   | Control of Contamination                          | *\- not applicable \-*                                                                                           |
 | 7.1     | Planning of Product Development                   | *SOP Integrated Software Development*                                                                            |
-| 7.2     | Customer-Oriented Processes                       | *SOP Integrated Software Development*<br>*SOP Feedback Management*                                               |
+| 7.2     | Customer-Oriented Processes                       | *SOP Integrated Software Development*<br>*SOP Feedback Management*<br>*SOP Sales*                                |
 | 7.3     | Development                                       | *SOP Integrated Software Development*<br>*SOP Product Certification and Registration*<br>*SOP Change Management* |
 | 7.4     | Purchasing                                        | *SOP Purchasing*                                                                                                 |
 | 7.5     | Production and Service Provision                  | *SOP Integrated Software Development*                                                                            |
