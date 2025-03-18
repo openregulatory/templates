@@ -5,6 +5,7 @@
 | 5.3                          | All              |
 | 5.4                          | All              |
 | 5.6                          | All              |
+| 6.1                          | All              |
 
 ## Summary
 
