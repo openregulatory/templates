@@ -38,7 +38,7 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 | 8.1     | General Measurement, Analysis and Improvement     | *SOP Integrated Software Development*<br>*SOP Internal Auditing*<br>*SOP Management Review*                      |
 | 8.2.1   | Feedback                                          | *SOP Feedback Management*                                                                                        |
 | 8.2.2   | Complaint Processing                              | *SOP Feedback Management*<br>*SOP Corrective and Preventive Actions*                                             |
-| 8.2.3   | Reporting to Authorities                          | *SOP Incident Reporting*                                                                                         |
+| 8.2.3   | Reporting to Authorities                          | *SOP Vigilance*                                                                                                  |
 | 8.2.4   | Internal Audit                                    | *SOP Internal Auditing*                                                                                          |
 | 8.2.5   | Surveillance and Measurement of Processes         | *SOP Management Review*                                                                                          |
 | 8.2.6   | Surveillance and Measurement of Products          | *SOP Post-Market Surveillance*                                                                                   |
