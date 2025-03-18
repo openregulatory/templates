@@ -2,6 +2,7 @@
 
 | ISO 13485:2016 Section | Document Section |
 |------------------------|------------------|
+| 4.1.4                  | (All)            |
 | 4.2.4                  | (All)            |
 | 4.2.5                  | (All)            |
 
@@ -87,9 +88,9 @@ respective process owners.
 
 ## Process Steps
 
-### Handling of Documents
+### 1. Handling of Documents
 
-#### 1. Creation of Documents
+#### 1.1 Creation of Documents
 
 > This assumes you have three folders in your GDrive: "drafts", "under review" and "released".
 
@@ -107,7 +108,7 @@ owner responsible for typically updating, reviewing and releasing all associated
 |---------|----------------------|
 | Content | New Document (draft) |
 
-#### 2. Documents Ready for Review
+#### 1.2 Documents Ready for Review
 
 Once a document is ready for review, its author moves it to the "under review" folder. Importantly, the author
 selects appropriate reviewers and approvers and notes them at the bottom of the document.
@@ -120,7 +121,7 @@ selects appropriate reviewers and approvers and notes them at the bottom of the 
 |------------------|-------------------------|
 | Document (draft) | Document (under review) |
 
-#### 3. Review of Documents
+#### 1.3 Review of Documents
 
 The respective reviewer(s) and approver(s) review the document. If changes are required, they create comments
 in the Google Doc and/or suggest changes. If the review is successful, they sign their initials at the bottom
@@ -134,7 +135,7 @@ of the document.
 |-------------------------|------------------------------|
 | Document (under review) | Document (review successful) |
 
-#### 4. Release of Documents
+#### 1.4 Release of Documents
 
 The Process Owner moves the document to the "released" folder and assigns "-a" to the document name as
 outlined by the general considerations for document naming.
@@ -152,7 +153,7 @@ training for minor changes/corrections is not necessary.
 |------------------------------|---------------------|
 | Document (review successful) | Document (released) |
 
-#### 5. Changes to Documents
+#### 1.5 Changes to Documents
 
 If changes need to be made to a document, any employee with knowledge about the document and those changes can
 perform them. For that, the currently-released document is copied to the "drafts" folder and edited by the
@@ -175,7 +176,7 @@ Evaluation List (reference change management process).
 |---------------------|-----------------------|
 | Document (released) | Document Copy (draft) |
 
-#### 6. Archiving of Documents
+#### 1.6 Archiving of Documents
 
 Documents get archived if they become obsolete or a newer released version becomes available. For that, the
 Process Owner removes the "-a" suffix, moves the document to the "archive" folder and assigns a respective
@@ -190,9 +191,9 @@ periods as outlined in this SOP and delete documents as soon as the retention pe
 |---------------------|---------------------|
 | Document (released) | Document (archived) |
 
-### Handling of Records
+### 2. Handling of Records
 
-#### 1. Creation of Records
+#### 2.1 Creation of Records
 
 We create records as required by our processes. If available, we use templates and checklists for the creation
 of records.  Naming conventions as outlined for documents do not apply. Records should include an author's name
@@ -206,7 +207,7 @@ and the date of creation.
 |--------------------------------------------|------------|
 | Content, Template Document (if applicable) | New Record |
 
-#### 2. Review and Release of Records
+#### 2.2 Review and Release of Records
 
 Unless specified differently in a template or SOP, records do not typically require a review and release
 process.
@@ -219,7 +220,7 @@ process.
 |-----------------------|----------------------------|
 | Record (under review) | Record (review successful) |
 
-#### 3. Storage of Records
+#### 2.3 Storage of Records
 
 Records are not necessarily stored in our QMS folder. They also may reside in other applications as specified
 per respective processes. This is where records are typically stored:
@@ -230,7 +231,7 @@ per respective processes. This is where records are typically stored:
  * *ZenDesk (Customer Support Tickets)*
 
 
-#### 4. Changes to Records
+#### 2.4 Changes to Records
 
 Records are not significantly altered after creation / release. Where significant changes are required, we
 rather create a new record and archive the old one. Non-substantial changes (e.g. spelling mistakes) are
@@ -244,7 +245,7 @@ considered corrections only, assessed and added on a case-by-case basis.
 |-------------------|------------------|
 | Record (released) | Record (updated) |
 
-#### 5. Archiving of Records
+#### 2.5 Archiving of Records
 
 Records are archived if they become obsolete or a new released version becomes available. For that, the
 process owner moves the records to a respective archiving location. If possible, we follow the general
