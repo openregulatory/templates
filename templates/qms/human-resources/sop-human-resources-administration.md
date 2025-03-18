@@ -1,6 +1,7 @@
 | ISO 13485 Section           | Document Section |
 |-----------------------------|------------------|
 | Section 5.1                 | 1.3, 2.1 and 2.2 |
+| Section 5.5                 | 1.3, 2.1 and 2.2 |
 | Section 6.2                 | All              |
 | Section 7.1                 | All              |
 
