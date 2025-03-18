@@ -15,7 +15,7 @@ This SOP describes how to respond to feedback and complaints.
 |                           |                                                                     |
 |---------------------------|---------------------------------------------------------------------|
 | Regulation 2017/745 (MDR) | Art. 83-88 (Post-market surveillance, trend analysis and vigilance) |
-| ISO 13485:2016            | 8.2.1 / 8.2.2                                                       |
+| ISO 13485:2016            | 7.2, 8.2.1 and 8.2.2                                                |
 | IEC 62304:2006            | 6.2.1                                                               |
 
 ## General Considerations
