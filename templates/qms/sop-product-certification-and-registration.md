@@ -2,7 +2,8 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|------------------|
 | MDR Annex I (General Safety and Performance Requirements), Annex IV (EU Declaration of Conformity), Art. 27, 29, 31 (UDI / Eudamed) | All              |
 | MPDG §8, §96, §97                                                                                                                   | All              |
-| ISO 13485:2015, Sections 4.2.3                                                                                                      | All              |
+| ISO 13485:2015, Section 4.2.3                                                                                                       | All              |
+| ISO 13485:2015, Section 7.3                                                                                                         | All              |
 
 ## Summary
 
