@@ -35,7 +35,7 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 | 7.3     | Development                                       | *SOP Integrated Software Development*<br>*SOP Change Management*                                                 |
 | 7.4     | Purchasing                                        | *SOP Purchasing*                                                                                                 |
 | 7.5     | Production and Service Provision                  | *SOP Integrated Software Development*                                                                            |
-| 7.5.5   | Special Requirements for Sterile Medical Devices  | *\- not applicable \-*                                                                                           |
+| 7.5.5   | Special Requirements for Sterile Medical Devices  | *Not applicable as the manufactured devices are software and not kept sterile.                            |
 | 7.5.9   | Traceability                                      | *SOP Product Certification and Registration*                                                                     |
 | 7.6     | Control of Surveillance and Measurement           | *SOP Post-Market Surveillance*<br>*SOP Software Validation*                                                      |
 | 8.1     | General Measurement, Analysis and Improvement     | *SOP Integrated Software Development*<br>*SOP Internal Auditing*<br>*SOP Management Review*                  |
