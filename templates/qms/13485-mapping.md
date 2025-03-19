@@ -10,8 +10,7 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 
 | Section | Title                                             | Document                                                                                                         |
 |---------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 4.1     | General QMS Requirements                          | *Quality Management Manual*                     
-                                    |
+| 4.1     | General QMS Requirements                          | *Quality Management Manual*                                                                                      |
 | 4.1.3   | Control of Processes                              | *SOP Management Review*                                                                                          |
 | 4.1.4   | Changes to Processes                              | *SOP Document and Record Control*<br>*SOP Change Management*                                                     |
 | 4.1.5   | Outsourced Processes                              | *SOP Purchasing*                                                                                                 |
@@ -33,8 +32,7 @@ This table maps all requirements of the ISO 13485:2016 (by section) to the relev
 | 6.4     | Work Environment                                  | *Not applicable as the work environment has no impact on medical device safety or performance*              |
 | 7.1     | Planning of Product Development                   | *SOP Integrated Software Development*                                                                            |
 | 7.2     | Customer-Oriented Processes                       | *SOP Integrated Software Development*<br>*SOP Feedback Management*<br>*SOP Sales*                              |
-| 7.3     | Development                                       | *SOP Integrated Software Development*<br>*SOP Change Management*             
-                                    |
+| 7.3     | Development                                       | *SOP Integrated Software Development*<br>*SOP Change Management*                                                 |
 | 7.4     | Purchasing                                        | *SOP Purchasing*                                                                                                 |
 | 7.5     | Production and Service Provision                  | *SOP Integrated Software Development*                                                                            |
 | 7.5.5   | Special Requirements for Sterile Medical Devices  | *\- not applicable \-*                                                                                           |
