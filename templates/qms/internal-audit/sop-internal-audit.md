@@ -1,5 +1,6 @@
 | Regulatory Requirement       | Document Section |
 |------------------------------|------------------|
+| ISO 13485:2016 Section 8.1   | All              |
 | ISO 13485:2016 Section 8.2.4 | All              |
 
 ## Summary

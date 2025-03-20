@@ -16,6 +16,11 @@
 | A, B, C | 8.2.4                  | 3                |
 | A, B, C | 9.4                    | (All)            |
 
+| ISO 13485:2016 Section  | Document Section |
+| ------------------------|------------------|
+| 7.3                     | (All)            |
+| 8.3.4                   | (All)            |
+
 ## Summary
 
 This SOP describes how we evaluate and make changes to our software after it’s released.
