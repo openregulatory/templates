@@ -47,14 +47,11 @@ We classify the severity of problems in the following categories:
 For all problems classified as "Medium" or higher the person responsible for regulatory compliance (PRRC) must
 be informed who subsequently assesses it according to the SOP Vigilance.
 
-| Participants                                 |
-|----------------------------------------------|
-| Head of product development                  |
-| Person responsible for regulatory compliance |
-
-| Input       | Output                                                  |
-|-------------|---------------------------------------------------------|
-| New problem | Problem report as *\<ticket in your ticketing system\>* |
+|  |  |
+| --- | --- |
+| Participants | Head of software development<br>Person responsible for regulatory compliance |
+| Input | New problem |
+| Output | Problem report as *\<ticket in your ticketing system\>* |
 
 ### 2. Root Cause Analysis and Procedure
 
@@ -63,15 +60,11 @@ The root cause of the problem is determined (if possible) and a decision is made
 We also analyze whether similar problems have occurred in the past and any trends can be discerned. If this is
 the case, it is noted in the problem report.
 
-| Participants                 |
-|------------------------------|
-| Head of software development |
-| Software developer           |
-
-
-| Input          | Output                                          |
-|----------------|-------------------------------------------------|
-| Problem report | Problem report updated with cause and procedure |
+|  |  |
+| --- | --- |
+| Participants | Head of software development<br>Software developer |
+| Input | Problem report |
+| Output | Problem report updated with cause and procedure |
 
 ### 3. Implementation and Verification
 
@@ -81,15 +74,11 @@ SOP Change Management.
 After the bug fix has been implemented, the problem report is reviewed whether it has been successfully fixed
 and can be closed. Closing the problem report is equivalent to successful verification.
 
-| Participants                                 |
-|----------------------------------------------|
-| Head of product development                  |
-| Person responsible for regulatory compliance |
-
-| Input              | Output                         |
-|--------------------|--------------------------------|
-| Problem report     | Resolved/closed problem report |
-| Implemented change |                                |
+|  |  |
+| --- | --- |
+| Participants | Head of software development<br>Person responsible for regulatory compliance |
+| Input | Problem report<br>Implemented change |
+| Output | Resolved/closed problem report |
 
 ---
 

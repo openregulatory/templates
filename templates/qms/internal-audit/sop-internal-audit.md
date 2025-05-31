@@ -83,11 +83,11 @@ compliance with processes, review of the effective implementation of corrective 
 Audits are conducted by inspecting appropriate process records and by interviewing members of the
 organization. The auditor documents collected evidence, observations and findings as part of an audit report.
 
-|              |                                                              |
-|--------------|--------------------------------------------------------------|
-| Participants | Auditor, QMO                                                 |
-| Input        | Audit program Quality Management System, incl. records       |
-| Output       | Audit plan (before the audit) Audit report (after the audit) |
+|              |                                                               |
+|--------------|---------------------------------------------------------------|
+| Participants | Auditor, QMO                                                  |
+| Input        | Audit program, Quality Management System, incl. records       |
+| Output       | Audit plan (before the audit), Audit report (after the audit) |
 
 ### 2.3 Audit Follow-Up
 
