@@ -83,7 +83,7 @@ The classification of audit findings is established as follows:
 > Describe the follow-up of actions from the last Audit. Where there any gaps needed to be closed? Are there
 > delays in the closing of non-conformities?
 
-## 10. List of Documents and Information collected during the Audit
+## 9. List of Documents and Information collected during the Audit
 
 > List the documents that have been audited here.
 
